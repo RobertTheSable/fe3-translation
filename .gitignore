@@ -1,8 +1,6 @@
 cache/
 roms/
-!config/
-!project/
-project/asm/bin/
+project/asm/bin/text
 project/asm/bin/fonts/fonts.asm
 *.sfc
 *.smc
