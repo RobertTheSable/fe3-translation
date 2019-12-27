@@ -1,0 +1,7 @@
+@address $ff8761
+@width 160
+@autoend off
+@label CharacterEndings_26
+[AddSpaces][02]Flirtatious Thief Julian 
+
+# length: 30

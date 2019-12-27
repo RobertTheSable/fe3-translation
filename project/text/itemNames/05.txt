@@ -1,0 +1,4 @@
+@address $f08dce
+@type menu
+@label itemNames_05
+Devil

@@ -1,0 +1,6 @@
+@address $f0a1ac
+@type menu
+@label itemDescription_46
+Promote lvl
+10+ Archers
+or Hunters

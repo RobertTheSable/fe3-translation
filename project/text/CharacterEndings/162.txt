@@ -1,0 +1,7 @@
+@address $ffa5ad
+@width 160
+@autoend off
+@label CharacterEndings_162
+[AddSpaces][02]Travelling Dancer Feena
+
+# length: 28

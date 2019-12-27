@@ -1,0 +1,22 @@
+@address $e094fc
+@width 160
+@label worldmap_09
+The many small kingdoms of 
+this region were united, to 
+become the Holy Kingdom of 
+Akaneia, over 600 years ago. [MapWaitForA]
+The founder, Adrah the First, 
+obtained three weapons from 
+the deities, and fought a holy 
+war to unite the continent. [MapWaitForA]
+From then on, the Kingdom of 
+Akaneia became known as the 
+Holy Kingdom protected by the 
+deities, and the royal family [MapWaitForA]
+were deeply respected. [MapWaitForA]
+Recently six kingdoms became 
+independent, which was also 
+thanks to the help of Akaneia. [MapWaitForA]
+Right now, Prince Marth makes 
+his first steps into the grand 
+holy capital of Pales. # length: 578

@@ -1,0 +1,5 @@
+@address $e7b607
+@width 240
+@type nodigraph
+@label ChapterTitles_12
+BBBB  Ch12 Oasis of Magic    # length: 31

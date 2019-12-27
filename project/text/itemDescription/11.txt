@@ -1,0 +1,8 @@
+@address $f09836
+@type menu
+@label itemDescription_11
+WeaponLv 8
+Exp   30
+Restores
+Power+10HP
+to all

@@ -1,0 +1,21 @@
+@address $e6a389
+@width 160
+@label dialogue_440
+[_88][00][SwitchFrame][00]
+[ShowPortait][91][04]GWA...! WHY... WHY HAVE I... 
+BEEN DEFEATED... SO 
+EASILY..... [_94][20][01]
+
+IS THIS... THE POWER... OF 
+NAGA'S... BINDING SHIELD...? [_94][20][01]
+
+BUT... HUMANS. DON'T 
+FORGET... AS LONG AS GREED 
+LIVES ON IN YOUR HEARTS... [_94][20][01]
+
+YOU WILL LOSE THE SHIELD 
+AND I WILL RISE FROM THE 
+EARTH ONCE AGAIN... [_94][20][01]
+
+REMEMBER... TH...IS... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 354

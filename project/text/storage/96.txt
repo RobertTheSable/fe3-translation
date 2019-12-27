@@ -1,0 +1,5 @@
+@address $e7dd42
+@width 160
+@label storage_96
+Talisman was sent to the 
+storage. # length: 38

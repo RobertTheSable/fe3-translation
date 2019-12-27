@@ -1,0 +1,4 @@
+@address $f0e7b2
+@type menu
+@label battleText_48
+Allies' HP up by 

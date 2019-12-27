@@ -1,0 +1,6 @@
+@address $e7d3db
+@type normal
+@width 160
+@label storage_39
+Hoistflamme was sent to the
+storage.# length: 38

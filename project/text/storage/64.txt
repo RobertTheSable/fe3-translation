@@ -1,0 +1,5 @@
+@address $e7d7d8
+@width 160
+@label storage_64
+Heal Staff was sent to the 
+storage.# length: 39

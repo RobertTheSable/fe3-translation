@@ -1,0 +1,4 @@
+@address $f0b94a
+@type menu
+@label menuStats_08
+Socia

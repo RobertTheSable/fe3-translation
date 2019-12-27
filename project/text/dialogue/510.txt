@@ -1,0 +1,25 @@
+@address $e6f082
+@width 160
+@label dialogue_510
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][33][04]Prince Marth. The altar is 
+probably full of crazed 
+barbarians and Mage Dragons 
+that have lost their mind. [WaitForA]
+They are being controlled by 
+Gharnef's magic, and will 
+definitely attack you. [WaitForA]
+The dark priests that serve 
+Gharnef also have fearful 
+power. [WaitForA]
+As this battle lengthens it will 
+become fiercer, but don't stop 
+and keep charging forwards! [WaitForA]
+You must defeat Gharnef, and 
+recover from him the divine 
+Falchion sword that was stolen 
+from Altea. [WaitForA]
+Without the Falchion, you 
+won't be able to defeat 
+Medeus... [WaitForA][CloseFrame][02]
+# length: 566

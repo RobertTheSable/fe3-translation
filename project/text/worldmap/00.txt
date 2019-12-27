@@ -1,0 +1,38 @@
+@address $e080a0
+@width 160
+@label worldmap_00
+Prince Marth of Altea was 
+chased out of his homeland by 
+the Dolunian Empire.[MapWaitForA]
+He was protected by the 
+Altean knights, led by the 
+veteran knight, Jagen.[MapWaitForA]
+And he escaped, after much 
+struggle, to the eastern island 
+kingdom of Talys. [MapWaitForA]
+The Kingdom of Talys was a 
+small country, without even 
+its own knights, located at the 
+frontier. [MapWaitForA]
+The King of Talys lent his 
+eastern fortress to Marth, 
+and offered him assistance. [MapWaitForA]
+After the death of both his 
+parents, and his beloved 
+sister's capture, by the 
+Empire, Marth felt anxious. [MapWaitForA]
+"Prince Marth... I understand 
+your concern for your sister.[MapWaitForA]
+However you're only 14. 
+You're too young to fight with 
+the Empire. [MapWaitForA]
+Please wait for now. 
+Here you can train, until you 
+become strong enough..."[MapWaitForA]
+Under the caring protection of 
+the Talys citizens, Marth had 
+passed 2 years at this 
+country. [MapWaitForA]
+Right now, it is fast 
+approaching the day that he 
+becomes 16 years of age... # length: 952

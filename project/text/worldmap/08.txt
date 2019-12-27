@@ -1,0 +1,17 @@
+@address $e0936f
+@width 160
+@label worldmap_08
+After many long battles, the 
+allied army, led by Marth, 
+finally catch sight of Nyna's 
+homeland of Akaneia. [MapWaitForA]
+Called the thousand year 
+palace, the golden capital of 
+Pales is situated just across 
+the mountains. [MapWaitForA]
+Many of its treasures have 
+been taken, and there are 
+many imprisoned soldiers. [MapWaitForA]
+Marth's long journey has 
+finally reached one of its 
+fateful destinations. # length: 388

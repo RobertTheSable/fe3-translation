@@ -1,0 +1,5 @@
+@address $e7b8fd
+@width 240
+@type nodigraph
+@label ChapterTitles_36
+BBBB  16 Reclaim the Capital # length: 31

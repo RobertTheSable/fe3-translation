@@ -1,0 +1,5 @@
+@address $e7d149
+@width 160
+@label storage_22
+Slim Lance was sent to the 
+storage.# length: 39

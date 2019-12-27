@@ -1,0 +1,6 @@
+@address $e6865c
+@width 160
+@label dialogue_321
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][78][04]Gordin, brother... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 46

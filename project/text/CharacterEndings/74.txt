@@ -1,0 +1,7 @@
+@address $ff914e
+@width 160
+@autoend off
+@label CharacterEndings_74
+[AddSpaces][02]Tomas, Akaneian Archer  
+
+# length: 29

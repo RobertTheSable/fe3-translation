@@ -1,0 +1,7 @@
+@address $ff81b8
+@width 160
+@autoend off
+@label CharacterEndings_02
+[AddSpaces][02]Princess Shiida of Talys 
+
+# length: 30

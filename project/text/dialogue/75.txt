@@ -1,0 +1,36 @@
+@address $e1ce51
+@width 160
+@label dialogue_75
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][1b][06]Boah, the people in the castle 
+are panicking. What exactly is 
+going on? [WaitForA][CloseFrame][03]
+[ShowPortait][24][07]Hmm, perhaps Nyna has 
+brought the liberation army 
+here. [WaitForA][CloseFrame][03]
+[ShowPortait][1b][06]Huh, really? Then perhaps we 
+can be saved. [WaitForA][CloseFrame][03]
+[ShowPortait][24][07]But, Midia, we can't get 
+complacent right now. [WaitForA]
+If this continues, the enemy 
+will decide to finish us off. [WaitForA]
+Without weapons, we're sitting 
+ducks. [WaitForA][CloseFrame][03]
+[ShowPortait][1b][06]But, Boah. We've finally 
+chased the enemy away from 
+Akaneia. [WaitForA]
+Even if we die here, we should 
+have no regrets. [WaitForA][CloseFrame][03]
+[ShowPortait][24][07][ClearFrame]
+Haha... You're still so strong. [WaitForA]
+Still, if you die, Astram will be 
+very sad. [WaitForA][CloseFrame][03]
+[ShowPortait][1b][06].....Yes... I just want to see him 
+one last time. 
+That is my final wish. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][24][07][ClearFrame]
+Well, Midia, for that wish you 
+must endure to the end. You 
+mustn't give up.[WaitForA][CloseFrame][03]
+# length: 787

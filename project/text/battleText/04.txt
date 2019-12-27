@@ -1,0 +1,4 @@
+@address $f0e44e
+@type menu
+@label battleText_04
+ dodged!

@@ -1,0 +1,8 @@
+@address $ff8e94
+@width 160
+@autoend off
+@label CharacterEndings_61
+She studied at Khadein and 
+then returned to Medon. As a
+cleric she served her 
+citizens. [End][End][End][End][End][00]# length: 104

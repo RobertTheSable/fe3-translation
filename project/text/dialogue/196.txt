@@ -1,0 +1,38 @@
+@address $e4c866
+@width 160
+@label dialogue_196
+[_88][00][_89][50][80][SwitchFrame][00]
+[ShowPortait][33][04]Prince Marth, you finally came![WaitForA]
+I should have expected 
+nothing less from the one who 
+possesses the heroic bloodline 
+of Anri.  [WaitForA]
+To reward your courage, I will 
+hand the Lightsphere to you. [WaitForA]
+With this, the Darksphere will 
+lose its power and it will no 
+longer be impossible to fight 
+Hardin. [WaitForA]
+Also, about the Starsphere 
+shards... [WaitForA]
+Is that so. You couldn't find 
+them all... [WaitForA]
+There's nothing you can do 
+about it... Please hand your 
+collected shards to me. [WaitForA]
+Tiki is sleeping in the room to 
+the right. But since the shield 
+isn't restored, I can't let you 
+see her. [WaitForA]
+That child is still developing. 
+Without the Binding Shield she 
+will begin to degenerate. [WaitForA]
+Eventually she will become wild 
+and attack humans. I cannot 
+allow Tiki to awaken again. It 
+is for her own good... [WaitForA]
+Marth, once you've obtained 
+all the treasures, head to the 
+room to the left. I will be 
+waiting for you... [WaitForA][CloseFrame][02]
+# length: 962

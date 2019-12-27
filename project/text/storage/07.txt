@@ -1,0 +1,5 @@
+@address $e7cec9
+@width 160
+@label storage_07
+Master Sword was sent to the 
+storage. # length: 42

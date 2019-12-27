@@ -1,0 +1,4 @@
+@address $f0cd0e
+@type menu
+@label phases_01
+ENEMY

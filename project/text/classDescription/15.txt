@@ -1,0 +1,5 @@
+@address $e7be57
+@width 176
+@label classDescription_15
+Using magic tomes they attack 
+with various magic spells. # length: 61

@@ -1,0 +1,7 @@
+@address $ff880f
+@width 160
+@autoend off
+@label CharacterEndings_30
+[AddSpaces][02]Merric, Mage of Altea  
+
+# length: 28

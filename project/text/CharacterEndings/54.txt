@@ -1,0 +1,7 @@
+@address $ff8d15
+@width 160
+@autoend off
+@label CharacterEndings_54
+[AddSpaces][02]Catria, Medonian Knight  
+
+# length: 30

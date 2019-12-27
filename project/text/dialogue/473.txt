@@ -1,0 +1,49 @@
+@address $e6b9e4
+@width 160
+@label dialogue_473
+[_88][00][SwitchFrame][01]
+[ShowPortait][80][06]Really, Tiki... For how long do 
+you plan on hogging Marth!? [WaitForA]
+Honestly Marth, if you dare to 
+show even the slightest 
+happiness, Shiida won't 
+forgive you. [WaitForA][SwitchFrame][00]
+[ShowPortait][8c][05]Malicia, you're talking 
+nonsense again. However 
+Marth really does look happy... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+He can finally put to rest his 
+heavy burden. Lord Marth has 
+always been carrying such a 
+heavy responsibility. [WaitForA]
+It must have been hard on him. 
+But Shiida has also had it 
+hard. [WaitForA]
+There are so many people 
+around Marth that finding a 
+chance to even talk to him is 
+difficult. [WaitForA]
+You must have been lonely. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... It doesn't matter. As 
+long as Marth is safe, I 
+wouldn't wish for anything 
+else. [WaitForA]
+I once prayed to the deities, 
+since Marth had such an 
+important mission. [WaitForA]
+I prayed that if they decided 
+his life was to be taken, to 
+take my life in his place... [WaitForA]
+That was all I could do. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff]..... [_16][10][01]Ah, Shiida truly can't be
+beaten. But, you don't have to 
+wait any longer. [WaitForA]
+Because Lord Marth is about 
+to return to your side. Look, 
+Shiida, Marth is looking over 
+there. [WaitForA]
+Use your courage! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1138

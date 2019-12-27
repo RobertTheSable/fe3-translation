@@ -1,0 +1,4 @@
+@address $e7ca5c
+@width 160
+@label shopping_46
+[_88][06][_89][16][80][_95]This is a secret shop. # length: 34

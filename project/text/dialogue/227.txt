@@ -1,0 +1,56 @@
+@address $e5c049
+@width 160
+@label dialogue_227
+[_88][00][_89][93][80][SwitchFrame][01]
+[ShowPortait][02][07]Marth, it's finally over. Now, 
+the world is safe. Look, the 
+princesses are over there... [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Sister! And there's Princess 
+Nyna... And Lena and Maria as 
+well. [WaitForA]
+It's great to see that 
+everybody is safe. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][61][07]Marth, you finally came. I am so
+happy... I will need your help to 
+restore Akaneia.  [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][32][06]You really worked hard, Marth. 
+You are my pride. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][10][07]Lord Marth, with our combined 
+strength we have already 
+vanquished Gharnef. Please 
+relax. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][1d][06]The world is safe now. Your 
+highness, please hurry back to 
+Altea. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really? It's good to see 
+everybody well. But you all 
+don't look too good... [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][61][07]Everybody is tired from 
+battling Gharnef. But it 
+doesn't matter now, so please 
+don't worry. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really...? Nyna, I am sorry 
+about Hardin. I couldn't save 
+him. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+It's fine. He was devoured by 
+his own ambitions, so it is not 
+unexpected that he was lost. [WaitForA]
+Well, Marth, you should hurry 
+back to your homeland. 
+Everybody is probably worried 
+about you. [WaitForA]
+With your remaining time, you 
+must live well. [WaitForA]
+As long as there are still 
+people in this world, your name 
+will never be forgotten. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1216

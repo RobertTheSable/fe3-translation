@@ -1,0 +1,12 @@
+@address $e6ec52
+@width 160
+@label dialogue_507
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][67][04]Without Est, the Pegasus 
+sisters have become really 
+lonely. [WaitForA]
+I am a fan of their Triangle 
+Attack... [WaitForA]
+Oh, Est... Please come back 
+soon. [WaitForA][CloseFrame][02]
+# length: 170

@@ -1,0 +1,5 @@
+@address $f0b2d6
+@type menu
+@label terrain_09
+House
+Avd: 0%

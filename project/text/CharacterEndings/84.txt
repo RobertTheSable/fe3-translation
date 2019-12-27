@@ -1,0 +1,7 @@
+@address $ff9346
+@width 160
+@autoend off
+@label CharacterEndings_84
+[AddSpaces][02]Divine Princess Tiki  
+
+# length: 27

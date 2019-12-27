@@ -1,0 +1,60 @@
+@address $e5ca3a
+@width 160
+@label dialogue_230
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][8b][04]So this is the Dragon's Table, 
+where the Divine Dragon Naga 
+sealed away the Earth 
+Dragons... [WaitForA]
+But, wasn't Medeus the 
+guardian of the altar...? [WaitForA][SwitchFrame][01]
+[ShowPortait][33][07]Medeus could not tolerate the 
+humans' actions against the 
+Manaketes. [WaitForA]
+So he gathered the other 
+dragon tribes and formed the 
+Doluna Empire, to destroy 
+mankind. [WaitForA]
+First he was defeated by Anri, 
+and second by you.[WaitForA]
+But, Earth Dragons can't be 
+destroyed easily due to their 
+powerful life force... [WaitForA]
+Medeus is now sleeping in the 
+altar. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+He's going to resurrect 
+again!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, even an Earth Dragon 
+shouldn't wake within a 
+hundred years. Medeus is now 
+changing his form. [WaitForA]
+When he next awakens, he will 
+become a fearful Shadow 
+Dragon... No... Could it be... 
+So that's why... Why Gharnef... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, what is it, Gotoh!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Prince Marth, I finally 
+understand why the clerics 
+have been taken. [WaitForA]
+Gharnef plans to use them to 
+resurrect Medeus. [WaitForA]
+To awaken a dragon requires 
+the life force of females with 
+pure and noble blood. [WaitForA]
+Gharnef knew about this, so 
+he went to capture the clerics. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+So my sister and the others 
+are inside the altar? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm... Marth, we must hurry. 
+The clerics are in grave 
+danger. [WaitForA]
+Medeus... He is going to 
+resurrect once again!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1329

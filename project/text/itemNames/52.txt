@@ -1,0 +1,4 @@
+@address $f09050
+@type menu
+@label itemNames_52
+Physic

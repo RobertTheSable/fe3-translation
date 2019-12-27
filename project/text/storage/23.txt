@@ -1,0 +1,5 @@
+@address $e7d170
+@width 160
+@label storage_23
+Gradivus was sent to the
+storage.# length: 36

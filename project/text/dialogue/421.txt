@@ -1,0 +1,6 @@
+@address $e69cd2
+@width 160
+@label dialogue_421
+[_88][00][_89][c0][80][SwitchFrame][00]
+[ShowPortait][8a][04]Emperor Hardin, forgive me... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 57

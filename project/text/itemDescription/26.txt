@@ -1,0 +1,8 @@
+@address $f09d88
+@type menu
+@label itemDescription_26
+Transforms
+Mamkutes
+into a
+Demon
+Dragon

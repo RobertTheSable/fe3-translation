@@ -1,0 +1,17 @@
+@address $e6e954
+@width 160
+@label dialogue_504
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][67][04]I heard General Lorenz resided 
+at Talys island in his youth. [WaitForA]
+At that time, Talys was not 
+unified, and there were 
+conflicts between the island 
+tribes. [WaitForA]
+The general helped a youthful 
+chief to unite the island.[WaitForA]
+From that day on, the general 
+and the chief, now the current 
+King Talys, have always been 
+in contact. [WaitForA][CloseFrame][02]
+# length: 357

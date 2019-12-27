@@ -1,0 +1,5 @@
+@address $e7d9b3
+@width 160
+@label storage_75
+Unlock Staff was sent to the 
+storage. # length: 42

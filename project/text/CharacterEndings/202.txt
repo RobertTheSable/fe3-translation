@@ -1,0 +1,6 @@
+@address $ffafa9
+@width 160
+@autoend off
+@label CharacterEndings_202
+Fell in battle during "Grustian 
+Expedition." [End]# length: 49

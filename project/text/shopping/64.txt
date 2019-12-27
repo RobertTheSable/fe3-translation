@@ -1,0 +1,7 @@
+@address $e7ccc5
+@width 160
+@label shopping_64
+
+Please choose 
+something in the 
+storage to sell. # length: 56

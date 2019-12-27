@@ -1,0 +1,6 @@
+@address $e692a1
+@width 160
+@label dialogue_380
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][04][04]Est... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 34

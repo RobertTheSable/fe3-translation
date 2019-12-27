@@ -1,0 +1,6 @@
+@address $ff8c6b
+@width 160
+@autoend off
+@label CharacterEndings_51
+After the war, he vanished 
+without a trace. [End][End]# length: 50

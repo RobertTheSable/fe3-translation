@@ -1,0 +1,10 @@
+@address $f08c24
+@type menu
+@label classnames3_00
+Cavalier[End]
+@label classnames3_01
+Armour Knight[End]
+@label classnames3_02
+PegasusKnight[End]
+@label classnames3_03
+Dracoknight

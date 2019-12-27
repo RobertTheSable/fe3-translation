@@ -1,0 +1,19 @@
+@address $e0bd06
+@width 160
+@label worldmap_27
+Soon after reclaiming the Fane 
+of Raman, Marth was pursed 
+by Akaneia's army and headed 
+towards Chiasmir Bridge to [MapWaitForA]
+escape. [MapWaitForA]
+However, after easily 
+reaching the central islet, the 
+Altean army was attacked by a 
+new foe. [MapWaitForA]
+"Akaneia's army is approaching 
+from the north. If this 
+continues we'll become 
+surrounded." [MapWaitForA]
+There's no way to go! 
+Can Marth and the others 
+safely overcome this danger? # length: 414

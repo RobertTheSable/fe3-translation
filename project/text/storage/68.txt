@@ -1,0 +1,5 @@
+@address $e7d884
+@width 160
+@label storage_68
+Warp Staff was sent to the 
+storage.# length: 39

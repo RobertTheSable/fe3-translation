@@ -1,0 +1,7 @@
+@address $f09cda
+@type menu
+@label itemDescription_24
+Transforms
+Mamkutes
+into a
+DarkDragon

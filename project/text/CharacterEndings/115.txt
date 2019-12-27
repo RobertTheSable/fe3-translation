@@ -1,0 +1,8 @@
+@address $ff9b54
+@width 160
+@autoend off
+@label CharacterEndings_115
+He joined the Akaneian free 
+knights and later returned to 
+Talys to live with his mother. 
+He collected much savings... [End][End][End][End][00]# length: 133

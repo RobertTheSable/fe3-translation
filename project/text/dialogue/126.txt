@@ -1,0 +1,34 @@
+@address $e2a47b
+@width 160
+@label dialogue_126
+[_88][00][_89][0c][80][SwitchFrame][00]
+[ShowPortait][33][04]Marth, you still haven't 
+brought with you the 
+Starsphere and Lightsphere? [WaitForA]
+It is unfortunate, but I cannot 
+create Starlight. [WaitForA]
+You must give up all thoughts 
+of defeating Gharnef. [WaitForA]
+Without recovering the 
+Falchion from him, the battle 
+against Medeus will be very 
+difficult. [WaitForA]
+But if you're still determined, 
+then you must gain more 
+experience, until you have 
+reached the limits of your [WaitForA]
+body's power. [WaitForA]
+Then you must arm yourself 
+with mighty weapons such as 
+the Mercurius Sword, Gradivus 
+or Parthia. [WaitForA]
+That way, defeating Medeus 
+may not be completely 
+impossible. [WaitForA]
+.....But, Marth..... [WaitForA]
+This road will be very difficult. 
+Are you prepared...? [WaitForA]
+Think carefully about 
+everything, before making 
+your decision to advance. [WaitForA][CloseFrame][02]
+# length: 797

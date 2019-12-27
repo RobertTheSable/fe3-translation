@@ -1,0 +1,5 @@
+@address $e7d7b4
+@width 160
+@label storage_63
+Emblem was sent to the 
+storage. # length: 36

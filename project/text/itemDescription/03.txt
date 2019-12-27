@@ -1,0 +1,6 @@
+@address $f0954a
+@type menu
+@label itemDescription_03
+Akaneia's
+conqueror's
+proof

@@ -1,0 +1,6 @@
+@address $ffb0e2
+@width 160
+@autoend off
+@label CharacterEndings_206
+Fell in battle during 
+"Liberation of Grust".[End]# length: 48

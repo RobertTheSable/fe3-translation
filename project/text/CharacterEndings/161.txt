@@ -1,0 +1,7 @@
+@address $ffa564
+@width 160
+@autoend off
+@label CharacterEndings_161
+After the war, she left Akaneia 
+in Marth's hands and 
+vanished... [End][End]# length: 73

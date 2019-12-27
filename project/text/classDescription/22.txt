@@ -1,0 +1,7 @@
+@address $e7c037
+@width 176
+@type nodigraph
+@label classDescription_22
+Has weak fighting skills, but 
+can aid allies with a 
+mysterious power. # length: 76

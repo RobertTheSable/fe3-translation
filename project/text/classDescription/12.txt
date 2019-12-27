@@ -1,0 +1,5 @@
+@address $e7bd91
+@width 176
+@label classDescription_12
+Professional sellswords, they 
+excel at skill and speed. # length: 60

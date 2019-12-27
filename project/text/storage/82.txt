@@ -1,0 +1,5 @@
+@address $e7dae5
+@width 160
+@label storage_82
+Flyingstone was sent to the 
+storage. # length: 41

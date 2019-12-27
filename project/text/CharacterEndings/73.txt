@@ -1,0 +1,6 @@
+@address $ff910d
+@width 160
+@autoend off
+@label CharacterEndings_73
+After the war, along with Dolph 
+he retired from the army. [End][End][00]# length: 65

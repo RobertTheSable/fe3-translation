@@ -1,0 +1,8 @@
+@address $f09c36
+@type menu
+@label itemDescription_22
+Transforms
+Mamkutes
+into a
+Flying
+Dragon

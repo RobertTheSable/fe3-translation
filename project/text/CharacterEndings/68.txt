@@ -1,0 +1,7 @@
+@address $ff9036
+@width 160
+@autoend off
+@label CharacterEndings_68
+[AddSpaces][02]Bishop Boah of Akaneia
+
+# length: 27

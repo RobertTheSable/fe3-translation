@@ -1,0 +1,27 @@
+@address $e0f864
+@width 160
+@label dialogue_21
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][01][07]Swordfighter Nabarl! [WaitForA]
+Why would a person like you 
+become a bodyguard for these 
+bandits? [WaitForA][SwitchFrame][00]
+[ShowPortait][12][04]...!? Huh, who are you? [WaitForA]
+I have no business with women 
+or children! Get out of here!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Please, stop this unnecessary 
+fighting... and lend your 
+strength to us. [WaitForA]
+If you're unwilling, you can cut 
+me down with your sword right 
+now. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...I won't point my sword at 
+women. [WaitForA]
+Since you risked your own life 
+to request for me, I don't have 
+a choice... I will lend my 
+strength to you. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 540

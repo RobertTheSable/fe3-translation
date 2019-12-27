@@ -1,0 +1,5 @@
+@address $e7d858
+@width 160
+@label storage_67
+Mend Staff was sent to the 
+storage. # length: 40

@@ -1,0 +1,18 @@
+@address $e1c46f
+@width 160
+@label dialogue_66
+[_88][00][_89][0a][80][SwitchFrame][01]
+[ShowPortait][00][07]Nyna, this is Pales castle. [WaitForA][SwitchFrame][00]
+[ShowPortait][61][04]Ah! Pales... At last, Pales. [WaitForA]
+It's so great... I have finally 
+returned. [WaitForA]
+But there should still be many 
+captive knights in the castle. [WaitForA]
+I really want to help them. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I understand. The enemy's 
+reinforcements haven't come 
+yet. [WaitForA]
+We'll charge into the castle. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 342

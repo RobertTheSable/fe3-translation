@@ -1,0 +1,5 @@
+@address $e7d3b4
+@width 160
+@label storage_38
+Stonehoist was sent to the 
+storage.# length: 39

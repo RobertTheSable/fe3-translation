@@ -1,0 +1,4 @@
+@address $f0e42a
+@type menu
+@label battleText_03
+'s second attack.

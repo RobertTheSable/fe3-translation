@@ -1,0 +1,5 @@
+@address $e7b4ce
+@width 240
+@type nodigraph
+@label ChapterTitles_02
+BBBB  Ch2 Pirates of Galder  # length: 31

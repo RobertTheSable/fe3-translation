@@ -1,0 +1,53 @@
+@address $e5d59d
+@width 160
+@label dialogue_235
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][90][04]...! 
+[_16][10][00]Isn't that my sister and the 
+others!? Who are they 
+protecting...? [WaitForA]
+Damn... That's... Is that 
+Medeus...? [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Wait, if the princesses are in 
+the way, your highness's sword
+will be unable to strike.  [WaitForA]
+We must think of something 
+fast, otherwise the Earth 
+Dragons will awaken, and then 
+they will be in even more pain. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What should I do...? How can I 
+save them? Please tell me, 
+Jagen. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That... Not even I know. To 
+defeat Medeus, there is 
+probably no other way except 
+to... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+[_17][ef][ff]...! 
+[_16][10][00]What, you want me to kill 
+them!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That is one way. The 
+princesses cannot suffer any 
+more. [WaitForA]
+Taking their life is also a way 
+of saving them. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Jagen, are you SERIOUSLY 
+telling me to make this 
+decision? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+As leader, there are times 
+when you must make painful 
+decisions. That is what I 
+meant. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Jagen, that's enough, I 
+understand. I will not give up. [WaitForA]
+There must be some other way. 
+Until the very end, I will not 
+give up!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1042

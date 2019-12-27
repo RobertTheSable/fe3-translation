@@ -1,0 +1,8 @@
+@address $e5f63c
+@width 160
+@label dialogue_260
+[_88][00][_89][3a][80][SwitchFrame][00]
+[ShowPortait][87][04]I will not lose to Merric. His 
+friends are my enemies. Die! 
+Thoron!! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 100

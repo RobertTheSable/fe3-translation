@@ -1,0 +1,4 @@
+@address $f0d57a
+@type menu
+@label menuEtc1_09
+ arrived!

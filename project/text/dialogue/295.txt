@@ -1,0 +1,6 @@
+@address $e680d4
+@width 160
+@label dialogue_295
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][1a][04]Crap... Is this the end...? [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 55

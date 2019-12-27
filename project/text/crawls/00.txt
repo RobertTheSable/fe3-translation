@@ -1,0 +1,6 @@
+@address $e7c084
+@width off
+@type nodigraph
+@label crawls_00
+Oh! Our great motherof earth.A time of  despair came.  ..s there is a 
+time of despair # length: 90

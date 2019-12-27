@@ -1,0 +1,5 @@
+@address $e7b77e
+@width 240
+@type nodigraph
+@label ChapterTitles_24
+BBBB   Ch4 Joy and Sorrow     # length: 32

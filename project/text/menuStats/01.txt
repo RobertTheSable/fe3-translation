@@ -1,0 +1,9 @@
+@address $f0b88a
+@type menu
+@label menuStats_01
+At:
+Ac:
+Av:
+Cr:
+AS:
+Ef:

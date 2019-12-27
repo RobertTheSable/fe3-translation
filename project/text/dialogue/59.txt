@@ -1,0 +1,15 @@
+@address $e1b9a8
+@width 160
+@label dialogue_59
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][1d][04]Oh, you are Lord Marth? (Hee, 
+he's so handsome.) [WaitForA]
+Thank you for rescuing me. 
+Please tell my sister that I'm 
+safe. [WaitForA]
+She will definitely be very 
+happy. [WaitForA]
+Also... I would like to aid you, 
+Lord Marth, by your side. Can 
+I? [WaitForA][CloseFrame][02]
+# length: 259

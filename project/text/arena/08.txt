@@ -1,0 +1,5 @@
+@address $e7e434
+@width 160
+@label arena_08
+
+You don't have enough gold! [WaitForA]# length: 34

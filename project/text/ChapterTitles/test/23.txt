@@ -1,0 +1,5 @@
+@address $e7b75f
+@width 240
+@type nodigraph
+@label ChapterTitles_23
+BBBB  C3 Abducted Princess   # length: 31

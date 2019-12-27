@@ -1,0 +1,5 @@
+@address $e7d98c
+@width 160
+@label storage_74
+Aum Staff was sent to the 
+storage. # length: 39

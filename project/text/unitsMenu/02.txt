@@ -1,0 +1,4 @@
+@address $f0c468
+@type menu
+@label unitsMenu_02
+ LV EX WL MV HP/MAX

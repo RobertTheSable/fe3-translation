@@ -1,0 +1,8 @@
+@address $e0e934
+@width 160
+@label dialogue_06
+[_88][04][ShowPortait][6b][04]Strong weapons require a high 
+Weapon Level to use. [WaitForA]
+Flying units should always be 
+wary of bows. [WaitForA][CloseFrame][02]
+# length: 117

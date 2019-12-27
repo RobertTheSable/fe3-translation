@@ -1,0 +1,34 @@
+@address $e1bab3
+@width 160
+@label dialogue_60
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][92][04]Greetings, Prince Marth. I am 
+Minerva of Medon. [WaitForA]
+Thank you for rescuing Maria. [WaitForA]
+We were on opposing sides in 
+the past, but now we no longer 
+need to be enemies. [WaitForA]
+My brother, Michalis, led the 
+majority of Medon to side with 
+the Dolunian Empire.[WaitForA]
+He was also the cause of my 
+father's death...[WaitForA]
+If possible, I want to defeat 
+him with my own hands. [WaitForA]
+Also, please help me rescue my 
+subordinates. [WaitForA]
+They are the three sisters, 
+Palla, Catria and Est, of the 
+Whitewings. [WaitForA]
+The Dolunian Empire feared 
+they would rebel, so they 
+separated them from my side.[WaitForA]
+But if they knew I was still 
+alive, they would come back 
+for me.[WaitForA]
+The citizens of Medon are 
+suffering under the Dolunian 
+Empire...[WaitForA]
+Please let us fight together 
+with your highness. [WaitForA][CloseFrame][02]
+# length: 809

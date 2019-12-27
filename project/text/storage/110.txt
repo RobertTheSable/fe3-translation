@@ -1,0 +1,5 @@
+@address $e7df76
+@width 160
+@label storage_110
+Aquarius was sent to the 
+storage. # length: 38

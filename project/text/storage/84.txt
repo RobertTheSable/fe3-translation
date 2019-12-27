@@ -1,0 +1,5 @@
+@address $e7db48
+@width 160
+@label storage_84
+Darkstone was sent to the 
+storage. # length: 39

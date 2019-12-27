@@ -1,0 +1,18 @@
+@address $e1f8bb
+@width 160
+@label dialogue_107
+[_88][00][_89][12][80][SwitchFrame][00]
+[ShowPortait][4d][04]Hahaha... Marth, so you've 
+returned to die. [WaitForA]
+I am Emperor Medeus's right 
+hand man, Morzas of the 
+Basilisk. [WaitForA]
+A pity though that you've 
+returned so late. Your mother, 
+Liza, already died by my hands. [WaitForA]
+And your sister, Princess 
+Elice, is now in Gharnef's 
+possession. [WaitForA]
+Hahaha... Regret, for you 
+cannot defeat me. [WaitForA][CloseFrame][02]
+# length: 357

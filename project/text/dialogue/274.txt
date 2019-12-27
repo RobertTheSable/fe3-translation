@@ -1,0 +1,6 @@
+@address $e5fc35
+@width 160
+@label dialogue_274
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][03][04]Lord Marth, good luck... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 52

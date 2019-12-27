@@ -1,0 +1,4 @@
+@address $f0b920
+@type menu
+@label menuStats_04
+Armr

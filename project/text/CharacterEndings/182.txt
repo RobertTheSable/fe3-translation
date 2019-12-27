@@ -1,0 +1,6 @@
+@address $ffa98d
+@width 160
+@autoend off
+@label CharacterEndings_182
+Fell in battle during "Marth 
+Embarks". [End][End][End]# length: 47

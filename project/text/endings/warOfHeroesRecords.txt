@@ -1,0 +1,9 @@
+@address $e7ed9b
+@type default
+@width 160
+@label endings_warOfHeroesRecords
+And so, the 
+devastating War of 
+Heroes came to an 
+end.  Here are the [MapWaitForA]
+records of war. # length: 94

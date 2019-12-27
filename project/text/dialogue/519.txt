@@ -1,0 +1,36 @@
+@address $e7aa10
+@width 160
+@label dialogue_519
+[_88][00][SwitchFrame][00]
+[_89][5e][80][ShowPortait][33][04]Marth, you may leave. I will use 
+my magic to send you to Altea 
+instantly. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Gotoh, aren't you coming along 
+with us? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh... I have something to 
+investigate right now. You 
+see, Gharnef has already 
+began to act. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Gharnef...!? But isn't he dead?[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Yes, his body was destroyed, 
+but his vile spirit lives on in 
+the Darksphere.  [WaitForA]
+He also awakened the evil 
+priests that served him, and 
+they appear to be planning 
+something terrible. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really...? I see, Gotoh. Well, 
+we'll move out then. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... Once I find anything, I 
+will contact you immediately. [WaitForA]
+Good luck, Marth. Everything 
+is in your hands. Please 
+rescue dragons and humans 
+from the path to ruin. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 741

@@ -1,0 +1,108 @@
+@address $e3eda3
+@width 160
+@label dialogue_188
+[_88][00][_89][1e][80][SwitchFrame][00]
+[ShowPortait][8b][05]Jagen, this place is...[WaitForA][SwitchFrame][01]
+[ShowPortait][02][06]This is the death desert of 
+Marmotord.[WaitForA]
+There was a story about it in 
+the Anri Saga. [WaitForA]
+[SetColor][00][2c]Preventing my path, first was 
+the desert of death.
+With its scorching sun and 
+blazing sandstorms. [WaitForA]
+Barbarians of the Sand  
+Clan and soaring dragons 
+roam.  [WaitForA]
+The illusion town was within 
+sight, but I could only remain 
+where I was standing.[SetColor][00][24]
+...[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really...? So Anri once came 
+here, and all alone as well... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That's right. King Anri began 
+his travels here, to obtain the 
+divine sword, Falchion. [WaitForA]
+And that was so that he could 
+rescue Princess Artemis... [WaitForA]
+Although it will be long, I would 
+like to describe the legend of 
+Anri. [WaitForA][_89][48][80][_10][01]
+100 years ago... The ruler of 
+this continent, the Holy 
+Kingdom of Akaneia, was 
+destroyed by the dragon tribe. [WaitForA]
+Humans were enslaved and 
+lived each day in despair. [WaitForA]
+Some people wielded weapons 
+to fight back, but they 
+couldn't defeat the dragon 
+tribe, and many people died. [WaitForA]
+Also, the humans' only hope, 
+the Akaneia royal family, was 
+wiped out, and so the world 
+lost all hope. [WaitForA]
+However, at that time, at a 
+small city called Altea. It was 
+discovered that the princess 
+of Akaneia was hiding there. [WaitForA]
+The angered Dolunian Empire 
+sent soldiers to Altea, aiming
+to capture the princess.[WaitForA]
+That princess... Artemis was 
+prepared to give up her own 
+life to save the citizens. [WaitForA]
+However the citizens of Altea 
+swore that, even if they were 
+completely annihilated, they 
+would protect the princess. [WaitForA]
+Knowing that the princess was 
+still alive, the citizens of 
+Pales gathered a liberation 
+army, and continued the fight [WaitForA]
+against the Dolunian Empire.[WaitForA]
+The leader of the liberation 
+army, Duke Cartas, fought 
+with the royal shield, given to 
+him by Artemis.[WaitForA]
+As a result, he received 
+enormous support. [WaitForA]
+Thanks to his efforts, the war 
+finally began to become in 
+their favour. [WaitForA]
+But then, the King of the Earth
+Dragons, Medeus, finally 
+moved out.  [WaitForA]
+The dark breath of Earth 
+Dragons possessed 
+horrendous destructive power 
+and had the effect of halving 
+the enemy's strength. [WaitForA]
+Under such a dire situation it 
+was thought that Altea's 
+resistance wasn't going to 
+hold out. [WaitForA]
+Then, at that time, a Sage 
+appeared and told the people 
+that at the Ice Dragon 
+Shrine, to the distant north, [WaitForA]
+was a sword blessed by the 
+deities. [WaitForA]
+With that sword, the Earth 
+Dragons could be defeated, 
+but it definitely wasn't an 
+easy task to reach the [WaitForA]
+temple... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+So Anri, to save his beloved 
+Artemis, left on a journey to 
+obtain the sword? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, that's right. But I think 
+that's enough for today. We 
+still have a long road ahead of 
+us... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2783

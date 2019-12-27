@@ -1,0 +1,7 @@
+@address $ffa092
+@width 160
+@autoend off
+@label CharacterEndings_139
+It seems he returned to 
+thievery once again. Truly a 
+fool... [End][End][End]# length: 71

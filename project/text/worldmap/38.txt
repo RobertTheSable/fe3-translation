@@ -1,0 +1,24 @@
+@address $e0d8fe
+@width 160
+@label worldmap_38
+It is the 2nd month of the year 
+3 of the imperial calendar... [MapWaitForA]
+Akaneia's holy capital of Pales 
+is currently in the middle of a 
+mysterious silence. [MapWaitForA]
+There was a rebellion in 
+Akaneia, led by the paladin
+Midia, which resulted in many
+skilled knights being defeated [MapWaitForA]
+and captured. [MapWaitForA]
+Even so, Akaneia still had 
+double Altea's army strength 
+to arm the streets of Pales 
+with. [MapWaitForA]
+It has almost been a whole 
+year since the Grustian
+Expedition. [MapWaitForA]
+Now, the last decisive battle, 
+which will decide the fate of 
+the two countries, is finally 
+about to begin. # length: 573

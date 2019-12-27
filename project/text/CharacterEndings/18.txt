@@ -1,0 +1,7 @@
+@address $ff85bc
+@width 160
+@autoend off
+@label CharacterEndings_18
+[AddSpaces][02]Brave Cord of Talys 
+
+# length: 25

@@ -1,0 +1,4 @@
+@address $f0cd00
+@type menu
+@label phases_00
+PLAYER

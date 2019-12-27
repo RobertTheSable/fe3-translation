@@ -1,0 +1,6 @@
+@address $e7bbdf
+@width 176
+@label classDescription_06
+Hunters on horseback, who 
+are skilled in hit and run 
+combat. # length: 67

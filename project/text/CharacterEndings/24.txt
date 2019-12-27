@@ -1,0 +1,7 @@
+@address $ff8710
+@width 160
+@autoend off
+@label CharacterEndings_24
+[AddSpaces][02]Frontier Saint Lena 
+
+# length: 25

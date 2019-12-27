@@ -1,0 +1,5 @@
+@address $e7bf70
+@width 176
+@label classDescription_19
+Fully encased in heavy armour, 
+they possess superior defence. # length: 66

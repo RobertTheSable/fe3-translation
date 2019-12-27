@@ -1,0 +1,5 @@
+@address $e7d314
+@width 160
+@label storage_34
+Devil Axe was sent to the 
+storage. # length: 39

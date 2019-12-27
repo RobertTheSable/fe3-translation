@@ -1,0 +1,19 @@
+@address $e0c67e
+@width 160
+@label worldmap_30
+To obtain the Lightsphere, 
+Marth headed towards Thabes 
+Tower. [MapWaitForA]
+Hidden under the sands is the 
+ancient city of Thabes, as well 
+as many buried treasures. [MapWaitForA]
+The legends of this illusion 
+city lured many men to the 
+desert. [MapWaitForA]
+However... Nobody was ever 
+able to make it back. [MapWaitForA]
+The sage once said... [MapWaitForA]
+Don't go near the death desert 
+of Marmotord, because at 
+there lies a city cursed by 
+darkness. # length: 411

@@ -1,0 +1,4 @@
+@address $f0b654
+@type menu
+@label menuCommands_01
+[0108] Attack [0109]

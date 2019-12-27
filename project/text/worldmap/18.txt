@@ -1,0 +1,20 @@
+@address $e0a5ad
+@width 160
+@label worldmap_18
+"Doluna" is shrouded in a veil 
+of mystery; a kingdom of 
+Manaketes. [MapWaitForA]
+Everything started with the 
+resurrection of the Shadow 
+Dragon, Medeus, at this 
+country. [MapWaitForA]
+The continent of Akaneia was 
+ruined from endless warring. [MapWaitForA]
+Many tragic tales have been 
+born and destroyed. [MapWaitForA]
+But time flows fast. [MapWaitForA]
+Medeus's ambitions, of 
+Manaketes ruling the world, 
+must finally end. [MapWaitForA]
+And Marth's journey must also 
+reach its final destination. # length: 444

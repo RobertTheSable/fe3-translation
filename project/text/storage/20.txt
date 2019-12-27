@@ -1,0 +1,5 @@
+@address $e7d0f1
+@width 160
+@label storage_20
+Broken Lance was sent to the 
+storage. # length: 42

@@ -1,0 +1,5 @@
+@address $f0b2b6
+@type menu
+@label terrain_08
+Village
+Avd: 0%

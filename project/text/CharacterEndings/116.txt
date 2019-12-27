@@ -1,0 +1,7 @@
+@address $ff9bd9
+@width 160
+@autoend off
+@label CharacterEndings_116
+[AddSpaces][02]Bishop Lena of Medon     
+
+# length: 30

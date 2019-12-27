@@ -1,0 +1,5 @@
+@address $e7d256
+@width 160
+@label storage_29
+Parthia was sent to the
+storage. # length: 36

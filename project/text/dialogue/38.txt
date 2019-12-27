@@ -1,0 +1,41 @@
+@address $e193bb
+@width 160
+@label dialogue_38
+[_88][00][_89][0a][80][ShowPortait][61][04]You are Prince Marth? Finally, 
+I have a chance to meet with 
+you. I am Nyna of Akaneia. [WaitForA]
+Our Kingdom of Akaneia, the 
+guardian of this world, was 
+destroyed by the Dolunian 
+empire.[WaitForA]
+The world is now facing ruin. 
+Prince Marth, I have a 
+request...[WaitForA]
+Please, in my place, lead these 
+soldiers who were defeated by 
+the Empire and liberate the 
+countries ruled by Doluna. [WaitForA][SwitchFrame][01]
+[ShowPortait][00][07]Of course, Nyna. In the past, 
+Altea has been loyal to 
+Akaneia. [WaitForA]
+And as a descendant of Altea's 
+founder, it is my destiny to 
+defeat Doluna's Shadow 
+Dragon, Medeus. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Thank you, Prince Marth. 
+Then, I will give this Emblem to 
+you. [WaitForA]
+This [SetColor][00][28]Fire Emblem [SetColor][00][24]is the symbol 
+of the Akaneia royal family. [WaitForA]
+It is the proof of a conqueror, 
+and given to the saviour of 
+the world. [WaitForA]
+With this, you can also open 
+chests that contain valuable 
+treasures. [WaitForA]
+This war will be fierce, but 
+please try your best to return 
+light to this world. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 987

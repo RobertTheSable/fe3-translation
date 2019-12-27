@@ -1,0 +1,4 @@
+@address $f0c442
+@type menu
+@label unitsMenu_01
+Class   Equip     

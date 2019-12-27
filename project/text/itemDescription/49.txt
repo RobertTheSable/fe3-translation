@@ -1,0 +1,6 @@
+@address $f0a254
+@type menu
+@label itemDescription_49
+Prevents
+bearer from
+death once

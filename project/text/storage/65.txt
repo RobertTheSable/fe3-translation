@@ -1,0 +1,5 @@
+@address $e7d7ff
+@width 160
+@label storage_65
+Recover Staff was sent to the 
+storage. # length: 43

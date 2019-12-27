@@ -1,0 +1,3 @@
+@address $f0e642
+@type menu
+@label battleText_35

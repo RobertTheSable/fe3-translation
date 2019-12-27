@@ -1,0 +1,14 @@
+@address $e0eaa9
+@width 160
+@label dialogue_09
+[_88][04][ShowPortait][69][04]Akaneia's Princess Nyna and 
+Aurelis' Lord Hardin have 
+currently united. [WaitForA]
+It seems they are fighting to 
+defend Aurelis against an 
+invasion by Doluna's imperial 
+army. [WaitForA]
+It's going to be a fierce battle. [WaitForA]
+Your highness, you should go 
+to help them. [WaitForA][CloseFrame][02]
+# length: 279

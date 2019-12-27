@@ -1,0 +1,5 @@
+@address $e7dbaa
+@width 160
+@label storage_86
+Magestone was sent to the 
+storage. # length: 39

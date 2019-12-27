@@ -1,0 +1,17 @@
+@address $e0b465
+@width 160
+@label worldmap_23
+Unable to reunite with 
+Princess Minerva, Marth, in 
+order to find Ogma and the 
+Grustian royal children, [MapWaitForA]
+headed to visit bishop Wendell, 
+who once protected the 
+children. [MapWaitForA]
+However, the bishop resides 
+at Holm Beach, ruled by the 
+dreaded Medonian Vikings. [MapWaitForA]
+In front of Marth's path 
+countless pirates wait him. [MapWaitForA]
+Can they really safely rescue 
+the children...? # length: 378

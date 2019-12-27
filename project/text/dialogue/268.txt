@@ -1,0 +1,9 @@
+@address $e5f9da
+@width 160
+@label dialogue_268
+[_88][00][_89][3a][80][SwitchFrame][00]
+[ShowPortait][51][04]What...? Our Akaneia has been 
+defeated? But as long as I'm 
+here, I won't let you enter the 
+castle! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 132

@@ -1,0 +1,5 @@
+@address $f09e90
+@type menu
+@label itemDescription_32
+Increases
+Power by 4

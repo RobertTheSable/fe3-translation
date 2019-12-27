@@ -1,0 +1,10 @@
+@address $e6c74c
+@width 160
+@label dialogue_484
+[_88][04][ShowPortait][67][04]No person can defend 
+themselves against the breath 
+of a dragon. [WaitForA]
+Any armour is useless, so 
+fighting front on is very 
+dangerous. [WaitForA][CloseFrame][02]
+# length: 153

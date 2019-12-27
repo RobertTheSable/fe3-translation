@@ -1,0 +1,14 @@
+@address $e1fd49
+@width 160
+@label dialogue_111
+[_88][00][_89][53][80][SwitchFrame][00]
+[ShowPortait][4e][04]Tiki... The great princess of 
+the Naga tribe, which fell into 
+ruin long ago. [WaitForA]
+Use your power to burn the 
+intruders of this holy Fane of 
+Raman. [WaitForA]
+Haha... You mustn't forget it 
+was I who rescued Bantu from 
+Medeus's grasp. [WaitForA][CloseFrame][02]
+# length: 258

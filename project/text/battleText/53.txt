@@ -1,0 +1,4 @@
+@address $f0e836
+@type menu
+@label battleText_53
+ took.

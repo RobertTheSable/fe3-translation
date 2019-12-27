@@ -1,0 +1,6 @@
+@address $ffabab
+@width 160
+@autoend off
+@label CharacterEndings_189
+Fell in battle during "Princess 
+Minerva". [End][End]# length: 48

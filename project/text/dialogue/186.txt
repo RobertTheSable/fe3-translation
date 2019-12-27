@@ -1,0 +1,71 @@
+@address $e3db35
+@width 160
+@label dialogue_186
+[_88][00][_89][4c][80][SwitchFrame][01]
+[ShowPortait][29][07]Elrean! What are you doing?!! [WaitForA][SwitchFrame][00]
+[ShowPortait][87][04]Oh, Master Wendell. You've 
+returned... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+You still don't understand my 
+actions? You are indeed a 
+talented magician. [WaitForA]
+But you don't have a caring 
+heart, and that is why I didn't 
+pass on Excalibur to you. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+... A caring heart...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Before, I had already decided 
+that, when the time was right, 
+you would become my 
+successor. [WaitForA]
+But what you're doing now is 
+betraying your own will... How 
+are you different from 
+Gharnef? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You're comparing me with the 
+Dark Pontifex, Gharnef? 
+Please, Master! That's too 
+much. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Listen to me... Gharnef and 
+Miloah were both Gotoh's most 
+talented students. [WaitForA]
+But Gotoh saw that Gharnef's 
+inner heart was weak, so he 
+gave the Aura tome and 
+Khadein to Miloah. [WaitForA]
+Driven mad by jealousy, 
+Gharnef stole the Darksphere 
+from Gotoh, and created the 
+Imhullu spell. [WaitForA]
+As a result... His heart was 
+corrupted by the Darksphere. [WaitForA]
+Originally Gharnef was a youth 
+with a strong sense of justice. 
+But his jealousy led him down 
+the path of destruction. [WaitForA]
+Elrean, do you understand 
+now...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Master... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That is all I can say to 
+you. I hope you will 
+understand. [WaitForA]
+You still have many things to 
+learn, and your will is too 
+weak. [WaitForA]
+Do you really intend on 
+retreading Gharnef's path? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Master! I'm really sorry, I... 
+see my wrongs. Please forgive 
+me! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Elrean, you should begin by 
+letting your strength be used 
+by others... Understood? [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1546

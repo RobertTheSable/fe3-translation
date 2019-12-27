@@ -1,0 +1,7 @@
+@address $e6ceb2
+@width 160
+@label dialogue_495
+[_88][04][ShowPortait][69][04]Snipers are skilled bow users. [WaitForA]
+If you carelessly let them get 
+close you could get killed. [WaitForA][CloseFrame][02]
+# length: 110

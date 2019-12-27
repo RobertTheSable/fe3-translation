@@ -1,0 +1,6 @@
+@address $ff94c2
+@width 160
+@autoend off
+@label CharacterEndings_91
+She watched over Marth and 
+lived a peaceful life. [End][End]# length: 56

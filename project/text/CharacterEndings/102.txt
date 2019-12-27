@@ -1,0 +1,7 @@
+@address $ff98ae
+@width 160
+@autoend off
+@label CharacterEndings_102
+[AddSpaces][02]Draug, Knight of Altea 
+
+# length: 28

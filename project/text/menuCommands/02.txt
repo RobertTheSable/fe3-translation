@@ -1,0 +1,4 @@
+@address $f0b66a
+@type menu
+@label menuCommands_02
+[0108] Visit  [0109]

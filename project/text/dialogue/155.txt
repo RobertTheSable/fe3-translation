@@ -1,0 +1,40 @@
+@address $e2dfb7
+@width 160
+@label dialogue_155
+[_88][00][_89][4c][80][SwitchFrame][00]
+[ShowPortait][0f][05]Your highness, it's been a long 
+time. It's me, Julian. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][06]Julian!? Even though I heard 
+you went to Medon with Lena, I 
+didn't expect to see you 
+here... [WaitForA]
+Is Lena well? Of course, since 
+she is with you. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Well... Miss Lena suddenly 
+disappeared... I... What should I 
+do? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh? Wait, Julian, what 
+happened? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Miss Lena vanished yesterday. [WaitForA]
+I heard from the villagers that 
+a nasty-looking bishop came 
+by. It seems Miss Lena was 
+taken by him. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+A bishop...? Julian! I heard 
+Princess Maria has also gone 
+missing. [WaitForA]
+I have a bad feeling about all 
+of this. [WaitForA]
+Anyway, staying here won't 
+achieve anything. You should 
+come with us. [WaitForA]
+I am also worried about Lena. 
+We can help you look for her. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Your highness... Thank you. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 813

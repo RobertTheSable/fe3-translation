@@ -1,0 +1,4 @@
+@address $e7c3ac
+@width 160
+@label shopping_00
+[_88][06][_89][14][80][_95]This is the armoury. # length: 32

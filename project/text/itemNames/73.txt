@@ -1,0 +1,4 @@
+@address $f09170
+@type menu
+@label itemNames_73
+DoorKey

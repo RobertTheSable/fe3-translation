@@ -1,0 +1,7 @@
+@address $ff918d
+@width 160
+@autoend off
+@label CharacterEndings_76
+[AddSpaces][02]Astram of Akaneia 
+
+# length: 23

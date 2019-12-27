@@ -1,0 +1,12 @@
+@address $e1e1c8
+@width 160
+@label dialogue_87
+[_88][04][ShowPortait][6c][04]PLEASE INFORM 
+VINCENTASM OF 
+GRUNIA [WaitForA]
+ [WaitForA]
+  
+  [WaitForA]
+  
+ [WaitForA][CloseFrame][02]
+# length: 77

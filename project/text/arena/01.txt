@@ -1,0 +1,7 @@
+@address $e7e24a
+@width 160
+@label arena_01
+
+What are you, window 
+shopping? 
+Alright, next time.[WaitForA]# length: 60

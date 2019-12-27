@@ -1,0 +1,21 @@
+@address $e09da2
+@width 160
+@label worldmap_14
+To obtain the Lightsphere and 
+Starsphere for Gotoh, Marth 
+and the others headed for 
+Chiasmir's Fane of Raman.[MapWaitForA]
+At Chiasmir strait, they
+entered a fierce battle with 
+the Grustian Sable Order, who 
+attempted to prevent them [MapWaitForA]
+passing. [MapWaitForA]
+But once known as the world's 
+finest, the Grustian Sable 
+Order had lost their former 
+glory and were defeated. [MapWaitForA]
+Now, at Raman... The temple of 
+Naga, where the jewels are 
+hidden. [MapWaitForA]
+A new story is about to 
+unfold... # length: 473

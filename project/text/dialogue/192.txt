@@ -1,0 +1,89 @@
+@address $e4abf1
+@width 160
+@label dialogue_192
+[_88][00][_89][1e][80][SwitchFrame][00]
+[ShowPortait][8b][04]Xane, we've already climbed 
+this high. It's so cold... Even 
+breathing is hard. [WaitForA][SwitchFrame][01]
+[ShowPortait][28][07]We're almost there. Look, can 
+you see over there? That's 
+the Ice Dragon Shrine where 
+Gotoh is.[WaitForA][SwitchFrame][00]
+[ClearFrame]
+But, that was quite a shock. 
+Tiki is actually the daughter 
+of the Divine Dragon King. [WaitForA]
+Also, both Gotoh and you are 
+Divine Dragons. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ah... When the Divine Dragons 
+fought the Earth Dragons they 
+over-exhausted their 
+dragonstones, and so [WaitForA]
+practically became extinct. [WaitForA]
+Aside from Naga, only Gotoh, 
+me and the just born Tiki 
+survived. [WaitForA]
+However, after the war we 
+discarded our dragonstones, 
+so we could no longer become 
+dragons again. [WaitForA]
+Even so, I still have knowledge 
+and power that exceeds that 
+of humans. [WaitForA]
+Gotoh followed Naga's orders 
+to protect humans, but that's 
+got nothing to do with me. I 
+don't like humans. [WaitForA]
+They scorned the Manaketes, 
+even though they had lost 
+their power, and treated them 
+like filth. [WaitForA]
+I can fully understand why 
+Medeus and the others hated 
+humans so much. [WaitForA]
+The Earth Dragon King, 
+Medeus, tricked his own tribe 
+and became a Manakete by 
+himself. [WaitForA]
+He used to follow Naga's 
+orders and guarded the 
+Dragon's Table. [WaitForA]
+However the once docile 
+humans finally achieved power 
+and became aggressive. [WaitForA]
+They even started to attack 
+the Manaketes that lived in 
+peace. [WaitForA]
+The Manaketes were angered 
+by the betrayal of humans, and 
+gathered at the Doluna region. [WaitForA]
+They formed their own kingdom 
+of Manaketes and began a war 
+to conquer the humans. [WaitForA]
+To save humans, Gotoh 
+handed the Falchion to Anri 
+and he created an academy 
+of magic at Khadein. [WaitForA]
+But whoever won wasn't any of 
+my concern. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Then, why are you helping me? 
+I'm also a human... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+You're different from the 
+others. You don't seem like an 
+unreliable person either... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... Thank you, Xane. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Don't... don't be silly. I'll get 
+embarrassed. Anyway, let's 
+head to the temple, but be 
+careful of the Ice Dragons. [WaitForA]
+Although they're also wild 
+dragons, they will 
+instinctively try to protect 
+their temple. Poor guys... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2167

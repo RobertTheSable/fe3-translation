@@ -1,0 +1,7 @@
+@address $ff95af
+@width 160
+@autoend off
+@label CharacterEndings_94
+[AddSpaces][02]Shiida, Marth's Fiancee 
+
+# length: 29

@@ -1,0 +1,22 @@
+@address $e6e52a
+@width 160
+@label dialogue_502
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][67][04]The deceased King Grust had 
+two children: [WaitForA]
+Princess Yumina and Prince 
+Yubello, twins of 13 to 14 
+years of age. [WaitForA]
+The King was scared of 
+Gharnef, so he sent the two to 
+Khadein. [WaitForA]
+I heard they were held as 
+hostages and locked inside a 
+dark room. [WaitForA]
+When they were finally rescued 
+by Wendell, they were on the 
+brink of death. [WaitForA]
+The bishop immediately took 
+them to a monastery in 
+Khadein to care for them. [WaitForA][CloseFrame][02]
+# length: 455

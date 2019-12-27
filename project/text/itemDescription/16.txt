@@ -1,0 +1,8 @@
+@address $f09a16
+@type menu
+@label itemDescription_16
+WeaponLv--
+Exp   56
+Opens far
+chests
+Malliesia

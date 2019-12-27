@@ -1,0 +1,27 @@
+@address $e0adaa
+@width 160
+@label worldmap_21
+Carrying regretful feelings, 
+Marth leaves Grust and lands 
+at Medon, to rescue Princess 
+Minerva. [MapWaitForA]
+After the war of Darkness, 
+Medon was ruled by Minerva, 
+who removed the generals, 
+who had caused suffering to [MapWaitForA]
+her people, and renovated the 
+army. [MapWaitForA]
+However, the powerful General 
+Rucke opposed Minerva's 
+actions. [MapWaitForA]
+He gathered the removed 
+soldiers to overthrow her in a 
+coup. [MapWaitForA]
+The unprepared Minerva was 
+captured by Rucke's followers 
+and Medon fell into the control 
+of the rebels. [MapWaitForA]
+They then dispatched powerful 
+dracoknights to sternly guard 
+the country's bordering 
+forests. # length: 610

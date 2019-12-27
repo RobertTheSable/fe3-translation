@@ -1,0 +1,4 @@
+@address $f08910
+@type menu
+@label classnames_02
+Soldier

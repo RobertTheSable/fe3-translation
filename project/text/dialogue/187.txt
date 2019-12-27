@@ -1,0 +1,126 @@
+@address $e3e17c
+@width 160
+@label dialogue_187
+[_88][00][_89][50][80][SwitchFrame][01]
+[ShowPortait][33][07]Marth... Can you hear me...? [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Ah, Gotoh! Yes, I can hear 
+you... You're using the power 
+of magic to talk to me, right? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes... You summoned me? I will 
+share with you my strength. 
+What is it that you wish for? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Gotoh! There's something I 
+want you to tell me. Why was 
+Hardin changed so suddenly? [WaitForA]
+Also, what is the power that is 
+protecting him? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hmm... that would be the [SetColor][00][28]
+Darksphere. [SetColor][00][24]The Darksphere 
+is what's shielding Hardin... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+The Darksphere? What's that? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hmm... I guess I have no 
+choice but to tell you. [WaitForA]
+In this world, there exist 5 [SetColor][00][28]
+sacred Spheres [SetColor][00][24]containing 
+mysterious power. [WaitForA]
+Aside from the [SetColor][00][28]Light, [SetColor][00][24][SetColor][00][28]Star [SetColor][00][24]and [SetColor][00][28]
+Geosphere [SetColor][00][24]that you have 
+seen. [WaitForA]
+There is also the [SetColor][00][28]Lifesphere [SetColor][00][24]
+and what is known as the... 
+Darksphere. [WaitForA]
+The Darksphere opposes the 
+Lightsphere, and it can 
+greatly increase the strength 
+of one's mind. [WaitForA]
+It can give its owner courage, 
+release them from suffering, 
+and increase their ambitions 
+and wishes. [WaitForA]
+And, during battles, it can 
+control the enemy's mind as 
+well and prevent them from 
+moving. [WaitForA]
+But, the Darksphere is too 
+dangerous for humans to use. [WaitForA]
+It will react with humans' 
+anger, disdain and jealousy 
+causing them to increase 
+tenfold. [WaitForA]
+Eventually it will destroy their 
+soul and turn them into a 
+monster. [WaitForA]
+I don't know how Hardin 
+obtained the Darksphere. But 
+after that... His heart was 
+consumed by darkness. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+How could that... Why...? 
+Hardin shouldn't be such a 
+weak man. [WaitForA]
+He should be happy for being 
+able to marry his beloved 
+Nyna. Why should he be 
+jealous...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Your highness... Humans aren't 
+simple creatures. [WaitForA]
+But, regardless, as long as 
+Hardin has the Darksphere you 
+cannot win. [WaitForA]
+The only thing that can defeat 
+the Darksphere is the 
+Lightsphere. [WaitForA]
+If you want to defeat him, you 
+must come to me to obtain it. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh? Gotoh, really? With the 
+Lightsphere we can save 
+Hardin...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hmm... If his heart has not 
+been completely consumed, 
+perhaps he can be saved. [WaitForA]
+But that depends on whether 
+Hardin is really as 
+strong-willed as you say... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Thanks, Gotoh! Please allow 
+me to borrow the Lightsphere. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hmm, but I have one condition. [WaitForA]
+If you can reach the Ice 
+Dragon Shrine, where I am, I 
+will hand over the Lightsphere 
+to you. [WaitForA]
+But, that won't be an easy 
+task. There has only been one 
+human that has ever made it 
+here. [WaitForA]
+That's right... The hero Anri. If 
+you, like Anri, are a true hero, 
+I will lend you the Sphere. [WaitForA]
+Well, Marth. Do you have the 
+courage to challenge Anri's 
+Way? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Yes! Of course!! Please let me 
+go there! I must obtain that 
+Lightsphere! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Then, first head directly 
+north, across the Marmotord 
+Desert, and then come to 
+Thabes Tower. [WaitForA]
+I will have somebody meet you 
+there. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Okay, I understand. I'll be 
+there for sure!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 3002

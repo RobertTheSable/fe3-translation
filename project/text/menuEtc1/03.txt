@@ -1,0 +1,5 @@
+@address $f0d2ae
+@type menu
+@label menuEtc1_03
+When this is shown there is a bug
+Please report this

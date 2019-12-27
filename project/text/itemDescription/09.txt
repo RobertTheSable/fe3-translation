@@ -1,0 +1,8 @@
+@address $f09772
+@type menu
+@label itemDescription_09
+WeaponLv 8
+Exp   30
+Temp inc
+an ally's
+MDef by 7

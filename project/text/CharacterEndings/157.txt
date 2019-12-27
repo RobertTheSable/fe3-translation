@@ -1,0 +1,7 @@
+@address $ffa48b
+@width 160
+@autoend off
+@label CharacterEndings_157
+After the war, he formed the 
+Akaneian free knights to 
+protect people from thieves. [End][End]# length: 91

@@ -1,0 +1,6 @@
+@address $ff9262
+@width 160
+@autoend off
+@label CharacterEndings_79
+After the war he left without 
+saying a word. [End][00]# length: 50

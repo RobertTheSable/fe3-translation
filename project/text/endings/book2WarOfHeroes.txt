@@ -1,0 +1,4 @@
+@address $96b970
+@width 160
+@label endings_book2WarOfHeroes
+Book 2 War of Heroes:       

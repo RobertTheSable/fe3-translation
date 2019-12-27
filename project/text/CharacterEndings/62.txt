@@ -1,0 +1,7 @@
+@address $ff8efc
+@width 160
+@autoend off
+@label CharacterEndings_62
+[AddSpaces][02]Linde, Miloah's Daughter
+
+# length: 29

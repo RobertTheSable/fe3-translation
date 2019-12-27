@@ -1,0 +1,7 @@
+@address $ff8bef
+@width 160
+@autoend off
+@label CharacterEndings_48
+[AddSpaces][02]Fire Dragon Bantu  
+
+# length: 24

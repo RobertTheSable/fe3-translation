@@ -1,0 +1,7 @@
+@address $ffa68a
+@width 160
+@autoend off
+@label CharacterEndings_166
+[AddSpaces][02]Masked Knight Sirius 
+
+# length: 26

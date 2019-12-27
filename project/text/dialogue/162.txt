@@ -1,0 +1,108 @@
+@address $e2f3c7
+@width 160
+@label dialogue_162
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][8c][05]Marth!! [WaitForA][SwitchFrame][01]
+[ShowPortait][90][06]Shiida!? What, even you've 
+come here...? Could it be that 
+something's happened to 
+Altea? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Marth... Altea... Altea was 
+ambushed by the imperial 
+army...  [WaitForA]
+After being ambushed by the 
+Akeneia, Gra and Aurelis 
+united army, the Altean 
+knights were decimated... [WaitForA]
+Even the castle has fallen... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Wh-what!? How could... Altea... 
+Jagen, what's going on? [WaitForA][CloseFrame][02]
+[SwitchFrame][00]
+[ShowPortait][02][05]It is regrettable... What I 
+feared the most has happened. [WaitForA]
+Emperor Hardin has listened to 
+Lang's words and declared us 
+traitors. [WaitForA]
+Your highness, please forgive 
+me. It is because of me that 
+this has happened. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, I still cannot believe it. 
+That Hardin would attack our 
+country. [WaitForA]
+Did Hardin really believe Lang, 
+and thought that we wished to 
+rebel against him? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, even if that was the case, 
+everything happened too fast. [WaitForA]
+If they hadn't prepared in 
+advance, they wouldn't have 
+been able to attack us that 
+quickly. [WaitForA]
+I fear... The Grustian 
+expedition was a trap they 
+planned for us all along, as 
+well as the rebellion in Medon... [WaitForA]
+They wanted us to leave Altea, 
+to divide our army's strength. [WaitForA]
+Hardin had already decided 
+upon this action from the 
+beginning. [WaitForA]
+What happened with Lang was 
+just an excuse to attack our 
+country. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, that can't be right! So 
+you're saying Hardin attacked 
+our country for no reason? [WaitForA]
+And everything was a trap 
+that he set up for us? [WaitForA]
+I don't believe it. I don't 
+believe that Hardin would do 
+that... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Your highness, regardless, 
+our country has been attacked 
+by Akaneia. [WaitForA]
+Not only that, but we were 
+ambushed without prior 
+warning. [WaitForA]
+That, to us knights, is the 
+most dishonourable action one 
+could take. [WaitForA]
+In that case, we have no 
+choice but to fight back with 
+our full strength. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Damn, Hardin... Why... Why did 
+you... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Your highness... [WaitForA]
+Shiida, what about the 
+others? Is Elice safe? [WaitForA][CloseFrame][02]
+[SwitchFrame][00]
+[ShowPortait][8c][05]Elice... She agreed to be their 
+hostage, to allow me to 
+escape... [WaitForA]
+The others... I don't know... 
+Abel and Est were still fighting 
+the last time I saw them... [WaitForA]
+Marth... I'm sorry. Only I 
+escaped, but I had to so I 
+could warn you.. So... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Shiida... Don't cry. I 
+understand. It's great that 
+you're safe at least. [WaitForA]
+I should be the one 
+apologising. It was because of 
+me that you experienced such 
+terrible events... [WaitForA]
+I will reclaim Altea. Even if I 
+must fight Hardin to take it 
+back!![WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2523

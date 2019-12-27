@@ -1,0 +1,4 @@
+@address $f08a24
+@type menu
+@label classnames_21
+Cleric

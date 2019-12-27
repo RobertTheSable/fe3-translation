@@ -1,0 +1,7 @@
+@address $f0a1f2
+@type menu
+@label itemDescription_47
+Negates
+weapon
+bonuses
+for bearer

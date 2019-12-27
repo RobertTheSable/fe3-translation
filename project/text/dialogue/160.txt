@@ -1,0 +1,52 @@
+@address $e2ebff
+@width 160
+@label dialogue_160
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][0d][07]Who's there? Are you one of 
+the pirates!? [WaitForA][SwitchFrame][00]
+[ShowPortait][7e][04]I am Sirius, a traveller... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Is that so? I'm sorry. I 
+overreacted a little, please 
+accept my apologies. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Those children... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Something happened, so I'm 
+taking care of them now. You 
+know them? [WaitForA][_89][0e][80][SwitchFrame][00]
+[ClearFrame]
+No... But if you're carrying the 
+children, you won't be able to 
+escape. [WaitForA]
+I heard, from a village to the 
+south, that the Altean army 
+has come. [WaitForA]
+Leave this place to me, and 
+make your escape. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What!? The Altean army...? So 
+Prince Marth... [WaitForA]
+I understand. Thanks. But, why
+are you helping me?  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I want to help those children. 
+That's all... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really...? So you are Sirus... If 
+we escape safely, I hope we 
+can meet again. [WaitForA]
+I plan on killing the ruler of 
+Grust, Commander Lang. So I 
+can avenge a man named 
+Lorenz. [WaitForA]
+You... If you could lend me your 
+strength... With you, I believe I 
+will be able to succeed. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmm... Perhaps it might be 
+interesting... However, to do 
+that you must live. [WaitForA]
+Well, get going! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1074

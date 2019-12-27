@@ -1,0 +1,7 @@
+@address $f0cabe
+@type menu
+@label shopMenu_01
+[0105][0106][0106][0106][0106][0106][0107][HalfNewLine]
+[0108] Buy [0109]
+[0108] Sell[0109]
+[010a][010b][010b][010b][010b][010b][010c]

@@ -1,0 +1,4 @@
+@address $f0e762
+@type menu
+@label battleText_46
+'s class changed.

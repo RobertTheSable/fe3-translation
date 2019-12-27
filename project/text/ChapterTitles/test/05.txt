@@ -1,0 +1,5 @@
+@address $e7b52c
+@width 240
+@type nodigraph
+@label ChapterTitles_05
+BBBB  Ch5 Fire Emblem        # length: 31

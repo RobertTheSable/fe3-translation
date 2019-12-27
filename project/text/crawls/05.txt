@@ -1,0 +1,5 @@
+@address $e7c33f
+@width off
+@type nodigraph
+@label crawls_05
+The chosen one    can repel the      Shadow Dragon.                                                        # length: 109

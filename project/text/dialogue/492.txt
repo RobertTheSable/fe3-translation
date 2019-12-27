@@ -1,0 +1,8 @@
+@address $e6ccf6
+@width 160
+@label dialogue_492
+[_88][00][_89][21][80][ShowPortait][67][04]The Swordslayer deals great 
+damage to Mercenaries and 
+Heroes. You should try and get 
+your hands on one. [WaitForA][CloseFrame][02]
+# length: 128

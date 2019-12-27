@@ -1,0 +1,6 @@
+@address $ffac91
+@width 160
+@autoend off
+@label CharacterEndings_192
+Fell in battle during "Land of 
+Sorrow". [End][End][End][End][00]# length: 51

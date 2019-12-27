@@ -1,0 +1,5 @@
+@address $e7d66a
+@width 160
+@label storage_55
+Imhullu was sent to the 
+storage. # length: 37

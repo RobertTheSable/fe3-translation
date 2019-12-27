@@ -1,0 +1,7 @@
+@address $ff855e
+@width 160
+@autoend off
+@label CharacterEndings_16
+[AddSpaces][02]Brave Bord of Talys 
+
+# length: 25

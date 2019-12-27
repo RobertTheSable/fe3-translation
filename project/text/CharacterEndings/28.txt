@@ -1,0 +1,7 @@
+@address $ff87b1
+@width 160
+@autoend off
+@label CharacterEndings_28
+[AddSpaces][02]Mysterious Nabarl  
+
+# length: 24

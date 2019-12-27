@@ -1,0 +1,5 @@
+@address $f0b540
+@type menu
+@label terrain_28
+Altar
+Blocked

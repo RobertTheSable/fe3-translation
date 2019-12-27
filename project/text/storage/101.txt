@@ -1,0 +1,5 @@
+@address $e7de07
+@width 160
+@label storage_101
+Pure Water was sent to the 
+storage.# length: 39

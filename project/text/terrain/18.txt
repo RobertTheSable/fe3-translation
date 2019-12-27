@@ -1,0 +1,6 @@
+@address $f0b404
+@type menu
+@label terrain_18
+Throne
+Avd:30%
+Recover

@@ -1,0 +1,6 @@
+@address $ffb047
+@width 160
+@autoend off
+@label CharacterEndings_204
+Fell in battle during "Abducted 
+Princess". [End][End]# length: 49

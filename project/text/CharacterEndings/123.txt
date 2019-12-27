@@ -1,0 +1,6 @@
+@address $ff9d0e
+@width 160
+@autoend off
+@label CharacterEndings_123
+At Pales' magic academy he 
+taught sorcery to the youths. [End][End][End]# length: 65

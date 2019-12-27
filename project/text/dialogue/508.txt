@@ -1,0 +1,15 @@
+@address $e6ecff
+@width 160
+@label dialogue_508
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6a][04]What's going to happen to 
+Medon now? [WaitForA]
+First they said Prince Michalis 
+died, then Princess Maria went 
+missing... [WaitForA]
+And now Princess Minerva has 
+been captured, and her life is 
+in danger. [WaitForA]
+Ah... This country won't 
+become like Grust, right...? [WaitForA][CloseFrame][02]
+# length: 281

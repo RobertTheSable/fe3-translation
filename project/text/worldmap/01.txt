@@ -1,0 +1,14 @@
+@address $e0847f
+@width 160
+@label worldmap_01
+Across the shore from the 
+Kingdom of Talys is Galder 
+port. [MapWaitForA]
+For a long time it has been a 
+poor, but peaceful port town. [MapWaitForA]
+One day it was suddenly 
+attacked by a pirate gang and 
+it has since become their base. [MapWaitForA]
+From Galder port, Marth begins 
+the first steps to liberating 
+his homeland. # length: 302

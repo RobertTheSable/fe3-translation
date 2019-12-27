@@ -1,0 +1,9 @@
+@address $ffa3f4
+@width 160
+@autoend off
+@label CharacterEndings_155
+She worked in Pales' magic 
+academy. [MapWaitForA]
+Perhaps she has found an idol, 
+as she has become more 
+beautiful recently. [End][End][00]# length: 123

@@ -1,0 +1,4 @@
+@address $f0b96e
+@type menu
+@label menuStats_11
+Shoukn

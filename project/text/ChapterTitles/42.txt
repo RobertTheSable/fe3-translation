@@ -1,0 +1,5 @@
+@address $e7b9bd
+@width 240
+@type nodigraph
+@label ChapterTitles_42
+BBBB  ChF2 Dragon's Table     # length: 32

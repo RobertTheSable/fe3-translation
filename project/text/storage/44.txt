@@ -1,0 +1,5 @@
+@address $e7d4a4
+@width 160
+@label storage_44
+Mist Breath was sent to the
+storage. # length: 40

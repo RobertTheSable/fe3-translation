@@ -1,0 +1,22 @@
+@address $e2a8d3
+@width 160
+@label dialogue_129
+[_88][00][_89][53][80][SwitchFrame][00]
+[ShowPortait][4e][04]Marth. [WaitForA]
+You've finally come. [WaitForA]
+I, Pontifex Gharnef, have been
+waiting for a long time...  [WaitForA]
+It is a shame, but to secure my
+grasp upon this world you must 
+die. [WaitForA]
+Haha... Medeus is under my 
+control, there is nothing to 
+fear. [WaitForA]
+As long as I have the Falchion 
+and Imhullu, even he cannot 
+oppose me. [WaitForA]
+Well, Marth, you must do battle 
+with my images. [WaitForA]
+The Falchion will be yours only 
+if you can defeat the real me. [WaitForA][CloseFrame][02]
+# length: 463

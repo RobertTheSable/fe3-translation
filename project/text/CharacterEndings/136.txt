@@ -1,0 +1,7 @@
+@address $ff9ff6
+@width 160
+@autoend off
+@label CharacterEndings_136
+[AddSpaces][02]Pontifex Wendell  
+
+# length: 23

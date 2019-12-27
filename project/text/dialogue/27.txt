@@ -1,0 +1,22 @@
+@address $e180eb
+@width 160
+@label dialogue_27
+[_88][00][_89][0e][80][_0c][00][ShowPortait][11][04]Oh! Prince Marth, it's been a 
+while. [WaitForA][SwitchFrame][01]
+[ShowPortait][00][07]Huh? Oh, Merric... Merric!? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Yeah, it's me! [WaitForA]
+When I was studying at 
+Khadein, I heard war broke out 
+so I came to look for your 
+highness. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really...? Thank you. With you 
+in our ranks, I can relax. [WaitForA]
+You will help me, right? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Of course. Check out the might 
+of my Excalibur magic that I 
+learnt at Khadein. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 409

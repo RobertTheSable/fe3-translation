@@ -1,0 +1,7 @@
+@address $ff9ec8
+@width 160
+@autoend off
+@label CharacterEndings_130
+[AddSpaces][02]Roshea, Aurelian Knight  
+
+# length: 30

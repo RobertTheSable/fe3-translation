@@ -1,0 +1,6 @@
+@address $ff8f7c
+@width 160
+@autoend off
+@label CharacterEndings_65
+He became the captain of the 
+Akaneian bow knights.[End][End][End]# length: 58

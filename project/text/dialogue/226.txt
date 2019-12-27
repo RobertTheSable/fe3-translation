@@ -1,0 +1,37 @@
+@address $e5bcfe
+@width 160
+@label dialogue_226
+[_88][00][_89][0a][80][SwitchFrame][01]
+[ShowPortait][33][07]Marth, you have done well. You 
+have all five Spheres in your 
+possession. [WaitForA]
+Because of your efforts, the 
+lost [SetColor][00][28]Binding Shield [SetColor][00][24]has finally 
+been restored. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Yes! The five Spheres have 
+attached onto the royal 
+shield... [WaitForA]
+So this is the Binding Shield? 
+But, Gotoh, what should I do 
+next? [WaitForA]
+After seeing Gharnef's 
+expression, it seems he really 
+has taken my sister and the 
+others. [WaitForA]
+I can't just leave them. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm... I understand your 
+feelings... But you must first 
+restore the seal on the Earth 
+Dragons. [WaitForA]
+Those beasts will soon awaken 
+from their slumber. [WaitForA]
+When they appear from the 
+ground they will burn 
+everything, and create Hell on 
+Earth. [WaitForA]
+Go, Marth. Send the awakened 
+Earth Dragons back into the 
+darkness of the seal!! [WaitForA][CloseFrame][03]
+[CloseFrame][02]
+# length: 818

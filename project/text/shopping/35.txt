@@ -1,0 +1,5 @@
+@address $e7c8d1
+@width 160
+@label shopping_35
+
+[81]s# length: 6

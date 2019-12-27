@@ -1,0 +1,8 @@
+@address $e0f38c
+@width 160
+@label dialogue_16
+[_88][04][ShowPortait][6b][04]Archers and Hunters can only 
+attack indirectly. [WaitForA]
+Don't let them get attacked 
+upfront too much. [WaitForA][CloseFrame][02]
+# length: 116

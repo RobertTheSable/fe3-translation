@@ -1,0 +1,15 @@
+@address $e09910
+@width 160
+@label worldmap_11
+Khadein, the land of magic. [MapWaitForA]
+It is ruled by the Dark 
+Pontifex, Gharnef, and is a 
+sanctuary for mages. [MapWaitForA]
+As soon as the mages begin 
+chanting, no warrior can 
+defend themselves. [MapWaitForA]
+One... and another one... [MapWaitForA]
+Brave warriors come and fall, 
+one by one. [MapWaitForA]
+Khadein... A cursed town of 
+darkness... # length: 304

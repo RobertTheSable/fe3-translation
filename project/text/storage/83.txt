@@ -1,0 +1,5 @@
+@address $e7db17
+@width 160
+@label storage_83
+Earthstone was sent to the 
+storage. # length: 40

@@ -1,0 +1,7 @@
+@address $ff8d83
+@width 160
+@autoend off
+@label CharacterEndings_57
+She buried her troubling 
+feelings and worked to restore 
+her homeland. [End][End][End]# length: 80

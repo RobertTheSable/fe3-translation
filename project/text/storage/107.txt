@@ -1,0 +1,5 @@
+@address $e7defe
+@width 160
+@label storage_107
+Geosphere was sent to the 
+storage. # length: 39

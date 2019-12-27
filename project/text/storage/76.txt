@@ -1,0 +1,5 @@
+@address $e7d9df
+@width 160
+@label storage_76
+Thief Staff was sent to the 
+storage. # length: 41

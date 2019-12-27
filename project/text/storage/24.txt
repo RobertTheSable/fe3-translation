@@ -1,0 +1,5 @@
+@address $e7d194
+@width 160
+@label storage_24
+Iron Bow was sent to the 
+storage. # length: 38

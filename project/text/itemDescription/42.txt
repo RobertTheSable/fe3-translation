@@ -1,0 +1,7 @@
+@address $f0a0ac
+@type menu
+@label itemDescription_42
+Promote lvl
+10+       
+Cavaliers
+Armours

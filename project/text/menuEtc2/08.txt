@@ -1,0 +1,5 @@
+@address $f0e0d6
+@type menu
+@label menuEtc2_08
+[0108]Maximum HP rose[0109]
+[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

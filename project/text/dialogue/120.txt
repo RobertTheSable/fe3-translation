@@ -1,0 +1,44 @@
+@address $e2955f
+@width 160
+@label dialogue_120
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][01][07]General Lorenz, I am Shiida of 
+Talys. [WaitForA]
+I have heard much about you 
+from my father. [WaitForA][SwitchFrame][00]
+[ShowPortait][31][04]Ah, Princess Shiida. [WaitForA]
+You have become more 
+beautiful now. [WaitForA]
+I really must thank your 
+father, for his care in the 
+past. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+General, you're opposed to 
+Grust allying with the Dolunian 
+Empire, right?[WaitForA]
+Why didn't you stop them?[WaitForA][SwitchFrame][00]
+[ClearFrame]
+The current King of Grust is a 
+weak and cowardly man. [WaitForA]
+He feared Doluna's enormous 
+strength. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+General. Doluna wishes to use 
+Manaketes to conquer humans. [WaitForA]
+For Grust, and for the 
+innocent people of this world, 
+we must stop Doluna's 
+ambitions. [WaitForA]
+General, please stop fighting, 
+and please help us. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Uh... But... [WaitForA]
+Well... I was ordered by my king 
+to fight, but times have 
+changed. [WaitForA]
+I understand, Princess Shiida. [WaitForA]
+Even though betraying my 
+country is wrong, I will still 
+join your cause. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 906

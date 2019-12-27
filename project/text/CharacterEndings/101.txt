@@ -1,0 +1,8 @@
+@address $ff9851
+@width 160
+@autoend off
+@label CharacterEndings_101
+After the war, he left the 
+country to find Est and 
+afterwards he wasn't seen 
+again. [End][00]# length: 93

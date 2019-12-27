@@ -1,0 +1,6 @@
+@address $ff9fb2
+@width 160
+@autoend off
+@label CharacterEndings_135
+He continued passing his days 
+casually working in Medon. [End][End][End][End][00]# length: 68

@@ -1,0 +1,7 @@
+@address $ff9b36
+@width 160
+@autoend off
+@label CharacterEndings_114
+[AddSpaces][02]Talysian swindler Castor 
+
+# length: 30

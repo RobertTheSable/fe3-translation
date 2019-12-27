@@ -1,0 +1,58 @@
+@address $e3f90e
+@width 160
+@label dialogue_189
+[_88][00][_89][43][80][SwitchFrame][01]
+[ShowPortait][8f][06]Marth!! It's been a long time, 
+it's me Tiki! I really missed you.[WaitForA][SwitchFrame][00]
+[ShowPortait][8b][05]Huh... Tiki!? You came here to 
+meet us? That's right... You're 
+with Gotoh right now.  [WaitForA]
+But, I haven't seen you for a 
+while and you've grown. Have 
+you been well? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Uh... I've been really lonely. 
+You didn't come to visit me... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I'm sorry... But, I hadn't 
+forgotten about you, Tiki. [WaitForA]
+I wanted to ask you to come to 
+Altea, after things had settled 
+down. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Marth... ...I love you❤  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh...!? [WaitForA][_89][0e][80][SwitchFrame][01]
+[ShowPortait][28][06][ClearFrame]
+...As if. I wouldn't say 
+something like that. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+X... Xane!!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ah, I'm really sorry. I couldn't 
+help it after seeing that 
+serious expression on your 
+face... [WaitForA]
+Sorry, don't be angry. I was 
+ordered, by Gotoh, to wait 
+here for you. [WaitForA]
+While I was waiting I got more 
+and more angry, wondering why 
+I had to do something so 
+boring. [WaitForA]
+So I thought I'd think of a 
+prank to pull on you. [WaitForA]
+But, my Tiki impression was 
+pretty good wasn't it? [WaitForA]
+Huh, what's with the anxious 
+face? Okay, let's go. You want 
+to meet Gotoh, right? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Xane, how would you know 
+Gotoh? Who are you? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Oh, that doesn't really matter. 
+Well, don't just stand there. 
+Follow me. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1244

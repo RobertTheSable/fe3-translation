@@ -1,0 +1,19 @@
+@address $e0f14c
+@width 160
+@label dialogue_14
+[_88][00][SwitchFrame][00]
+[_89][20][80][ShowPortait][67][04]Citizens of Altea, please 
+rescue Sister Lena. [WaitForA]
+Miss Lena helped to cure the 
+poor and sick. [WaitForA]
+However, she didn't heed our 
+warning and went to the 
+dreaded Ghoul's Teeth. [WaitForA]
+We haven't seen her since. [WaitForA]
+They way Miss Lena treated us 
+was like that of an angel. [WaitForA]
+Please, you must rescue her. [WaitForA]
+For this, we have gathered 
+3000 Gold. [WaitForA]
+We will leave Miss Lena to you. [WaitForA][CloseFrame][02]
+# length: 410

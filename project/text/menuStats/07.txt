@@ -1,0 +1,4 @@
+@address $f0b942
+@type menu
+@label menuStats_07
+Fly

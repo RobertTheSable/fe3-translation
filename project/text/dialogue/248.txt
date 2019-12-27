@@ -1,0 +1,13 @@
+@address $e5ee63
+@width 160
+@label dialogue_248
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][6b][04]Astram's mercenaries are 
+guarding the fortress. They're 
+so strong that even 
+cry-babies are scared silent [WaitForA]
+by them. [WaitForA]
+"One less problem is better 
+than one more problem." That's 
+my best advice for you. [WaitForA][CloseFrame][02]
+# length: 236

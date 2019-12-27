@@ -1,0 +1,7 @@
+@address $ff909b
+@width 160
+@autoend off
+@label CharacterEndings_70
+[AddSpaces][02]Dolph, Knight of Akaneia 
+
+# length: 30

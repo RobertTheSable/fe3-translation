@@ -1,0 +1,6 @@
+@address $f0b344
+@type menu
+@label terrain_13
+Fort
+Avd:20%
+Recover

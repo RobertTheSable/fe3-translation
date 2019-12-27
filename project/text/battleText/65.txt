@@ -1,0 +1,4 @@
+@address $f0e98e
+@type menu
+@label battleText_65
+ dmg

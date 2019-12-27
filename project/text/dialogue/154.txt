@@ -1,0 +1,33 @@
+@address $e2dcaf
+@width 160
+@label dialogue_154
+[_88][00][_89][4c][80][SwitchFrame][01]
+[ShowPortait][0f][06]Hey! That was uncalled for. 
+Why do you always keep 
+picking on me? [WaitForA]
+If you continue like this, you'll 
+make Miss Lena sad. [WaitForA][SwitchFrame][00]
+[ShowPortait][2c][05]Oh, it's Julian. Are you still 
+clinging onto Lena? [WaitForA]
+No way, I'm not handing my 
+cute sister to a thief like you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Don't worry... Lena and I aren't 
+that close. I just want to help 
+her, any little that I can. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh, I finally understand. 
+You're really cool, Julian! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Well, I... uh... never expected 
+to hear you say that... [WaitForA]
+Nevermind. If you're worried 
+about Lena, come with us. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh, really? Thanks. I was 
+forced to join the rebels. I 
+didn't really want to fight. [WaitForA]
+Well, "little brother", let's join 
+forces to find my cute Lena! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 740

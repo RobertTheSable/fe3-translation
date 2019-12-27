@@ -1,0 +1,20 @@
+@address $e0a3d0
+@width 160
+@label worldmap_17
+Marth and the others were 
+transported, by Archsage 
+Gotoh's great Warp magic, to 
+the ancient city of Thabes. [MapWaitForA]
+At one time it was a proud 
+town, possessing advanced 
+civilisation, but now it is 
+desolate and lifeless... [MapWaitForA]
+At the central Thabes Tower... 
+is where the Dark Pontifex, 
+Gharnef, is situated. [MapWaitForA]
+Marth and the others must 
+recover the lost divine 
+Falchion sword... [MapWaitForA]
+And they must rescue Princess 
+Elice, who was captured by 
+Gharnef... # length: 465

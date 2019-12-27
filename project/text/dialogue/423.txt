@@ -1,0 +1,7 @@
+@address $e69d46
+@width 160
+@label dialogue_423
+[_88][00][SwitchFrame][00]
+[ShowPortait][4e][04]Haha... It's already too late... 
+This world is done for... Urgh.[_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 89

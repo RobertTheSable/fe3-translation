@@ -1,0 +1,6 @@
+@address $ffb130
+@width 160
+@autoend off
+@label CharacterEndings_207
+Fell in battle during "The Nest 
+of Evil".[00]# length: 44

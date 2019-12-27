@@ -1,0 +1,5 @@
+@address $e7cf76
+@width 160
+@label storage_11
+Falchion was sent to the 
+storage. # length: 38

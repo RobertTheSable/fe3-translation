@@ -1,0 +1,4 @@
+@address $f0b92a
+@type menu
+@label menuStats_05
+Kngth

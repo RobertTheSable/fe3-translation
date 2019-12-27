@@ -1,0 +1,5 @@
+@address $e7d4f6
+@width 160
+@label storage_46
+Thunder was sent to the 
+storage. # length: 37

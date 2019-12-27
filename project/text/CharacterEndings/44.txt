@@ -1,0 +1,7 @@
+@address $ff8b2c
+@width 160
+@autoend off
+@label CharacterEndings_44
+[AddSpaces][02]Bishop Wendell of Khadein
+
+# length: 30

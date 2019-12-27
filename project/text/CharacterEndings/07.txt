@@ -1,0 +1,7 @@
+@address $ff82bb
+@width 160
+@autoend off
+@label CharacterEndings_07
+He remained with Altea 
+Knights and guided the new 
+recruits. [End][End][End][End][00]# length: 73

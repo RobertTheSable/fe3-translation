@@ -1,0 +1,5 @@
+@address $e7cdd0
+@width 160
+@label storage_01
+Steel Sword was sent to the 
+storage. # length: 41

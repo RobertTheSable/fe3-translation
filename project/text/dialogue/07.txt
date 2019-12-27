@@ -1,0 +1,7 @@
+@address $e0e9b0
+@width 160
+@label dialogue_07
+[_88][04][ShowPortait][6a][04]If you're wounded, you can 
+rest in the forts, where you'll 
+slowly recover vitality. [WaitForA][CloseFrame][02]
+# length: 102

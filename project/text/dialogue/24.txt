@@ -1,0 +1,7 @@
+@address $e0fc4b
+@width 160
+@label dialogue_24
+[_88][04][ShowPortait][6b][04]Be wary of Mercenaries. [WaitForA]
+If you're careless, they'll send 
+you flying in one strike. [WaitForA][CloseFrame][02]
+# length: 103

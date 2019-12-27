@@ -1,0 +1,15 @@
+@address $e08aee
+@width 160
+@label worldmap_04
+After defeating the main force 
+of the Medonian army, the 
+allied army advanced further 
+to liberate Aurelis castle. [MapWaitForA]
+The valuable treasures in the 
+castle must be reclaimed, 
+before the enemy steals and 
+escapes with them. [MapWaitForA]
+"The chests can only be 
+opened by Thieves, but do we 
+have any within our ranks?" [MapWaitForA]
+Someone murmured...# length: 341

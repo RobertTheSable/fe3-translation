@@ -1,0 +1,15 @@
+@address $e6b674
+@width 160
+@label dialogue_470
+[_88][00][SwitchFrame][01]
+[ShowPortait][8f][07]Marth!! I don't have to go back 
+to the Ice Dragon Shrine 
+anymore. [WaitForA]
+I'm so happy! I really like 
+everybody. I definitely don't 
+want to live all by myself at 
+that lonely place again. [WaitForA]
+It's really... like a dream. I'm so 
+happy, so very happy. Marth, I 
+really like you!! [WaitForA][CloseFrame][03]
+# length: 303

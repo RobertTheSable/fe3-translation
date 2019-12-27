@@ -1,0 +1,7 @@
+@address $f0a294
+@type menu
+@label itemDescription_50
+Bearer can
+buy items
+at half
+price

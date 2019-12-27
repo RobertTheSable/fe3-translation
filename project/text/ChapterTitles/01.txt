@@ -1,0 +1,5 @@
+@address $e7b4af
+@width 240
+@type nodigraph
+@label ChapterTitles_01
+BBBB  Ch1 Marth Embarks      # length: 31

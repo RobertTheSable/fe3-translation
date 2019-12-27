@@ -1,0 +1,129 @@
+@address $e49ed9
+@width 160
+@label dialogue_191
+[_88][00][_89][1e][80][SwitchFrame][01]
+[ShowPortait][28][07]Phew. We've finally passed the 
+Fire Dragons' valley. Are you 
+okay, Marth? [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Uh... Yeah, I'm fine. Xane, 
+you said that there were other 
+wild dragons elsewhere. Is that
+true?  [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm, the majority of the 
+dragon tribe didn't listen to 
+the elders' advice, and were 
+lost... [WaitForA]
+Those that survived didn't 
+really stay at a single place. [WaitForA]
+Aside from the Fire Dragons' 
+valley there is also the 
+Wyvern Valley, the Ice 
+Dragon Shrine and the [WaitForA]
+Dragon's Table... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Dragon's Altar...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm, behind the mountains of 
+Medon is a graveyard of Mage 
+Dragons. That is also where 
+the Earth Dragons sleep. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Earth Dragons...!? There are 
+other Earth Dragons besides 
+Medeus!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Of course. Amongst the dragon 
+tribe they are closest in 
+strength to the Divine 
+Dragons, and possess [WaitForA]
+tremendous power. [WaitForA]
+They didn't agree with the 
+elders and left to form their 
+own group. [WaitForA]
+They currently reside at the 
+Doluna region, but... their fate 
+didn't change. [WaitForA]
+Eventually the Earth Dragons 
+all lost their minds and, 
+together with the Mage 
+Dragons and Flying Dragons [WaitForA]
+who had also degenerated, 
+started to attack humans. [WaitForA]
+Of course, humans could not 
+hope to stand up to them. [WaitForA]
+Humans almost became extinct 
+and, in the end, were forced to 
+a single corner of the 
+continent. [WaitForA]
+Then, at that time... [WaitForA]
+Naga, the king of the Divine 
+Dragons, the strongest of all 
+dragons, commanded his tribe 
+to begin a battle to protect [WaitForA]
+the humans. [WaitForA]
+It was a difficult battle, but in 
+the end Naga was victorious. [WaitForA]
+He sealed the Earth Dragons 
+underneath Doluna and sent 
+them to a deep sleep. [WaitForA]
+To prevent the seal's
+strength from weakening, he
+created the "[SetColor][00][28]Shield of the five 
+Spheres" [SetColor][00][24]and left it at the[WaitForA]
+Fane of Raman.[WaitForA]
+But that is already ancient 
+history... In fact it occured 
+over 1000 years ago. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really...? I finally understand. [WaitForA]
+The Guardian God, Naga, of 
+legends was actually the king 
+of the Divine Dragons, Naga, 
+who helped mankind. [WaitForA]
+Those events became legends 
+that have been passed on 
+even now. [WaitForA]
+But if that was the case, why 
+was the divine sword, Falchion 
+left behind for humans? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm, that is a dragon buster. 
+A sword designed to defeat 
+dragons. [WaitForA]
+Naga felt pity for the humans 
+that could not protect 
+themselves so he crafted it 
+from his own fang. [WaitForA]
+The sword was sealed within 
+the Fane of Raman, along with 
+the shield. [WaitForA]
+And a powerful spell was cast 
+on the temple, so that only 
+Divine Dragons could enter it. [WaitForA]
+After that, Naga left behind a 
+will to his own people, which 
+was to protect mankind. [WaitForA]
+Finally, he placed the newly 
+born Tiki into a deep sleep, 
+thus ending the remaining 
+5000 years of his life. [WaitForA]
+So, you can see why Gotoh is 
+still faithfully follow his 
+orders. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, Xane...? Could it be!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm, Gotoh is a Divine Dragon. 
+What, you thought there was 
+just me...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Wa-wait, Xane. I still don't 
+understand. What exactly did 
+you mean? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Phew, my throat is really dry. I 
+can't stand the heat anymore. 
+Marth, let's hurry along. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 3190

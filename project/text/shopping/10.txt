@@ -1,0 +1,5 @@
+@address $e7c53a
+@width 160
+@label shopping_10
+
+Ah, back already? # length: 22

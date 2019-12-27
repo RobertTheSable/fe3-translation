@@ -1,0 +1,6 @@
+@address $ffa823
+@width 160
+@autoend off
+@label CharacterEndings_175
+After the war he resided 
+permanently at Pales... [End][00]# length: 54

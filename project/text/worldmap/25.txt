@@ -1,0 +1,20 @@
+@address $e0b7c3
+@width 160
+@label worldmap_25
+Grust has been liberated.  [MapWaitForA]
+All that remains is Olbern 
+Castle, held guard by the 
+commander of the occupation 
+army, General Lang. [MapWaitForA]
+Lang used his position to steal 
+possessions from the Grustian 
+citizens, to steal young girls, 
+and to steal lives. [MapWaitForA]
+Historically has there been a 
+man crueller than him? [MapWaitForA]
+"He cannot be allowed to live. 
+I will definitely defeat him!" [MapWaitForA]
+Prince Marth raised his sword 
+towards the skies and shouted 
+out an order. [MapWaitForA]
+Altean knights charge!! # length: 489

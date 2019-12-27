@@ -1,0 +1,7 @@
+@address $f09f3c
+@type menu
+@label itemDescription_36
+Increases
+Magic
+Defence
+by 3

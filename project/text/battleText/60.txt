@@ -1,0 +1,4 @@
+@address $f0e90a
+@type menu
+@label battleText_60
+revealed a passage!

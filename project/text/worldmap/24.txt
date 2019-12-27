@@ -1,0 +1,21 @@
+@address $e0b5eb
+@width 160
+@label worldmap_24
+Following Shiida's disturbing 
+news, Marth suffered a 
+terrible blow. [MapWaitForA]
+Hardin was once a companion 
+in battle, and an irreplaceable 
+friend. [MapWaitForA]
+But why...? Why has he 
+attacked Altea? 
+What have I done wrong? [MapWaitForA]
+Filled with lament Marth, 
+before hurrying back to his 
+homeland, was faced with his 
+first challenge. [MapWaitForA]
+Led by the corrupt General 
+Lang, Grust's occupation army 
+was based at Olbern Castle. [MapWaitForA]
+Its nickname was the "Nest of 
+Evil". # length: 457

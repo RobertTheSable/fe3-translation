@@ -1,0 +1,7 @@
+@address $f09b32
+@type menu
+@label itemDescription_19
+Transforms
+Mamkutes
+into a
+FireDragon

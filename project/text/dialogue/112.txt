@@ -1,0 +1,39 @@
+@address $e2821f
+@width 160
+@label dialogue_112
+[_88][00][_89][0b][80][SwitchFrame][00]
+[ShowPortait][61][04]Prince Marth. [WaitForA]
+About Grust, there is
+something that I wish to tell 
+you. [WaitForA]
+You should know that Grust's 
+famous Sable Order are led by 
+General Camus. [WaitForA]
+3 years ago, Akaneia was 
+occupied by his men. I was also 
+captured by him. [WaitForA]
+Doluna wanted the entire 
+Akaneia royal family to be
+killed, and they prepared to 
+kill the sole survivor, me. [WaitForA]
+But Camus didn't fear Doluna's 
+Shadow Dragon, Medeus, and 
+he constantly protected the 
+young me. [WaitForA]
+Once he discovered that 
+Medeus had sent his personal 
+guards, he had me escape to 
+Aurelis. [WaitForA]
+Afterwards, he was only held 
+captive until recently, 
+because he had won many 
+victories for Doluna. [WaitForA]
+At first I really hated him... 
+But now, no matter what, I 
+cannot find it in myself to do 
+so... [WaitForA]
+If possible, I don't want to 
+fight against him. [WaitForA]
+....I just want to see him one 
+more time... [WaitForA][CloseFrame][00]
+# length: 905

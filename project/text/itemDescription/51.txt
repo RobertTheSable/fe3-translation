@@ -1,0 +1,7 @@
+@address $f0a2da
+@type menu
+@label itemDescription_51
+Bearer can
+enter
+secret
+shops

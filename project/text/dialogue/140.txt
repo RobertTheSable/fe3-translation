@@ -1,0 +1,30 @@
+@address $e2bb4f
+@width 160
+@label dialogue_140
+[_88][00][_89][1f][80][SwitchFrame][01]
+[ShowPortait][61][07]Prince Marth... Thank you. 
+Everything's finally over. [WaitForA]
+Because of your efforts, this 
+world was saved. [WaitForA]
+But to you, the price to pay 
+for this victory was too large. 
+I am truly sorry. [WaitForA][SwitchFrame][00]
+[ShowPortait][00][04]Nyna, please don't say that. 
+Shiida's death was because of 
+my own mistake. [WaitForA]
+But... Shiida, for a while... 
+Even to my death, I won't 
+forget her. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Marth... Your love for her is... [WaitForA]
+But, don't put the blame on 
+yourself... [WaitForA]
+Perhaps it is because we lost 
+our loved ones that we were 
+able to reach this promised 
+victory. [WaitForA]
+Although it is sorrowful, this 
+is the eternal curse of the 
+Fire Emblem. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 655

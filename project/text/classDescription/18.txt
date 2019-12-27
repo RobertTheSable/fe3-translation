@@ -1,0 +1,6 @@
+@address $e7bf27
+@width 176
+@label classDescription_18
+Talented swordmen who fight 
+with great speed and often 
+critical. # length: 71

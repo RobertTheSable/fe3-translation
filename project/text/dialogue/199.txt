@@ -1,0 +1,29 @@
+@address $e4d7d8
+@width 160
+@label dialogue_199
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][74][06]General, the missing Altean 
+remnants have finally 
+returned. [WaitForA][SwitchFrame][00]
+[ShowPortait][88][05]Really? Haha...! What good 
+timing. [WaitForA]
+We will follow our original plan. 
+Have Gra's soldiers move out 
+to lure them and then defeat 
+them in one go. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Understood, but, what about 
+"him"? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+The paladin, Abel? It doesn't 
+matter if he betrays me! If he 
+does, you will kill the female 
+hostage!![WaitForA]
+He has already retired from 
+the army. He won't swear 
+loyalty to the prince again. [WaitForA]
+Ha ha...! How will they avoid 
+fighting Abel...? This will be 
+very interesting to watch... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 598

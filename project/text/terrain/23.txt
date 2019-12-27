@@ -1,0 +1,6 @@
+@address $f0b49a
+@type menu
+@label terrain_23
+Recover
+Avd:30%
+Recover

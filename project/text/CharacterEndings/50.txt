@@ -1,0 +1,7 @@
+@address $ff8c4d
+@width 160
+@autoend off
+@label CharacterEndings_50
+[AddSpaces][02]Caesar, Warren Mercenary 
+
+# length: 30

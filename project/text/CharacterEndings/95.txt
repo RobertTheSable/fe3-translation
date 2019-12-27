@@ -1,0 +1,14 @@
+@address $ff95cc
+@width 160
+@autoend off
+@label CharacterEndings_95
+After the war her 
+long-awaited dream was 
+realised, as the day of her 
+wedding with Marth came. [MapWaitForA]
+Clothed in a snow-white 
+dress, her appearance was as 
+beautiful as an angel. And for 
+her it was a joyous day that [MapWaitForA]
+she would never forget in her 
+life. [End][End][End][End][End][00]# length: 272

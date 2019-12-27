@@ -1,0 +1,31 @@
+@address $e0db53
+@width 160
+@label worldmap_39
+Saint Akaneia is the largest 
+country on the continent. [MapWaitForA]
+Its golden capital of Pales has 
+bathed in 600 years of proud 
+history. [MapWaitForA]
+Under the attack of Altea's 
+allied army, it fell in just one 
+day. [MapWaitForA]
+The citizens of Akaneia 
+welcomed them as liberators, 
+and supported them to their 
+fullest. [MapWaitForA]
+They also mentioned of their 
+hatred towards Hardin and his 
+personal guards. [MapWaitForA]
+Everybody now calls Hardin 
+the Dark Emperor. This was in 
+hatred of Hardin, the murderer 
+of countless people. [MapWaitForA]
+If possible fighting would be 
+avoided, but it has already 
+reached this stage... [MapWaitForA]
+Marth raises Anri's flag up 
+high, and orders his last 
+command. [MapWaitForA]
+Go, heroes of Altea! This is 
+the final battle. Everybody, 
+charge into Pales Castle!! # length: 750

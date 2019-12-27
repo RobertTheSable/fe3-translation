@@ -1,0 +1,7 @@
+@address $ff9cf8
+@width 160
+@autoend off
+@label CharacterEndings_122
+[AddSpaces][02]Wind Mage Merric 
+
+# length: 22

@@ -1,0 +1,10 @@
+@address $ff811c
+@width 160
+@autoend off
+@label CharacterEndings_01
+He returned to the
+war-devastated Altea and
+worked to restore his 
+homeland. Recently he has [MapWaitForA]
+been making preparations to 
+succeed the throne.[End][End][End][End][00]# length: 156

@@ -1,0 +1,5 @@
+@address $e7dc76
+@width 160
+@label storage_91
+Chest Key was sent to the 
+storage. # length: 39

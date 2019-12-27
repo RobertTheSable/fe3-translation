@@ -1,0 +1,5 @@
+@address $e7d960
+@width 160
+@label storage_73
+Rescue Staff was sent to the 
+storage. # length: 42

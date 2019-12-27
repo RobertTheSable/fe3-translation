@@ -1,0 +1,6 @@
+@address $ffb17a
+@width 160
+@autoend off
+@label CharacterEndings_208
+Fell in battle during "The 
+Scarlet Swordsman".[00]# length: 49

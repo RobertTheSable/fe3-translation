@@ -1,0 +1,5 @@
+@address $e7b683
+@width 240
+@type nodigraph
+@label ChapterTitles_16
+BBBB   Ch16 Camus the Sable   # length: 32

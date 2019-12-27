@@ -1,0 +1,5 @@
+@address $e7dab7
+@width 160
+@label storage_81
+Icestoen was sent to the 
+storage. # length: 38

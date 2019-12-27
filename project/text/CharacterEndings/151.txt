@@ -1,0 +1,7 @@
+@address $ffa32a
+@width 160
+@autoend off
+@label CharacterEndings_151
+She abandoned the Medonian 
+throne to work at Lena's 
+monastery. [End][End]# length: 71

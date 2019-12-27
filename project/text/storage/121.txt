@@ -1,0 +1,5 @@
+@address $e7e104
+@width 160
+@label storage_121
+Capricorn was sent to the 
+storage. # length: 39

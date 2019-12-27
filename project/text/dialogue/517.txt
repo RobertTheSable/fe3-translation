@@ -1,0 +1,8 @@
+@address $e7a5d5
+@width 160
+@label dialogue_517
+[_88][00][SwitchFrame][00]
+[_89][50][80][ShowPortait][33][04]Marth, you must stand in front 
+of this wall! Only then will the 
+door open. [WaitForA][CloseFrame][02]
+# length: 100

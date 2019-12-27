@@ -1,0 +1,7 @@
+@address $ff9c48
+@width 160
+@autoend off
+@label CharacterEndings_119
+Along with Lena he cared for 
+orphans at a monastery in 
+Medon. [End][End][End][End]# length: 74

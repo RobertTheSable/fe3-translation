@@ -1,0 +1,4 @@
+@address $f0b03c
+@type menu
+@label statusObjectives_02
+Seize throne

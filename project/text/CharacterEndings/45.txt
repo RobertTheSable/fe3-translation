@@ -1,0 +1,7 @@
+@address $ff8b4a
+@width 160
+@autoend off
+@label CharacterEndings_45
+He became the Pontifex of 
+Khadein, and afterwards 
+visited all the countries. [End][End][End][End]# length: 89

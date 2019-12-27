@@ -1,0 +1,11 @@
+@address $e6b12d
+@width 160
+@label dialogue_465
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6c][04]We thought that Nyna and 
+Hardin's marriage would finally 
+bring peace to the world, yet 
+this happened. [WaitForA]
+Oh deities... What should we 
+do...? [WaitForA][CloseFrame][02]
+# length: 171

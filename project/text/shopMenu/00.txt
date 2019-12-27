@@ -1,0 +1,5 @@
+@address $f0caa4
+@type menu
+@label shopMenu_00
+Funds
+     0

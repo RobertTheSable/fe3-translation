@@ -1,0 +1,6 @@
+@address $ffb524
+@width 160
+@autoend off
+@label CharacterEndings_220
+Fell in battle during "The Final 
+Battle". [End][00]# length: 47

@@ -1,0 +1,4 @@
+@address $e7e092
+@width 160
+@label storage_118
+Libra was sent to the storage. # length: 33

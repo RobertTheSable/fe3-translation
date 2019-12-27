@@ -1,0 +1,8 @@
+@address $f09d26
+@type menu
+@label itemDescription_25
+Transforms
+Mamkutes
+into a
+DivineDrgn
+Chiki only

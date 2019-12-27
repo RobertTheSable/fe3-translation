@@ -1,0 +1,6 @@
+@address $e7ce72
+@type default
+@width 160
+@label storage_05
+Devil Sword was sent to the
+storage. # length: 40

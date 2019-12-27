@@ -1,0 +1,4 @@
+@address $ec8078
+@width 160
+@label saveMenu_book2Start
+Book 2 War of Heroes      # length: 28

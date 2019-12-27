@@ -1,0 +1,81 @@
+@address $e2c321
+@width 160
+@label dialogue_147
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][31][06]It seems the Empire's 
+reinforcements have come. It's
+already reached this stage...  [WaitForA]
+Lord Ogma, I am deeply sorry 
+for getting you involved in all 
+of this. [WaitForA]
+But, could you listen to one 
+last request of mine? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][0d][07]I was sent here by King Talys 
+to help you. If there is 
+anything I can do for you, 
+please ask. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][31][06]Is that so...? Then, I ask of 
+you... Please send these 
+children to Medon. [WaitForA]
+These children... Prince 
+Yubello and Princess Yumina 
+are the children of the late 
+King Grust. [WaitForA]
+I have always been protecting 
+them in secret, but that is no 
+longer possible. [WaitForA]
+If they fell into General Lang's 
+hands, I bet he would execute 
+them without question. [WaitForA]
+Please, take these children to 
+Wendell at Medon. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][0d][07]I understand... I will protect 
+these two with my life. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][31][06]Truly? Thank you... Well, 
+Prince Yubello, Princess 
+Yumina, you will escape with 
+Lord Ogma. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7c][07]No! I won't go. If we must 
+escape, Lorenz must come with 
+us too. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][31][06]Princess Yumina... I am afraid I 
+cannot leave. My body is in 
+such agony that even walking 
+pains me. [WaitForA]
+So, please don't worry about 
+me. You two must flee. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7c][07]Why... Why must you say 
+that...? [WaitForA]
+Lorenz, you fought to protect 
+us. That's why you suffered 
+such a heavy wound. [WaitForA]
+How can you tell us to leave 
+you!? I will not go. I will not 
+leave your side!! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][0d][07]What should we do, General?[WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][31][06]Hmm... This is troublesome. 
+Yumina will undoubtedly stick 
+to her word... [WaitForA]
+I apologise, Lord Ogma. You 
+may leave. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][0d][07]I understand... Then, I will find 
+another way to help you. [WaitForA]
+I will find Lang and kill him... I 
+will use my blade to send him to 
+his grave. [WaitForA]
+If I succeed, perhaps the 
+nearby enemies will retreat. [WaitForA]
+General Lorenz, you must live 
+to see that day. 
+Don't get yourself killed!! [WaitForA][CloseFrame][03]
+# length: 1916

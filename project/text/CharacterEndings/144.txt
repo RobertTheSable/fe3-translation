@@ -1,0 +1,7 @@
+@address $ffa1c8
+@width 160
+@autoend off
+@label CharacterEndings_144
+[AddSpaces][02]Elrean, mage of Khadein
+
+# length: 28

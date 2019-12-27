@@ -1,0 +1,24 @@
+address 8e8000
+width 3
+data 67e1f5
+file 00.txt
+file 01.txt
+file 02.txt
+file 03.txt
+file 04.txt
+file 05.txt
+file 06.txt
+file 07.txt
+file 08.txt
+file 09.txt
+
+entry arena_00
+entry arena_01
+entry arena_02
+entry arena_03
+entry arena_04
+entry arena_05
+entry arena_06
+entry arena_07
+entry arena_08
+entry arena_09

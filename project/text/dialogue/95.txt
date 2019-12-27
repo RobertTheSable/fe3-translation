@@ -1,0 +1,17 @@
+@address $e1eb4a
+@width 160
+@label dialogue_95
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][00][04]Soldiers of Altea, and the 
+warriors that have fought 
+alongside us, I am truly 
+grateful to you all. [WaitForA]
+Thanks to your efforts, we
+have finally reclaimed our 
+homeland of Altea from the 
+hands of Doluna. [WaitForA]
+But there are probably many 
+enemies waiting for us inside 
+the castle. [WaitForA]
+Everybody, don't be careless! [WaitForA][CloseFrame][02]
+# length: 345

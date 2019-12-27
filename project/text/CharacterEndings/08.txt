@@ -1,0 +1,7 @@
+@address $ff8304
+@width 160
+@autoend off
+@label CharacterEndings_08
+[AddSpaces][02]Abel, Knight of Altea  
+
+# length: 28

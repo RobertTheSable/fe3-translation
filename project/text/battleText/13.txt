@@ -1,0 +1,4 @@
+@address $f0e4ec
+@type menu
+@label battleText_13
+!

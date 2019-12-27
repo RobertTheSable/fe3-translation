@@ -1,0 +1,18 @@
+@address $e0c826
+@width 160
+@label worldmap_31
+Marth followed Xane and 
+continued heading directly 
+north. [MapWaitForA]
+There he faced walls of 
+towering mountains... As well 
+as sheer cliffs and deep 
+valleys... [MapWaitForA]
+Then, after passing countless 
+mountains... Suddenly, a 
+scorching heat surrounds 
+everyone. [MapWaitForA]
+Magma flowing like rivers, and 
+sounds of roaring, block their 
+passage. [MapWaitForA]
+This is truly a fearful sight. # length: 370

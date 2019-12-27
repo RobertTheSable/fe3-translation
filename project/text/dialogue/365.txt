@@ -1,0 +1,6 @@
+@address $e68ff0
+@width 160
+@label dialogue_365
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][32][04]Ah, Merric... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 41

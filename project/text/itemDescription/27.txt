@@ -1,0 +1,6 @@
+@address $f09dd8
+@type menu
+@label itemDescription_27
+Restores
+10 HP with
+each use

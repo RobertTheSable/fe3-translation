@@ -1,0 +1,7 @@
+@address $ffa142
+@width 160
+@autoend off
+@label CharacterEndings_142
+[AddSpaces][02]Random Mercenary Samto 
+
+# length: 28

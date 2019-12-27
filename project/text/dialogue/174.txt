@@ -1,0 +1,71 @@
+@address $e3aa68
+@width 160
+@label dialogue_174
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][84][04]Huff, huff... Please... Help... 
+Those thieves... are going to... [WaitForA][SwitchFrame][01]
+[ShowPortait][12][07][_17][ef][ff]..... [WaitForA]
+[_16][10][00][SwitchFrame][00]
+[ClearFrame]
+Why... Why... Aren't you saying
+anything? [WaitForA]
+Oh, could it be!? You... are... 
+one of them? [WaitForA]
+I understand... You can do as 
+you please! If you must kill, 
+then kill me!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Miss... Follow me. The Altean 
+army is approaching from the 
+south of this forest. [WaitForA]
+I will take you to them... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, why are you helping me? 
+Aren't you a thief as well? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I was until now. But, I've 
+changed my mind. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Why...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Within the Altean army there is 
+somebody I want to see, that's 
+all... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh... But, in reality it's 
+because I'm cute, right? But, 
+that's alright.  [WaitForA]
+My name is Feena. I'm a dancer 
+from Warren. [WaitForA]
+Just seeing me dance will raise 
+peoples' spirits. I'll show you 
+as well. [WaitForA]
+Oh, that's right. I was 
+following a performing 
+company, but I lost my way in 
+the forests. [WaitForA]
+And then I was ambushed by 
+thieves... But this is great. [WaitForA]
+Even though you look 
+frightful, you're really a 
+gentle guy. However, you 
+appearance is... [WaitForA]
+Your face isn't too bad, but 
+your fashion sense is so and 
+so. [WaitForA]
+Also there's that hair. Does 
+anybody have hair like that 
+these days...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Enough! Have you finished 
+yet!? [WaitForA]
+Anyway, just don't leave my 
+side. We'll head through the 
+passageway towards the west 
+and make our escape. [WaitForA]
+If you don't want to die, then 
+be quiet!! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ah... Ye-yes. I'm sorry... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1507

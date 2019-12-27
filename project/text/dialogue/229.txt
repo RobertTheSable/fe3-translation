@@ -1,0 +1,42 @@
+@address $e5c726
+@width 160
+@label dialogue_229
+[_88][00][_89][48][80][SwitchFrame][00]
+[ShowPortait][8b][04]Prince Michalis!? What are you 
+doing here? [WaitForA]
+And you've suffered a grave 
+wound. What happened? [WaitForA][SwitchFrame][01]
+[ShowPortait][4c][07]...Marth... ...I have been 
+waiting... for you... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+...Take this... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...! This is the Starlight tome. 
+You're giving it to me!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That's right... Gharnef... Only 
+with this spell can he be 
+harmed. [WaitForA]
+I managed to take it back from 
+his possession... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Gharnef!? Where is he now? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+The Dragon's Table... Ha... 
+I was careless...  [WaitForA]
+I could be... Defeated by 
+Gharnef... [WaitForA]
+Marth... Good luck... I'm already
+finished.  [WaitForA]
+If Minerva is still around... Tell 
+her to... In my place... Rescue 
+Maria... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Michalis! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Your highness... I leave Maria's
+fate to you... Urgh.  [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 766

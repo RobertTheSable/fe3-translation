@@ -1,0 +1,5 @@
+@address $e7da0a
+@width 160
+@label storage_77
+Watch Staff was sent to the 
+storage. # length: 41

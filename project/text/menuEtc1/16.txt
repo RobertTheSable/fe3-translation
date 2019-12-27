@@ -1,0 +1,8 @@
+@address $f0d83c
+@type menu
+@label menuEtc1_16
+[010e][0105][HalfNewLine]
+[010e][0108]
+[010e][0108]
+[010e][0108]
+[010e][010a]

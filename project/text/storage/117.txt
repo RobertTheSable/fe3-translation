@@ -1,0 +1,4 @@
+@address $e7e06f
+@width 160
+@label storage_117
+Virgo was sent to the storage. # length: 33

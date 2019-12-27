@@ -1,0 +1,115 @@
+@address $e39f2f
+@width 160
+@label dialogue_173
+[_88][00][_89][5a][80][SwitchFrame][01]
+[ShowPortait][02][07]Your highness! We've found 
+bishop Wendell held captive in 
+the castle. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][06]Ah, bishop Wendell! It's great 
+to see that you're safe. [WaitForA]
+When I heard you were taken 
+from the village in Medon, I 
+was really worried. [WaitForA][SwitchFrame][00]
+[ShowPortait][29][05]Lang wanted me to help him 
+deal with the Grustian 
+rebellion, so he took me here. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+But, as the Pontifex of 
+Khadein, and with your power, 
+you shouldn't need to fear 
+Lang. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I don't like using magic in 
+battle. [WaitForA]
+And also, I already left the 
+magic city, Khadein, in the 
+care of the two youths, Merric 
+and Elrean. [WaitForA]
+I left because I must carry out 
+an important mission given to 
+me by Archsage Gotoh. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+A mission from Gotoh? So, are 
+you travelling the continent? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+That's right... [WaitForA]
+You should know that there 
+was once a sacred jewel, with 
+markings of the 12 
+constellations, known as the [WaitForA]
+Starsphere. [WaitForA]
+In order to dispel Gharnef's 
+dark magic, Gotoh created the 
+holy Starlight magic from the 
+Sphere. [WaitForA]
+However, at that time it 
+created a powerful shock and 
+the Sphere broke into 12 
+fragments, which flew and [WaitForA]
+scattered across the 
+continent. [WaitForA]
+Gotoh said that this world is 
+protected by the mysterious 
+power of the five Spheres. [WaitForA]
+If any one of them was lost, 
+the world will fall into ruin. [WaitForA]
+And right now, the Starsphere 
+has been broken. Therefore, 
+even now the world is 
+decaying. [WaitForA]
+The 12 fragments must be 
+brought back together, so 
+that the Starsphere can be 
+restored. [WaitForA]
+Unfortunately, I was captured 
+and the fragments that I 
+laboriously collected were 
+taken by the imperial soldiers. [WaitForA]
+Prince Marth. I realise that I 
+cannot complete my mission 
+just by myself. Can you aid me 
+in my quest? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh... How could this be...? 
+Suddenly hearing that the 
+world is falling into ruin. [WaitForA]
+I am finding it difficult to 
+believe. But, are the Star 
+fragments these? [WaitForA]
+I already have a couple. Once 
+I've reclaimed Altea, I will help 
+you look for the remaining 
+fragments and Spheres. [WaitForA]
+If possible, can you wait until 
+then? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh, that's right... Your 
+highness's country was 
+attacked by Akaneia... [WaitForA]
+I am deeply sorry. My request 
+was a little selfish. Your 
+highness, I understand... [WaitForA]
+I will also fight, to reclaim 
+Altea. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh? Bishop, can you really 
+help us fight? What about 
+Gotoh's mission...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I bet meeting your highness 
+was also planned by Gotoh. [WaitForA]
+If that is the case, I must 
+follow my fate. But, can we 
+first go to the Fane of Raman? [WaitForA]
+At that ancient temple, 
+perhaps we can recover some 
+of the lost Spheres and Star 
+fragments. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I understand. The Fane of 
+Raman is along our road to 
+reclaiming Altea. [WaitForA]
+We'll head there immediately!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2792

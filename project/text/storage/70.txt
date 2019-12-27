@@ -1,0 +1,5 @@
+@address $e7d8d8
+@width 160
+@label storage_70
+Hammerne Staff was sent to 
+the storage. # length: 44

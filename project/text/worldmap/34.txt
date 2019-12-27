@@ -1,0 +1,30 @@
+@address $e0cdd8
+@width 160
+@label worldmap_34
+Marth and the others were 
+transported to Altea's 
+outskirts by Gotoh's magic. [MapWaitForA]
+They were ready to begin the 
+battle to reclaim their 
+homeland. [MapWaitForA]
+The commander of Akaneia's 
+army, General Eibel, had 
+ordered the Gra Knights to 
+charge, to buy time. [MapWaitForA]
+At the same time he prepared 
+many dishonourable tactics, 
+and waited for the chance to 
+defeat Altea's army in one [MapWaitForA]
+swift blow. [MapWaitForA]
+Before his fond homeland, 
+Marth's battles were about to 
+begin once again. [MapWaitForA]
+"We will reclaim our capital of 
+Anri!! We will reclaim our 
+homeland!!" [MapWaitForA]
+Prince Marth's voice 
+resounded through Altea's 
+skies. [MapWaitForA]
+They had travelled a difficult 
+journey, but their destination 
+was finally reached. # length: 701

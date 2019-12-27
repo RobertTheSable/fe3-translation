@@ -1,0 +1,5 @@
+@address $e7cf1c
+@width 160
+@label storage_09
+Levin Sword was sent to the 
+storage. # length: 41

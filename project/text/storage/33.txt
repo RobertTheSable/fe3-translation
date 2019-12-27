@@ -1,0 +1,5 @@
+@address $e7d2ed
+@width 160
+@label storage_33
+Silver Axe was sent to the
+storage. # length: 39

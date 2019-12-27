@@ -1,0 +1,8 @@
+@address $96b950
+@width 160
+@type nodigraph
+@label endings_Met
+
+
+
+[AddSpaces][06][Space2]Met:P[61][F2][62][60]P# length: 14

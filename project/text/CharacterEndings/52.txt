@@ -1,0 +1,7 @@
+@address $ff8c9d
+@width 160
+@autoend off
+@label CharacterEndings_52
+[AddSpaces][02]Radd, Caesar's Partner  
+
+# length: 29

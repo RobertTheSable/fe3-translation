@@ -1,0 +1,7 @@
+@address $ff861a
+@width 160
+@autoend off
+@label CharacterEndings_20
+[AddSpaces][02]Brave Barst of Talys 
+
+# length: 26

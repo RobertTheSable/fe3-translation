@@ -1,0 +1,6 @@
+@address $ffab0f
+@width 160
+@autoend off
+@label CharacterEndings_187
+Fell in battle during 
+"Lefcandith Gauntlet".[End]# length: 48

@@ -1,0 +1,14 @@
+@address $e19d8c
+@width 160
+@label dialogue_41
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][07][04]Huh!? Aren't you the prince of 
+Altea? [WaitForA]
+Thanks for rescuing me. I'm 
+Rickard, a humble thief.[WaitForA]
+I came to the castle to steal, 
+but I was caught by the 
+Medonian soldiers. [WaitForA]
+To repay your favour, I will 
+help you. [WaitForA][CloseFrame][02]
+# length: 246

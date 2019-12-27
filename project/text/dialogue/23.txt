@@ -1,0 +1,16 @@
+@address $e0faed
+@width 160
+@label dialogue_23
+[_88][00][_89][20][80][ShowPortait][67][04]Hoho! You're looking very 
+lively, young lad! [WaitForA]
+It isn't an easy task to reach 
+a place like this. [WaitForA]
+I will reward you with this axe. [WaitForA]
+What do you think? It looks 
+impressive, no? [WaitForA]
+However... This Devil Axe is a 
+cursed axe that draws blood 
+from its user. [WaitForA]
+It would be best not to use it 
+at all!! [WaitForA][CloseFrame][02]
+# length: 336

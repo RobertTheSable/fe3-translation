@@ -1,0 +1,4 @@
+@address $f0ced4
+@type menu
+@label itemMenu_03
+[0108] Discard[0109]

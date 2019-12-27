@@ -1,0 +1,5 @@
+@address $e7bd4d
+@width 176
+@label classDescription_11
+Those of the legendary race 
+who can transform into dragons. # length: 64

@@ -1,0 +1,4 @@
+@address $f08c78
+@type menu
+@label classnames3_03
+Dragon Knight

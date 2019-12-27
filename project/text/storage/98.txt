@@ -1,0 +1,5 @@
+@address $e7dd94
+@width 160
+@label storage_98
+Goddess Icon was sent to the 
+storage. # length: 42

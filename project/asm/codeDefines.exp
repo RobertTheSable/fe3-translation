@@ -1,0 +1,16 @@
+!loadChar1 = $869744
+!loadBattleText1 = $86b09b
+!algorithm86_1 = $86b1a5
+!loadClassDescriptionBank = $86c81c
+!hook86_1 = $86ffa0
+!hook86_2 = $86ffb0
+!hook86_3 = $86ffc0
+!bank87 = $870000
+!loadMenu_Item = $87ae31
+!hook87_1 = $87b15d
+!hiddenTreasurePopup = $87b3d3
+!normalFontWidths = $87b4b8
+!fixedFontWidth = $87BCCB
+!hook87_2 = $87b9ef
+!loadStorageText = $87D50E
+!ldyOW1 = $87AE38

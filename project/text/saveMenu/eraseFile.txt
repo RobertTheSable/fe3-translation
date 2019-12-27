@@ -1,0 +1,4 @@
+@address $ec8030
+@width 160
+@label saveMenu_eraseFile
+Erase File# length: 12

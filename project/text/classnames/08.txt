@@ -1,0 +1,4 @@
+@address $f0896a
+@type menu
+@label classnames_08
+Pegasus

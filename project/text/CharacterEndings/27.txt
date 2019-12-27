@@ -1,0 +1,6 @@
+@address $ff877f
+@width 160
+@autoend off
+@label CharacterEndings_27
+He gave up thievery and 
+worked in Medon. [End][End][End][00]# length: 50

@@ -1,0 +1,5 @@
+@address $e7d427
+@width 160
+@label storage_41
+Fire Breath was sent to the 
+storage. # length: 41

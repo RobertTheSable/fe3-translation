@@ -1,0 +1,5 @@
+@address $e7e17d
+@width 160
+@label storage_124
+VIP Card was sent to the 
+storage. # length: 38

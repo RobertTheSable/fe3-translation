@@ -1,0 +1,14 @@
+@address $e2ad03
+@width 160
+@label dialogue_131
+[_88][00][SwitchFrame][00]
+[ShowPortait][4e][04]I don't believe it! Damn 
+Starlight... [WaitForA]
+But remember this. [WaitForA]
+You may have bested me, but 
+you won't be able to defeat 
+Medeus with your puny 
+strength. [WaitForA]
+Haha... I will be patiently 
+awaiting you in Hell... [_94][20][01][_89][ff][ff][CloseFrame][02]
+# length: 242

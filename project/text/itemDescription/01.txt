@@ -1,0 +1,8 @@
+@address $f094f6
+@type menu
+@label itemDescription_01
+Might:
+Hit  :
+Wt   :
+Crit :
+WpnLV::

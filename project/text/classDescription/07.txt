@@ -1,0 +1,5 @@
+@address $e7bc24
+@width 176
+@label classDescription_07
+Equestrian armoured knights 
+with balanced abilities. # length: 57

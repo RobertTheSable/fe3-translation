@@ -1,0 +1,23 @@
+@address $e085b6
+@width 160
+@label worldmap_02
+Travelling from the frontier 
+regions to Akaneia, Marth's 
+biggest challenge has 
+appeared. [MapWaitForA]
+The Samsooth Peak is a steep 
+mountain that divides the 
+peninsula into northern and 
+southern regions. [MapWaitForA]
+Since some unknown time, 
+bandits made it their base, and 
+they started attacking 
+nearby villages and travellers. [MapWaitForA]
+Raids, kidnaps, setting fires... 
+Their crimes are known to 
+many. [MapWaitForA]
+In fear, the people called the 
+mountain "The Ghoul's Teeth". [MapWaitForA]
+And they called those 
+gathered at Samsooth the 
+demonic "Soothsires"... # length: 539

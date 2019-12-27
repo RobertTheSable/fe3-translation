@@ -1,0 +1,5 @@
+@address $f09faa
+@type menu
+@label itemDescription_38
+Increases
+Luck by 5

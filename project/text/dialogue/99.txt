@@ -1,0 +1,20 @@
+@address $e1f0d9
+@width 160
+@label dialogue_99
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][28][04]Oh, Aritia's prince. [WaitForA]
+Thanks to you I was able to 
+escape. [WaitForA]
+I am Xane. I came here from a 
+faraway country. [WaitForA]
+I have the ability to transform 
+into any person. [WaitForA]
+After discovering my ability, [WaitForA]
+the Dolunian Empire tried to 
+force me to join them.[WaitForA]
+But I didn't want to do their 
+evil deeds.[WaitForA]
+Since you helped me, I will 
+come and help you. Please 
+watch over me. [WaitForA][CloseFrame][02]
+# length: 407

@@ -1,0 +1,28 @@
+@address $e0c393
+@width 160
+@label worldmap_29
+Khadein is a free city. It is not 
+under the rule of any country, 
+and is an independent country. [MapWaitForA]
+Under the ruling Pontifex are 
+numerous high bishops, and 
+the city is run with their 
+co-operation. [MapWaitForA]
+However, because Pontifex 
+Gharnef joined forces with 
+Doluna, in the previous war, 
+the city was dragged into [MapWaitForA]
+conflict and destruction. [MapWaitForA]
+After losing all the high 
+bishops, Khadein was ruled by 
+the newly elected Pontifex 
+Wendell, who began the first [MapWaitForA]
+steps along the road to 
+reconstruction. [MapWaitForA]
+But, Wendell, in order to 
+complete his mission from 
+Gotoh, left Khadein in the care 
+of two youths. [MapWaitForA]
+Merric and Elrean... They were 
+both skilled youths, with high 
+hopes placed on them. # length: 713

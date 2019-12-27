@@ -1,0 +1,8 @@
+@address $e1cd91
+@width 160
+@label dialogue_73
+[_88][04][ShowPortait][6a][04]Right now, evildoers have 
+populated this region, and 
+even walking outside is 
+dangerous. [WaitForA][CloseFrame][02]
+# length: 108

@@ -1,0 +1,6 @@
+@address $e7c5e6
+@width 160
+@label shopping_16
+
+You don't have 
+anything to sell. # length: 39

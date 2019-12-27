@@ -1,0 +1,6 @@
+@address $ffb3e3
+@width 160
+@autoend off
+@label CharacterEndings_216
+Fell in battle during "Return of 
+the Prince". [End][End]# length: 52

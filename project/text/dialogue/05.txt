@@ -1,0 +1,7 @@
+@address $e0e8cc
+@width 160
+@label dialogue_05
+[_88][04][ShowPortait][67][04]Your highness, the village has 
+opened its gates for you. [WaitForA]
+Please hurry inside. [WaitForA][CloseFrame][02]
+# length: 98

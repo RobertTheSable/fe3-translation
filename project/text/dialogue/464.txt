@@ -1,0 +1,14 @@
+@address $e6b023
+@width 160
+@label dialogue_464
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6b][04]Midia is the pride of Akaneia. [WaitForA]
+She was the daughter of the 
+highest officer of Akaneia, 
+Duke Owen. [WaitForA]
+This rebellion only came about 
+because she could not stand 
+and watch us suffer. [WaitForA]
+No matter what, you must 
+rescue her. [WaitForA][CloseFrame][02]
+# length: 258

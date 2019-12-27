@@ -1,0 +1,5 @@
+@address $e7dc28
+@width 160
+@label storage_89
+Silver Key was sent to the 
+storage.# length: 39

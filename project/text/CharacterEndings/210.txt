@@ -1,0 +1,6 @@
+@address $ffb215
+@width 160
+@autoend off
+@label CharacterEndings_210
+Fell in battle during 
+"Sanctuary of Sorcery". [End][End]# length: 52

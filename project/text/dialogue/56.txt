@@ -1,0 +1,7 @@
+@address $e1b454
+@width 160
+@label dialogue_56
+[_88][00][SwitchFrame][00]
+[_89][12][80][ShowPortait][3e][04]Yo-you. Why are you here...? 
+Damn... I'll finish you! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 83

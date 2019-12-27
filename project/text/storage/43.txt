@@ -1,0 +1,5 @@
+@address $e7d479
+@width 160
+@label storage_43
+Dark Breath was sent to the 
+storage. # length: 41

@@ -1,0 +1,5 @@
+@address $f0b5f2
+@type menu
+@label terrain_33
+Cliff
+Avd:25%

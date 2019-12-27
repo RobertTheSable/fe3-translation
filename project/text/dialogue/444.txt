@@ -1,0 +1,7 @@
+@address $e6a7c6
+@width 160
+@label dialogue_444
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][79][04]Damn... How could this 
+happen...? [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 63

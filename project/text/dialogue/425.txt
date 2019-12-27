@@ -1,0 +1,7 @@
+@address $e69dd1
+@width 160
+@label dialogue_425
+[_88][00][_89][c0][80][SwitchFrame][00]
+[ShowPortait][37][04]To think, there could be such 
+a foe... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 68

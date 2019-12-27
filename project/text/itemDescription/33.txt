@@ -1,0 +1,6 @@
+@address $f09eba
+@type menu
+@label itemDescription_33
+Increases
+Defence
+by 3

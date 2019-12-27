@@ -1,0 +1,16 @@
+@address $e4fc21
+@width 160
+@label dialogue_213
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6a][04]The soldiers here are all 
+foreigners.[WaitForA]
+There's nobody else to 
+protect this country, because 
+the knights of this country all 
+died. [WaitForA]
+Right now, the actions of the 
+Akaneian soldiers are
+deplorable. They're just the 
+same as thieves... [WaitForA]
+Those lowlifes! [WaitForA][CloseFrame][02]
+# length: 290

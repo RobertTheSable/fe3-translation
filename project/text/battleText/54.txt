@@ -1,0 +1,4 @@
+@address $f0e844
+@type menu
+@label battleText_54
+ can move!

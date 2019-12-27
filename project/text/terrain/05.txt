@@ -1,0 +1,5 @@
+@address $f0b260
+@type menu
+@label terrain_05
+Peak
+Blocked

@@ -1,0 +1,8 @@
+@address $f09582
+@type menu
+@label itemDescription_04
+WeaponLv 1
+Exp   14
+Restores
+Power+10HP
+to an ally

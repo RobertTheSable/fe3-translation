@@ -1,0 +1,7 @@
+@address $ffa2cd
+@width 160
+@autoend off
+@label CharacterEndings_149
+She buried her troubling 
+thoughts and persevered with 
+her work. [End][00]# length: 71

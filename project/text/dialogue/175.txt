@@ -1,0 +1,79 @@
+@address $e3b089
+@width 160
+@label dialogue_175
+[_88][00][_89][0d][80][SwitchFrame][01]
+[ShowPortait][02][07]Your highness, we've finally 
+got rid of the thieves, but the 
+temple has been completely 
+wrecked by them and there's [WaitForA]
+nothing left there. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Really, even the Fane of 
+Raman has been reduced to 
+ruins? This is a frightful age 
+we're in. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, I bet even the Guardian 
+God Naga is furious. It's as if 
+we're heading towards the ruin 
+of this world. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Jagen, you know of the tales 
+of Naga? Can you tell me what 
+you know of them? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, but I only know a little... 
+This occured almost a 
+thousand years ago. [WaitForA]
+Back then there were no 
+kingdoms in this continent, 
+and people lived separately in 
+small villages. [WaitForA]
+At that time there existed 
+frightful monsters, which 
+would occasionally attack 
+humans. [WaitForA]
+At one stage, only around 
+10,000 humans remained and 
+mankind was nearing 
+extinction. [WaitForA]
+It was said that the surviving 
+humans prayed to the deities 
+for help. [WaitForA]
+The deities answered their 
+wishes and sent a gigantic 
+warrior to the earth. [WaitForA]
+The warrior held in his right 
+hand a sword of light. In his 
+left hand was a shield 
+encrusted with five jewels. [WaitForA]
+After many violent battles, 
+the monsters were defeated 
+and the warrior returned to 
+the heavens... [WaitForA]
+That warrior was the Guardian 
+God Naga, who was worshipped 
+in this very temple. [WaitForA]
+[SetColor][00][2c]"He assumed the form of a 
+god, and became our Guardian 
+God..."[WaitForA]
+[SetColor][00][24]Your highness, you should 
+know that line from the first 
+chapter of the Raman Bible. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmm, I have heard that before. 
+The tales of Naga... [WaitForA][_89][0d][80][SwitchFrame][01]
+[ClearFrame]
+[_10][19]Your highness, we must cross
+Chiasmir Bridge next. [WaitForA]
+If we don't hurry, the enemy 
+will gain full control of it and 
+we won't be able to cross. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmm,that's true. That bridge 
+could become very dangerous. [WaitForA]
+Okay, tell all the troops that 
+we're going to break across 
+Chiasmir Bridge, and make 
+sure that nobody falls behind! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1938

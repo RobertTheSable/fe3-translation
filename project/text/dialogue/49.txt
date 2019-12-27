@@ -1,0 +1,9 @@
+@address $e1ae52
+@width 160
+@label dialogue_49
+[_88][00][SwitchFrame][00]
+[_89][12][80][ShowPortait][3b][04]Damn you Minerva, daring to 
+betray us. In that case, you 
+guys shall accompany her in 
+Hell. [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 124

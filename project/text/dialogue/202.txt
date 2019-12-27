@@ -1,0 +1,38 @@
+@address $e4dbc1
+@width 160
+@label dialogue_202
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][8b][04]That was a fierce battle. Is 
+everybody alright? [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Don't worry, they have been 
+awaiting this day for a long 
+time. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Akaneia's actions were too 
+cold-hearted. They even had 
+innocent citizens killed. [WaitForA]
+How can I apologise to the 
+citizens...? I only bring trouble 
+to everybody... [WaitForA]
+Perhaps I'm not fit to protect 
+this country. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, your highness, you're 
+wrong! [WaitForA]
+Your highness, you have a 
+gentle heart, so that is why no 
+matter what hardships, we can 
+endure them. [WaitForA]
+We believe in your highness, 
+so that is why we follow you. [WaitForA]
+Your highness, please raise 
+your spirit!! We still haven't 
+reclaimed Altea castle. [WaitForA]
+There are probably many 
+enemies awaiting us, but this 
+is our castle. [WaitForA]
+We already know how to fight 
+this battle. Well, Lord Marth! 
+Let's go!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 843

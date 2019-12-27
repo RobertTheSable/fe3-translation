@@ -1,0 +1,7 @@
+@address $ff88e6
+@width 160
+@autoend off
+@label CharacterEndings_34
+[AddSpaces][02]Wolf, Soldier of Aurelis 
+
+# length: 30

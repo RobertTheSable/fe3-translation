@@ -1,0 +1,4 @@
+@address $f0b6d8
+@type menu
+@label menuCommands_07
+[0108] Door   [0109]

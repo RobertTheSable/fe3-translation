@@ -1,0 +1,8 @@
+@address $ff9a69
+@width 160
+@autoend off
+@label CharacterEndings_111
+He remained within the knights 
+and worked under Marth. Later 
+he became one of the 
+continent's few Paladins. [End][End]# length: 118

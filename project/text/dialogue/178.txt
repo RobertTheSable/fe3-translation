@@ -1,0 +1,52 @@
+@address $e3c002
+@width 160
+@label dialogue_178
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][06][07]Mister Jeorge! Please wait a 
+second! [WaitForA][SwitchFrame][00]
+[ShowPortait][20][04]Huh? ...Gordin? Long time no 
+see. [WaitForA]
+You appear stronger, but has 
+your archery improved? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, right now... I am 
+recognised as the finest 
+archer of Altea. [WaitForA]
+It was all thanks to you, Mister
+Jeorge, that I could become 
+this strong.  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+So? Did you come all the way 
+here so that you could duel 
+with me? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Wh-what? Of course not! This 
+might sound silly but... 
+Can you come along with us 
+again? [WaitForA]
+[SwitchFrame][00]
+[ClearFrame]
+[_17][ef][ff]..... [WaitForA]
+[_16][10][00][SwitchFrame][01]
+[ClearFrame]
+Please! Mister Jeorge!![WaitForA]
+[SwitchFrame][00]
+[ClearFrame]
+I already swore an oath to 
+Nyna, but I can't stand Hardin. [WaitForA]
+He used his might to threaten 
+other countries, and executed 
+anybody who opposed him 
+without question. [WaitForA]
+Akaneia's army right now is 
+just a bunch of paid savages 
+with no dignity of a knight. [WaitForA]
+I will draw my bow against my 
+own country, to bring back the 
+Kingdom of Akaneia of old. [WaitForA]
+Gordin, I hope you can pass on 
+my thoughts to Prince Marth. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Thank you, Mister Jeorge!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1029

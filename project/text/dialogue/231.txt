@@ -1,0 +1,28 @@
+@address $e5cfa2
+@width 160
+@label dialogue_231
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][90][04]What is this strange air? It 
+feels like it's full of evil 
+spirits. [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]That is true... My body appears 
+to be frozen. These are the 
+evil spirits of the Earth 
+Dragons. [WaitForA]
+Your highness, it seems we 
+can't have everybody enter 
+ahead. [WaitForA]
+Since we don't know what will 
+happen, please choose 
+carefully who to take with you. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I hope to at least take the 
+people who are worried about 
+the four clerics. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm... There's no avoiding 
+that. But how many people will 
+survive? I bet this will be a 
+fierce battle. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 568

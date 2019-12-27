@@ -1,0 +1,15 @@
+@address $e4df35
+@width 160
+@label dialogue_203
+[_88][00][_89][20][80][SwitchFrame][01]
+[ShowPortait][69][07]Oh, your highness, you've 
+finally come. I have been 
+waiting, to give this to you. [WaitForA]
+However this village and the 
+neighbouring village... [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Mmm, I understand. But, for 
+the sake of everyone, you 
+should start to make up with 
+them... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 275

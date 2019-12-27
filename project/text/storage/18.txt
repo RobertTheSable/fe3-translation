@@ -1,0 +1,5 @@
+@address $e7d0a0
+@width 160
+@label storage_18
+Ridersbane was sent to the 
+storage. # length: 40

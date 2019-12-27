@@ -1,0 +1,9 @@
+@address $ff9421
+@width 160
+@autoend off
+@label CharacterEndings_89
+Although Grust's rule was 
+enthrusted to him and its 
+prince, he was later banished 
+by Akaneia for his opposing [MapWaitForA]
+views. [End][End][End]# length: 131

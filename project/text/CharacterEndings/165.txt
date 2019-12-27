@@ -1,0 +1,8 @@
+@address $ffa61f
+@width 160
+@autoend off
+@label CharacterEndings_165
+She refused Marth's request, 
+and abandoned the throne of 
+Gra. She now lives as a citizen 
+of Pales. [End]# length: 107

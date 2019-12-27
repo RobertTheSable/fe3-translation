@@ -1,0 +1,5 @@
+@address $e7df4b
+@width 160
+@label storage_109
+Iote's Shield was sent to the
+storage. # length: 42

@@ -1,0 +1,6 @@
+@address $ffa788
+@width 160
+@autoend off
+@label CharacterEndings_171
+After the war he once again 
+vanished without a trace. [End][00]# length: 59

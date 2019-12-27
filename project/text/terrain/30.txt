@@ -1,0 +1,6 @@
+@address $f0b586
+@type menu
+@label terrain_30
+Arena
+Avd: 0%
+WinGold

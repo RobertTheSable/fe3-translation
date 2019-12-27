@@ -1,0 +1,4 @@
+@address $f0e584
+@type menu
+@label battleText_22
+Skill 

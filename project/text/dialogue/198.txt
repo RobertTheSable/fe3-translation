@@ -1,0 +1,94 @@
+@address $e4ce49
+@width 160
+@label dialogue_198
+[_88][00][_89][5e][80][SwitchFrame][00]
+[ShowPortait][33][04]Marth, this is the Starsphere. 
+You can take this with you as 
+well. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Huh? Gotoh, why are you 
+giving such an important item 
+to me? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+The only person that can 
+restore the Binding Shield is 
+you... The Shield, itself, has 
+chosen you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff].....? [WaitForA]
+[_16][10][00][SwitchFrame][00]
+[ClearFrame]
+You still don't understand? 
+The Emblem shield you're 
+carrying is the stolen [SetColor][00][28]Binding 
+Shield. [SetColor][00][24][WaitForA]
+To be honest, it was only 
+recently that I noticed; its 
+exterior had completely 
+changed... [WaitForA]
+After stealing it from the Fane 
+of Raman, the thief removed 
+its jewels and sold them off as 
+treasures. [WaitForA]
+The money was used to fund an 
+army, which, along with three 
+stolen weapons, was used to 
+conquer the world. [WaitForA]
+The thief that went on to 
+become the king of Akaneia 
+had the shield, which brought 
+him such good fortune, become [WaitForA]
+the emblem of his royal family. [WaitForA]
+Now do you understand, 
+Marth? It is what you are 
+carrying, Akaneia's [SetColor][00][28]Fire 
+Emblem. [SetColor][00][24][WaitForA][SwitchFrame][01]
+[ClearFrame]
+!! What... ...The first king of 
+Akaneia was originally a 
+thief!? [WaitForA]
+Is that true...? In that case, I 
+can kind of understand the 
+curse of the Fire Emblem... [WaitForA]
+Then, Gotoh... If I can collect 
+all five Spheres, can I restore 
+the Binding Shield? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... But please hurry up. 
+The shield has already been 
+broken for 600 years... [WaitForA]
+It is almost time for the Earth 
+Dragons, sealed underneath 
+Medon, to awaken from their 
+slumber. [WaitForA]
+Those evil Earth Dragons 
+number several hundreds... No, 
+several thousands. [WaitForA]
+Once they awaken there will be 
+nothing that we can do... [WaitForA]
+I will leave Tiki in your care.[WaitForA]
+You can find her in the room to
+the right. That Divine Dragon 
+child should be able to help 
+you battle the Earth Dragons. [WaitForA]
+But, I will state clearly, if the 
+Binding Shield is not restored, 
+Tiki will be destroyed. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh...!? Why is that... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+That child is still developing. 
+Without the Binding Shield she 
+will begin to degenerate. [WaitForA]
+Eventually she will become wild 
+and attack humans. I made her 
+sleep, because I felt sad for 
+her. [WaitForA]
+But, if the Binding Shield is 
+restored I will no longer have 
+to worry, because the shield 
+will protect Tiki. [WaitForA]
+Marth, please take care of 
+Tiki. You must rescue that 
+child from the path of ruin. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2324

@@ -1,0 +1,10 @@
+@address $e19105
+@width 160
+@label dialogue_34
+[_88][04][ShowPortait][6b][04]Weapons' might increases 
+going from Iron to Steel to 
+Silver. [WaitForA]
+However, to use weapons of 
+greater might, you must have 
+the necessary Weapon Level. [WaitForA][CloseFrame][02]
+# length: 171

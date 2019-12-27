@@ -1,0 +1,20 @@
+@address $e4e05c
+@width 160
+@label dialogue_204
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][90][04]What's going on...? Even 
+thieves have managed to find 
+their way in. [WaitForA]
+Could the Geosphere have 
+been taken by them!? [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Your highness, a suspicious 
+thief is escaping towards the 
+north. [WaitForA]
+We should send somebody in 
+pursuit before it's too late. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm, but we can't use horses 
+or Pegasi inside, so what 
+should we do... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 371

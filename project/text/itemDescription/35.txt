@@ -1,0 +1,5 @@
+@address $f09f12
+@type menu
+@label itemDescription_35
+Increases
+Speed by 5

@@ -1,0 +1,7 @@
+@address $e69712
+@width 160
+@label dialogue_401
+[_88][00][_89][11][80][SwitchFrame][00]
+[ShowPortait][2b][04]I'm sorry... This is for my 
+lover... Forgive me... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 80

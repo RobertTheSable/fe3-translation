@@ -1,0 +1,5 @@
+@address $e7d59c
+@width 160
+@label storage_50
+Thoron was sent to the 
+storage. # length: 36

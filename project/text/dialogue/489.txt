@@ -1,0 +1,9 @@
+@address $e6cabf
+@width 160
+@label dialogue_489
+[_88][00][_89][61][80][ShowPortait][68][04]Oh, Altean soldiers. I beg of 
+you, please defeat General 
+Lang. [WaitForA]
+As long as that man is here, we 
+will never live in peace. [WaitForA][CloseFrame][02]
+# length: 149

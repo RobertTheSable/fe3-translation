@@ -1,0 +1,20 @@
+@address $e09752
+@width 160
+@label worldmap_10
+Gra, from the very beginning, 
+was an ally of Altea. [MapWaitForA]
+However, during the battle 
+with Grust, they suddenly 
+sided with the enemy. [MapWaitForA]
+Because they were ambushed 
+from behind, the Altean army 
+was decimated. [MapWaitForA]
+And its king, Cornelius, and 
+the Falchion disappeared at 
+Gra. [MapWaitForA]
+It has already been 2 years 
+since that tragic day... [MapWaitForA]
+Marth finally reaches Gra 
+castle, guarded by the one 
+who drove his father to death, 
+Jiol. # length: 437

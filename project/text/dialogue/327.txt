@@ -1,0 +1,7 @@
+@address $e687a1
+@width 160
+@label dialogue_327
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][82][04]Pretty boys don't have it 
+easy... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 63

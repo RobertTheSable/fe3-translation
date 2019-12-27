@@ -1,0 +1,26 @@
+@address $e6e702
+@width 160
+@label dialogue_503
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][69][04]General Lorenz recovered the 
+children from Wendell, hoping 
+to raise them at Grust. [WaitForA]
+When the Emperor found out, 
+he ordered him to hand over 
+the children. [WaitForA]
+The general hid the children 
+away because he feared they 
+would be killed. [WaitForA]
+Following that, he lost his 
+power and then Commander 
+Lang came. [WaitForA]
+In order to find the children, 
+Lang performed many 
+atrocities. [WaitForA]
+Eventually we rebelled 
+because we could no longer 
+stand him. [WaitForA]
+But, everything's over. The 
+people of this country will all 
+be killed by Lang! [WaitForA][CloseFrame][02]
+# length: 567

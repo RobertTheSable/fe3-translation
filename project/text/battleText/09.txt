@@ -1,0 +1,4 @@
+@address $f0e4aa
+@type menu
+@label battleText_09
+ got 

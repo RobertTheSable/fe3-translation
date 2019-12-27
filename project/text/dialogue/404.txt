@@ -1,0 +1,4 @@
+@address $e69831
+@width 160
+@label dialogue_404
+# length: 2

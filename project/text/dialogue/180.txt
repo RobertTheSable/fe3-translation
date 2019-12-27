@@ -1,0 +1,18 @@
+@address $e3c48d
+@width 160
+@label dialogue_180
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][02][07]Your highness, please hurry. 
+The pursuers have already 
+arrived. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]But, everybody is still 
+fighting. I can't just leave 
+them. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Don't worry. They will all 
+escape safely. We will all meet 
+up at Khadein. [WaitForA]
+Well, your highness, please get 
+onboard the ship! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 305

@@ -1,0 +1,5 @@
+@address $f0b5d2
+@type menu
+@label terrain_32
+Corridr
+Avd: 0%

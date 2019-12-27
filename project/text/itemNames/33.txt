@@ -1,0 +1,4 @@
+@address $f08f44
+@type menu
+@label itemNames_33
+Blizzrd

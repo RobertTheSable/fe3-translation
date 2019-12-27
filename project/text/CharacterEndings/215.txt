@@ -1,0 +1,6 @@
+@address $ffb395
+@width 160
+@autoend off
+@label CharacterEndings_215
+Fell in battle during "A Mystery 
+Revealed".[End][00]# length: 48

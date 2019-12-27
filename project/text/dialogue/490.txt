@@ -1,0 +1,12 @@
+@address $e6cb5c
+@width 160
+@label dialogue_490
+[_88][00][_89][21][80][ShowPortait][6b][04]Now that I think about it. I 
+haven't seen that mercenary, 
+Samto, recently. [WaitForA]
+I thought that maybe he had 
+joined your army... [WaitForA]
+Samto can seem like a very 
+casual type of guy, but his 
+skill is impressive. [WaitForA][CloseFrame][02]
+# length: 235

@@ -1,0 +1,6 @@
+@address $e7bb11
+@width 176
+@label classDescription_03
+Lightly equipped bowmen, 
+skilled in forest and mountain 
+combat. # length: 70

@@ -1,0 +1,8 @@
+@address $ff9dc4
+@width 160
+@autoend off
+@label CharacterEndings_127
+She studied at Pales' magic 
+academy, and is on the road to 
+becoming a fully fledged 
+Cleric. [End][End][End]# length: 104

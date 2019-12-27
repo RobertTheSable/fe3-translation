@@ -1,0 +1,28 @@
+@address $e6a4fe
+@width 160
+@label dialogue_441
+[_88][00][SwitchFrame][00]
+[ShowPortait][13][04]Marth... Your highness... I have 
+finally awakened... From my 
+deep dream... [_94][20][01]
+
+Your higness... I am deeply 
+sorry... I fought with my inner 
+demon. However I was too 
+weak... [WaitForA]
+I resisted with all my might... 
+But I still lost... [_94][20][01]
+
+I hoped for your highness' 
+hand to end my life... That way 
+I could be saved... [_94][20][01]
+
+Your highness... Nyna... Please 
+take care of Nyna... [_94][20][01]
+
+She... I hope you... can tell 
+her... In the... end... I still... 
+loved her... [_94][20][01]
+
+I hope... She can... forgive me...[_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 553

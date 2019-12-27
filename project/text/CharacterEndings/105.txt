@@ -1,0 +1,8 @@
+@address $ff9940
+@width 160
+@autoend off
+@label CharacterEndings_105
+For some reason he left the 
+Altean knights for Pales. Later 
+he joined Akaneia's free 
+knights. [End][End][End]# length: 106

@@ -1,0 +1,4 @@
+@address $f0b97c
+@type menu
+@label menuStats_12
+FireD

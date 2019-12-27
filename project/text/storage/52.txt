@@ -1,0 +1,5 @@
+@address $e7d5f5
+@width 160
+@label storage_52
+Excalibur was sent to the 
+storage. # length: 39

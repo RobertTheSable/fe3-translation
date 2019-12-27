@@ -1,0 +1,4 @@
+@address $f09146
+@type menu
+@label itemNames_70
+Divine

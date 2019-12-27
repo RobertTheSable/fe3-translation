@@ -1,0 +1,43 @@
+files:
+    mainDir: project
+    input: 
+        directory: text
+    output:
+        directory: asm
+        binaries: 
+            mainDir: bin
+            textDir: text
+            fonts: 
+                dir: fonts
+                includes: 
+                    - fontBinaries
+            extras:
+                - titleScreen
+        includes:
+            - code.asm
+    romDir: roms
+config:
+    directory: config
+    inMapping: in.yml
+    defaultMode: nodigraph
+roms:
+    - name: "v1.0_unheadered"
+      file: "Fire Emblem 3.0.sfc"
+      header: false
+      includes:
+        - codeDefines.exp
+    - name: "v1.0_headered"
+      file: "Fire Emblem 3.0.smc"
+      header: true
+      includes:
+        - codeDefines.exp
+    - name: "v1.1_unheadered"
+      file: "Fire Emblem 3.1.sfc"
+      header: false
+      includes:
+        - codeDefinesv1.1.exp
+    - name: "v1.1_headered"
+      file: "Fire Emblem 3.1.smc"
+      header: true
+      includes:
+        - codeDefinesv1.1.exp

@@ -1,0 +1,23 @@
+@address $e0df8c
+@width 160
+@label worldmap_41
+A stone bridge leading up the 
+tall rocky mountain. This stone 
+bridge seems to stretch to the 
+heavens, as it spirals[MapWaitForA]
+around.[MapWaitForA]
+From the rocks fearful roaring 
+and breathing sounds can be 
+heard, as if the mountain was 
+alive. [MapWaitForA]
+The Dragon's Table... It is an 
+ancient ruin of the dragon 
+tribe, and the place where the 
+Divine Dragon King, Naga, [MapWaitForA]
+sealed away the Earth 
+Dragons. [MapWaitForA]
+Now, after a period of 600 
+years, the Earth Dragons are 
+currently awakening, [MapWaitForA]
+and countless evil demons are 
+being born... # length: 525

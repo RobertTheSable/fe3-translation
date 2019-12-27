@@ -1,0 +1,15 @@
+address f0ce86
+width 2
+file 00.txt
+file 01.txt
+file 02.txt
+file 03.txt
+file 04.txt
+file 05.txt
+
+entry itemMenu_00
+entry itemMenu_01
+entry itemMenu_02
+entry itemMenu_03
+entry itemMenu_04
+entry itemMenu_05

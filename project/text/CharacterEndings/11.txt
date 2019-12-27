@@ -1,0 +1,8 @@
+@address $ff83b0
+@width 160
+@autoend off
+@label CharacterEndings_11
+He remained in the army to 
+defend the frontiers. His 
+constitution has increased by 
+10 kg.[End][End]# length: 99

@@ -1,0 +1,9 @@
+@address $ff97b3
+@width 160
+@autoend off
+@label CharacterEndings_99
+He became the leader of 
+Altea's royal knights. After 
+Jagen's death, he became 
+Marth's most trusted [MapWaitForA]
+subordinate. [End][End][End][End][End]# length: 130

@@ -1,0 +1,4 @@
+@address $f09210
+@type menu
+@label itemNames_83
+Goddess

@@ -1,0 +1,61 @@
+@address $e4ec78
+@width 160
+@label dialogue_207
+[_88][00][_89][45][80][SwitchFrame][01]
+[ShowPortait][26][07]Princess Sheema, it seems the 
+Altean army has arrived. [WaitForA][SwitchFrame][00]
+[ShowPortait][89][04]Really...? It's already the end. [WaitForA]
+Samson, I have brought you 
+much trouble. I need to watch 
+the final days of my Kingdom 
+of Gra. You may leave now. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Princess, isn't it already 
+enough? Shouldn't you despise 
+King Jiol for forcefully taking 
+your mother? [WaitForA]
+Isn't that why you hid at Pales 
+and stayed away from this 
+country? [WaitForA]
+Right now you are just being 
+tricked by Hardin, and being 
+used by him. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Perhaps. [WaitForA]
+I heard that the people of Gra 
+wished for the restoration of 
+the country, and that's why I 
+agreed to help him. [WaitForA]
+However Hardin is only 
+interested in using us. [WaitForA]
+He would just throw us away 
+like rubbish the moment we 
+became useless to him. [WaitForA]
+Still, I will not leave! How can I 
+just abandon those fighting 
+for my sake!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Impossible... How can our fresh 
+recruits resist Altea's 
+elites...? [WaitForA]
+Fine, if you're staying, I will 
+also stay to the end. This 
+could be interesting. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Samson... Why are you doing 
+this? Aren't you mercenaries 
+only interested in being paid 
+with gold? [WaitForA]
+I no longer have money to give 
+you... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I don't know why either. It's 
+just... Sometimes men feel like 
+there are things that they 
+must do. [WaitForA]
+Also, I want to see how that 
+kid fights this battle. If he 
+truly is a hero, perhaps your 
+mind may be changed... [WaitForA][CloseFrame][2e]
+[CloseFrame][03]
+# length: 1431

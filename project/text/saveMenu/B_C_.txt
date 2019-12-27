@@ -1,0 +1,4 @@
+@address $84c6ae
+@width 160
+@label saveMenu_B_C_
+[Space2][Bullet]B[_11][_11][Space2]C[_11][_11][Space2][Space2][Space2]# length: 18

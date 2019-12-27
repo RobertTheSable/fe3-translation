@@ -1,0 +1,5 @@
+@address $e7d049
+@width 160
+@label storage_16
+Steel Lance was sent to the 
+storage. # length: 41

@@ -1,0 +1,4 @@
+@address $84c6e7
+@width 160
+@label saveMenu_F2
+F[_11][_11]-[_11][Two2][Space2]# length: 12

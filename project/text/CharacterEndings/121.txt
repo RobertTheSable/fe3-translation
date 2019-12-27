@@ -1,0 +1,7 @@
+@address $ff9cae
+@width 160
+@autoend off
+@label CharacterEndings_121
+He ignored the hopes of 
+others, and once again left 
+like the wind. [End][00]# length: 74

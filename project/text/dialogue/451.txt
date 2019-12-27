@@ -1,0 +1,7 @@
+@address $e6a9cf
+@width 160
+@label dialogue_451
+[_88][00][_89][38][80][SwitchFrame][00]
+[ShowPortait][7e][04]Stained flames must be 
+extinguished...[_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 67

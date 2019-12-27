@@ -1,0 +1,19 @@
+@address $e09a43
+@width 160
+@label worldmap_12
+After being tragically 
+defeated by Gharnef's dark 
+magic, Imhullu, [MapWaitForA]
+Prince Marth finally marches 
+his army south, in order to 
+fulfil his hope of reclaiming his 
+homeland of Altea. [MapWaitForA]
+The Kingdom of Altea is a 
+beautiful country, surrounded 
+by rich water and greenery. [MapWaitForA]
+But, after being occupied by 
+Doluna, the country has fall 
+into ruin, and its citizens live 
+in eternal suffering. [MapWaitForA]
+Right now, they can finally 
+welcome the days of freedom. # length: 462

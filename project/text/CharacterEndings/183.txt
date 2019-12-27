@@ -1,0 +1,6 @@
+@address $ffa9da
+@width 160
+@autoend off
+@label CharacterEndings_183
+Fell in battle during "The 
+Pirates of Galder". # length: 48

@@ -1,0 +1,4 @@
+@address $f0e4c4
+@type menu
+@label battleText_11
+ chanted 

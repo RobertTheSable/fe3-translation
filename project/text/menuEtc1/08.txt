@@ -1,0 +1,4 @@
+@address $f0d562
+@type menu
+@label menuEtc1_08
+ recruited!

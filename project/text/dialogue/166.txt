@@ -1,0 +1,29 @@
+@address $e38f69
+@width 160
+@label dialogue_166
+[_88][00][_89][4d][80][SwitchFrame][01]
+[ShowPortait][0f][06]Hey, Rickard! What are you 
+doing here?[WaitForA][SwitchFrame][00]
+[ShowPortait][07][05]Oh, big bro. It's been so long. [WaitForA]
+Originally I planned to earn 
+money with you. But you had 
+already stopped your ways. [WaitForA]
+But, even if you found 
+yourself a pretty cleric, it 
+wasn't nice to just abandon me 
+like that. [WaitForA]
+Our love is just like that, huh?[WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hey! Shut up!! Don't spout 
+nonsense like that, or other 
+people will get the wrong 
+impression. [WaitForA]
+Anyway, you should quit your 
+ways as well, and come with 
+me. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ha... I understand. Wherever 
+you go, I'll follow you. Big bro 
+Julian❤ [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 594

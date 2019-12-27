@@ -1,0 +1,67 @@
+@address $e6de1a
+@width 160
+@label dialogue_500
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][31][07]Lord Marth! It's you... [WaitForA]
+Although I knew the enemy's 
+reinforcements had come, but 
+I didn't expect it was you... [WaitForA]
+It is a shame, that we must 
+fight Altea... And fight against 
+your highness... [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Please wait. I don't intend to 
+fight with you. [WaitForA]
+From the citizens I have 
+discovered disturbing facts 
+about the atrocities 
+performed by the occupation [WaitForA]
+army. [WaitForA]
+I will inform Emperor Hardin 
+about these facts. If I meet 
+him, I will definitely be able to 
+rescue Grust. [WaitForA]
+So, please, put away your 
+weapon. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Your highness... I appreciate 
+your favour. But that is 
+impossible. [WaitForA]
+Your highness, you don't know 
+a thing. [WaitForA]
+You think that somebody like 
+Hardin would send a heartless 
+man like Lang here for no 
+reason? [WaitForA]
+He wanted to provoke us into 
+rebelling, so that the Kingdom 
+of Grust would be completely 
+destroyed and become ruled by [WaitForA]
+the Empire. [WaitForA]
+That is the reason why he sent 
+such a cold-blooded man here. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What? Why would he!? I cannot 
+possibly believe that Hardin 
+would do such a thing. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I didn't expect you to accept 
+the truth so quickly. However, 
+since he became Emperor he 
+has completely changed. [WaitForA]
+He is no longer the Hardin that 
+your highness once knew. [WaitForA]
+Anyway, I believe we're 
+finished here... However, your 
+highness, I have just one last 
+request. [WaitForA]
+In this fortress, Grust's royal 
+princess and prince are hiding. [WaitForA]
+Please save those children. If 
+you can promise me that, I will 
+have no regrets. [WaitForA]
+Lord Marth... Let's just say 
+that in exchange for my life, 
+these children... I will hand 
+them in your care... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1667

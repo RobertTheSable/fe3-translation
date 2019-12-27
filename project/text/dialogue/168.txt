@@ -1,0 +1,23 @@
+@address $e39379
+@width 160
+@label dialogue_168
+[_88][00][_89][0d][80][SwitchFrame][01]
+[ShowPortait][02][06]Your highness, we've finally 
+subdued Grust. [WaitForA]
+However, many enemies are 
+hiding inside the castle. So we 
+must be careful. [WaitForA][SwitchFrame][00]
+[ShowPortait][90][05]Hmm, I understand. [WaitForA]
+Still... If we don't defeat Lang, 
+the citizens of this country 
+cannot be saved. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That's right. He must be 
+defeated at all costs... [WaitForA]
+Yet, we don't know what 
+dastardly plans he has 
+prepared for us. [WaitForA]
+So, if we're fighting inside, we 
+must be extremely careful! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 466

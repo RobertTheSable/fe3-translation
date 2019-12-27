@@ -1,0 +1,8 @@
+@address $ffa6fd
+@width 160
+@autoend off
+@label CharacterEndings_169
+He joined the Akaneian free 
+knights to serve his people. 
+Recently he finally married his 
+loved one... [End][End][End]# length: 114

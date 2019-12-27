@@ -1,0 +1,4 @@
+@address $ec8024
+@width 160
+@label saveMenu_copyFile
+Copy File # length: 12

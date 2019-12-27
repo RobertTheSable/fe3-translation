@@ -1,0 +1,7 @@
+@address $ff8413
+@width 160
+@autoend off
+@label CharacterEndings_12
+[AddSpaces][02]Gordin, Archer of Altea  
+
+# length: 30

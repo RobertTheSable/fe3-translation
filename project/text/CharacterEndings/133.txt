@@ -1,0 +1,6 @@
+@address $ff9f55
+@width 160
+@autoend off
+@label CharacterEndings_133
+He returned to Medon, and 
+became a hunter once more. [End][End][End][End][End]# length: 65

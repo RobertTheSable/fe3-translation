@@ -1,0 +1,4 @@
+@address $f0d8b8
+@type menu
+@label supply_03
+[0108]             [0109]

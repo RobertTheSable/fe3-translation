@@ -1,0 +1,6 @@
+@address $ffad36
+@width 160
+@autoend off
+@label CharacterEndings_194
+Fell in battle during "The 
+Battle for Altea".[00]# length: 48

@@ -1,0 +1,6 @@
+@address $e7cd61
+@width 160
+@label shopping_67
+
+Anything else you 
+want to sell? # length: 38

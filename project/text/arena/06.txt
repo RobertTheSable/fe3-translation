@@ -1,0 +1,7 @@
+@address $e7e3d3
+@width 160
+@label arena_06
+
+In that case, I'm keeping the 
+wager. 
+Come again. [WaitForA]# length: 59

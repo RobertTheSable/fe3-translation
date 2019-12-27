@@ -1,0 +1,7 @@
+@address $ff92ae
+@width 160
+@autoend off
+@label CharacterEndings_81
+By Jagen's request he became 
+the captain of the Altean 
+Knights. [End][End]# length: 72

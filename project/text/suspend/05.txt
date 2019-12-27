@@ -1,0 +1,5 @@
+@address $f0bc7e
+@type menu
+@label suspend_05
+  Supply is empty
+  Please press B

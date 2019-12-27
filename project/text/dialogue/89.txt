@@ -1,0 +1,34 @@
+@address $e1e394
+@width 160
+@label dialogue_89
+[_88][00][_89][0c][80][SwitchFrame][00]
+[ShowPortait][33][04]Prince Marth... I am Archsage 
+Gotoh. [WaitForA]
+I am currently using my magic 
+to communicate with you. [WaitForA]
+... It is saddening to see you 
+being mocked by Gharnef... 
+Listen to me well. [WaitForA]
+Gharnef and Miloah were both 
+my pupils. But Gharnef stole 
+Imhullu from me and 
+disappeared. [WaitForA]
+Mmm... He indeed has the 
+Falchion as well. [WaitForA]
+With Imhullu and the Falchion, 
+the Dolunian Empire has 
+nothing to fear.[WaitForA]
+This world will eventually be 
+theirs.[WaitForA]
+So long as Gharnef has 
+Imhullu, you won't be able to 
+defeat him. [WaitForA]
+...However... There is one
+method.[WaitForA]
+Find the [SetColor][00][28]Starsphere [SetColor][00][24]and [SetColor][00][28]
+Lightsphere [SetColor][00][24]and bring them to 
+me. [WaitForA]
+With them both, then the only 
+magic tome that can penetrate 
+Imhullu, [SetColor][00][28]Starlight [SetColor][00][24]can be... [WaitForA][CloseFrame][02]
+# length: 777

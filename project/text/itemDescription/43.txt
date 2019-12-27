@@ -1,0 +1,5 @@
+@address $f0a0fe
+@type menu
+@label itemDescription_43
+Promote lvl
+10+ Mercs

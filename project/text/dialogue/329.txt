@@ -1,0 +1,6 @@
+@address $e68817
+@width 160
+@label dialogue_329
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][87][04]Master Wendell...[_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 44

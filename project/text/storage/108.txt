@@ -1,0 +1,5 @@
+@address $e7df25
+@width 160
+@label storage_108
+Lifesphere was sent to the
+storage.# length: 38

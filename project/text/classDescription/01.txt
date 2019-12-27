@@ -1,0 +1,6 @@
+@address $e7ba7d
+@width 176
+@label classDescription_01
+Nefarious rogues with weak 
+fighting skills, but they can 
+open chests. # length: 76

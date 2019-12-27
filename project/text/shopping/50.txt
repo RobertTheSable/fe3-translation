@@ -1,0 +1,6 @@
+@address $e7cadd
+@width 160
+@label shopping_50
+
+Do you want to 
+continue shopping? # length: 40

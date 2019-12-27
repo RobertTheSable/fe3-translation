@@ -1,0 +1,5 @@
+@address $e7b91c
+@width 240
+@type nodigraph
+@label ChapterTitles_37
+BBBB   Ch17 Setting Sun        # length: 33

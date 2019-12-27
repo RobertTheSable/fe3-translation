@@ -1,0 +1,4 @@
+@address $f0b022
+@type menu
+@label statusObjectives_01
+Seize castle

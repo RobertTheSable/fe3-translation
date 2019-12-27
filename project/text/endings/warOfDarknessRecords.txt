@@ -1,0 +1,13 @@
+@address $e7ed21
+@type default
+@width 160
+@label endings_warOfDarknessRecords
+And so, the 
+devastating 
+[_0a]War of Darkness 
+ended 
+[_0a]with Doluna's fall.
+[_0a]
+[_0a]Here are the 
+records of war: 
+[_0a]# length: 122

@@ -1,0 +1,253 @@
+@address $e7ef86
+@type default
+@width off
+@label endings_Book2History
+
+[_0a]
+[_0a]Complete conquest chronicles-History of Akaneia
+[_0a]       (From the records of the War of Heroes)           
+[_0a]
+[_0a]
+[_0a]
+[_0a]
+[_0a]
+[_0a]
+[_0a]
+[_0a] -4000 
+[_0a]
+[_0a]Dragon tribe golden age; an advanced civilization
+[_0a]ruled by the Divine Dragons is built.
+[_0a]
+[_0a]
+[_0a]
+[_0a] -1000 
+[_0a]
+[_0a]Decline of the dragon tribe. Signs of degeneration
+[_0a]and fall of birth rate. By elders' advice, some 
+[_0a]dragons take on human forms. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] -740 
+[_0a]
+[_0a]The Earth Dragons attack mankind. Mankind is on
+[_0a]the verge of destruction.
+[_0a]The Divine Dragon king, Naga, opposes this,
+[_0a]and protects mankind. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] -500 
+[_0a]
+[_0a]Naga seals the sword and the holy jewels' shield
+[_0a]carved from his own fang, at the Fane of Raman,
+[_0a]and dies at Thabes. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] -10 
+[_0a]
+[_0a]Someone devastates the Fane of Raman, 
+[_0a]and the sword and shield are taken away.
+[_0a]
+[_0a]
+[_0a]
+[_0a] First year of the Akaneia calendar
+[_0a]
+[_0a]The holy kingdom of Akaneia is founded. Dragons
+[_0a]who've lost powers, Manaketes,are despised,
+[_0a]and live poorly in a remote region. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 490 
+[_0a]
+[_0a]The Earth Dragon king, Medeus, founds the 
+[_0a]Doluna Empire. He is hostile towards mankind.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 493 
+[_0a]
+[_0a]The Doluna Empire marches to the royal capital,
+[_0a]Pales. The fall of the Holy Kingdom of Akaneia. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 498 
+[_0a]
+[_0a]Anri, a youth from Altea, a remote town, obtains
+[_0a]the divine sword, Falchion, and slays Medeus. 
+[_0a]Fall of the Doluna Empire.
+[_0a]The Kingdom of Akaneia is restored.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 499 
+[_0a]
+[_0a]The king of Akaneia, Cartas, subjugates the 
+[_0a]northern plains and founds the Kingdom of Aurelis.
+[_0a]Its first king is Marlon, Cartas' younger brother.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 500 
+[_0a]Founding of the Kingdom of Altea by Anri the hero.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 501 
+[_0a]The Kingdom of Grust is founded by General 
+[_0a]Ohdwin, Grust's garrison's leader.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 503 
+[_0a]
+[_0a]Medon's settlers hail gladiator Iote as King,   
+[_0a]and founds the Kingdom of Medon.  
+[_0a]
+[_0a]
+[_0a]
+[_0a] 537 
+[_0a]
+[_0a]Anri, King of Altea, dies. Due to succession 
+[_0a]troubles, the Kingdom of Gra splits off from Altea.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 550 
+[_0a]
+[_0a]Gotoh establishes a magic academy in Khadein. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 579 
+[_0a]
+[_0a]The distant island country of Talys is unified,
+[_0a]and the Kingdom of Talys is newly founded. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 597 
+[_0a]The Earth Dragon Medeus is resurrected in the 
+[_0a]region of Doluna. He regathers the Manaketes. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 598 
+[_0a]
+[_0a]The King of Medon suddenly dies. Prince Michalis
+[_0a]seizes power and declares an alliance with Doluna.
+[_0a]
+[_0a]The Kingdom of Grust, which bears animosity
+[_0a]towards Akaneia, allies itself with Doluna too.
+[_0a]The Doluna Empire is restored. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 600 
+[_0a]
+[_0a]The Doluna Empire confronts Akaneia and begins  
+[_0a]an invasion. 
+[_0a]Start of the War of Darkness. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 602 
+[_0a]
+[_0a]The Doluna Empire's troops led by Medeus lay 
+[_0a]siege to Pales.
+[_0a]
+[_0a]Altea's army, which was headed for Pales to
+[_0a]its rescue, and Grust's army, led by General 
+[_0a]Camus, confront at Menidi river. 
+[_0a]
+[_0a]Despite having the upper hand in battle, Altea's 
+[_0a]army is defeated due to the betrayal of its ally, 
+[_0a]Gra. Altea is overrun by the Empire and falls. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] Same year 
+[_0a]
+[_0a]Pales' Royal Palace falls. Fall of the Kingdom
+[_0a]of Akaneia. People related to the Royal family are 
+[_0a]all executed, save for Princess Nyna. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 604 
+[_0a]
+[_0a]Princess Nyna escapes from Pales' Royal Palace. 
+[_0a]She is protected by Hardin's army of rebels, who 
+[_0a]fight with guerilla tactics on the northern plains. 
+[_0a]
+[_0a]Princess Nyna recruits a volunteer liberation 
+[_0a]army, but is defeated by a knight squad led by
+[_0a]Princess Minerva of Medon, and her life is in 
+[_0a]danger. 
+[_0a]
+[_0a]Prince Marth of Altea, who fled the Kingdom 
+[_0a]of Talys, uprises in response to Princess Nyna,
+[_0a]and raises a liberation army for his country.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 605 
+[_0a]
+[_0a]Medeus is defeated by Prince Marth, and the 
+[_0a]Doluna Empire collapses.
+[_0a]End of the War of Darkness (600-605). 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 606 
+[_0a]
+[_0a]Hardin, the young prince of Aurelis, becomes 
+[_0a]Nyna's husband and the 24th King of Akaneia. 
+[_0a]
+[_0a]
+[_0a]
+[_0a] 607 
+[_0a]
+[_0a]King Hardin calls upon the rebuilding of the holy
+[_0a]Empire of Akaneia, and increases the military
+[_0a]preparations. He annaxes the neighbouring minor
+[_0a]powers.
+[_0a]
+[_0a]An insurrection breaks out in the Kingdom of
+[_0a]Grust occupied by Akaneia.
+[_0a]
+[_0a]Marth answers to Emperor Hardin's request and
+[_0a]goes on an expedition against Grust, but during
+[_0a]that time Altea's royal castle is attacked by
+[_0a]Akaneia's troops and falls.
+[_0a]
+[_0a]From this, Altea and Akaneia rush against each
+[_0a]other into a total war.
+[_0a]Start of the War of Heroes (607-608).
+[_0a]
+[_0a]
+[_0a]
+[_0a] 608 
+[_0a]
+[_0a]Fall of Pales Castle. Emperor Hardin dies.
+[_0a]
+[_0a]
+[_0a]
+[_0a] 609 
+[_0a]
+[_0a]Prince Marth marries with Princess Shiida of
+[_0a]Talys, and officially becomes King of Altea.
+[_0a]
+[_0a]According to Queen Nyna's strong wish, Marth
+[_0a]replaces the dying out royal family, and decides
+[_0a]to rule over the world.
+[_0a]
+[_0a]The birth of Lord Marth as the legendary Hero
+[_0a]King called "the King of all Kings".
+[_0a]
+[_0a]
+[_0a]
+[_0a]# length: 5171

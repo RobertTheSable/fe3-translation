@@ -1,0 +1,5 @@
+@address $e7d906
+@width 160
+@label storage_71
+Fortify Staff was sent to the 
+storage. # length: 43

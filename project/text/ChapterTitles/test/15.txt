@@ -1,0 +1,5 @@
+@address $e7b664
+@width 240
+@type nodigraph
+@label ChapterTitles_15
+BBBB  C15 Manakete Princess  # length: 31

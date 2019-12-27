@@ -1,0 +1,13 @@
+@address $e6b8ef
+@width 160
+@label dialogue_472
+[_88][00][SwitchFrame][00]
+[ShowPortait][33][04]Marth, to you, this victory is 
+also painful. Losing your loved 
+ones, and having to live all 
+alone. [WaitForA]
+Marth, I'm sorry... You've 
+saved the future of this 
+world, but have lost your most 
+important things... [WaitForA][CloseFrame][02]
+# length: 235

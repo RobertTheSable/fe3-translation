@@ -1,0 +1,5 @@
+@address $f0b432
+@type menu
+@label terrain_19
+Pillar
+Avd 20%

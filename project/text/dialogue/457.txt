@@ -1,0 +1,7 @@
+@address $e6ab5c
+@width 160
+@label dialogue_457
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][67][04]In the forts are many enemies. 
+Don't be careless. [WaitForA][CloseFrame][02]
+# length: 73

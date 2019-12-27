@@ -1,0 +1,6 @@
+@address $ffaff8
+@width 160
+@autoend off
+@label CharacterEndings_203
+Fell in battle during "Rebellion 
+at Medon". [End][00]# length: 49

@@ -1,0 +1,7 @@
+@address $ff824e
+@width 160
+@autoend off
+@label CharacterEndings_04
+[AddSpaces][02]Jagen, Marth's Guardian  
+
+# length: 30

@@ -1,0 +1,4 @@
+@address $f0937e
+@type menu
+@label itemNames_108
+VIPCard

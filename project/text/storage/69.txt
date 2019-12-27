@@ -1,0 +1,5 @@
+@address $e7d8ab
+@width 160
+@label storage_69
+Barrier Staff was sent to the 
+storage. # length: 43

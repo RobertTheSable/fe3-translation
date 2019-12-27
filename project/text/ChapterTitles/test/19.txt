@@ -1,0 +1,5 @@
+@address $e7b6e3
+@width 240
+@type nodigraph
+@label ChapterTitles_19
+BBBB  Ch19 Dragonkin Realm   # length: 31

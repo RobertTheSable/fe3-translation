@@ -1,0 +1,47 @@
+@address $e3d0eb
+@width 160
+@label dialogue_183
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][8b][07]Huh!? Princess Minerva, what 
+are you doing here? [WaitForA][SwitchFrame][00]
+[ShowPortait][92][04]My brother... Michalis rescued 
+me. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really? That's great. When I 
+heard that you were taken by 
+Pince Michalis, I was very 
+worried. [WaitForA]
+But he actually saved you. I 
+wonder what he's thinking. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Michalis's life was saved by 
+Maria. Maria is a gentle child, 
+unlike me... [WaitForA]
+Even a man like him could be 
+moved by Maria's gentle heart. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+But, you also hoped for that, 
+and that's why you didn't 
+finish him off, right?[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh.
+[_17][ef][ff]..... [WaitForA]
+[_16][10][00][SwitchFrame][01]
+[ClearFrame]
+I understand. The bond 
+between siblings cannot be 
+torn so easily. [WaitForA]
+Princess Minerva, please look 
+up. You don't need to worry 
+about Medon. [WaitForA]
+I already left some trusted 
+people to begin its 
+reconstruction. [WaitForA]
+I hope that you can fight 
+together with us, like in the 
+past. [WaitForA]
+To crush Hardin's ambitions, I 
+wish to borrow Medon's and 
+your strength. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 937

@@ -1,0 +1,7 @@
+@address $ffa7c3
+@width 160
+@autoend off
+@label CharacterEndings_172
+[AddSpaces][02]Ill Paladin Arran
+
+# length: 22

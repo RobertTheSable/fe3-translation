@@ -1,0 +1,4 @@
+@address $f0b450
+@type menu
+@label terrain_20
+Blocked

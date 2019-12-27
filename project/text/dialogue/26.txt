@@ -1,0 +1,12 @@
+@address $e0fe6c
+@width 160
+@label dialogue_26
+[_88][00][_89][0d][80][SwitchFrame][00]
+[ShowPortait][63][04]Oh, Prince Marth, you came at 
+the perfect time. [WaitForA]
+Princess Nyna has almost 
+arrived here from the fort. [WaitForA]
+However there are still many 
+enemies in the castle. [WaitForA]
+Please be careful. [WaitForA][CloseFrame][02]
+# length: 211

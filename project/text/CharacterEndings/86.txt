@@ -1,0 +1,7 @@
+@address $ff9395
+@width 160
+@autoend off
+@label CharacterEndings_86
+[AddSpaces][02]Wilful Knight Est 
+
+# length: 23

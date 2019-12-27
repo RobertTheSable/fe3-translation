@@ -1,0 +1,80 @@
+@address $e3fe33
+@width 160
+@label unused_unusedText24
+[_88][00][_89][1e][80][SwitchFrame][00]
+[ShowPortait][8b][04]Wow... To think there could be 
+a place like this... 
+I can feel my whole body 
+burning up just standing here. [WaitForA][SwitchFrame][01]
+[ShowPortait][28][07]Flame Barrel... The graveyard 
+of Fire Dragons. [WaitForA]
+This is where Fire Dragons 
+that have degenerated wait to 
+die. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Degenerated...? What does 
+that mean? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+The dragon tribe is currently 
+facing extinction. [WaitForA]
+If dragons do not seal their 
+true form within 
+dragonstones, they will lose 
+their mind and become wild. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+So that's why they became 
+Manaketes? [WaitForA]
+Xane, can you tell me 
+everything you know about the 
+dragon tribe? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Okay... Many tens of 
+thousands of years ago the 
+dragon tribe lived on this 
+world, and built their own [WaitForA]
+civilisation. [WaitForA]
+They were much wiser 
+and stronger than humans. But,
+from nowhere, the day of ruin 
+came. [WaitForA]
+First they could not give birth 
+anymore and then they lost 
+their minds, becoming wild 
+beasts that destroyed [WaitForA]
+everything in their path. [WaitForA]
+The elders said the dragon 
+tribe was reaching its last 
+days. [WaitForA]
+We had no choice, except to 
+abandon our identities as 
+dragons and live on as humans. 
+The dragon tribe panicked. [WaitForA]
+Those who trusted the elders 
+sealed their dragon form 
+inside stones and assumed 
+human form. [WaitForA]
+But there were some who could 
+not abandon their pride as 
+dragons and did not become 
+human. [WaitForA]
+In the end they lost their mind 
+and became wild. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Just like these Fire 
+Dragons? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes. There are more like them, 
+but they're all just a pack of 
+wild beasts who can no longer 
+return to sanity... [WaitForA]
+These ones have become the 
+pets of the Fire Clan, who rule 
+these mountains. [WaitForA]
+Well, Marth. Let's talk about 
+the rest later, let's go. [WaitForA]
+The Fire Clan are nasty stuff. 
+If we don't hurry up, we'll 
+become dinner for their Fire 
+Dragons. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1848

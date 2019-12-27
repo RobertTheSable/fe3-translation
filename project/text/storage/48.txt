@@ -1,0 +1,5 @@
+@address $e7d54d
+@width 160
+@label storage_48
+Shaver was sent to the 
+storage. # length: 36

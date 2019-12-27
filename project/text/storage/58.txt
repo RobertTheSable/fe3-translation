@@ -1,0 +1,5 @@
+@address $e7d6e7
+@width 160
+@label storage_58
+Meteor was sent to the 
+storage. # length: 36

@@ -1,0 +1,4 @@
+@address $f0e5d6
+@type menu
+@label battleText_27
+Maximum HP 

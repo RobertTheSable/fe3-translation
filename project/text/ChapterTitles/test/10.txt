@@ -1,0 +1,5 @@
+@address $e7b5c7
+@width 240
+@type nodigraph
+@label ChapterTitles_10
+BBBB   Ch10 Ageless Palace    # length: 32

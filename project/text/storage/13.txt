@@ -1,0 +1,5 @@
+@address $e7cfc9
+@width 160
+@label storage_13
+Wyrmslayer was sent to the 
+storage. # length: 40

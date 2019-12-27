@@ -1,0 +1,6 @@
+@address $ff826c
+@width 160
+@autoend off
+@label CharacterEndings_05
+He retired and became Marth's 
+ideal advisor.[End][End][00]# length: 51

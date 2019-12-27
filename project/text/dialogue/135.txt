@@ -1,0 +1,10 @@
+@address $e2b3c7
+@width 160
+@label dialogue_135
+[_88][04][ShowPortait][67][04]Near the southern mountain is 
+a sacred temple. [WaitForA]
+If you stand in front of its 
+central pillar, and use the Aum 
+staff, perhaps you may be able 
+to reunite with fallen allies... [WaitForA][CloseFrame][02]
+# length: 198

@@ -1,0 +1,22 @@
+@address $e0fcb9
+@width 160
+@label dialogue_25
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][13][07]Princess Nyna, the Altean 
+army has appeared across the 
+river. [WaitForA][SwitchFrame][00]
+[ShowPortait][61][04]Huh? Is that true, Hardin? [WaitForA]
+Does that mean Prince Marth 
+has finally come...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That's right. Now we can 
+finally restore our army's 
+strength. [WaitForA]
+But, Princess Nyna, it's going 
+to be dangerous, so please 
+wait inside the fort. [WaitForA]
+We will come back together 
+with the Altean knights. [WaitForA]
+Men, charge! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 417

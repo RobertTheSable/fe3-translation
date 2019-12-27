@@ -1,0 +1,10 @@
+@address $e696c5
+@width 160
+@label dialogue_400
+[_88][00][_89][38][80][SwitchFrame][00]
+[ShowPortait][29][04]PLEASE INFORM 
+VINCENTASM OF 
+WENDEL 
+   
+  [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 75

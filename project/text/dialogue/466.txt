@@ -1,0 +1,13 @@
+@address $e6b1df
+@width 160
+@label dialogue_466
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][67][04]Midia is really pitiful. [WaitForA]
+She only just retired as a 
+knight to live together with 
+Astram, and now she has been 
+separated again. [WaitForA]
+She's still a young girl, it's so 
+sad. What can you do to help 
+her...? [WaitForA][CloseFrame][02]
+# length: 237

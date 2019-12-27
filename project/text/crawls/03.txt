@@ -1,0 +1,7 @@
+@address $e7c238
+@width off
+@type nodigraph
+@label crawls_03
+Evil ones          returned to stone.   
+evil ones returned 
+to stone # length: 74

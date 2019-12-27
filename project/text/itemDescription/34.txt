@@ -1,0 +1,5 @@
+@address $f09ee8
+@type menu
+@label itemDescription_34
+Increases
+Skill by 5

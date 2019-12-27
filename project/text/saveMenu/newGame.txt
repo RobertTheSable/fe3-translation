@@ -1,0 +1,4 @@
+@address $ec8018
+@width 160
+@label saveMenu_newGame
+New Game  # length: 12

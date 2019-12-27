@@ -1,0 +1,5 @@
+@address $e7b54b
+@width 240
+@type nodigraph
+@label ChapterTitles_06
+BBBB  Ch6 Lefcandith Gauntlet# length: 31

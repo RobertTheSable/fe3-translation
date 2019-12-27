@@ -1,0 +1,29 @@
+@address $e1b713
+@width 160
+@label dialogue_58
+[_88][00][_89][0a][80][SwitchFrame][01]
+[ShowPortait][61][07]Prince Marth, do you know 
+about Akaneia's Archbishop 
+Miloah? [WaitForA][SwitchFrame][00]
+[ShowPortait][00][04]Yes. The great bishop who 
+protected Akaneia with his 
+Aura tome... [WaitForA]
+He died in battle against 
+Doluna's ally, the Dark 
+Pontifex Gharnef. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, well, the bishop had a 
+daughter called Linde. That 
+child inherited his Aura tome. [WaitForA]
+However, after Miloah died, 
+Linde disappeared and her 
+whereabouts are unknown. [WaitForA]
+I heard she was sold to the 
+slave market... She must be 
+very sad right now. [WaitForA]
+...Marth, I beg of you! Please 
+find Linde for me. [WaitForA]
+And protect her, in place of 
+the deceased bishop Miloah. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 632

@@ -1,0 +1,21 @@
+@address $e6a208
+@width 160
+@label dialogue_439
+[_88][00][SwitchFrame][00]
+[ShowPortait][4f][04]Urgh... I could be... Defeated 
+by humans... [_94][20][01]
+
+But the heart. 
+Altea's prince, protected by 
+the light... [_94][20][01]
+
+There will be... one day... 
+When peoples' hearts only 
+have evil inside them, and that 
+is when my manifestations will 
+appear. [_94][20][01]
+
+The heart... As long as there is 
+light, darkness will never fade 
+away... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 364

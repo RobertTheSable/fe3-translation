@@ -1,0 +1,8 @@
+@address $ff8634
+@width 160
+@autoend off
+@label CharacterEndings_21
+He joined the Akaneian army,
+but later abandoned his post. 
+It is rumoured that he became 
+a pirate... [End][End][00]# length: 111

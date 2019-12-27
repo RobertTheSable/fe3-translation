@@ -1,0 +1,49 @@
+@address $e5b4f1
+@width 160
+@label dialogue_223
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][93][04]Marth...? As a servant of the 
+Empire, you dared to invade 
+Pales. [WaitForA]
+I am disappointed in you. So 
+Altea's Prince of Light is just 
+a lowlife. [WaitForA][SwitchFrame][01]
+[ShowPortait][90][07]Hardin! You are being 
+controlled by the Darksphere, 
+and have lost your just heart!! [WaitForA]
+Please, you must return to 
+normal! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hahaha...! You are so naive, 
+Marth. I attacked Altea solely 
+because of my hatred of you. [WaitForA]
+In the previous war, it was 
+only because you were the 
+descendent of Anri that Nyna 
+gave the Emblem to you, [WaitForA]
+and chose you to become the 
+leader of the alliance. [WaitForA]
+Prince of Light... What 
+nonsense! [WaitForA]
+If you hadn't received my 
+support you would have died 
+long ago, so don't act all big, 
+Marth!! [WaitForA]
+From that day on, I hated you. I
+kept silent for Nyna, but I 
+knew I would have to deal with 
+you eventually.  [WaitForA]
+This has nothing to do with 
+this Sphere! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Hardin... Is that true... Your 
+hatred of me... I didn't know... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ha... That's why you're just a 
+boy. Marth! Come to me, so I 
+can use my Gradivus to pierce 
+your heart!! [WaitForA]
+In this tiny continent, I am the 
+only hero that is needed! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1149

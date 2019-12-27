@@ -1,0 +1,9 @@
+@address $ff9516
+@width 160
+@autoend off
+@label CharacterEndings_93
+He became the 5th King of 
+Altea and, as the leader of the 
+unified Kingdom of Akaneia, 
+worked tirelessly to restore [MapWaitForA]
+the devastated nations. [End][End][End]# length: 153

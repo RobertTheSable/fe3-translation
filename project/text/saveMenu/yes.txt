@@ -1,0 +1,4 @@
+@address $84c664
+@width 160
+@label saveMenu_yes
+Yes# length: 5

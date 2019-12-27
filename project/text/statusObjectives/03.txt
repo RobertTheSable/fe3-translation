@@ -1,0 +1,5 @@
+@address $f0b056
+@type menu
+@label statusObjectives_03
+Defeat Medeus 
+Seize throne

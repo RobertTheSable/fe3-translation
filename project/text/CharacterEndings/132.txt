@@ -1,0 +1,7 @@
+@address $ff9f39
+@width 160
+@autoend off
+@label CharacterEndings_132
+[AddSpaces][02]Warren, Medonian Hunter
+
+# length: 28

@@ -1,0 +1,7 @@
+@address $e7ccfd
+@width 160
+@label shopping_65
+
+I cannot take that.
+Choose something 
+else. # length: 50

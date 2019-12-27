@@ -1,0 +1,90 @@
+@type fixedWidth
+@label savetitles_00
+[End]
+@label savetitles_01
+Marth Embarks     [End]
+@label savetitles_02
+Pirates of Galder [End]
+@label savetitles_03
+Brush in the Teeth [End]
+@label savetitles_04
+Aurelian Champions[End]
+@label savetitles_05
+Fire Emblem       [End]
+@label savetitles_06
+Lefcand.Gauntlet  [End]
+@label savetitles_07
+Coastal Skirmish  [End]
+@label savetitles_08
+Princess Minerva  [End]
+@label savetitles_09
+Knorda Market     [End]
+@label savetitles_10
+Ageless Palace    [End]
+@label savetitles_11
+Land of Sorrow    [End]
+@label savetitles_12
+Oasis of Magic    [End]
+@label savetitles_13
+Battle for Altea  [End]
+@label savetitles_14
+Star and Savior   [End]
+@label savetitles_15
+Manakete Princess [End]
+@label savetitles_16
+Camus the Sable   [End]
+@label savetitles_17
+Knight-Filled Sky [End]
+@label savetitles_18
+Dark Pontifex     [End]
+@label savetitles_19
+Dragonkin Realm   [End]
+@label savetitles_20
+Chosen By Fate    [End]
+@label savetitles_21
+Grust.Expedition  [End]
+@label savetitles_22
+Rebellion at Medon[End]
+@label savetitles_23
+Abducted Princess [End]
+@label savetitles_24
+Joy and Sorrow    [End]
+@label savetitles_25
+Grust's Liberation[End]
+@label savetitles_26
+Nest of Evil      [End]
+@label savetitles_27
+Scarlet Swordsman [End]
+@label savetitles_28
+Soulful Bridge    [End]
+@label savetitles_29
+Sorcerer Sanctuary[End]
+@label savetitles_30
+The Two Mages     [End]
+@label savetitles_31
+Anri's Way        [End]
+@label savetitles_32
+Dragon Graveyard  [End]
+@label savetitles_33
+Frozen Land       [End]
+@label savetitles_34
+Mystery Revealed  [End]
+@label savetitles_35
+Prince's Return   [End]
+@label savetitles_36
+Reclaim theCapital[End]
+@label savetitles_37
+Gra's Setting Sun [End]
+@label savetitles_38
+Battle of the Pass[End]
+@label savetitles_39
+The Final Battle  [End]
+@label savetitles_40
+Dark Emperor      [End]
+@label savetitles_41
+The Wyvern Valley [End]
+@label savetitles_42
+The Dragon's Table[End]
+@label savetitles_43
+[End]
+@label savetitles_44

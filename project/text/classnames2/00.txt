@@ -1,0 +1,20 @@
+@address $f08b70
+@type menu
+@label classnames2_00
+Cavalier[End]
+@label classnames2_01
+Armour[End]
+@label classnames2_02
+Pegasus[End]
+@label classnames2_03
+DracoKn[End]
+@label classnames2_04
+Berserkr[End]
+@label classnames2_05
+DarkMage[End]
+@label classnames2_06
+Guardian God[End]
+@label classnames2_07
+IceDragn[End]
+@label classnames2_08
+ShadowDr

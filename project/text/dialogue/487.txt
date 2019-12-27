@@ -1,0 +1,10 @@
+@address $e6c9a3
+@width 160
+@label dialogue_487
+[_88][00][_89][21][80][ShowPortait][6a][04]Recently the influence of 
+bandits and pirates has 
+become overwhelming. [WaitForA]
+Honestly, this is all because 
+the politics of this country 
+are so poor. [WaitForA][CloseFrame][02]
+# length: 173

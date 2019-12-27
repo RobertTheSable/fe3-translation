@@ -1,0 +1,5 @@
+@address $e7b6c2
+@width 240
+@type nodigraph
+@label ChapterTitles_18
+BBBB    Ch18 Dark Pontifex     # length: 33

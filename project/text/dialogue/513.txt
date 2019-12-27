@@ -1,0 +1,14 @@
+@address $e6f4cb
+@width 160
+@label dialogue_513
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][02][04]Your highness, we've entered 
+the castle! [WaitForA]
+But, don't forget that Hardin 
+is being protected by the 
+Darksphere. [WaitForA]
+To fight him, you must have 
+the Lightsphere!! Be sure to 
+have the person fighting him 
+carry it. [WaitForA][CloseFrame][02]
+# length: 246

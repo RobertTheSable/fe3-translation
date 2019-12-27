@@ -1,0 +1,58 @@
+@address $e1a559
+@width 160
+@label dialogue_45
+[_88][00][_89][3f][80][SwitchFrame][00]
+[ShowPortait][60][04]Prince Marth, we can finally 
+talk about the Manaketes. [WaitForA]
+The Manaketes already 
+existed on this continent long 
+before humans, and were 
+referred to as the dragon 
+tribe. [WaitForA]
+However, they were punished 
+by the deities, and were 
+forced to seal their true form 
+in stones and, afterwards, [WaitForA]
+lived anonymously in the 
+frontier lands... [WaitForA]
+They coexisted with humans, 
+living a life of peace and 
+without conflict. [WaitForA]
+However, 100 years ago, at 
+the Doluna Region the Shadow 
+Dragon [SetColor][00][2c]Medeus [SetColor][00][24] appeared. [WaitForA]
+He gathered all the Manaketes 
+that hated humans, and formed 
+the Dolunian Empire.[WaitForA]
+He then led an attack on the 
+human world, and soon they 
+had conquered the whole 
+continent.[WaitForA]
+Of course, humans fought 
+back to the death. But in front 
+of Medeus's might, it was no 
+use. [WaitForA]
+Then, at that time, a youth 
+from Altea, wielding the [SetColor][00][28]
+Falchion[SetColor][00][24], a sword that 
+radiated light, appeared in [WaitForA]
+front of Medeus. [WaitForA]
+After an intense battle, he 
+defeated Medeus. [WaitForA]
+That's right. Your highness 
+should know what happened 
+afterwards. [WaitForA]
+That youth, who founded the 
+Kingdom of Altea, was [SetColor][00][2c]Anri the 
+First. [SetColor][00][24][WaitForA]
+But, 100 years after that 
+dark age... At Doluna, Medeus 
+awakened once again. [WaitForA]
+Prince Marth! You are the only 
+one with Anri's blood, the 
+chosen one. [WaitForA]
+You are the only one that can 
+succeed the will of your 
+deceased father, King 
+Cornelius. [WaitForA][CloseFrame][02]
+# length: 1448

@@ -1,0 +1,4 @@
+@address $f0a3ac
+@type menu
+@label statusTitles_00
+Ch 99 Debug Ganbaru! Nomaki

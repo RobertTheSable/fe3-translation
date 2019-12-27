@@ -1,0 +1,5 @@
+@address $f09e76
+@type menu
+@label itemDescription_31
+Opens
+chests

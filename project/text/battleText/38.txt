@@ -1,0 +1,4 @@
+@address $f0e66e
+@type menu
+@label battleText_38
+was fortified.

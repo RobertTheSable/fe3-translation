@@ -1,0 +1,24 @@
+@address $e0ed2d
+@width 160
+@label dialogue_11
+[_88][00][_89][0d][80][SwitchFrame][00]
+[ShowPortait][65][04]Your highness, thank you very 
+much for chasing off the 
+pirates. [WaitForA]
+Now we can finally live in 
+peace once again. [WaitForA]
+To reach Aurelis from here, 
+you must cross the Ghoul's 
+Teeth. [WaitForA]
+Please be careful. 
+The Ghoul's Teeth are ruled by 
+the Soothsire gang of bandits. [WaitForA]
+They have raided villages and 
+ambushed travellers. [WaitForA]
+They're a fearful bunch. [WaitForA]
+Especially that bodyguard, 
+Nabarl, who has a frightening 
+sword arm. [WaitForA]
+I sincerely hope that your 
+journey is safe. [WaitForA][CloseFrame][02]
+# length: 511

@@ -1,0 +1,4 @@
+@address $e7ba11
+@width 160
+@label erase2_00
+Erase File 1? # length: 16

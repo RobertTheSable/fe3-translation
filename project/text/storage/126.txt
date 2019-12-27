@@ -1,0 +1,5 @@
+@address $e7e1cf
+@width 160
+@label storage_126
+Starsphere was sent to the
+storage.# length: 38

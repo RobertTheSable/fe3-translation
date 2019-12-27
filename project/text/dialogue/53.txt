@@ -1,0 +1,10 @@
+@address $e1b2a9
+@width 160
+@label dialogue_53
+[_88][04][ShowPortait][69][04]In the forts, there are many 
+enemies making preparations 
+for battle. [WaitForA]
+It's best to take control of 
+them before reinforcements 
+start appearing. [WaitForA][CloseFrame][02]
+# length: 168

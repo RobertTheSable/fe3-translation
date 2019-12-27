@@ -1,0 +1,4 @@
+@address $e68ba6
+@width 160
+@label dialogue_344
+# length: 2

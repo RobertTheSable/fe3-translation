@@ -1,0 +1,8 @@
+@address $ff8fd4
+@width 160
+@autoend off
+@label CharacterEndings_67
+By Nyna's request she 
+remained in the army and 
+became the captain of the 
+Akaneian knights.[End]# length: 98

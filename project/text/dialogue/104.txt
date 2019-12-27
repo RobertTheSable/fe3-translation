@@ -1,0 +1,9 @@
+@address $e1f5c6
+@width 160
+@label dialogue_104
+[_88][04][ShowPortait][6a][04]Oh, you're the Altean knights. 
+It's so great that you've 
+finally returned. [WaitForA]
+Now this country can become 
+peaceful, like it used to be. [WaitForA][CloseFrame][02]
+# length: 157

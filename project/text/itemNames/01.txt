@@ -1,0 +1,4 @@
+@address $f08d9c
+@type menu
+@label itemNames_01
+Steel

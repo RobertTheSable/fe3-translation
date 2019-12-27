@@ -1,0 +1,7 @@
+@address $ff8c07
+@width 160
+@autoend off
+@label CharacterEndings_49
+After sealing his dragonstone 
+he left for whereabouts 
+unknown. [End][00]# length: 70

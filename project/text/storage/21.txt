@@ -1,0 +1,5 @@
+@address $e7d11d
+@width 160
+@label storage_21
+Killer Lance was sent to the 
+storage. # length: 42

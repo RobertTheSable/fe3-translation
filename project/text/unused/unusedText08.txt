@@ -1,0 +1,4 @@
+@address $f08ed4
+@type menu
+@label unused_unusedText08
+Stone

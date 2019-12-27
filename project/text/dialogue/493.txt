@@ -1,0 +1,9 @@
+@address $e6cd7f
+@width 160
+@label dialogue_493
+[_88][00][_89][21][80][ShowPortait][6b][04]The Kingdom of Gra views 
+Altea as its enemy. [WaitForA]
+But, in reality, they were 
+forced to fight because of 
+their alliance with Akaneia. [WaitForA][CloseFrame][02]
+# length: 156

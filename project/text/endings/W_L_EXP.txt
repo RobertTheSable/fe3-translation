@@ -1,0 +1,5 @@
+@address $96b907
+@type default
+@width 160
+@label endings_W_L_EXP
+W[_11]L[_11][_11] [Zero2][Zero2][Zero2][Zero2][Zero2]EXP[_11]# length: 21

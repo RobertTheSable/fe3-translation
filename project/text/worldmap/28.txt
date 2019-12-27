@@ -1,0 +1,49 @@
+@address $e0beaf
+@width 160
+@label worldmap_28
+After much struggle, Marth 
+finally escaped and arrived on 
+Khadein soil. [MapWaitForA]
+He then waited for the rest of 
+his troops to catch up. [MapWaitForA]
+The magic city, Khadein, is a 
+sanctuary for mages. [MapWaitForA]
+Many prospering mages go 
+there to undergo vigorous 
+training. [MapWaitForA]
+The basis of Sorcery relies on 
+sealing nature's hidden power 
+into tomes and staves, and 
+freely using those to harness [MapWaitForA]
+great power. [MapWaitForA]
+Hundreds of years ago, a sage 
+created an academy here, and 
+taught his life's teachings to 
+people. [MapWaitForA]
+However, originally designed 
+to bring happiness to people, 
+magic was used in conflicts, 
+and was bought and sold in [MapWaitForA]
+masses. [MapWaitForA]
+The sage was disappointed, 
+and disappeared without a 
+trace. [MapWaitForA]
+Although it seems hard to 
+believe, some people say that 
+sage was Archsage Gotoh. [MapWaitForA]
+But right now, those who can 
+wield tomes and staves are 
+limited to a few high bishops. [MapWaitForA]
+But even they can only use 
+weak Fire and Heal magic. [MapWaitForA]
+Powerful magic like Aura 
+cannot be created without the 
+power of Spheres. [MapWaitForA]
+Also, those who can wield such 
+powerful magic are limited in 
+number. [MapWaitForA]
+This was chosen to be by the 
+will of its creator. [MapWaitForA]
+Magic city Khadein... 
+A proud and almighty 
+Sanctuary of Sorcery. # length: 1221

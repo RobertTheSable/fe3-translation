@@ -1,0 +1,6 @@
+@address $e7bfb6
+@width 176
+@label classDescription_20
+Experienced Armour Knights 
+with amazing strength and 
+defence. # length: 68

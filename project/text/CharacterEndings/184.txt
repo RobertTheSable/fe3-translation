@@ -1,0 +1,6 @@
+@address $ffaa28
+@width 160
+@autoend off
+@label CharacterEndings_184
+Fell in battle during "A Brush 
+in the Teeth".# length: 46

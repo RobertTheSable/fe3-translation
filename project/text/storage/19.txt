@@ -1,0 +1,5 @@
+@address $e7d0cd
+@width 160
+@label storage_19
+Javelin was sent to the 
+storage.# length: 36

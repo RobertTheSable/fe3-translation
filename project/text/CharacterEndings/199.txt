@@ -1,0 +1,6 @@
+@address $ffaebc
+@width 160
+@autoend off
+@label CharacterEndings_199
+Fell in battle during "Dark 
+Pontifex". [End][End][End][End]# length: 49

@@ -1,0 +1,4 @@
+@address $f0934e
+@type menu
+@label itemNames_105
+Capricr

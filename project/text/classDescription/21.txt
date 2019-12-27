@@ -1,0 +1,5 @@
+@address $e7bffc
+@width 176
+@label classDescription_21
+Marth, Prince of Altea. The 
+main playable character. # length: 57

@@ -1,0 +1,10 @@
+@address $e1e73b
+@width 160
+@label dialogue_91
+[_88][00][_89][74][80][SwitchFrame][00]
+[ShowPortait][4e][04]Marth... I'm afraid I don't have 
+time to continue playing games 
+with you. [WaitForA]
+If you want to recover the 
+Falchion, then come to [SetColor][00][2c]Thabes[SetColor][00][24]. [WaitForA][CloseFrame][02]
+# length: 171

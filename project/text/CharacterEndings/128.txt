@@ -1,0 +1,7 @@
+@address $ff9e2c
+@width 160
+@autoend off
+@label CharacterEndings_128
+[AddSpaces][02]Malicia, Grustian Maiden 
+
+# length: 30

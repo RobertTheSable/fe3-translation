@@ -1,0 +1,8 @@
+@address $e5f18f
+@width 160
+@label dialogue_252
+[_88][00][_89][3a][80][SwitchFrame][00]
+[ShowPortait][7a][04]Take this! Ridersbane!! I'll 
+show you the horrors of the 
+Medonian dracoknights! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 111

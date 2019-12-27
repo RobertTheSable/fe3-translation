@@ -1,0 +1,6 @@
+@address $f0a12a
+@type menu
+@label itemDescription_44
+Promote lvl
+10+ Mages
+or Sisters

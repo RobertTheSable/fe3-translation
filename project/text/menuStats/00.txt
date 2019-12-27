@@ -1,0 +1,5 @@
+@address $f0b86e
+@type menu
+@label menuStats_00
+LV  EX
+HP   /

@@ -1,0 +1,4 @@
+@address $f092f2
+@type menu
+@label itemNames_98
+Gemini

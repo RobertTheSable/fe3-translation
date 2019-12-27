@@ -1,0 +1,27 @@
+@address $e7edf9
+@width off
+@type fixedWidth
+@label endings_Book2ED
+And so the tragic 
+[_0a]War of Heroes 
+[_0a]finally ended. 
+[_0a]
+[_0a]The seven kingdoms 
+[_0a]were unified by 
+[_0a]Prince Marth. The 
+[_0a]united Kingdom of 
+[_0a]Akaneia was 
+[_0a]established and 
+[_0a]peace reigned. 
+[_0a]
+[_0a]The tales of the 
+[_0a]heroes were 
+[_0a]remembered by 
+[_0a]future generations.
+[_0a]
+[_0a]Akaneia's hero 
+[_0a]saga... 
+[_0a]This is the story 
+[_0a]of the brave 
+[_0a]warriors who saved 
+[_0a]Akaneia... # length: 397

@@ -1,0 +1,8 @@
+@address $e1850e
+@width 160
+@label dialogue_28
+[_88][00][SwitchFrame][00]
+[_89][11][80][ShowPortait][2c][04]Lena... Where are you? 
+Even just once, I want to see 
+you before I die... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 104

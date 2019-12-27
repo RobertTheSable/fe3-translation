@@ -1,0 +1,87 @@
+@address $e78475
+@width 160
+@label dialogue_516
+[_88][00][SwitchFrame][00]
+[ShowPortait][83][05]Ah, I should have expected no 
+less from you, Lord Marth. 
+Very impressive. Good work. [WaitForA]
+Leave Medon to me. Your 
+highness, you have a new 
+mission. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][06]General Lang, what is it this 
+time?[WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Well... My castle was 
+attacked, and the captured 
+Grustian royal children appear 
+to have been taken. [WaitForA]
+The culprit seems to have 
+escaped to Medon. [WaitForA]
+Your highness, you will chase 
+after them and bring back the 
+royal children. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What!? Really, those children... 
+They're safe... That's great. [WaitForA]
+General Lang, I will not follow 
+your orders. We're going back 
+to our own country. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What did you say!? You're 
+going to disobey my orders? 
+So you were behind it, I knew 
+it. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What? What do you mean? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+The one who escaped with the 
+royal children was Ogma, the 
+Talys mercenary. [WaitForA]
+He once served under your 
+highness, correct? [WaitForA]
+It was you who ordered Ogma 
+to escape with those two! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I don't know a thing. But if I 
+could, I would have done just 
+that. [WaitForA]
+Since that time, when I 
+couldn't rescue the two, I 
+have been deeply regretful. [WaitForA]
+Even if I must fight you, I will 
+still rescue them. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What, you! Your actions are 
+treasonous! Do you want me to 
+inform Emperor Hardin about 
+this!? [WaitForA][_0c][01][ClearFrame]
+Go ahead. We're planning on 
+going to Pales anyway. We will 
+inform Hardin and Nyna of the 
+truth, and of your crimes. [WaitForA]
+Jagen, I'm sorry, but I can no 
+longer stay silent. I want to 
+find Ogma, so we can rescue 
+those children. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][02][06]I understand. You've had to 
+stay patient for so long. I 
+have also reached my 
+limits. [WaitForA]
+Lang, you have constantly 
+mocked our prince of Altea 
+with your actions. [WaitForA]
+Even if his highness could 
+forgive you, I certainly could 
+not. [WaitForA]
+Come, draw your sword. Even 
+though I, Jagen, am old, I will 
+not lose to somebody like you. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Wh-what...! Damn, you... I will 
+not forgive you for this!! [WaitForA]
+I will inform the Emperor, and 
+turn Altea into dust! Mark my 
+words! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 2032

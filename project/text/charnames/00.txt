@@ -1,0 +1,389 @@
+@address auto
+@type menu
+@label charnames_00
+Marth[End]
+@label charnames_01
+Shiida[End]
+@label charnames_02
+@autoend off
+Jagen[End]
+@autoend on
+[End]
+@label charnames_03
+Cain[End]
+@label charnames_04
+Abel[End]
+@label unused_01
+Doga[End]
+@label charnames_06
+Gordin[End]
+@label charnames_07
+Rickard[End]
+@label charnames_08
+Wrys[End]
+@label charnames_09
+Bord[End]
+@label charnames_10
+Cord[End]
+@label charnames_11
+Barst[End]
+@label charnames_12
+Castor[End]
+@label charnames_13
+@autoend off
+Ogma[End]
+@autoend on
+[End]
+@label charnames_14
+Daros[End]
+@label charnames_15
+Julian[End]
+@label charnames_16
+Lena[End]
+@label charnames_17
+Merric[End]
+@label charnames_18
+@autoend off
+Nabarl[End]
+@autoend on
+[End]
+@label charnames_19
+Hardin[End]
+@label charnames_20
+Wolf[End]
+@label charnames_21
+Sedgar[End]
+@label unused_02
+Roshe[End]
+@label charnames_23
+Vyland[End]
+@label charnames_24
+@autoend off
+Bantu[End]
+@autoend on
+[End]
+@label charnames_25
+Caesar[End]
+@label charnames_26
+@autoend off
+Radd[End]
+@autoend on
+[End]
+@label charnames_27
+Midia[End]
+@label unused_03
+Katua[End]
+@label charnames_29
+Maria[End]
+@label charnames_30
+Minerva[End]
+@label charnames_31
+Linde[End]
+@label charnames_32
+Jeorge[End]
+@label charnames_33
+Dolph[End]
+@label charnames_34
+Macellan[End]
+@label charnames_35
+@autoend off
+Tomas[End]
+@autoend on
+[End]
+@label unused_04
+Boa[End]
+@label unused_05
+Alan[End]
+@label charnames_38
+Samson[End]
+@label charnames_39
+Beck[End]
+@label charnames_40
+@autoend off
+Xane[End][End]
+@autoend on
+[End]
+@label unused_06
+Wendel[End]
+@label charnames_42
+Est[End]
+@label charnames_43
+Astram[End]
+@label unused_07
+Machis[End]
+@label charnames_45
+Roger[End]
+@label charnames_46
+Jake[End]
+@label charnames_47
+Palla[End]
+@label charnames_48
+@autoend off
+Tiki[End]
+@autoend on
+[End]
+@label charnames_49
+@autoend off
+Lorenz[End][End]
+@autoend on
+[End]
+@label charnames_50
+Elice[End]
+@label charnames_51
+Gato[End]
+@label charnames_52
+Gazzak[End]
+@label charnames_53
+Wiler[End]
+@label charnames_54
+@autoend off
+Grust[End]
+@autoend on
+[End]
+@label charnames_55
+Gomer[End]
+@label unused_08
+Garda[End]
+@label charnames_57
+SthSire[End]
+@label unused_09
+Mulak[End]
+@label charnames_59
+Harmein[End]
+@label unused_10
+Mariones[End]
+@label charnames_61
+Benson[End]
+@label unused_11
+Canaris[End]
+@label charnames_63
+Manu[End]
+@label unused_12
+Jucof[End]
+@label charnames_65
+Khozen[End]
+@label charnames_66
+Himler[End]
+@label charnames_67
+Gigash[End]
+@label charnames_68
+Jiol[End]
+@label unused_13
+Bosen[End]
+@label unused_14
+Holstat[End]
+@label charnames_71
+Starlon[End]
+@label unused_15
+Haiman[End]
+@label charnames_73
+Xemcel[End]
+@label charnames_74
+Ordain[End]
+@label charnames_75
+Camus[End]
+@label unused_16
+Misheil[End]
+@label unused_17
+Moses[End]
+@label unused_18
+Garnef[End]
+@label charnames_79
+@autoend off
+Medeus[End]
+@autoend on
+[End]
+@label charnames_80
+Doluna[End]
+@label charnames_81
+Gra[End]
+@label unused_19
+Pelaty[End]
+@label charnames_83
+Chiasmir[End]
+@label charnames_84
+SableOrd[End]
+@label charnames_85
+Khadein[End]
+@label charnames_86
+@autoend off
+IronKnt[End]
+@autoend on
+[End]
+@label charnames_87
+@autoend off
+Dragoon[End]
+@autoend on
+[End]
+@label charnames_88
+Enemy[End]
+@label charnames_89
+@autoend off
+Medon[End][End]
+@autoend on
+[End]
+@label charnames_90
+Pegasus[End]
+@label charnames_91
+Ruffian[End]
+@label charnames_92
+Raman[End]
+@label charnames_93
+DarkMage[End]
+@label charnames_94
+Priest[End]
+@label charnames_95
+Ruffian[End]
+@label unused_20
+Cecil[End]
+@label charnames_97
+Luke[End]
+@label charnames_98
+Rody[End]
+@label charnames_99
+Ryan[End]
+@label charnames_100
+Warren[End]
+@label charnames_101
+Brave[End]
+@label charnames_102
+Rumel[End]
+@label charnames_103
+Rucke[End]
+@label charnames_104
+Yumina[End]
+@label charnames_105
+Yubello[End]
+@label charnames_106
+Sirius[End]
+@label unused_21
+Gile[End]
+@label charnames_108
+Viking[End]
+@label charnames_109
+@autoend off
+Malicia[End]
+@autoend on
+[End]
+@label charnames_110
+Doras[End]
+@label charnames_111
+Samto[End]
+@label charnames_112
+Lang[End]
+@label charnames_113
+Feena[End]
+@label charnames_114
+Dahl[End]
+@label charnames_115
+RamanThf[End]
+@label charnames_116
+Yodel[End]
+@label charnames_117
+@autoend off
+Elrean[End][End]
+@autoend on
+[End]
+@label charnames_118
+FlyingDr[End]
+@label charnames_119
+SandClan[End]
+@label charnames_120
+Berserkr[End]
+@label charnames_121
+Bandit[End]
+@label charnames_122
+Thief[End]
+@label charnames_123
+FireDrgn[End]
+@label charnames_124
+IceDragn[End]
+@label charnames_125
+@autoend off
+IceClan[End]
+@autoend on
+[End]
+@label charnames_126
+Eibel[End]
+@label charnames_127
+Sheema[End]
+@label charnames_128
+EarthDrg[End]
+@label charnames_129
+DarkBshp[End]
+@label charnames_130
+Willow[End]
+@label charnames_131
+Akaneia[End]
+@label charnames_132
+Aurelis[End]
+@label charnames_133
+Nyna[End]
+@label charnames_134
+FireClan[End]
+@label charnames_135
+RockClan[End]
+@label charnames_136
+Nerring[End]
+@label charnames_137
+DarkClan[End]
+@label charnames_138
+MageDrgn[End]
+@label charnames_139
+Bodygrd[End]
+@address $F0E9A0
+@label charnames_05
+Draug[End]
+@label charnames_56
+Galder[End]
+@address $f0e9cc
+@label charnames_72
+Reynard[End]
+@address $F0E9DC
+@label charnames_58
+Merach[End]
+@address $f0e9ea
+@label charnames_60
+Emereus[End]
+@address $F0E9FA
+@label charnames_41
+Wendell[End]
+@address $F0EA0A
+@label charnames_44
+Matthis[End]
+@address $F0EA1A
+@label charnames_22
+Roshea[End]
+@address $F0EA36
+@label charnames_36
+Boah[End]
+@label charnames_28
+Catria[End]
+@address $f0ea4e
+@label charnames_37
+Arran[End]
+@label charnames_96
+Cecille[End]
+@address $f0ea76
+@label charnames_82
+Pyrathi[End]
+@label charnames_62
+Kannival[End]
+@label charnames_64
+Zharov[End]
+@address $f0eb04
+@label charnames_69
+Volzhin[End]
+@label charnames_78
+Gharnef[End]
+@address $f0eb34
+@label charnames_70
+Hollstadt[End]
+@label charnames_77
+Morzas[End]
+@address $f0eb78
+@label charnames_76
+Michalis[End]
+@address $f0ebba
+@label charnames_107
+Guile

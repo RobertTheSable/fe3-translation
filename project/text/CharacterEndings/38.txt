@@ -1,0 +1,8 @@
+@address $ff89d8
+@type normal
+@width 160
+@autoend off
+@label CharacterEndings_38
+[AddSpaces][02]Roshea, Aurelian Soldier
+
+# length: 28

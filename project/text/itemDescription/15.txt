@@ -1,0 +1,8 @@
+@address $f099c6
+@type menu
+@label itemDescription_15
+WeaponLv 8
+Exp    58
+Opens
+nearby
+doors

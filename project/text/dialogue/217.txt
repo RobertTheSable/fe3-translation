@@ -1,0 +1,37 @@
+@address $e59c8a
+@width 160
+@label dialogue_217
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][8b][04]Jagen, it seems we've finally 
+crossed the peak. Pales isn't 
+far from here. [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Yes, if we go down from here, 
+we will reach the capital of 
+Pales in an instant. [WaitForA]
+Also, your highness, I just 
+received news of an attempted 
+coup in Pales. [WaitForA]
+The knights and civilians who 
+opposed Hardin's actions 
+rebelled against him. [WaitForA]
+It seems their leader was Lady 
+Midia. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What! Midia...? What happened? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Unfortunately Lady Midia was 
+defeated, and was captured... 
+Each day many people are 
+executed. [WaitForA]
+It is only a matter of time 
+before Lady Midia shares the 
+same fate. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Damn, Hardin... I can't believe 
+that he would do that. Alright, 
+let's go and rescue Midia! [WaitForA]
+We must hurry to Pales and 
+end this once and for all. 
+Jagen, let's go!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 809

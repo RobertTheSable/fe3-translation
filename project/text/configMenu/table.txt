@@ -1,0 +1,15 @@
+address f0c80c
+width 2
+file 00.txt
+file 01.txt
+file 02.txt
+file 03.txt
+file 04.txt
+file 05.txt
+
+entry configMenu_00
+entry configMenu_01
+entry configMenu_02
+entry configMenu_03
+entry configMenu_04
+entry configMenu_05

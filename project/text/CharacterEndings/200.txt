@@ -1,0 +1,6 @@
+@address $ffaf0b
+@width 160
+@autoend off
+@label CharacterEndings_200
+Fell in battle during "The 
+Dragonkin Realm". [End][End]# length: 51

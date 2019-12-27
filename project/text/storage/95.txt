@@ -1,0 +1,5 @@
+@address $e7dd1b
+@width 160
+@label storage_95
+Speed Ring was sent to the 
+storage.# length: 39

@@ -1,0 +1,4 @@
+@address $f08a78
+@type menu
+@label classnames_27
+Berserkr

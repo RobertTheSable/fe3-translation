@@ -1,0 +1,4 @@
+@address $f0e8de
+@type menu
+@label battleText_59
+A wondrous, odd light

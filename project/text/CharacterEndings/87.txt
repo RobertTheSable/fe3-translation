@@ -1,0 +1,7 @@
+@address $ff93ac
+@width 160
+@autoend off
+@label CharacterEndings_87
+After the war she fell in love 
+with an Altean knight 
+and stayed by his side. [End][End][End]# length: 87

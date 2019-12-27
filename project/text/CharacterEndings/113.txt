@@ -1,0 +1,6 @@
+@address $ff9afb
+@width 160
+@autoend off
+@label CharacterEndings_113
+He remained at Altea, and 
+joined the Temple Knights. [End][End]# length: 59

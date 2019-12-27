@@ -1,0 +1,7 @@
+@address $ffa15e
+@width 160
+@autoend off
+@label CharacterEndings_143
+After the war he vanished. It 
+is rumoured that he still uses 
+Nabarl's name to fool others... [End][End][End][End][00]# length: 106

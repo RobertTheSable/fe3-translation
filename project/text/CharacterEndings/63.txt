@@ -1,0 +1,7 @@
+@address $ff8f19
+@width 160
+@autoend off
+@label CharacterEndings_63
+Under Nyna's protection she 
+became a female official of 
+Pales. [End][End]# length: 71

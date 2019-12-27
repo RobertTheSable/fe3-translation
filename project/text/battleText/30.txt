@@ -1,0 +1,4 @@
+@address $f0e60e
+@type menu
+@label battleText_30
+ is lvl 

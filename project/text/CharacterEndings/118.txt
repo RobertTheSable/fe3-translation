@@ -1,0 +1,7 @@
+@address $ff9c2f
+@width 160
+@autoend off
+@label CharacterEndings_118
+[AddSpaces][02]Honest Thief Julian 
+
+# length: 25

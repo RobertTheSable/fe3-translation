@@ -1,0 +1,37 @@
+@address $e2ce12
+@width 160
+@label dialogue_150
+[_88][00][_89][43][80][SwitchFrame][01]
+[ShowPortait][1c][07]Lord Marth!! Great, so you are 
+here. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Catria!? I heard a rebellion 
+broke out in Medon. Are you 
+alright?[WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes. My sister, Palla, and I 
+managed to escape, but 
+Minerva was captured by the 
+rebels...[WaitForA]
+Marth, please rescue Minerva! 
+If this continues, her life will 
+be in danger! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Of course I will. Catria, please 
+take me to where the princess 
+is. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes! But we must break 
+through the bordering forests 
+in front of us... [WaitForA]
+These forests are full of 
+General Rucke's dracoknights. 
+If we approach head on, we'll 
+be discovered by them. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Is that so...? Then we will 
+march through the left or right 
+side. [WaitForA]
+I understand, Catria, leave 
+everything to us! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 736

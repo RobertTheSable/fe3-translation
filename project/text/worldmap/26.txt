@@ -1,0 +1,33 @@
+@address $e0b9c0
+@width 160
+@label worldmap_26
+After liberating Grust, Marth 
+accepted Wendell's request to 
+find the lost Spheres, and 
+headed to the Fane of Raman. [MapWaitForA]
+However the ancient temple, 
+built to worship Naga, was 
+wrecked by constant warring 
+and has now become a thieves' [MapWaitForA]
+hideout. [MapWaitForA]
+"They're escaping with the 
+temple's valuable treasures. 
+We mustn't let them take them 
+away. We must recover them!!" [MapWaitForA]
+"We mustn't attract the
+attention of the soldiers 
+guarding Chiasmir Bridge. [MapWaitForA]
+We don't stand a chance of 
+winning, so don't approach at 
+all costs." [MapWaitForA]
+"Also it seems there's a 
+travelling child dancer who's 
+lost her way in the forests. [MapWaitForA]
+We must rescue her before she 
+gets ambushed by the 
+thieves!" [MapWaitForA]
+After the troops received 
+their orders, they surrounded 
+The Fane of Raman. [MapWaitForA]
+The flame of a new battle was 
+about to ignite. # length: 825

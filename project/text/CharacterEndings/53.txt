@@ -1,0 +1,7 @@
+@address $ff8cba
+@width 160
+@autoend off
+@label CharacterEndings_53
+It was rumoured that he fell in 
+love during the war and later 
+discarded his sword. [End][End]# length: 91

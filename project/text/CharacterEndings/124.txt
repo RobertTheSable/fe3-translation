@@ -1,0 +1,7 @@
+@address $ff9d4f
+@width 160
+@autoend off
+@label CharacterEndings_124
+[AddSpaces][02]Prince Yubello of Grust  
+
+# length: 30

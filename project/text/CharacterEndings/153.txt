@@ -1,0 +1,7 @@
+@address $ffa38e
+@width 160
+@autoend off
+@label CharacterEndings_153
+At Lena's monastery she cared 
+for the orphans who had lost 
+their parents. [End]# length: 80

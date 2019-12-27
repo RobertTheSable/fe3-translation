@@ -1,0 +1,4 @@
+@address $f092ca
+@type menu
+@label itemNames_95
+Pisces

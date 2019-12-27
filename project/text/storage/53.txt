@@ -1,0 +1,4 @@
+@address $e7d61c
+@width 160
+@label storage_53
+Aura was sent to the storage. # length: 32

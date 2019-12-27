@@ -1,0 +1,7 @@
+@address $ff96dc
+@width 160
+@autoend off
+@label CharacterEndings_96
+[AddSpaces][02]Cecille, Knight of Altea
+
+# length: 29

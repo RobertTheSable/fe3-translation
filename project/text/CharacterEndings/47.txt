@@ -1,0 +1,6 @@
+@address $ff8bc1
+@width 160
+@autoend off
+@label CharacterEndings_47
+It seems he returned to 
+thievery again. [End][End]# length: 46

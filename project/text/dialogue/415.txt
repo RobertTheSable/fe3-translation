@@ -1,0 +1,6 @@
+@address $e69b4e
+@width 160
+@label dialogue_415
+[_88][00][_89][c0][80][SwitchFrame][00]
+[ShowPortait][7f][04]I will remember this! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 49

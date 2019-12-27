@@ -1,0 +1,102 @@
+address 96d5d9
+savewidth
+width 2
+data ffb6fe
+file 00.txt
+file 01.txt
+file 02.txt
+file 03.txt
+file 04.txt
+file 05.txt
+
+entry const $D745, $0000
+entry const $D745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0000
+entry const $d745, $0002
+entry const $d747, $0000
+entry const $d747, $0000
+entry const $d747, $0000
+entry const $d747, $0000
+entry CharacterEndingsAlt_00
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry const $d77c, $0000
+entry CharacterEndingsAlt_01
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry const $d7ab, $0000
+entry CharacterEndingsAlt_02
+entry const $d7e0, $0000
+entry CharacterEndingsAlt_03
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry const $d812, $0000
+entry CharacterEndingsAlt_04
+entry CharacterEndingsAlt_05

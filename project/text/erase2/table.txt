@@ -1,0 +1,10 @@
+address 84c604
+width 3
+data 67ba11
+file 00.txt
+file 01.txt
+file 02.txt
+
+entry erase2_00
+entry erase2_01
+entry erase2_02

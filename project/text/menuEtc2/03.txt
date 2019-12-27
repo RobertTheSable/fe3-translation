@@ -1,0 +1,5 @@
+@address $f0df6e
+@type menu
+@label menuEtc2_03
+[0108]Strength rose! [0109]
+[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

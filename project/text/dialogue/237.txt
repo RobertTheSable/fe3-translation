@@ -1,0 +1,44 @@
+@address $e5dc36
+@width 160
+@label dialogue_237
+[_88][00][_89][48][80][SwitchFrame][01]
+[ShowPortait][0f][07]Miss Lena, wake up! It's me, 
+Julian. What should I do? [WaitForA]
+I know I'm a man with no merits,
+but for you I will do anything. [WaitForA]
+I don't have any other wishes, 
+I just want to see you smile, 
+Miss Lena. Smile, I'm begging 
+you, Miss Lena...  [WaitForA][SwitchFrame][00]
+[ShowPortait][10][04]Oh... Julian... You did come. [WaitForA]
+I believed that you would 
+definitely come. So that's how 
+I could endure the horrors 
+that I faced... [WaitForA]
+Julian, I'm sorry. I always 
+acted like a spoilt brat to you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No... Just hearing Miss Lena's 
+words is enough for me. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Julian, can you listen to a 
+request of mine? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh? Oh, please ask, as long 
+as I can do it... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+From now on, just call me Lena. 
+It seems so impersonal when 
+you call me Miss Lena. [WaitForA]
+Because we're going to return 
+to Medon, to live together. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh? ...Miss Lena... Oh... No... I 
+meant Le... na... [WaitForA]
+Do you really mean that... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... I believe the deities will 
+forgive me. Because of my... 
+love for you. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1000

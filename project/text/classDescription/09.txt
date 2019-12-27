@@ -1,0 +1,6 @@
+@address $e7bcaf
+@width 176
+@label classDescription_09
+Knights riding pegasi, who 
+possess high movement and 
+exceptional speed. # length: 78

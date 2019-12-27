@@ -1,0 +1,4 @@
+@address $f0e406
+@type menu
+@label battleText_02
+'s counterattack.

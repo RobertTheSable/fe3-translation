@@ -1,0 +1,16 @@
+@address $e2b65b
+@width 160
+@label dialogue_137
+[_88][03][_89][0d][80][_10][01]With the Shadow Dragon, 
+Medeus's defeat, the Dolunian 
+Empire disappeared into the 
+darkness once again.[WaitForA]
+The 5 year war of Akaneia was 
+finally over. [WaitForA]
+The continent of Akaneia, 
+which was surrounded by 
+darkness, once again 
+welcomed the light. [WaitForA]
+And so, Marth's long journey 
+had now finally come to an 
+end... [WaitForA][_87]# length: 346

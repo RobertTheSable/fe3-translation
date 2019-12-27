@@ -1,0 +1,40 @@
+@address $e0e3a1
+@width 160
+@label dialogue_02
+[_88][00][_89][0d][80][SwitchFrame][00]
+[ShowPortait][62][04]Oh, Prince Marth, I am glad to 
+see you're safe. [WaitForA]
+We are all very grateful for 
+your actions. [WaitForA]
+Is that so...? [WaitForA]
+You're finally heading out to 
+Aurelis? [WaitForA]
+In that case, I will send some 
+soldiers to aid you. [WaitForA]
+These men, led by Captain 
+Ogma, are all brave warriors. [WaitForA]
+I'm certain they will help you in
+battle.   [WaitForA]
+Before you go, I have some 
+important advice for your 
+highness. [WaitForA]
+From now on, during your 
+highness' travels, you will 
+surely find many people who 
+despise the Dolunian Empire.[WaitForA]
+Some of them are hiding in
+villages, while others have 
+been captured by enemies. [WaitForA]
+There may even be some that 
+have been forced to work for 
+Doluna. [WaitForA]
+Finding these people and
+fighting together with them is
+crucial. [WaitForA]
+Do you understand me, Prince 
+Marth...? [WaitForA]
+Well, the time has come! [WaitForA]
+You must be determined during 
+your journey. [WaitForA]
+Good luck! [WaitForA][CloseFrame][02]
+# length: 914

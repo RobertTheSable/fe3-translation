@@ -1,0 +1,6 @@
+@address $ffa7d9
+@width 160
+@autoend off
+@label CharacterEndings_173
+After the war ended he died of 
+illness... [End][00]# length: 47

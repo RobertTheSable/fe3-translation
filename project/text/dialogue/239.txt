@@ -1,0 +1,72 @@
+@address $e5e2b0
+@width 160
+@label dialogue_239
+[_88][00][_89][48][80][SwitchFrame][01]
+[ShowPortait][7e][07]Princess Nyna! Open your 
+eyes! Be strong...! [WaitForA][SwitchFrame][00]
+[ShowPortait][61][04]Ah... I made a huge mistake. 
+Because of my stupidity... I 
+caused such grief for Hardin. [WaitForA]
+And I made him... turn into that. 
+Oh... I... What should I do? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Empress... Prince Marth has 
+already ended Hardin's 
+suffering. [WaitForA]
+Even until the end Hardin still 
+loved you, and he apologised 
+for his crimes. [WaitForA]
+It's alright now. You don't need
+to suffer anymore. You just 
+had a bad dream, that's all...  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+[_17][ef][ff]..... 
+[_16][10][00]You are [_17][ef][ff].....? [WaitForA]
+[_16][10][00][SwitchFrame][01]
+[ClearFrame]
+Princess Nyna! You mustn't 
+give up. You shouldn't be a 
+weak person! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ah...! [_16][10][00]You are... Camus...!? You 
+are Camus!! [WaitForA]
+Why... Why are you... Am I 
+dreaming? You're still alive... 
+Ah... It's true... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff].....! [_16][10][00]Empress... I think you're 
+mistaken. [WaitForA]
+I am Sirius, a soldier of the 
+allied army. I don't know 
+anybody called Camus... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Sirius...!? ...How...? No! That's 
+wrong!! You must be... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Please calm down. You must be 
+very tired. [WaitForA]
+I must leave this place very 
+soon. Well, Empress Nyna... You 
+should return to Prince 
+Marth's side... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You... Where are you going? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I must return to my country. I...
+I have somebody waiting there 
+for me.  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really, is that so? I 
+understand... Sirus... thank 
+you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff]..... 
+[_16][10][00]Sorry... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh [_17][ef][ff]...!? 
+[_16][10][00][SwitchFrame][01]
+[ClearFrame]
+It's... Nothing... Empress, you 
+must go! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1438

@@ -1,0 +1,4 @@
+@address $e7e04f
+@width 160
+@label storage_116
+Leo was sent to the storage. # length: 31

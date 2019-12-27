@@ -1,0 +1,24 @@
+@address $e29f2a
+@width 160
+@label dialogue_123
+[_88][00][_89][0c][80][SwitchFrame][00]
+[ShowPortait][33][04]Marth, I am currently at a 
+village north of Medon castle. [WaitForA]
+That's right, it is already very 
+close. [WaitForA]
+If you have both the 
+Starsphere and Lightsphere, 
+please come and visit me. [WaitForA]
+Without Starlight you will be 
+unable to take back the 
+Falchion from Gharnef. [WaitForA]
+Gharnef has escaped to the 
+illusion city of Thabes. [WaitForA]
+Your sister, Elice, should also 
+be there. [WaitForA]
+I have been protecting her 
+with my power, but I won't be 
+able to hold out for much 
+longer. [WaitForA]
+Please hurry and rescue Elice. [WaitForA][CloseFrame][02]
+# length: 537

@@ -1,0 +1,5 @@
+@address $e7dc9d
+@width 160
+@label storage_92
+Power Ring was sent to the 
+storage.# length: 39

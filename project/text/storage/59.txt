@@ -1,0 +1,5 @@
+@address $e7d712
+@width 160
+@label storage_59
+Swarm was sent to the 
+storage. # length: 35

@@ -1,0 +1,33 @@
+@address $e2d110
+@width 160
+@label dialogue_151
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][1c][07]Warren!? Even you've joined 
+the rebels...? [WaitForA][SwitchFrame][00]
+[ShowPortait][79][04]Whitewing, Catria, it's been a 
+long time. [WaitForA]
+I am just a hunter. I'll do 
+anything as long as I get paid. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Warren, listen to me! Princess 
+Minerva worked hard to create 
+a country where everybody 
+can live and work in peace. [WaitForA]
+That was the reason why she 
+removed those worthless 
+generals and soldiers. [WaitForA]
+But, even knowing this, 
+General Rucke provoked the 
+soldiers into joining the coup. [WaitForA]
+His only reason being because 
+he wanted to take this country 
+for himself. So do you think 
+what he's doing is right? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Is that true? I don't like the 
+army doing as they please. [WaitForA]
+I understand. If you're going to
+rescue the princess, let me 
+help as well. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 768

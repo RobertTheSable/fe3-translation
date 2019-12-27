@@ -1,0 +1,5 @@
+@address $e7d522
+@width 160
+@label storage_47
+Blizzard was sent to the 
+storage. # length: 38

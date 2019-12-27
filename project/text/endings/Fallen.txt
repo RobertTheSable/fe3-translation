@@ -1,0 +1,5 @@
+@address $96b92a
+@width 160
+@type nodigraph
+@label endings_Fallen
+[Space2][Space2][_11]Fallen:[_11]# length: 15

@@ -1,0 +1,5 @@
+@address $e7dfe3
+@width 160
+@label storage_113
+Taurus was sent to the 
+storage. # length: 36

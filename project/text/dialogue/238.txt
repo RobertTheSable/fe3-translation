@@ -1,0 +1,32 @@
+@address $e5e055
+@width 160
+@label dialogue_238
+[_88][00][_89][48][80][SwitchFrame][01]
+[ShowPortait][92][07]Maria! Please open your eyes. 
+It's me, Minerva! Be strong! [WaitForA][SwitchFrame][00]
+[ShowPortait][1d][04]Uh... Oh... Minerva, sister... [WaitForA]
+Ah, Medeus, he... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Everything's alright now, 
+relax. I'm sorry, Maria, for 
+letting you experience all 
+this... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Sister... I'm scared... so 
+scared. [WaitForA]
+Oh! How is brother? He fought 
+with Gharnef to rescue me. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Michalis, he... He's alright, 
+Maria, don't worry. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really? Then, when we return 
+home, will we be like one big 
+family again? [WaitForA]
+That's great, sister. Oh, I 
+really want to see brother 
+again. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Maria... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 586

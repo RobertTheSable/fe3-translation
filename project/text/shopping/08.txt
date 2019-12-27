@@ -1,0 +1,8 @@
+@address $e7c4d3
+@width 160
+@label shopping_08
+
+Your storage is 
+full. Please sell 
+or discard 
+something. # length: 66

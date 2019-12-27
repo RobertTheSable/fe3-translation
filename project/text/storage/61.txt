@@ -1,0 +1,5 @@
+@address $e7d760
+@width 160
+@label storage_61
+Binding Shield was sent to the 
+storage. # length: 44

@@ -1,0 +1,12 @@
+@address $e2c25b
+@width 160
+@label dialogue_146
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][8b][04]Jagen, we've finally arrived. 
+Is that the rebels' fortress? [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]I just saw the occupation 
+army's commander, General 
+Lang. You should ask him 
+directly. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 188

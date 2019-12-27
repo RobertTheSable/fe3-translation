@@ -1,0 +1,9 @@
+@address $ff84d2
+@width 160
+@autoend off
+@label CharacterEndings_15
+He returned to Talys island to 
+help the citizens. Perhaps he 
+already has an idol, for there 
+are no rumours of him [MapWaitForA]
+marrying. [End][End][End][End]# length: 140

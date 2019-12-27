@@ -1,0 +1,7 @@
+@address $ff9a03
+@width 160
+@autoend off
+@label CharacterEndings_109
+He left the knights, and once 
+again travelled as a jobless 
+man... [End][End]# length: 74

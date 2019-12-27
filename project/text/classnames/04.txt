@@ -1,0 +1,4 @@
+@address $f0892e
+@type menu
+@label classnames_04
+Paladin

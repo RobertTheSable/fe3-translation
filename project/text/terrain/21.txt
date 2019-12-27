@@ -1,0 +1,5 @@
+@address $f0b460
+@type menu
+@label terrain_21
+Rubble
+Avd: 0%

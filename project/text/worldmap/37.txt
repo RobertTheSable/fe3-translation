@@ -1,0 +1,27 @@
+@address $e0d684
+@width 160
+@label worldmap_37
+To avoid needless battle, the 
+Altean army decided to cross 
+the central mountain range, 
+said to be impassable for a [MapWaitForA]
+large army. [MapWaitForA]
+Once they passed Adria Peak, 
+they would be directly at 
+Pales. [MapWaitForA]
+Hurry, we can't let the enemy 
+spot us! We must charge 
+straight through!! [MapWaitForA]
+Marth and the others were 
+anxious, but they carried on 
+advancing across the narrow 
+mountain road. [MapWaitForA]
+But they didn't expect, in the 
+middle of the cliff, to be 
+ambushed by an unfathomable 
+enemy. [MapWaitForA]
+They were the northern 
+Kingdom of Aurelis's elite 
+squad, [MapWaitForA]
+the "Wolfsquad", who had 
+headed south to aid Akaneia. # length: 612

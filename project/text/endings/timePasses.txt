@@ -1,0 +1,4 @@
+@address $96b990
+@width 160
+@label endings_timePasses
+And so, time passes...# length: 24

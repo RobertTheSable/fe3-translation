@@ -1,0 +1,69 @@
+@address $e4c1e0
+@width 160
+@label dialogue_195
+[_88][00][_89][4c][80][SwitchFrame][01]
+[ShowPortait][8b][07]Tiki!? Are you alright... [WaitForA][SwitchFrame][00]
+[ShowPortait][8f][04]Uh... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Tiki, it's me, Marth. Hey, open 
+your eyes! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Marth... [WaitForA]
+[_17][ef][ff].....! 
+[_16][10][00]Oh Marth!! You came! You 
+came to see Tiki!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, I hadn't seen Tiki in a 
+long time. Are you feeling well? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Uh... No. The bishop told me 
+that I had to sleep again. [WaitForA]
+But I don't want to... Because 
+when I sleep I'm always alone. [WaitForA]
+During my sleep, I dreamt many 
+nightmares. [WaitForA]
+There, I became a wild dragon, 
+like those poor Fire Dragons 
+and Ice Dragons. [WaitForA]
+I attacked humans, and I killed 
+them. No... No... When I awoke I 
+was all alone in the dark 
+room... [WaitForA]
+I felt so strange, but also 
+very scared... So very 
+scared... But I couldn't leave 
+that room. [WaitForA]
+I cried many times, and then 
+Uncle Bantu would come to 
+comfort me as usual. [WaitForA]
+One day he took me away, and 
+took me to a human village. [WaitForA]
+Living in that village was very 
+fun, and everybody treated me 
+well... [WaitForA]
+In the short time, until I was 
+discovered by Gharnef, I felt 
+really happy. [WaitForA]
+I don't want to sleep anymore...
+I feel that if I close my eyes 
+once more, I will be unable to 
+open them ever again.  [WaitForA]
+I don't want that. I want to live
+with everyone, I don't want to 
+sleep again!  [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Tiki, it's alright now. I will 
+protect you, so don't cry... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really...? I won't need to see 
+those scary dreams again!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That's right! Once the shield is 
+restored, Tiki can live 
+together with the rest of us. [WaitForA]
+Don't worry, believe in me! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ah! I'm so happy!! Thank you, 
+Marth! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1586

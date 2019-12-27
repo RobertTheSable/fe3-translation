@@ -1,0 +1,7 @@
+@address $e7c56c
+@width 160
+@label shopping_12
+
+[_81]s 
+was sent to the 
+storage. # length: 37

@@ -1,0 +1,8 @@
+@address $ffa00d
+@width 160
+@autoend off
+@label CharacterEndings_137
+As the Pontifex, he returned 
+to Khadein and worked 
+tirelessly to restore the magic 
+city. [End][End][End][End]# length: 103

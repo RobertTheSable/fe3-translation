@@ -1,0 +1,6 @@
+@address $ffb485
+@width 160
+@autoend off
+@label CharacterEndings_218
+Fell in battle during "Gra's 
+Setting Sun". [End][End]# length: 49

@@ -1,0 +1,4 @@
+@address $f0ce92
+@type menu
+@label itemMenu_00
+[0108] Equip  [0109]

@@ -1,0 +1,5 @@
+@address $e7dde4
+@width 160
+@label storage_100
+Boots was sent to the 
+storage. # length: 35

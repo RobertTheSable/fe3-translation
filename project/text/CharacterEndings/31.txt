@@ -1,0 +1,7 @@
+@address $ff882b
+@width 160
+@autoend off
+@label CharacterEndings_31
+He buried his feelings for 
+Princess Elice and once again 
+returned to Khadein. [End][End][00]# length: 87

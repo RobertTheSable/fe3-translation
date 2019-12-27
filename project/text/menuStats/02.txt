@@ -1,0 +1,10 @@
+@address $f0b8ba
+@type menu
+@label menuStats_02
+Str:
+Skl:
+Spd:
+Lck:
+WLv:
+Def:
+Res:

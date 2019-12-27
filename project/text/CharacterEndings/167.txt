@@ -1,0 +1,6 @@
+@address $ffa6a4
+@width 160
+@autoend off
+@label CharacterEndings_167
+After the war he vanished 
+without speaking a word... [End][End]# length: 59

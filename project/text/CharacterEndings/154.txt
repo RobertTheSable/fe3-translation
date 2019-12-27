@@ -1,0 +1,7 @@
+@address $ffa3de
+@width 160
+@autoend off
+@label CharacterEndings_154
+[AddSpaces][02]Light Mage Linda 
+
+# length: 22

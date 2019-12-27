@@ -1,0 +1,33 @@
+@address $e5d244
+@width 160
+@label dialogue_233
+[_88][00][_89][60][80][SwitchFrame][00]
+[ShowPortait][4e][05]Come, boy, you want to stop 
+me again? This time I won't 
+spare you!!  [WaitForA][SwitchFrame][01]
+[ShowPortait][90][06]Gharnef, give my sister and 
+the others back!! Where have 
+you taken them!? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hahahaha... Those clerics are 
+going to become sacrifices for 
+the resurrection of the Shadow
+Dragon.  [WaitForA]
+They are lost forever. [WaitForA]
+Soon, the Earth Dragon King, 
+Medeus, will be reborn in his 
+true form, and we require the 
+clerics as live sacrifices. [WaitForA]
+However their souls shattered 
+because they couldn't stand 
+the pain. Not even I can help 
+them now. [WaitForA]
+Thanks to them, the Shadow 
+Dragon will awaken. He no 
+longer fears even the power 
+of the Binding Shield. [WaitForA]
+It's a shame that everything's 
+already over. Marth... You will 
+die here!!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 756

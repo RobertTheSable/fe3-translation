@@ -1,0 +1,5 @@
+@address $e7bba0
+@width 176
+@label classDescription_05
+Experienced archers. They are 
+the strongest bow users. # length: 59

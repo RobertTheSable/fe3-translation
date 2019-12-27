@@ -1,0 +1,3 @@
+@address $f0cf28
+@type menu
+@label itemDiscarding_01

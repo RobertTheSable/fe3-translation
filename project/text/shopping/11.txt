@@ -1,0 +1,6 @@
+@address $e7c550
+@width 160
+@label shopping_11
+
+Your storage is 
+full. # length: 28

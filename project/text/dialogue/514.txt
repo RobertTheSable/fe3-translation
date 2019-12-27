@@ -1,0 +1,48 @@
+@address $e6f5c6
+@width 160
+@label dialogue_514
+[_88][00][SwitchFrame][01]
+[ShowPortait][83][07]Ah... Lord Marth. You finally 
+caught the rebels? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][06]General Lang! Wait! Those 
+children are innocent. Can you 
+hand them to us? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][83][07]That isn't possible. Prisoners 
+of war must be taken to my 
+castle. [WaitForA]
+I must also execute them as 
+soon as possible, so that 
+other people dare not defy us. [WaitForA]
+Ah, your highness. You must 
+head immediately to Medon. [WaitForA]
+The Medonian army has 
+rebelled, and its princess 
+appears to have been 
+captured by them. [WaitForA]
+Emperor Hardin has ordered 
+that you go and rescue 
+Princess Minerva. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][06]What? Medon? I understand, 
+General. If it's to rescue 
+Princess Minerva, I will gladly 
+go. [WaitForA]
+But, please hand those 
+children to me. I beg of you, 
+General Lang! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][83][07]Don't be stubborn, your 
+highness! When I said no, I 
+meant it. [WaitForA]
+Well, you two, come over here! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7c][06]No, let go of me! Yubello, help 
+me! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7d][07]Yumina... Yumina... [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][06]Wait, wait!! Lang! Release 
+those children! [WaitForA][CloseFrame][03]
+# length: 1003

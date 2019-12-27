@@ -1,0 +1,6 @@
+@address $ffb2fe
+@width 160
+@autoend off
+@label CharacterEndings_213
+Fell in battle during 
+Graveyard of Dragons".[End]# length: 48

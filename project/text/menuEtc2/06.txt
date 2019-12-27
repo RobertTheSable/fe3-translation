@@ -1,0 +1,5 @@
+@address $f0e046
+@type menu
+@label menuEtc2_06
+[0108]Speed rose!    [0109]
+[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

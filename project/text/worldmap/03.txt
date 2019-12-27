@@ -1,0 +1,31 @@
+@address $e087de
+@width 160
+@label worldmap_03
+The plains to the north east of 
+Akaneia are ruled by the 
+Kingdom of Aurelis. [MapWaitForA]
+Since its formation, this 
+northern kingdom has had a 
+close relationship with the 
+Holy Kingdom of Akaneia. [MapWaitForA]
+Other countries have 
+completely fallen, and one half 
+of Aurelis has been conquered 
+by Medon. [MapWaitForA]
+However the King's younger 
+brother, Hardin, nicknamed 
+the "Coyote", continues 
+fighting. [MapWaitForA]
+It was also thanks to Duke 
+Hardin that Akaneia's Princess 
+Nyna was able to arrive 
+safely. [MapWaitForA]
+It has already been several 
+months since letters were 
+sent, containing plans to 
+defeat the Dolunian Empire...[MapWaitForA]
+But these sad cries for help
+were left unanswered. [MapWaitForA]
+Facing the Medonian army's 
+elite forces, their fate is also 
+reaching its end...# length: 748

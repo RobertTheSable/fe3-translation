@@ -1,0 +1,15 @@
+@address $e1cbf8
+@width 160
+@label dialogue_71
+[_88][04][ShowPortait][67][04]Since ancient times, the 
+Akaneia royal family passed on 
+three special weapons. [WaitForA]
+The fire bow [SetColor][00][28]Parthia. [SetColor][00][24]
+[WaitForA]The rock-crushing lance  
+[SetColor][00][28]Gradivus.  [SetColor][00][24] [WaitForA]
+And the mythical blade  
+[SetColor][00][28]Mercurius. [SetColor][00][24] [WaitForA]
+Those that carry them will 
+receive the blessing of the 
+deities. [WaitForA][CloseFrame][02]
+# length: 304

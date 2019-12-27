@@ -1,0 +1,9 @@
+@address $ff8de9
+@width 160
+@autoend off
+@label CharacterEndings_59
+She put all her strength into 
+restoring Medon. There are 
+rumours that she will succeed 
+the throne... but she denies [MapWaitForA]
+them. [End][End][End][End][End][End]# length: 142

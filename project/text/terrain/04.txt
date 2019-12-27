@@ -1,0 +1,5 @@
+@address $f0b242
+@type menu
+@label terrain_04
+Bridge
+Avd: 0%

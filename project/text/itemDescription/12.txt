@@ -1,0 +1,8 @@
+@address $f09894
+@type menu
+@label itemDescription_12
+WeaponLv10
+Exp   58
+Temp stops 
+an enemy's
+magic

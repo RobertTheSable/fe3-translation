@@ -1,0 +1,36 @@
+@address $e386ae
+@width 160
+@label dialogue_164
+[_88][00][_89][6d][80][SwitchFrame][01]
+[ShowPortait][74][07]Captain Jeorge. The 
+commander ordered us to 
+return to the castle 
+immediately. [WaitForA][SwitchFrame][00]
+[ShowPortait][20][04]Lang...? I hate that guy. He 
+treats the civilians like 
+slaves. [WaitForA]
+I'm not seriously going to work 
+for a guy like him. Just ignore 
+his order. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+But, Captain Jeorge. If we do 
+that, you will become a 
+criminal. [WaitForA]
+Captain!? Are you thinking of 
+siding with Altea...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, I couldn't do that... If I did 
+that right now, my men would 
+get into trouble. [WaitForA]
+That's something that I must 
+avoid at all costs. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Captain Jeorge... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Alright, just tell everyone 
+this. Tell them to stay where 
+they are. [WaitForA]
+However if the enemy gets 
+close, begin to attack. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 708

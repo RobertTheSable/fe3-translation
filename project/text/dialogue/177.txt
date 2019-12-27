@@ -1,0 +1,43 @@
+@address $e3bc22
+@width 160
+@label dialogue_177
+[_88][00][_89][4c][80][SwitchFrame][00]
+[ShowPortait][18][04]Oh, Prince Marth. It's been a 
+while since we met. [WaitForA]
+There seems to be some 
+commotion outside. What's 
+going on? [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Ah, Bantu! I didn't expect to 
+meet you here. How is Tiki? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+That child isnt with me 
+anymore. Gotoh took her back 
+to the Ice Dragon Shrine. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ice Dragon Shrine? What kind 
+of place is it? I've never 
+heard of it. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+It's located in the northern 
+icelands. However no normal 
+person can reach there. [WaitForA]
+Besides the hero Anri, no 
+human has ever visited it. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Anri!? Then, could that place 
+be the "Realm of the Gods" as 
+described in the legends of 
+Anri? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I've said all that I can say. If 
+you want to learn more, you'll 
+have to ask Gotoh. [WaitForA]
+Actually, could you listen to a 
+request of mine? My precious 
+Firestone was stolen by 
+thieves. [WaitForA]
+If you can recover it for me, I 
+will help you as best as I can. 
+Thank you, Prince Marth. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 935

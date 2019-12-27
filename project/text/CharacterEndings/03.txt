@@ -1,0 +1,8 @@
+@address $ff81d6
+@width 160
+@autoend off
+@label CharacterEndings_03
+After returning to her 
+homeland of Talys she 
+immediately headed for Altea 
+and to Marth's loving company.[End][End][End][End][End]# length: 120

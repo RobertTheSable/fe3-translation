@@ -1,0 +1,8 @@
+@address $e19211
+@width 160
+@label dialogue_36
+[_88][04][ShowPortait][67][04]The scariest foes are 
+Dracoknights. [WaitForA]
+If you're careless you'll get 
+yourselves killed by them. [WaitForA][CloseFrame][02]
+# length: 115

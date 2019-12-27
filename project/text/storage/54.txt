@@ -1,0 +1,5 @@
+@address $e7d643
+@width 160
+@label storage_54
+Starlight was sent to the 
+storage. # length: 39

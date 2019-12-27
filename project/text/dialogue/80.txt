@@ -1,0 +1,29 @@
+@address $e1d95a
+@width 160
+@label dialogue_80
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][1b][07]Astram! Why are you here...? [WaitForA][SwitchFrame][00]
+[ShowPortait][2b][04]Midia? Is that you, Midia? [WaitForA]
+Are you alright? [WaitForA]
+It's great... to see you again. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ah... Astram. You didn't know. [WaitForA]
+The Altean army has already 
+liberated Pales. [WaitForA]
+We hostages were all freed, 
+and now we're fighting 
+together with Altea. [WaitForA]
+So you don't need to help the 
+enemy anymore. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really? That's great. [WaitForA]
+In that case, I want to try my 
+hand at challenging Doluna 
+once again. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Mmm, from now on we'll be 
+together. [WaitForA]
+I'll definitely not leave your 
+side again.[WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 566

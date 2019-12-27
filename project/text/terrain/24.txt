@@ -1,0 +1,5 @@
+@address $f0b4ca
+@type menu
+@label terrain_24
+Door
+Blocked

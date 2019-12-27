@@ -1,0 +1,7 @@
+@address $ff92f6
+@width 160
+@autoend off
+@label CharacterEndings_82
+[AddSpaces][02]Difficult Hero Samson 
+
+# length: 27

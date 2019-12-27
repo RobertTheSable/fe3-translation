@@ -1,0 +1,6 @@
+@address $e7c46c
+@width 160
+@label shopping_06
+
+You don't have 
+enough gold. # length: 34

@@ -1,0 +1,8 @@
+@address $e1f670
+@width 160
+@label dialogue_105
+[_88][04][ShowPortait][6b][04]If you have a VIP Card, you 
+can enter Secret Shops. [WaitForA]
+But, where those shops are, I 
+don't really know. [WaitForA][CloseFrame][02]
+# length: 123

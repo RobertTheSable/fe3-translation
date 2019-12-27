@@ -1,0 +1,5 @@
+@address $e7d2c7
+@width 160
+@label storage_32
+Hand Axe was sent to the 
+storage. # length: 38

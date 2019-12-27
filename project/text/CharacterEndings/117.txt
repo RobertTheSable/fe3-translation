@@ -1,0 +1,6 @@
+@address $ff9bf7
+@width 160
+@autoend off
+@label CharacterEndings_117
+At a monastery in Medon she 
+cared for orphans. [End][End][End][00]# length: 56

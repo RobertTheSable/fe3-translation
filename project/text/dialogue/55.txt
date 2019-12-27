@@ -1,0 +1,6 @@
+@address $e1b407
+@width 160
+@label dialogue_55
+[_88][04][ShowPortait][69][04]To defeat dragons, you must 
+use a Wyrmslayer sword. [WaitForA][CloseFrame][02]
+# length: 68

@@ -1,0 +1,6 @@
+@address $ffaa74
+@width 160
+@autoend off
+@label CharacterEndings_185
+Fell in battle during 
+"Champions of Aurelis".[00]# length: 48

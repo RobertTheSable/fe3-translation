@@ -1,0 +1,17 @@
+@address $e1be0a
+@width 160
+@label dialogue_61
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][20][04]Prince Marth, I am Jeorge, a 
+sniper of Akaneia. [WaitForA]
+After the battle of Pales, I 
+was captured by the Dolunian 
+Empire, but I managed to 
+escape.[WaitForA]
+When you agreed to protect 
+Nyna, I was already waiting 
+here for you.[WaitForA]
+From now on, I will use my 
+Silver Bow to aid 
+the liberation of my homeland. [WaitForA][CloseFrame][02]
+# length: 331

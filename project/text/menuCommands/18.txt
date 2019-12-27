@@ -1,0 +1,4 @@
+@address $f0b7ca
+@type menu
+@label menuCommands_18
+[0108] Weapon [0109]

@@ -1,0 +1,6 @@
+@address $f09fd2
+@type menu
+@label itemDescription_39
+Increases
+Weapon
+Level by 5

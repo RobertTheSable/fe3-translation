@@ -1,0 +1,4 @@
+@address $84c66a
+@width 160
+@label saveMenu_no
+No # length: 5

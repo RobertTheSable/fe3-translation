@@ -1,0 +1,7 @@
+@address $ffa256
+@width 160
+@autoend off
+@label CharacterEndings_147
+While she missed her elder 
+sister, she worked tirelessly 
+to restore Medon. [End][End][End][End][End]# length: 89

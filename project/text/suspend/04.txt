@@ -1,0 +1,4 @@
+@address $f0bc48
+@type menu
+@label suspend_04
+Pre  Nxt           [c000]     [c100]

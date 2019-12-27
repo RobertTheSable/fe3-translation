@@ -1,0 +1,74 @@
+@address $e18578
+@width 160
+@label dialogue_29
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][10][07]Matthis, brother! [WaitForA]
+Brother, it's me, Lena. [WaitForA][SwitchFrame][00]
+[ShowPortait][2c][04]Ah, Lena!? Why are you 
+here...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I was captured by the Ghoul's 
+Teeth bandits, but the Alteans 
+rescued me. [WaitForA]
+But, brother, why are you in 
+the army? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+After you fled from Prince
+Michalis, Medon became more 
+and more ruthless. [WaitForA]
+The prince despised me, so he 
+forced me to join the army and 
+fight here. [WaitForA]
+I detest fighting, but if I don't 
+cooperate, they'll execute me. 
+I don't really have a choice. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, brother. You should have 
+been brave and walked on your 
+own path! [WaitForA]
+It was Medon that was wrong, 
+for allying with the Dolunian
+Empire and causing its people
+to suffer. [WaitForA]
+What they're doing is 
+deplorable. [WaitForA]
+Brother, it's not too late. 
+Come with us, and join the 
+Altean Alliance. [WaitForA]
+Everybody will welcome you, 
+because they're all good 
+people. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Really? I understand. [WaitForA]
+Since I'm going to die anyway, I
+might as well die a glorious 
+death.  [WaitForA]
+However I heard that you 
+flatly denied the prince's 
+proposal. [WaitForA]
+My life is going to be hard with 
+a sister like you. [WaitForA]
+That said, you're still a woman. 
+Are there any guys that take 
+your fancy? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh...? No, there's nobody... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh? I was so sure there was. [WaitForA]
+Nevermind, you've already 
+reached the age to freely 
+love. [WaitForA]
+But, remember what I am about 
+to say: Never fall in love with 
+a thief. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+...Huh...? But... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...Okay, that's good. [WaitForA]
+Well, Lena, don't push yourself 
+too hard. [WaitForA]
+I'll just go and say my 
+farewells to the Medonian 
+army. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1591

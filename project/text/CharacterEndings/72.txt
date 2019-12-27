@@ -1,0 +1,7 @@
+@address $ff90ef
+@width 160
+@autoend off
+@label CharacterEndings_72
+[AddSpaces][02]Macellan, Akaneian Knight
+
+# length: 30

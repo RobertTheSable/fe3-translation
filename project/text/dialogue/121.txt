@@ -1,0 +1,14 @@
+@address $e29909
+@width 160
+@label dialogue_121
+[_88][00][_89][20][80][ShowPortait][67][04]Oh, Lord Marth, you finally 
+came. [WaitForA]
+Is my granddaughter, Lena, 
+alright? [WaitForA]
+This repair staff, Hammerne,   
+has been passed down by my 
+family. [WaitForA]
+Please take it. However it can 
+only repair weapons, so take 
+notice when you use it. [WaitForA][CloseFrame][02]
+# length: 262

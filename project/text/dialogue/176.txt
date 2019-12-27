@@ -1,0 +1,43 @@
+@address $e3b87d
+@width 160
+@label dialogue_176
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][03][04]Your highness, you're safe! [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Cain! You're safe as well? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm, I had to break through 
+the enemy to get here. But, 
+they have already secured the 
+northern bridge now. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+It doesn't matter. We'll crush 
+them. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, that's not possible. Hardin 
+is being protected by a 
+mysterious power. [WaitForA]
+We can't touch him. Basically, 
+if we fight now we can't hope 
+to win. [WaitForA]
+You should head towards the 
+north western fort and escape 
+by ship to the Khadein desert. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][02][06]Your highness, the 
+mercenaries towards the 
+south are beginning to move 
+out. [WaitForA]
+This truly isn't the time to 
+fight. We should do what Cain 
+says, and escape to the 
+Khadein desert. [WaitForA]
+Afterwards, we can formulate 
+a new plan... [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][07]Really...? Even though it's 
+regrettable, that's our only 
+choice... [WaitForA]
+Troops, we will march to the 
+north western fort! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 903

@@ -1,0 +1,7 @@
+@address $ffa874
+@width 160
+@autoend off
+@label CharacterEndings_177
+She lived her days happily, 
+warmly surrounded by the 
+citizens of Pales. [End][End]# length: 80

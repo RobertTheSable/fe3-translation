@@ -1,0 +1,5 @@
+@address $e7dd68
+@width 160
+@label storage_97
+Angelic Robe was sent to the 
+storage. # length: 42

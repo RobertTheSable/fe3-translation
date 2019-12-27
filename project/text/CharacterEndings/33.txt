@@ -1,0 +1,7 @@
+@address $ff88a0
+@width 160
+@autoend off
+@label CharacterEndings_33
+He married Princess Nyna, and 
+became the 24th King of 
+Akaneia. [End][00]# length: 70

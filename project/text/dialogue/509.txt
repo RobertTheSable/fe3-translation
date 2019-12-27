@@ -1,0 +1,27 @@
+@address $e6ee28
+@width 160
+@label dialogue_509
+[_88][00][_89][47][80][SwitchFrame][00]
+[ShowPortait][93][04]Hahaha... Prince Marth, it's 
+been a while. [WaitForA][SwitchFrame][01]
+[ShowPortait][90][07]Hardin... Why did you attack my 
+country? Why did you do it? 
+Even now I am still in disbelief. 
+Have you really changed? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Your highness, I am the 
+Emperor of Akaneia, ruler of 
+this world. [WaitForA]
+I cannot allow those who 
+oppose me to go unpunished. 
+And that includes you, Prince 
+Marth... [WaitForA]
+This disgusting world must be 
+destroyed... Everything in it is 
+a mistake. [WaitForA]
+Rebels, this game is over. You 
+will all die here. [WaitForA]
+Troops, charge! Slay the 
+traitors without remorse!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 577

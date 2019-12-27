@@ -1,0 +1,9 @@
+@address $e294db
+@width 160
+@label dialogue_119
+[_88][00][_89][12][80][SwitchFrame][00]
+[ShowPortait][31][04]The glorious Kingdom of Grust 
+is finished... 
+Your highness, this was all 
+because of you... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 124

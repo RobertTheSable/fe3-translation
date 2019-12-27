@@ -1,0 +1,7 @@
+@address $ffa8c4
+@width 160
+@autoend off
+@label CharacterEndings_178
+[AddSpaces][02]Wayward Knight Est 
+
+# length: 24

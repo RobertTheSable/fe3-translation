@@ -1,0 +1,5 @@
+@address $e7cef5
+@width 160
+@label storage_08
+Lady Sword was sent to the 
+storage.# length: 39

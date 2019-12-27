@@ -1,0 +1,4 @@
+@address $f08a4a
+@type menu
+@label classnames_24
+Bandit

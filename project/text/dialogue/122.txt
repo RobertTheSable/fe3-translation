@@ -1,0 +1,55 @@
+@address $e29a16
+@width 160
+@label dialogue_122
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][4c][06]Gotoh, the allied army has 
+come. [WaitForA]
+This place is going to become a 
+battlefield. 
+Please leave to safety. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][33][07]Mmm... I understand. [WaitForA]
+but Michalis, you truly are a 
+fool. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][4c][06][_17][ef][ff][Exclaim2].... 
+[_16][10][00]Why did you call me a fool!? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][33][07]You love Minerva and she 
+deeply respects you. [WaitForA]
+Since you were young, you two 
+both discussed the future of 
+this country, and put much 
+effort into both martial arts 
+and study. [WaitForA]
+With your combined strength, 
+Medon would eventually 
+become as strong a country as 
+Akeneia. [WaitForA]
+However you let yourself be 
+deceived by Gharnef, [WaitForA]
+becoming obsessed with 
+pointless ambition, which 
+would lead this country down 
+the path of ruin...[WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][4c][06]...That is already in the past. [WaitForA]
+Minerva betrayed me and 
+betrayed this country... [WaitForA]
+But, Gotoh, I haven't lost yet. [WaitForA]
+I still have the Medonian 
+royal family's treasured [SetColor][00][28]Iote's 
+Shield. [SetColor][00][24][WaitForA]
+With this I needn't fear even 
+arrows. That boy... [WaitForA]
+I will personally slay Altea's 
+Marth, for you to see. [WaitForA]
+That is my final will, as king of 
+Medon! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][33][07]Really...? Then I have nothing 
+more to say. [WaitForA]
+Go! Michalis, go and punish 
+yourself, for the crime of 
+killing your own father!! [WaitForA][CloseFrame][03]
+# length: 1254

@@ -1,0 +1,10 @@
+@address $ff91a4
+@width 160
+@autoend off
+@label CharacterEndings_77
+As the captain of the Akaneian
+mercenaries he worked 
+tirelessly to restore his 
+homeland. Recently there have [MapWaitForA]
+been rumours of his upcoming 
+wedding... [End][End][End][00]# length: 165

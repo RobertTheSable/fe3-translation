@@ -1,0 +1,7 @@
+@address $96b9b0
+@width 160
+@label endings_PersonalRecords
+
+
+
+[AddSpaces][06]Personal Records# length: 27

@@ -1,0 +1,8 @@
+@address $ff8320
+@width 160
+@autoend off
+@label CharacterEndings_09
+He retired from the army to
+start a small shop. Recently 
+there have been rumours of 
+his upcoming wedding...[End][End]# length: 116

@@ -1,0 +1,4 @@
+@address $f09006
+@type menu
+@label itemNames_47
+BindShld

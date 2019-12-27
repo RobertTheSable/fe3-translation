@@ -1,0 +1,7 @@
+@address $ffa1e4
+@width 160
+@autoend off
+@label CharacterEndings_145
+He became a High Bishop of 
+Khadein, and worked to 
+restore the magic city. [End][End][End]# length: 84

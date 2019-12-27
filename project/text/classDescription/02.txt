@@ -1,0 +1,6 @@
+@address $e7bacb
+@width 176
+@label classDescription_02
+Axefighters from the frontier 
+lands. Strong, but lack 
+defence. # length: 69

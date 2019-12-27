@@ -1,0 +1,5 @@
+@address $e7e007
+@width 160
+@label storage_114
+Gemini was sent to the 
+storage. # length: 36

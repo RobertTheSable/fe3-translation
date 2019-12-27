@@ -1,0 +1,55 @@
+@address $e5840b
+@width 160
+@label dialogue_215
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][16][04]Wolf, Sedgar, Vyland. Is this 
+really okay...? Can we really 
+fight this battle? [WaitForA][SwitchFrame][01]
+[ShowPortait][14][07]Roshea! What are you trying to 
+say? [WaitForA]
+Look, the Altean army is 
+marching along the narrow 
+mountain road. Now's our only 
+chance to defeat them. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][17][06]Yes, Roshea. We swore that we 
+could sacrifice our lives for 
+Lord Hardin. [WaitForA]
+Lord Hardin was the one who 
+freed us plains people from 
+slavery. [WaitForA]
+If we don't fight Altea now,
+Pales will fall. Do you want 
+Lord Hardin to be defeated by 
+them? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][15][07]That's right! Prince Marth 
+wants to destroy Akaneia, and 
+conquer the world. [WaitForA]
+And that's why he joined 
+forces with Medon to crush 
+Grust. Now he even has Gra 
+under his rule. [WaitForA]
+If we don't do something, the 
+whole world will fall under his 
+control. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I still don't believe it. I cannot
+believe Prince Marth would 
+have such ambitions. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][14][07]What? Are you saying that 
+Emperor Hardin lied? Do you 
+think that he would stoop to 
+such a low!? [WaitForA]
+Enough, Roshea!! You 
+disappoint me, if you want to 
+betray us then go ahead. [WaitForA]
+Sedgar, Vyland, let's go. If 
+we're too slow, they will pass 
+us. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hey, wait! I won't betray you. I 
+understand... I'll go. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1237

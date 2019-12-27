@@ -1,0 +1,6 @@
+@address $ffb4d4
+@width 160
+@autoend off
+@label CharacterEndings_219
+Fell in battle during "Battle of 
+the Pass". [End][End]# length: 50

@@ -1,0 +1,19 @@
+@address $e2b49a
+@width 160
+@label dialogue_136
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][33][04]Marth. You truly are a hero for 
+being able to reach here. [WaitForA]
+In the past I used to hate 
+these stupid humans, and so I 
+cut off communications with 
+them. [WaitForA]
+However, after seeing you, I 
+have now realised that humans 
+aren't a lost hope. [WaitForA]
+Go forth! The deities' chosen 
+one, Altea's Prince of Light. [WaitForA]
+Send the Shadow Dragon, 
+Medeus, back to the eternal 
+darkness once again!! [WaitForA][CloseFrame][02]
+# length: 417

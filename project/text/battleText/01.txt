@@ -1,0 +1,4 @@
+@address $f0e3f0
+@type menu
+@label battleText_01
+'s attack.

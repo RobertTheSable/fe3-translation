@@ -1,0 +1,36 @@
+@address $e59fe0
+@width 160
+@label dialogue_218
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][8b][04]I should have expected no less 
+from Akaneia. They have such 
+a powerful army. [WaitForA]
+We won't be able to get close
+so easily.[WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Hardin is gambling everything 
+on this one battle, and he 
+appears to have gathered the 
+entire army of Akaneia here. [WaitForA]
+But, any knights with a 
+conscience already joined the 
+coup and have nearly all been 
+executed. [WaitForA]
+All that remains are just weak 
+mercenaries, so you don't 
+need to fear them. [WaitForA]
+Right now, many people's 
+hearts have already swayed 
+from Hardin, [WaitForA]
+and the citizens welcome 
+us as their liberation army. [WaitForA]
+This should give us confidence 
+like no other. Anyway, this is 
+the last battle. [WaitForA]
+Although it might take time, 
+please take care while 
+advancing. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I understand. Let's go, Jagen. I
+am worried about Midia. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 824

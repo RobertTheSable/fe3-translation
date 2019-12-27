@@ -1,0 +1,6 @@
+@address $ffad84
+@width 160
+@autoend off
+@label CharacterEndings_195
+Fell in battle during "Star and 
+Savior". [End][00]# length: 46

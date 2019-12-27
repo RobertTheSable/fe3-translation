@@ -1,0 +1,34 @@
+@address $e4f770
+@width 160
+@label dialogue_210
+[_88][00][_89][0d][80][SwitchFrame][01]
+[ShowPortait][02][07]Lord Marth, if this battle 
+continues it will become 
+meaningless, and will only give 
+more time for Hardin. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Mmm, I was thinking the same. 
+If we keep heading east, more 
+needless blood will be spilt. [WaitForA]
+So I have decided a different 
+route for us to go. [WaitForA]
+How about we go directly 
+south from Menedi, and enter 
+Pales from Adria Peak? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+You want the troops to cross 
+that dangerous mountain 
+path? It's too dangerous... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I am already prepared for 
+danger. [WaitForA]
+Besides, we were able to 
+conquer the dangerious Anri's 
+Way, so this should be easy in 
+comparison... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+...That's a fair point. If we can 
+cross it, we can attack the 
+enemy from the rear. [WaitForA]
+Understood, we'll try that. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 751

@@ -1,0 +1,7 @@
+@address $ff9da6
+@width 160
+@autoend off
+@label CharacterEndings_126
+[AddSpaces][02]Grustian Princess Yumina 
+
+# length: 30

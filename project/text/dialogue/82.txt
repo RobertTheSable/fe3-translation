@@ -1,0 +1,20 @@
+@address $e1dc85
+@width 160
+@label dialogue_82
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][2f][04]Lord Marth, greetings. I am 
+Palla of the Whitewings. [WaitForA]
+After hearing that you 
+rescued Maria, my sister, 
+Catria, and I escaped from 
+Medon. [WaitForA]
+Following my promise to Catria, 
+I will also fight together with 
+Minerva. [WaitForA]
+However, our youngest sister, 
+Est, headed to Grust and 
+hasn't been seen since. [WaitForA]
+Once she returns, we three 
+will be able to help you out 
+even more... [WaitForA][CloseFrame][02]
+# length: 414

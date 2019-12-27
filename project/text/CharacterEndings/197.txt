@@ -1,0 +1,6 @@
+@address $ffae1e
+@width 160
+@autoend off
+@label CharacterEndings_197
+Fell in battle during "Camus 
+the Sable". [End][End][End][00]# length: 50

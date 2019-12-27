@@ -1,0 +1,15 @@
+@address $e2b220
+@width 160
+@label dialogue_133
+[_88][00][_89][12][80][SwitchFrame][00]
+[ShowPortait][4f][04]Ha... Foolish kid! Don't think 
+you're so great!! [WaitForA]
+Even though you've entered 
+my castle, I won't surrender to 
+the likes of you! [WaitForA]
+Right now, I'll show you the 
+true might of us Earth 
+Dragons!! [WaitForA]
+Come... to me... I'll send you to 
+the pits of Hell! [WaitForA][CloseFrame][02]
+# length: 285

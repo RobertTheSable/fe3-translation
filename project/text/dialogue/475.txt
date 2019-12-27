@@ -1,0 +1,10 @@
+@address $e6c1f0
+@width 160
+@label dialogue_475
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][6a][04]Oh, you... Where did you all go 
+to? [WaitForA]
+You all went missing for so 
+long that everyone became 
+very worried about you. [WaitForA][CloseFrame][02]
+# length: 145

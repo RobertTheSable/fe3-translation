@@ -1,0 +1,5 @@
+@address $e7b85e
+@width 240
+@type nodigraph
+@label ChapterTitles_31
+BBBB   Ch11 Anri's Way         # length: 33

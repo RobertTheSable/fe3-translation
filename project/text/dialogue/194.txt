@@ -1,0 +1,56 @@
+@address $e4bc74
+@width 160
+@label dialogue_194
+[_88][00][_89][48][80][SwitchFrame][00]
+[ShowPortait][8b][04]This is the Ice Dragon Shrine. 
+Anri's final destination... [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Yes. It was here that Anri 
+obtained the Falchion, which 
+he used to defeat Medeus with. [WaitForA]
+Then, encouraged by the 
+citizens of Altea, he became 
+their first king. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+But, in the end he wasn't able 
+to be with Artemis... Why? Why 
+weren't they loving together? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+The nobles of Akaneia didn't 
+want Anri, a former peasant, 
+to become their own king. [WaitForA]
+Instead they encouraged the 
+princess to marry the leader 
+of the liberation army, Duke 
+Cartas. [WaitForA]
+Princess Artemis was unable 
+to refuse. [WaitForA]
+[SetColor][00][2c]"The bearer of the Fire 
+Emblem, must give their life to 
+the royal family". [WaitForA]
+[SetColor][00][24]That is a saying passed down 
+unchangingly by the Akaneia 
+royal family. [WaitForA]
+The princess didn't tell Anri 
+anything and accepted 
+Cartas's engagement. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+How could she...? That was 
+unfair to Anri. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What was worse was that the 
+princess died immediately 
+after giving birth to her 
+newborn prince. [WaitForA]
+Also King Anri never married in 
+his life. The Kingdom of Altea 
+was succeeded by his younger 
+brother, King Marcelus... [WaitForA]
+That is to say, your 
+highness's great grandfather. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Such a tragic tale... So that 
+was Artemis's fate? All 
+because of the curse of the 
+Fire Emblem...? [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1319

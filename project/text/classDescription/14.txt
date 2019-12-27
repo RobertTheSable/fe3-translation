@@ -1,0 +1,6 @@
+@address $e7be0e
+@width 176
+@label classDescription_14
+Using staves, they aid allies 
+with recovery and defensive 
+magic. # length: 71

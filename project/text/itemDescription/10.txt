@@ -1,0 +1,8 @@
+@address $f097d4
+@type menu
+@label itemDescription_10
+WeaponLv--
+Exp   58
+Repairs a
+weapon
+Rena, Mall.

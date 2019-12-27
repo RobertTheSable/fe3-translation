@@ -1,0 +1,7 @@
+@address $ff8882
+@width 160
+@autoend off
+@label CharacterEndings_32
+[AddSpaces][02]Prince Hardin of Aurelis 
+
+# length: 30

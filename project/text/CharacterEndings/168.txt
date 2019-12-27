@@ -1,0 +1,7 @@
+@address $ffa6df
+@width 160
+@autoend off
+@label CharacterEndings_168
+[AddSpaces][02]Akaneian Mercenary Astram
+
+# length: 30

@@ -1,0 +1,4 @@
+@address $f0e4d8
+@type menu
+@label battleText_12
+'s HP up 

@@ -1,0 +1,5 @@
+@address $e7e152
+@width 160
+@label storage_123
+Silver Card was sent to the 
+storage. # length: 41

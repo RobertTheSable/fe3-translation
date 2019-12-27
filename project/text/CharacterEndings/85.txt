@@ -1,0 +1,6 @@
+@address $ff9361
+@width 160
+@autoend off
+@label CharacterEndings_85
+By Bantu's side she quietly 
+passed her days. [End][End][00]# length: 52

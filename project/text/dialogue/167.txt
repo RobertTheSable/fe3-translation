@@ -1,0 +1,21 @@
+@address $e391d5
+@width 160
+@label dialogue_167
+[_88][00][_89][20][80][SwitchFrame][01]
+[ShowPortait][66][06]Oh, aren't you the prince of 
+Altea? I have heard a lot about
+you.  [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][05]I heard bishop Wendell lived in 
+this village. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, that's right... However, 
+yesterday, some uninvited 
+visitors from Akaneia came 
+and took him away. [WaitForA]
+Your highness, the bishop left 
+behind a magic tome. It seems 
+to be the type that controls 
+wind... [WaitForA]
+Please take it with you. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 403

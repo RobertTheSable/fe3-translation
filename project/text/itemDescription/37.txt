@@ -1,0 +1,6 @@
+@address $f09f76
+@type menu
+@label itemDescription_37
+Increases
+Maximum HP
+by 7

@@ -1,0 +1,5 @@
+@address $e7dcc4
+@width 160
+@label storage_93
+Dracoshield was sent to the 
+storage. # length: 41

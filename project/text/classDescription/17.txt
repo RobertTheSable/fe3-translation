@@ -1,0 +1,6 @@
+@address $e7bed9
+@width 176
+@label classDescription_17
+Experienced Clerics or Mages 
+who have promoted. Uses 
+magic and staves. # length: 77

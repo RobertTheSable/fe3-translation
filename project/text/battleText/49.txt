@@ -1,0 +1,4 @@
+@address $f0e7dc
+@type menu
+@label battleText_49
+ was blocked!

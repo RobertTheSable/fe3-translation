@@ -1,0 +1,25 @@
+@address $e0ef86
+@width 160
+@label dialogue_13
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][01][07]Castor!? [WaitForA]
+You're Castor! Why are you 
+doing this...? [WaitForA][SwitchFrame][00]
+[ShowPortait][0c][04]Ah... Shiida, I'm sorry. My 
+mother fell ill. [WaitForA]
+I must find gold to buy 
+medicine for her... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+So you joined the pirates, I 
+see. Well, I have some gold 
+here. [WaitForA]
+Take it to buy medicine for 
+your mother. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+...! You would help a traitor like 
+me... Shiida, please forgive 
+me!! [WaitForA]
+I...! Shiida, I will lend my life to 
+you! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 436

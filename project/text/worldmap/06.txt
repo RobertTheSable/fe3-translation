@@ -1,0 +1,24 @@
+@address $e08e0b
+@width 160
+@label worldmap_06
+Because of General Minerva's 
+sudden retreat, the allied 
+army was able to enter the 
+Akaneia region safely. [MapWaitForA]
+To allow the soldiers to rest, 
+they stopped at the famous 
+merchant and port town of 
+Warren. [MapWaitForA]
+This town had paid lots of gold 
+to the Empire so that they 
+could freely rule, and were 
+friendly to the allied army. [MapWaitForA]
+At this town, surrounded by 
+the sea and mountain and 
+protected by many 
+mercenaries, the soldiers were [MapWaitForA]
+happy to get a much needed 
+rest. [MapWaitForA]
+...But, as if to mock their 
+feeilings, news of an enemy 
+ambush suddenly comes. # length: 570

@@ -1,0 +1,38 @@
+@address $e19e91
+@width 160
+@label dialogue_42
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][0f][07]Aren't you Rickard? What are
+you doing here? [WaitForA][SwitchFrame][00]
+[ShowPortait][07][04]Oh, big bro Julian! It's been a 
+while.  [WaitForA]
+Heh, it's a little embarrassing. 
+I came to the castle to steal, 
+but I slipped up and got myself 
+caught. [WaitForA]
+But, big bro, what are you 
+doing here...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I... I'm not a thief anymore. I'm, 
+er, an ally of justice now. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh? Tsk tsk! You're probably 
+being deceived by a woman. Big 
+bro has always been 
+intimidated by pretty women. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+F-fool!! My, uh, sense of 
+justice was awakened, that's 
+all... [WaitForA]
+Nevermind. Anyhow, from now 
+on you're going to be a 
+companion of mine. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Pfft! You're always so 
+selfish... Okay. One, I have 
+time. And two, since big bro 
+asked of me... [WaitForA]
+I understand. I will help big bro.
+But you must also help me.  [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 806

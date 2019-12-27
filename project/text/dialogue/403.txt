@@ -1,0 +1,8 @@
+@address $e697bf
+@width 160
+@label dialogue_403
+[_88][00][_89][38][80][SwitchFrame][00]
+[ShowPortait][79][04]I'm sorry. I have nothing 
+against you, but for my work, 
+please forgive me! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 106

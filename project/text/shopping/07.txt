@@ -1,0 +1,7 @@
+@address $e7c48e
+@width 160
+@label shopping_07
+
+You're going to have to 
+choose an item to send to 
+storage. # length: 67

@@ -1,0 +1,7 @@
+@address $ff99e7
+@width 160
+@autoend off
+@label CharacterEndings_108
+[AddSpaces][02]Luke, Knight of Altea  
+
+# length: 28

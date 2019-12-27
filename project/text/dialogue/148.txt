@@ -1,0 +1,21 @@
+@address $e2cb16
+@width 160
+@label dialogue_148
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6a][04]After the previous war ended, 
+Princess Nyna handed over 
+this country to General 
+Lorenz, and allowed him to [WaitForA]
+freely rule. [WaitForA]
+However, after Hardin became 
+Emperor, he removed General 
+Lorenz's power and sent 
+Lang's army here. [WaitForA]
+Lang stole everything from us. 
+Not just money, but also food, 
+clothes and even our loved 
+ones were... [WaitForA]
+Ah... If only General Camus was 
+still here. Then we wouldn't 
+need to fear Lang. [WaitForA][CloseFrame][02]
+# length: 460

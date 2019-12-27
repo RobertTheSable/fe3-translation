@@ -1,0 +1,26 @@
+@address $e4f582
+@width 160
+@label dialogue_209
+[_88][00][_89][4c][80][SwitchFrame][00]
+[ShowPortait][26][04]That's great, Sheema. Now I 
+can finally leave without 
+worry. [WaitForA][SwitchFrame][01]
+[ShowPortait][89][07]Samson... Can you not leave...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You don't need me anymore. 
+From now on Prince Marth will 
+protect you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Don't leave! I don't want you 
+to leave... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, what? Why do keep me? It 
+doesn't seem like you. [WaitForA]
+...Fine. If you say you need me, 
+I won't go anywhere else. [WaitForA]
+I will protect you wherever you
+may go. Is that fine with you? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 471

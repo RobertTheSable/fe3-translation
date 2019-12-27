@@ -1,0 +1,8 @@
+@address $e18f2a
+@width 160
+@label dialogue_32
+[_88][04][ShowPortait][67][04]In castles there will be many 
+chests filled with treasure. [WaitForA]
+However only thieves can 
+open them. [WaitForA][CloseFrame][02]
+# length: 117

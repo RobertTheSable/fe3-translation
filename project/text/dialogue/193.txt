@@ -1,0 +1,82 @@
+@address $e4b4d9
+@width 160
+@label dialogue_193
+[_88][00][_89][1e][80][SwitchFrame][00]
+[ShowPortait][8b][05]Hey, Xane. Gotoh didn't really 
+mention anything about the 
+five Spheres, but I thought 
+they were very important. [WaitForA]
+Do you know anything about 
+them? [WaitForA][SwitchFrame][01]
+[ShowPortait][28][06]Gotoh was afraid of shocking 
+you so he didn't say anything. I
+will tell you.  [WaitForA]
+However, after I've told you, 
+you'll probably think it was 
+better off not knowing. [WaitForA]
+The spheres rest on the shield 
+that seals the Earth Dragons...
+Basically they are part of the 
+[SetColor][00][28]Binding Shield. [SetColor][00][24][WaitForA]
+Since ancient times, the 
+Divine Dragons have passed 
+down these sacred jewels, 
+each possessing different [WaitForA]
+powers. [WaitForA]
+To put it simply, the shield is 
+just a pedestral and the five 
+Spheres are what creates the 
+power of the seal. [WaitForA]
+So if any of the Spheres is 
+lost the seal will weaken. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmm, is that so? But, how 
+comes the Spheres were 
+scattered? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Because the shield was 
+broken. [WaitForA]
+The Binding Shield was 
+displayed at the Fane of 
+Raman, and it was stolen by 
+somebody who ended up [WaitForA]
+breaking it... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+When did that happen? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Around 600 years ago. To 
+recover the shield, Gotoh 
+spent many years searching 
+the lands. [WaitForA]
+In the end, he only found the 
+five Spheres, with the shield 
+nowhere to be seen. [WaitForA]
+Not only that, but the five 
+spheres, which he painfully 
+collected, were scattered 
+again after the Fane of Raman [WaitForA]
+was attacked in the previous 
+war. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really? ...So that was why 
+Gotoh was looking for the lost 
+jewels... the Spheres? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yep, the Star, Light and Geo... 
+as well as the Dark and Life 
+Spheres. [WaitForA]
+The Lightsphere is in Gotoh's 
+possession, the Starsphere 
+was shattered and the 
+Darksphere was given to [WaitForA]
+Hardin by Gharnef. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+The Geosphere is in Altea, and 
+all that remains is the 
+Lifesphere. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ah... Anyway, let's enter the 
+temple. From now on I will also 
+help you fight. Well, let's go! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1907

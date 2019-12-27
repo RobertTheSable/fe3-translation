@@ -1,0 +1,5 @@
+@address $e7d33b
+@width 160
+@label storage_35
+Broken Axe was sent to the 
+storage.# length: 39

@@ -1,0 +1,7 @@
+@address $ff85d5
+@width 160
+@autoend off
+@label CharacterEndings_19
+At the Kingdom of Talys he 
+lived peacefully as a 
+woodcutter.[End][End][00]# length: 69

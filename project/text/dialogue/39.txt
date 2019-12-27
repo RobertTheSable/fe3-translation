@@ -1,0 +1,18 @@
+@address $e197cb
+@width 160
+@label dialogue_39
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][29][04]Lord Marth, I am Wendell, a 
+bishop of Khadein. [WaitForA]
+The magic city, Khadein, is the 
+hope of all people who love 
+peace. [WaitForA]
+However, Gharnef has become 
+its ruler. [WaitForA]
+Currently he has led the mages 
+to perform evil deeds for
+Doluna.[WaitForA]
+Prince Marth, to destroy 
+Gharnef's ambitions, please 
+allow me to aid you. [WaitForA][CloseFrame][02]
+# length: 343

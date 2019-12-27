@@ -1,0 +1,4 @@
+@address $e7d4cf
+@width 160
+@label storage_45
+Fire was sent to the storage. # length: 32

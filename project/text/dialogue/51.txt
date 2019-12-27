@@ -1,0 +1,20 @@
+@address $e1af6f
+@width 160
+@label dialogue_51
+[_88][00][_89][0b][80][SwitchFrame][00]
+[ShowPortait][19][04]Prince Marth, we are 
+mercenaries guarding Warren 
+town. [WaitForA]
+The Grustian knights have 
+gathered from the western 
+forts and have us completely 
+surrounded. [WaitForA]
+Right now, we are in a very 
+dangerous situation. [WaitForA]
+Luckily, the eastern castle is 
+weakly guarded, so we should 
+be able to subdue it easily. We 
+will also aid you. [WaitForA]
+Please hurry and escape to 
+the eastern castle. [WaitForA][CloseFrame][02]
+# length: 412

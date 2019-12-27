@@ -1,0 +1,29 @@
+@address $e0cae4
+@width 160
+@label worldmap_33
+The surprising truth from 
+Xane was a shock to Marth. [MapWaitForA]
+Tiki was created as the 
+daughter of the Divine Dragon 
+King, Naga, and slept in the 
+temple because of the king's [MapWaitForA]
+will. [MapWaitForA]
+The king's fear of Tiki's power 
+was that of a loving father's. [MapWaitForA]
+If Tiki was to awaken, her 
+tremendous power would 
+eventually cause the 
+destruction of the world... [MapWaitForA]
+That is what the Divine Dragon 
+King feared. [MapWaitForA]
+However, Bantu, the king's 
+servant, became attached to 
+Tiki after watching over her 
+for a period of hundreds of [MapWaitForA]
+years. [MapWaitForA]
+He awoke her from her sleep, 
+and took her away. So Tiki only 
+had 10 human years worth of 
+memory... [MapWaitForA]
+"That is so sad, Tiki..." Marth 
+was too bewildered to think. # length: 708

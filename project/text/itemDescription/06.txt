@@ -1,0 +1,8 @@
+@address $f09648
+@type menu
+@label itemDescription_06
+WeaponLv 7
+Exp   30
+Restores
+Power+10HP
+from away

@@ -1,0 +1,6 @@
+@address $ffaac2
+@width 160
+@autoend off
+@label CharacterEndings_186
+Fell in battle during "Fire 
+Emblem". [End][End][End][End]# length: 47

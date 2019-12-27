@@ -1,0 +1,46 @@
+@address $e3c5c8
+@width 160
+@label dialogue_181
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][8b][04]Jagen, everybody appears to 
+be safe. That's great to see. [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]But, your highness, what 
+should we do next? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmmm... I want to return to 
+Altea, but if we don't defeat 
+Hardin we won't be able to 
+save it. [WaitForA]
+What on earth should we do...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Please wait a second. I just 
+received some news. [WaitForA]
+[_17][ef][ff]..... 
+[_16][10][00]What!? Your highness, there's 
+trouble. Khadein's mage army 
+has launched an attack at us. [WaitForA]
+It seems Khadein has allied 
+with the Empire. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh!? Even Khadein views us 
+as enemies? What is Merric 
+doing...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Your highness, we've got to do 
+something. [WaitForA]
+Even though we'll probably 
+have to make some sacrifices, 
+we should charge straight for 
+the temple.[WaitForA]
+If we don't hurry up, Akaneia's 
+pursuit squad will appear from 
+behind and prevent us from 
+moving. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I understand. There's no 
+choice. [WaitForA]
+Troops, charge into Khadein 
+Temple, but try to avoid 
+needless battles if possible! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 979

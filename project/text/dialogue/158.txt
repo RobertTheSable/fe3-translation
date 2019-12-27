@@ -1,0 +1,22 @@
+@address $e2e6db
+@width 160
+@label dialogue_158
+[_88][00][_89][6d][80][SwitchFrame][00]
+[ShowPortait][8b][04]Jagen, how is the situation at 
+the castle? Have they found 
+Minerva yet? [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]Right, about that... Although 
+the enemy has fled, there 
+seems to be no trace of the 
+princess.[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, why is that? Minerva 
+should have been taken here... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Ah... Your highness, General 
+Lang appears to have arrived. [WaitForA]
+I wonder what kind of 
+nonsensical request he's going 
+to give us this time. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 425

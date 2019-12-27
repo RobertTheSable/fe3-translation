@@ -1,0 +1,6 @@
+@address $ffb435
+@width 160
+@autoend off
+@label CharacterEndings_217
+Fell in battle during "Reclaim 
+the Capital". [End][00]# length: 50

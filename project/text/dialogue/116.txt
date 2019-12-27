@@ -1,0 +1,23 @@
+@address $e29227
+@width 160
+@label dialogue_116
+[_88][00][_89][0a][80][ShowPortait][00][04]Nyna... I'm sorry. [WaitForA]
+I couldn't fulfil my promise to 
+you... [WaitForA][SwitchFrame][01]
+[ShowPortait][61][07]No, Marth... You have also 
+suffered. [WaitForA]
+I'm sorry. ...Really. [WaitForA]
+I already knew that this would 
+happen. [WaitForA]
+Since the time I handed the 
+Emblem to you, I knew that... [WaitForA]
+The Fire Emblem must be used 
+to restore the royal family. [WaitForA]
+But there is a price to pay, 
+which is to lose your most 
+loved one. [WaitForA]
+That is the curse of the 
+Emblem... [WaitForA]
+The fate of Artemis. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 473

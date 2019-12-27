@@ -1,0 +1,7 @@
+@address $ff9c92
+@width 160
+@autoend off
+@label CharacterEndings_120
+[AddSpaces][02]Nabarl, Scarlet Sword  
+
+# length: 28

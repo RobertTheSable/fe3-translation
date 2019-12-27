@@ -1,0 +1,6 @@
+@address $ffac46
+@width 160
+@autoend off
+@label CharacterEndings_191
+Fell in battle during "The 
+Ageless Palace".# length: 45

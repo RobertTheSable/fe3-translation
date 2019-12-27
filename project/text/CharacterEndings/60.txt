@@ -1,0 +1,7 @@
+@address $ff8e77
+@width 160
+@autoend off
+@label CharacterEndings_60
+[AddSpaces][02]Maria, Minerva's Sister 
+
+# length: 29

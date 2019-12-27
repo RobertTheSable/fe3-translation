@@ -1,0 +1,90 @@
+@type nodigraph
+@width 240
+@label ChapterTitles_00
+[End]
+@label ChapterTitles_01
+BBBB  Ch1 Marth Embarks      [End]
+@label ChapterTitles_02
+BBBB  Ch2 Pirates of Galder  [End]
+@label ChapterTitles_03
+BBBB  Ch3 Brush in the Teeth [End]
+@label ChapterTitles_04
+BBBB  Ch4 Aurelian Champions [End]
+@label ChapterTitles_05
+BBBB  Ch5 Fire Emblem        [End]
+@label ChapterTitles_06
+BBBB  Ch6 Lefcandith Gauntlet[End]
+@label ChapterTitles_07
+BBBB  Ch7 Coastal Skirmish   [End]
+@label ChapterTitles_08
+BBBB  Ch8 Princess Minerva   [End]
+@label ChapterTitles_09
+BBBB  Ch9 Knorda Market      [End]
+@label ChapterTitles_10
+BBBB  Ch10 Ageless Palace    [End]
+@label ChapterTitles_11
+BBBB  Ch11 Land of Sorrow    [End]
+@label ChapterTitles_12
+BBBB  Ch12 Oasis of Magic    [End]
+@label ChapterTitles_13
+BBBB  Ch13 Battle for Altea   [End]
+@label ChapterTitles_14
+BBBB  Ch14 Star and Savior   [End]
+@label ChapterTitles_15
+BBBB  Ch15 Manakete Princess [End]
+@label ChapterTitles_16
+BBBB  Ch16 Camus the Sable   [End]
+@label ChapterTitles_17
+BBBB  Ch17 Knight-Filled Sky [End]
+@label ChapterTitles_18
+BBBB  Ch18 Dark Pontifex     [End]
+@label ChapterTitles_19
+BBBB  Ch19 Dragonkin Realm   [End]
+@label ChapterTitles_20
+BBBB  ChF Chosen by Fate     [End]
+@label ChapterTitles_21
+BBBB  Ch1 Grustian Expedition[End]
+@label ChapterTitles_22
+BBBB  Ch2 Rebellion at Medon [End]
+@label ChapterTitles_23
+BBBB  Ch3 Abducted Princess  [End]
+@label ChapterTitles_24
+BBBB   Ch4 Joy and Sorrow    [End]
+@label ChapterTitles_25
+BBBB  Ch5 Grust's Liberation [End]
+@label ChapterTitles_26
+BBBB  Ch6 Nest of Evil       [End]
+@label ChapterTitles_27
+BBBB  Ch7 Scarlet Swordsman  [End]
+@label ChapterTitles_28
+BBBB  Ch8 Soulful Bridge     [End]
+@label ChapterTitles_29
+BBBB  Ch9 Sorcerer Sanctuary [End]
+@label ChapterTitles_30
+BBBB  Ch10 The Two Mages     [End]
+@label ChapterTitles_31
+BBBB  Ch11 Anri's Way        [End]
+@label ChapterTitles_32
+BBBB  Ch12 Dragon Graveyard  [End]
+@label ChapterTitles_33
+BBBB  Ch13 Frozen Land       [End]
+@label ChapterTitles_34
+BBBB  Ch14 Mystery Revealed  [End]
+@label ChapterTitles_35
+BBBB  Ch15 Prince's Return   [End]
+@label ChapterTitles_36
+BBBB  Ch16 Reclaim the Capital[End]
+@label ChapterTitles_37
+BBBB  Ch17 Gra's Setting Sun [End]
+@label ChapterTitles_38
+BBBB  Ch18 Battle of the Pass[End]
+@label ChapterTitles_39
+BBBB  Ch19 The Final Battle  [End]
+@label ChapterTitles_40
+BBBB  Ch20 Dark Emperor      [End]
+@label ChapterTitles_41
+BBBB  ChF1 The Wyvern Valley [End]
+@label ChapterTitles_42
+BBBB  ChF2 The Dragon's Table[End]
+@label ChapterTitles_43
+[End]

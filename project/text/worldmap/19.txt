@@ -1,0 +1,16 @@
+@address $e0a77e
+@width 160
+@label worldmap_19
+After a fierce battle, the 
+allied army finally entered 
+Doluna castle. [MapWaitForA]
+They had surrounded the 
+castle, and charged inside 
+from all four gates. [MapWaitForA]
+But separating Marth's army 
+was Medeus's trap. [MapWaitForA]
+The final battle, which will 
+decide life or death, has 
+begun. [MapWaitForA]
+The chosen heroes' destined 
+battle... # length: 315

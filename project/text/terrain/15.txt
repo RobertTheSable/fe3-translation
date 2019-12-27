@@ -1,0 +1,6 @@
+@address $f0b38c
+@type menu
+@label terrain_15
+Castle
+Avd:30%
+Recover

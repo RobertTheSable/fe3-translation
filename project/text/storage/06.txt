@@ -1,0 +1,5 @@
+@address $e7ce9d
+@width 160
+@label storage_06
+Broken Sword was sent to the 
+storage. # length: 42

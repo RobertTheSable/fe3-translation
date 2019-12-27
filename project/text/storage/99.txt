@@ -1,0 +1,5 @@
+@address $e7ddc0
+@width 160
+@label storage_99
+Manual was sent to the 
+storage. # length: 36

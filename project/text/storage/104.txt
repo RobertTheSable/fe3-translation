@@ -1,0 +1,5 @@
+@address $e7de81
+@width 160
+@label storage_104
+Guiding Ring was sent to the 
+storage. # length: 42

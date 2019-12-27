@@ -1,0 +1,4 @@
+@address $e7c716
+@width 160
+@label shopping_23
+[_88][06][_89][16][80][_95]This is a vendor. # length: 29

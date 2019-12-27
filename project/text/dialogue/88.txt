@@ -1,0 +1,17 @@
+@address $e1e217
+@width 160
+@label dialogue_88
+[_88][00][_89][12][80][SwitchFrame][00]
+[ShowPortait][4e][04]Hahaha... [WaitForA]
+It seems those fools have 
+come running here after all. 
+They understand nothing. [WaitForA]
+As long as I have my [SetColor][00][28]Imhullu [SetColor][00][24][WaitForA]
+spell, I am invincible. [WaitForA]
+White Sage, even you will be 
+unable to stop me. [WaitForA]
+As long as the Dragon Goddess 
+remains at the [SetColor][00][2c]ancient Fane of 
+Raman [SetColor][00][24]no star's light can 
+illuminate my darkness. [WaitForA][CloseFrame][02]
+# length: 371

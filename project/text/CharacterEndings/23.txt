@@ -1,0 +1,7 @@
+@address $ff86c0
+@width 160
+@autoend off
+@label CharacterEndings_23
+He returned to Talys to live 
+with his mother. However his 
+life is harsh. [End][00]# length: 80

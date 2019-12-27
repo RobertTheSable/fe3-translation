@@ -1,0 +1,5 @@
+@address $e7ba41
+@width 176
+@label classDescription_00
+Dismounted Cavaliers or
+Pegasus Knights wielding swords. # length: 60

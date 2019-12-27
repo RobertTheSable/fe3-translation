@@ -1,0 +1,5 @@
+@address $e7b97d
+@width 240
+@type nodigraph
+@label ChapterTitles_40
+BBBB  Ch20 Dark Emperor       # length: 32

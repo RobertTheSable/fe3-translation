@@ -1,0 +1,8 @@
+@address $f0a00a
+@type menu
+@label itemDescription_40
+Increases
+Movement
+by 4,
+Maximum
+is 12

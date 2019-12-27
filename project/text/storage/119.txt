@@ -1,0 +1,5 @@
+@address $e7e0b5
+@width 160
+@label storage_119
+Scorpio was sent to the
+storage.# length: 35

@@ -1,0 +1,6 @@
+@address $f0a16c
+@type menu
+@label itemDescription_45
+Promote lvl
+10+ Pegasus
+Knights

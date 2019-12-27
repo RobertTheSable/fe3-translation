@@ -1,0 +1,5 @@
+@address $e7e36e
+@width 160
+@label arena_04
+[_88][06][_89][15][80][_95]You won. Here's your prize of 
+[_82][a0] gold. # length: 53

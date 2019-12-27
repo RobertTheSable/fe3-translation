@@ -1,0 +1,5 @@
+@address $e7e0d9
+@width 160
+@label storage_120
+Sagittarius was sent to the 
+storage. # length: 41

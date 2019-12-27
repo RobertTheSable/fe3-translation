@@ -1,0 +1,4 @@
+@address $f0b788
+@type menu
+@label menuCommands_15
+[0108] Dance  [0109]

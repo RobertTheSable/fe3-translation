@@ -1,0 +1,6 @@
+@address $ffa504
+@width 160
+@autoend off
+@label CharacterEndings_159
+She joined the Akaneian free 
+knights, to serve her people. [End][End][00]# length: 66

@@ -1,0 +1,5 @@
+@address $e7d38d
+@width 160
+@label storage_37
+Arrowspate was sent 
+to the storage.# length: 39

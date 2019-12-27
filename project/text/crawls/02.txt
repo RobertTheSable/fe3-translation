@@ -1,0 +1,5 @@
+@address $e7c14f
+@width off
+@type nodigraph
+@label crawls_02
+Light of five colours   appeared at   a sword.      He was a giant    who became our guardian    god.Evildoers  were silenced.                                                                                                         # length: 233

@@ -1,0 +1,7 @@
+@address $ffb6fe
+@width 160
+@autoend off
+@label CharacterEndingsAlt_00
+Saddened by the loss of Est, 
+he left Altea and afterwards 
+he wasn't seen again. [End][End][End][00]# length: 91

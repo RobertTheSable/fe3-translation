@@ -1,0 +1,4 @@
+@address $f0e82a
+@type menu
+@label battleText_52
+ had.

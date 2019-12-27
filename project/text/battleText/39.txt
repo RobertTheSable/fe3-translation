@@ -1,0 +1,4 @@
+@address $f0e68c
+@type menu
+@label battleText_39
+Shards shine, shatter.

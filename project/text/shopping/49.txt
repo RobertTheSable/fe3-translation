@@ -1,0 +1,6 @@
+@address $e7cab8
+@width 160
+@label shopping_49
+
+Who do you want to 
+buy it for? # length: 37

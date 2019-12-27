@@ -1,0 +1,4 @@
+@address $f0b000
+@type menu
+@label statusObjectives_00
+All bugs removed

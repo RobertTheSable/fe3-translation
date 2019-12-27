@@ -1,0 +1,6 @@
+@address $ff8d33
+@width 160
+@autoend off
+@label CharacterEndings_55
+She worked tirelessly to 
+restore Medon. [End][End][End][End]# length: 50

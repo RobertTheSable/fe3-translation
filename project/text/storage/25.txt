@@ -1,0 +1,5 @@
+@address $e7d1ba
+@width 160
+@label storage_25
+Broken Bow was sent to the
+storage. # length: 39

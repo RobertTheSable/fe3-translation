@@ -1,0 +1,29 @@
+@address $e7e731
+@width off
+@type fixedWidth
+@label endings_Book2BadTurns
+       Turns taken: 
+[_0a]
+[_0a] Ch1 Grustian Expedition 000 
+[_0a] Ch2 Rebellion at Medon  000 
+[_0a] Ch3 Abducted Princess   000 
+[_0a] Ch4 Joy and Sorrow      000 
+[_0a] Ch5 Grust's Liberation  000 
+[_0a] Ch6 Nest of Evil        000 
+[_0a] Ch7 Scarlet Swordsman   000 
+[_0a] Ch8 Soulful Bridge      000 
+[_0a] Ch9 Sorcerer Sanctuary  000 
+[_0a] Ch10 The Two Mages      000 
+[_0a] Ch11 Anri's Way         000 
+[_0a] Ch12 Dragon's Graveyard 000 
+[_0a] Ch13 Frozen Land        000 
+[_0a] Ch14 Mystery Revealed   000 
+[_0a] Ch15 Prince's Return    000 
+[_0a] Ch16 Reclaim the Capital000 
+[_0a] Ch17 Gra's Setting Sun  000 
+[_0a] Ch18 Battle of the Pass 000 
+[_0a] Ch19 The Final Battle   000 
+[_0a] Ch20 Dark Emperor       000 
+[_0a]
+[_0a]   Book 2 Total:0000 Turns   
+[_0a]# length: 727

@@ -1,0 +1,26 @@
+@address $e09f82
+@width 160
+@label worldmap_15
+The Kingdom of Grust is a 
+knights' country, which was 
+founded by one of the three 
+heroes of the liberation wars, [MapWaitForA]
+General Ordwin. [MapWaitForA]
+Since the country's formation, 
+the neighbouring tribes were 
+conquered by its mighty 
+knights.  [MapWaitForA]
+And finally it became one of 
+the strongest of Akaneia's 
+seven kingdoms. [MapWaitForA]
+However, the current King, 
+Ludwik, was weak. [MapWaitForA]
+He feared the power of the 
+resurrected Medeus, and so 
+allied with Doluna. [MapWaitForA]
+Also, following several 
+consecutive defeats, he fell 
+dangerously ill. [MapWaitForA]
+The once brave and mighty 
+Kingdom of Grust has finally 
+entered the age of ruin. # length: 610

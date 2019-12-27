@@ -1,0 +1,6 @@
+@address $ff90b9
+@width 160
+@autoend off
+@label CharacterEndings_71
+On becoming a general he 
+retired from the army. [End][End]# length: 54

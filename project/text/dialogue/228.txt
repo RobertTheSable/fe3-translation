@@ -1,0 +1,22 @@
+@address $e5c53a
+@width 160
+@label dialogue_228
+[_88][00][_89][43][80][SwitchFrame][00]
+[ShowPortait][8b][04]Jagen, where is this? Is this 
+Medon, or Doluna?  [WaitForA][SwitchFrame][01]
+[ShowPortait][02][07]We're right at the countries' 
+border. This is where Medon's 
+wyverns are born. [WaitForA]
+However, these lands are 
+ruled by savage barbarians. 
+Even Medon's soldiers are 
+afraid to enter here. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+So this is the Wyvern Valley... 
+Anyway, Jagen, we need to 
+hurry. [WaitForA]
+I feel like something is going to
+happen to my sister and the 
+others. I have a bad feeling.  [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 453

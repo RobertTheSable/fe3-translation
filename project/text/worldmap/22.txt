@@ -1,0 +1,43 @@
+@address $e0b02a
+@width 160
+@label worldmap_22
+At one time, the Medonian
+region was ruled by the
+Dolunian Empire.[MapWaitForA]
+100 years ago the whole 
+continent was controlled by 
+the dragon tribe, who sent 
+numerous slaves to these [MapWaitForA]
+undeveloped forests. [MapWaitForA]
+The slaves were forced to 
+excavate ruins and construct 
+the country. [MapWaitForA]
+Many people could not find 
+food, were forced to work, and 
+died from abuse. [MapWaitForA]
+Amongst such tragic 
+conditions, finally one youth 
+stood up. His name was Iote.[MapWaitForA]
+He and his companions 
+escaped from the forests and 
+fought, riding dragons, to 
+continue the battle of [MapWaitForA]
+liberation. [MapWaitForA]
+After Doluna's fall, the slaves 
+established their own country 
+at these rich and newly 
+developed lands. [MapWaitForA]
+And the heroic Iote was 
+encouraged to become its first 
+king.[MapWaitForA]
+Afterwards the Kingdom of 
+Medon was feared as the land 
+of dracoknights, and that was 
+how it was born. [MapWaitForA]
+However, this strong country 
+not only lost its Prince 
+Michalis, said to be the second 
+coming of Iote.[MapWaitForA]
+But now, even the "Crimson 
+Dragoon", Princess Minerva, 
+has been lost. # length: 1037

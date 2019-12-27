@@ -1,0 +1,47 @@
+@address $e4e866
+@width 160
+@label dialogue_206
+[_88][00][_89][5a][80][SwitchFrame][01]
+[ShowPortait][02][06]Prince Marth. [WaitForA]
+The enemies in the castle have 
+been vanquished. Altea is 
+finally in our hands again. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][05]Really? That's great. But, I 
+still don't see my sister... [WaitForA][CloseFrame][03]
+[_89][43][80][SwitchFrame][01]
+[ShowPortait][33][06]Your highness, Princess Elice 
+was taken by Gharnef. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh? Gotoh, is that true!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+He ordered the dark priests to 
+search for the clerics of noble 
+birth. [WaitForA]
+Lena, Maria... and even your 
+sister Elice. They have all 
+been taken by Gharnef... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Is that so... But what is he 
+planning on doing by capturing 
+them? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+That I don't know, but I bet it's
+not anything good. The chain 
+of events so far was all the 
+doing of Gharnef.  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Gotoh! Where is he now? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I don't know, but I bet 
+Gharnef's next target will be 
+Princess Nyna. So he is 
+probably at Pales... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I see. We will go to Pales. I will 
+rescue Hardin from the 
+Darksphere's influence. [WaitForA]
+I will defeat Gharnef and the 
+dark priests... And I will rescue 
+the captured clerics!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1006

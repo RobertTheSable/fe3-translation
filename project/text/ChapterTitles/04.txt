@@ -1,0 +1,5 @@
+@address $e7b50d
+@width 240
+@type nodigraph
+@label ChapterTitles_04
+BBBB  Ch4 Aurelian Champions # length: 31

@@ -1,0 +1,15 @@
+@address $e6f2d3
+@width 160
+@label dialogue_511
+[_88][00][_89][20][80][SwitchFrame][00]
+[ShowPortait][67][04]Oh, Prince Marth. It's been a 
+while. How is my 
+granddaughter, Lena? [WaitForA]
+What, she's not here? 
+Really...? Then, does that 
+mean this Hammerne staff is 
+useless? [WaitForA]
+At least, Lena's pupil, Malicia, 
+should be able to use it... Well, 
+please take it. [WaitForA][CloseFrame][02]
+# length: 280

@@ -1,0 +1,22 @@
+@address $e6b499
+@width 160
+@label dialogue_469
+[_88][00][SwitchFrame][00]
+[ShowPortait][33][04]Marth, courageous prince of 
+Altea. [WaitForA]
+Because of your efforts, the 
+Shadow Dragon, Medeus, has 
+finally been completely 
+destroyed. [WaitForA]
+Medeus's servants, the Earth 
+Dragons, have also vanished 
+into the darkness. [WaitForA]
+As long as the Binding Shield 
+exists, they won't awaken 
+anymore. [WaitForA]
+Marth, descendant of Anri, and 
+the chosen Prince of Light. [WaitForA]
+You have saved mankind, and 
+you have saved our dragon 
+tribe... [WaitForA][CloseFrame][02]
+# length: 448

@@ -1,0 +1,4 @@
+@address $f08ec0
+@type menu
+@label unused_unusedText06
+Bolt

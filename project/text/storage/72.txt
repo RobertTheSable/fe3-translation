@@ -1,0 +1,5 @@
+@address $e7d933
+@width 160
+@label storage_72
+Silence Staff was sent to the 
+storage. # length: 43

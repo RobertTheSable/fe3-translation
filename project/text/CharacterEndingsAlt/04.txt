@@ -1,0 +1,6 @@
+@address $ffb8a8
+@width 160
+@autoend off
+@label CharacterEndingsAlt_04
+Saddened by the loss of Abel, 
+she vanished after the war. [End][End][End]# length: 66

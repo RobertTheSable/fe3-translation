@@ -1,0 +1,19 @@
+@address $e08c52
+@width 160
+@label worldmap_05
+After liberating Aurelis, the 
+allied army marched south 
+along the central road, 
+towards Akaneia's royal [MapWaitForA]
+capital, Pales. [MapWaitForA]
+Their most difficult challenge 
+is the countless forts 
+situated at Lefcandith Valley. [MapWaitForA]
+As well as the guarding 
+"Dragoons"; Medonian 
+Whitewings commanded by 
+General Minerva. [MapWaitForA]
+At Lefcandith Valley, the only 
+passageway to the Kingdom of 
+Akaneia, an intense battle is 
+about to start. # length: 429

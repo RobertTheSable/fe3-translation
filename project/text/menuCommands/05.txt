@@ -1,0 +1,4 @@
+@address $f0b6ac
+@type menu
+@label menuCommands_05
+[0108] Village[0109]

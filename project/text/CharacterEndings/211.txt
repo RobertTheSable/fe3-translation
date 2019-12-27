@@ -1,0 +1,6 @@
+@address $ffb267
+@width 160
+@autoend off
+@label CharacterEndings_211
+Fell in battle during "The Two 
+Mages". [End][End][End][End]# length: 49

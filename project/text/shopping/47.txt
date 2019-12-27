@@ -1,0 +1,5 @@
+@address $e7ca80
+@width 160
+@label shopping_47
+
+What do you want to do? # length: 28

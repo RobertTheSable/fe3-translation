@@ -1,0 +1,4 @@
+@address $f0e5ac
+@type menu
+@label battleText_25
+Defence 

@@ -1,0 +1,22 @@
+@address $e5bb7c
+@width 160
+@label dialogue_225
+[_88][00][_89][e0][00][SwitchFrame][01]
+[ShowPortait][02][07]Huh, wasn't that Gharnef? He 
+and his men pretended to be 
+the princesses. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Mmm, but what are they 
+planning? They said something 
+about resurrecting the 
+Shadow Dragon... [WaitForA]
+So my sister was indeed taken 
+by Gharnef... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Your highness, I apologise for 
+interrupting you, but Gotoh 
+has come. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh, Gotoh!? Please call him 
+here!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 384

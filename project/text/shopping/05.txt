@@ -1,0 +1,5 @@
+@address $e7c453
+@width 160
+@label shopping_05
+
+That will be [_82][a0]G. # length: 23

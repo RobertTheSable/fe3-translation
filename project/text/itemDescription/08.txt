@@ -1,0 +1,8 @@
+@address $f09714
+@type menu
+@label itemDescription_08
+WeaponLv 5
+Exp   42
+Teleports
+an adjacent
+ally

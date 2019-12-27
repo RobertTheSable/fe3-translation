@@ -1,0 +1,35 @@
+@address $e2d9a8
+@width 160
+@label dialogue_153
+[_88][00][_89][43][80][SwitchFrame][01]
+[ShowPortait][2f][07]Julian! Catria has finally 
+brought the Altean knights 
+here. [WaitForA]
+I will go with them to rescue 
+Princess Minerva. Please take 
+Lena and hurry to safety. [WaitForA][SwitchFrame][00]
+[ShowPortait][0f][04]That isn't possible, Palla. Miss 
+Lena's gone missing... I'm not 
+leaving just by myself. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh, Lena's also... Princess 
+Maria has also vanished. Why 
+are the clerics the only ones 
+missing...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Anyway, I'm staying to search 
+the village. So, apologies, but 
+I can't help you rescue your 
+princess. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Oh, it's alright. We should be 
+able to save Minerva by 
+ourselves. [WaitForA]
+But Julian, although I know 
+you're worried about Lena, 
+don't push yourself. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ah... I'm sorry, Palla. Say "hi" 
+to Prince Marth for me. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 737

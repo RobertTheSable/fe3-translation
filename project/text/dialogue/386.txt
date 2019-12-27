@@ -1,0 +1,6 @@
+@address $e6939c
+@width 160
+@label dialogue_386
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][16][04]Glory to Aurelis!! [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 46

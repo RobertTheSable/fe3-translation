@@ -1,0 +1,5 @@
+@address $e7b99d
+@width 240
+@type nodigraph
+@label ChapterTitles_41
+BBBB  ChF1 Wyvern Valley      # length: 32

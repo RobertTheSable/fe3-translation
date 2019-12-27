@@ -1,0 +1,6 @@
+@address $ffb7d8
+@width 160
+@autoend off
+@label CharacterEndingsAlt_02
+He trained his sword to 
+succeed the fallen Nabarl. [End][End]# length: 57

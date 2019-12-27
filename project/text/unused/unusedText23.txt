@@ -1,0 +1,26 @@
+@address $e2fe14
+@width 160
+@label unused_unusedText23
+[_88][00][_89][47][80][SwitchFrame][00]
+[ShowPortait][81][05]Commander Lang. A... Altea's 
+army has come... [WaitForA][SwitchFrame][01]
+[ShowPortait][83][06]Fool, get a grip. Their army 
+doesn't amount to anything. 
+They can't possibly defeat us. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+But Lord Jeorge's archers left 
+to quell the rebellion. Can we 
+win just by ourselves? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What did you say!? Call Jeorge 
+back this instant. [WaitForA]
+While you're there, call that 
+mercenary, Nabarl, here. [WaitForA]
+Anyway, I'll leave this to you, 
+General Toras. I must leave to 
+prepare the defences inside. [WaitForA]
+You will stay here and guard to 
+the death. You mustn't let 
+them get close. Understood? [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 584

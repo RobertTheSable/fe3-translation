@@ -1,0 +1,5 @@
+@address $e7db78
+@width 160
+@label storage_85
+Divinestone was sent to the 
+storage. # length: 41

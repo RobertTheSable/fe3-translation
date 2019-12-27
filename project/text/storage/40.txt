@@ -1,0 +1,6 @@
+@address $e7d401
+@type default
+@width 160
+@label storage_40
+Pachyderm was sent to the
+storage. # length: 38

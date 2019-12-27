@@ -1,0 +1,9 @@
+@address $ff8431
+@width 160
+@autoend off
+@label CharacterEndings_13
+He became the pupil of an 
+Akaneian bow knight, and later
+returned to the Altean Knights,
+along with his younger [MapWaitForA]
+brother. [End][End][End]# length: 133

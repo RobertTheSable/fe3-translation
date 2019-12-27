@@ -1,0 +1,7 @@
+@address $ff8ae0
+@width 160
+@autoend off
+@label CharacterEndings_43
+He retired from the army and, 
+at Medon, casually passed his 
+days. [End][End][End]# length: 76

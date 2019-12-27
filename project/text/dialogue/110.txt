@@ -1,0 +1,21 @@
+@address $e1fb8a
+@width 160
+@label dialogue_110
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][60][07]Your highness, please be 
+careful inside the Fane of 
+Raman. [WaitForA]
+The goddess of this temple 
+possesses fearful might. [WaitForA]
+She will incinerate any and all 
+intruders. [WaitForA][SwitchFrame][00]
+[ShowPortait][00][04]Hmm... I suppose we shouldn't 
+be intruding this sanctuary... [WaitForA]
+But this temple holds the 
+objects that I must seek. [WaitForA]
+We must not try to provoke 
+the temple's guardians. [WaitForA]
+I will only bring in a couple of 
+soldiers with me. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 438

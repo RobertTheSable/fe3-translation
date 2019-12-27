@@ -1,0 +1,7 @@
+@address $ffa76f
+@width 160
+@autoend off
+@label CharacterEndings_170
+[AddSpaces][02]Divine Youth Xane   
+
+# length: 25

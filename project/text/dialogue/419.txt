@@ -1,0 +1,7 @@
+@address $e69c3b
+@width 160
+@label dialogue_419
+[_88][00][_89][c0][80][SwitchFrame][00]
+[ShowPortait][86][04]Elrean... Is what we're doing 
+really okay...? [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 75

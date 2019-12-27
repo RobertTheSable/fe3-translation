@@ -1,0 +1,4 @@
+@address $f09e12
+@type menu
+@label itemDescription_28
+Opens doors

@@ -1,0 +1,4 @@
+@address $f09028
+@type menu
+@label itemNames_49
+Emblem

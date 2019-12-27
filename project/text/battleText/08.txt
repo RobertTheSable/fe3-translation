@@ -1,0 +1,4 @@
+@address $f0e484
+@type menu
+@label battleText_08
+ damage was taken.

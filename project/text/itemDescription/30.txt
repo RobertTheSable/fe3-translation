@@ -1,0 +1,5 @@
+@address $f09e50
+@type menu
+@label itemDescription_30
+Lowers
+drawbridges

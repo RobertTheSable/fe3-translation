@@ -1,0 +1,5 @@
+@address $e7d362
+@width 160
+@label storage_36
+Thunderbolt was sent to the 
+storage. # length: 41

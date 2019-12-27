@@ -1,0 +1,5 @@
+@address $e7c282
+@width off
+@type nodigraph
+@label crawls_04
+A new age   was created.Dragons lived as humans.      The evil ones were  sent underground.                                                                                                # length: 189

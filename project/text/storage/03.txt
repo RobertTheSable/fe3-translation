@@ -1,0 +1,5 @@
+@address $e7ce27
+@width 160
+@label storage_03
+Rapier was sent to the 
+storage. # length: 36

@@ -1,0 +1,4 @@
+@address $e7e458
+@width 160
+@label arena_09
+[WaitForA]# length: 4

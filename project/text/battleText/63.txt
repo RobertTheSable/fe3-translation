@@ -1,0 +1,4 @@
+@address $f0e974
+@type menu
+@label battleText_63
+ EXP!

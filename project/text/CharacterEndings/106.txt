@@ -1,0 +1,7 @@
+@address $ff99aa
+@width 160
+@autoend off
+@label CharacterEndings_106
+[AddSpaces][02]Mercenary Ogma of Talys  
+
+# length: 30

@@ -1,0 +1,12 @@
+@address $e1ad46
+@width 160
+@label dialogue_48
+[_88][04][ShowPortait][69][04]Minerva is actually a princess 
+of Medon. She is only fighting 
+because her younger sister 
+was captured by Doluna. [WaitForA]
+Although many fear her, she is 
+actually a beautiful and kind 
+person. Is there any way to 
+help her? [WaitForA][CloseFrame][02]
+# length: 242

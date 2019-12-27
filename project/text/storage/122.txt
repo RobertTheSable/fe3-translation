@@ -1,0 +1,5 @@
+@address $e7e12b
+@width 160
+@label storage_122
+Aum Shard was sent to the 
+storage. # length: 39

@@ -1,0 +1,7 @@
+@address $ff8100
+@width 160
+@autoend off
+@label CharacterEndings_00
+[AddSpaces][02]Prince Marth of Altea  
+
+# length: 28

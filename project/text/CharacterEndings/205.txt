@@ -1,0 +1,6 @@
+@address $ffb096
+@width 160
+@autoend off
+@label CharacterEndings_205
+Fell in battle during "Joy and 
+Sorrow." [End][End]# length: 46

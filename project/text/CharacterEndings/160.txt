@@ -1,0 +1,7 @@
+@address $ffa546
+@width 160
+@autoend off
+@label CharacterEndings_160
+[AddSpaces][02]Princess Nyna of Akaneia 
+
+# length: 30

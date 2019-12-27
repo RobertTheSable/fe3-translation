@@ -1,0 +1,43 @@
+@address $e2b84c
+@width 160
+@label dialogue_139
+[_88][00][_89][91][80][SwitchFrame][01]
+[ShowPortait][01][07]Lord Marth... [WaitForA]
+I can finally return to Talys. [WaitForA][SwitchFrame][00]
+[ShowPortait][00][04]Mmm... Shiida. [WaitForA]
+You must go back to report to 
+your father, right? [WaitForA]
+But if you don't return to 
+Altea immediately afterwards, 
+then... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+...Yes....? [WaitForA]
+[SwitchFrame][00]
+[ClearFrame]
+Uh... Well... these lands, which 
+have been ruined by war, must 
+be restored as soon as 
+possible. [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][61][06]Haha, Marth, always leaving 
+the most important things until 
+last. [WaitForA]
+If you're a hero, then don't try 
+to beat around the bush! [WaitForA]
+Go ahead and tell Shiida about 
+your feelings. [WaitForA][CloseFrame][03]
+[SwitchFrame][00]
+[ClearFrame]
+Nyna... What should I...? [WaitForA]
+Ah, my head... [WaitForA]
+Shiida... [WaitForA][SwitchFrame][01]
+[ShowPortait][01][07]Oh! Ye-yes!? [SwitchFrame][00]
+[ClearFrame]
+I hope... [WaitForA]
+That you and I can go back 
+together to Altea... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+! ...Yes. [WaitForA]
+I would like that... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 756

@@ -1,0 +1,6 @@
+@address $ffb5bf
+@width 160
+@autoend off
+@label CharacterEndings_222
+Fell in battle during "The 
+Wyvern Valley". [End][End]# length: 49

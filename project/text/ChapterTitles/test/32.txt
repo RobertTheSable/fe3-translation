@@ -1,0 +1,5 @@
+@address $e7b87f
+@width 240
+@type nodigraph
+@label ChapterTitles_32
+BBBB  C12 Dragon Graveyard   # length: 31

@@ -1,0 +1,747 @@
+normal:
+    HasDigraphs: true
+    ByteWidth: 1
+    CommandValue: 0x00
+    MaxWidth: 160
+    FontWidthAddress: "!normalFontWidths"
+    Encoding: &normal-encoding
+        A:
+            code: 0x01
+            length: 6
+        B:
+            code: 0x02
+            length: 7
+        C:
+            code: 0x03
+            length: 7
+        D:
+            code: 0x04
+            length: 7
+        E:
+            code: 0x05
+            length: 6
+        F:
+            code: 0x06
+            length: 6
+        G:
+            code: 0x07
+            length: 7
+        H:
+            code: 0x08
+            length: 7
+        I:
+            code: 0x09
+            length: 4
+        J:
+            code: 0x0a
+            length: 6
+        K:
+            code: 0x0b
+            length: 7
+        L:
+            code: 0x0c
+            length: 6
+        M:
+            code: 0x0d
+            length: 7
+        N:
+            code: 0x0e
+            length: 7
+        O:
+            code: 0x0f
+            length: 7
+        P:
+            code: 0x10
+            length: 7
+        Q:
+            code: 0x11
+            length: 7
+        R:
+            code: 0x12
+            length: 7
+        S:
+            code: 0x13
+            length: 7
+        T:
+            code: 0x14
+            length: 7
+        U:
+            code: 0x15
+            length: 7
+        V:
+            code: 0x16
+            length: 8
+        W:
+            code: 0x17
+            length: 7
+        X:
+            code: 0x18
+            length: 7
+        Y:
+            code: 0x19
+            length: 7
+        Z:
+            code: 0x1a
+            length: 6
+        a:
+            code: 0x1b
+            length: 6
+        b:
+            code: 0x1c
+            length: 6
+        c:
+            code: 0x1d
+            length: 6
+        d:
+            code: 0x1e
+            length: 6
+        e:
+            code: 0x1f
+            length: 6
+        f:
+            code: 0x20
+            length: 5
+        g:
+            code: 0x21
+            length: 6
+        h:
+            code: 0x22
+            length: 6
+        i:
+            code: 0x23
+            length: 3
+        j:
+            code: 0x24
+            length: 4
+        k:
+            code: 0x25
+            length: 6
+        l:
+            code: 0x26
+            length: 3
+        m:
+            code: 0x27
+            length: 7
+        n:
+            code: 0x28
+            length: 6
+        o:
+            code: 0x29
+            length: 6
+        p:
+            code: 0x2a
+            length: 6
+        q:
+            code: 0x2b
+            length: 6
+        r:
+            code: 0x2c
+            length: 5
+        s:
+            code: 0x2d
+            length: 6
+        t:
+            code: 0x2e
+            length: 5
+        u:
+            code: 0x2f
+            length: 6
+        v:
+            code: 0x30
+            length: 7
+        " ":
+            code: 0x31
+            length: 3
+        w:
+            code: 0x32
+            length: 7
+        x:
+            code: 0x33
+            length: 6
+        y:
+            code: 0x34
+            length: 6
+        z:
+            code: 0x35
+            length: 6
+        (:
+            code: 0x36
+            length: 5
+        ):
+            code: 0x37
+            length: 5
+        ",":
+            code: 0x38
+            length: 4
+        .:
+            code: 0x39
+            length: 3
+        "!":
+            code: 0x3a
+            length: 3
+        "?":
+            code: 0x3b
+            length: 7
+        "\"":
+            code: 0x3c
+            length: 5
+        0:
+            code: 0x3d
+            length: 8
+        1:
+            code: 0x3e
+            length: 6
+        2:
+            code: 0x3f
+            length: 7
+        3:
+            code: 0x40
+            length: 7
+        4:
+            code: 0x41
+            length: 8
+        5:
+            code: 0x42
+            length: 7
+        6:
+            code: 0x43
+            length: 7
+        7:
+            code: 0x44
+            length: 7
+        8:
+            code: 0x45
+            length: 7
+        9:
+            code: 0x46
+            length: 7
+        "'":
+            code: 0x47
+            length: 3
+        ;:
+            code: 0x48
+            length: 4
+        ll:
+            code: 0x49
+            length: 6
+        la:
+            code: 0x4a
+            length: 8
+        e?:
+            code: 0x4b
+            length: 14
+        ia:
+            code: 0x4c
+            length: 9
+        ":":
+            code: 0x51
+            length: 8
+        "-":
+            code: 0x52
+            length: 8
+        "❤":
+            code: 0x53
+            length: 8
+        "[Zero2]":
+            code: 0xa0
+            length: 8
+        "[One2]":
+            code: 0xa1
+            length: 8
+        "[Two2]":
+            code: 0xa2
+            length: 8
+        "[Three2]":
+            code: 0xa3
+            length: 8
+        "[Four2]":
+            code: 0xa4
+            length: 8
+        "[Five2]":
+            code: 0xa5
+            length: 8
+        "[Six2]":
+            code: 0xa6
+            length: 8
+        "[Seven2]":
+            code: 0xa7
+            length: 8
+        "[Eight2]":
+            code: 0xa8
+            length: 8
+        "[Nine2]":
+            code: 0xa9
+            length: 8
+        "[Question2]":
+            code: 0xbb
+            length: 8
+        "[OpenParen2]":
+            code: 0xc2
+            length: 8
+        "[CloseParen2]":
+            code: 0xc3
+            length: 8
+        "[Space2]":
+            code: 0xc4
+            length: 8
+        "[Exclaim2]":
+            code: 0xc5
+            length: 8
+        "[Bullet]":
+            code: 0xf9
+            length: 8
+    Commands: &normal-commands
+        End:
+            code: 0x00
+        NewLine:
+            code: 0x01
+            newline: 1
+        ClearFrame:
+            code: 0x02
+            newline: 1
+        _03:
+            code: 0x03
+        _04:
+            code: 0x04
+        _05:
+            code: 0x05
+        _06:
+            code: 0x06
+        SetColor:
+            code: 0x07
+        _08:
+            code: 0x08
+        MapWaitForA:
+            code: 0x09
+            newline: 1
+        _0a:
+            code: 0x0a
+        _0c:
+            code: 0x0c
+        _0d:
+            code: 0x0d
+        AddSpaces:
+            code: 0x0f
+        _10:
+            code: 0x10
+        _11:
+            code: 0x11
+        _12:
+            code: 0x12
+        _13:
+            code: 0x13
+        _14:
+            code: 0x14
+        _16:
+            code: 0x16
+        _17:
+            code: 0x17
+        _81:
+            code: 0x81
+        _82:
+            code: 0x82
+        ShowPortait:
+            code: 0x84
+        CloseFrame:
+            code: 0x85
+            newline: 1
+        _87:
+            code: 0x87
+        _88:
+            code: 0x88
+        _89:
+            code: 0x89
+        WaitForA:
+            code: 0x8a
+        _8c:
+            code: 0x8c
+        _8f:
+            code: 0x8f
+        SwitchFrame:
+            code: 0x92
+            newline: 1
+        _93:
+            code: 0x93
+        _94:
+            code: 0x94
+        _95:
+            code: 0x95
+    Extras:
+        Marth: 0x00
+        Shiida: 0x01
+nodigraph:
+    HasDigraphs: false
+    ByteWidth: 1
+    CommandValue: 0x00
+    MaxWidth: 160
+    Encoding: *normal-encoding
+    Commands: *normal-commands
+fixedWidth:
+    HasDigraphs: false
+    ByteWidth: 1
+    CommandValue: 0x00
+    FixedWidth: 8
+    FontWidthAddress: "!fixedFontWidth"
+    Encoding: *normal-encoding
+    Commands: *normal-commands
+opening:
+    HasDigraphs: false
+    ByteWidth: 1
+    CommandValue: 0x00
+    MaxEncodedValue: 0x78
+    FixedWidth: 8
+    FontWidthAddress: $8dfc84
+    Encoding: *normal-encoding
+    Commands: *normal-commands
+credits:
+    HasDigraphs: false
+    ByteWidth: 1
+    FixedWidth: 8
+    CommandValue: 0x00
+    Encoding:
+        a:
+            code: 0x01
+        b:
+            code: 0x02
+        c:
+            code: 0x03
+        d:
+            code: 0x04
+        e:
+            code: 0x05
+        f:
+            code: 0x06
+        g:
+            code: 0x07
+        h:
+            code: 0x08
+        i:
+            code: 0x09
+        j:
+            code: 0x0a
+        k:
+            code: 0x0b
+        l:
+            code: 0x0c
+        m:
+            code: 0x0d
+        n:
+            code: 0x0e
+        o:
+            code: 0x0f
+        p:
+            code: 0x10
+        q:
+            code: 0x11
+        r:
+            code: 0x12
+        s:
+            code: 0x13
+        t:
+            code: 0x14
+        u:
+            code: 0x15
+        v:
+            code: 0x16
+        w:
+            code: 0x17
+        x:
+            code: 0x18
+        y:
+            code: 0x19
+        z:
+            code: 0x1a
+        A:
+            code: 0x1b
+        B:
+            code: 0x1c
+        C:
+            code: 0x1d
+        D:
+            code: 0x1e
+        E:
+            code: 0x1f
+        F:
+            code: 0x20
+        G:
+            code: 0x21
+        H:
+            code: 0x22
+        I:
+            code: 0x23
+        J:
+            code: 0x24
+        K:
+            code: 0x25
+        L:
+            code: 0x26
+        M:
+            code: 0x27
+        N:
+            code: 0x28
+        O:
+            code: 0x29
+        P:
+            code: 0x2a
+        Q:
+            code: 0x2b
+        R:
+            code: 0x2c
+        S:
+            code: 0x2d
+        T:
+            code: 0x2e
+        U:
+            code: 0x2f
+        V:
+            code: 0x30
+        W:
+            code: 0x31
+        X:
+            code: 0x32
+        Y:
+            code: 0x33
+        Z:
+            code: 0x34
+        0:
+            code: 0x35
+        1:
+            code: 0x36
+        2:
+            code: 0x37
+        3:
+            code: 0x38
+        4:
+            code: 0x39
+        5:
+            code: 0x3a
+        6:
+            code: 0x3b
+        7:
+            code: 0x3c
+        8:
+            code: 0x3d
+        9:
+            code: 0x3e
+        "?":
+            code: 0x3f
+        "!":
+            code: 0x40
+        "-":
+            code: 0x41
+        .:
+            code: 0x42
+        " ":
+            code: 0x43
+        "[copyright]":
+            code: 0x44
+    Commands: *normal-commands
+menu:
+    ByteWidth: 2
+    FixedWidth: 8
+    Encoding:
+        A: 
+            code: 0x0000
+        B: 
+            code: 0x0001
+        C: 
+            code: 0x0002
+        D: 
+            code: 0x0003
+        E: 
+            code: 0x0004
+        F: 
+            code: 0x0005
+        G: 
+            code: 0x0006
+        H: 
+            code: 0x0007
+        I: 
+            code: 0x0008
+        J: 
+            code: 0x0009
+        K: 
+            code: 0x000a
+        L: 
+            code: 0x000b
+        M: 
+            code: 0x000c
+        N: 
+            code: 0x000d
+        O: 
+            code: 0x000e
+        P: 
+            code: 0x000f
+        Q: 
+            code: 0x0010
+        R: 
+            code: 0x0011
+        S: 
+            code: 0x0012
+        T: 
+            code: 0x0013
+        U: 
+            code: 0x0014
+        V: 
+            code: 0x0015
+        W: 
+            code: 0x0016
+        X: 
+            code: 0x0017
+        Y: 
+            code: 0x0018
+        Z: 
+            code: 0x0019
+        a: 
+            code: 0x001a
+        b: 
+            code: 0x001b
+        c: 
+            code: 0x001c
+        d: 
+            code: 0x001d
+        e: 
+            code: 0x001e
+        f: 
+            code: 0x001f
+        g: 
+            code: 0x0020
+        h: 
+            code: 0x0021
+        i: 
+            code: 0x0022
+        j: 
+            code: 0x0023
+        k: 
+            code: 0x0024
+        l: 
+            code: 0x0025
+        m: 
+            code: 0x0026
+        n: 
+            code: 0x0027
+        o: 
+            code: 0x0028
+        p: 
+            code: 0x0029
+        q: 
+            code: 0x002a
+        r: 
+            code: 0x002b
+        s: 
+            code: 0x002c
+        t: 
+            code: 0x002d
+        u: 
+            code: 0x0050
+        v: 
+            code: 0x0051
+        w: 
+            code: 0x0052
+        x: 
+            code: 0x0053
+        y: 
+            code: 0x0054
+        z: 
+            code: 0x0055
+        "'": 
+            code: 0x0056
+        ",": 
+            code: 0x0057
+        "[openparen2]": 
+            code: 0x0058
+        "[closeparen2]": 
+            code: 0x0059
+        .: 
+            code: 0x005a
+        "[space2]": 
+            code: 0x005b
+        "[semicolon]": 
+            code: 0x005d
+        0: 
+            code: 0x009f
+        1: 
+            code: 0x00a0
+        2: 
+            code: 0x00a1
+        3: 
+            code: 0x00a2
+        4: 
+            code: 0x00a3
+        5: 
+            code: 0x00a4
+        6: 
+            code: 0x00a5
+        7: 
+            code: 0x00a6
+        8: 
+            code: 0x00a7
+        9: 
+            code: 0x00a8
+        "[H2]": 
+            code: 0x00a9
+        "[P2]": 
+            code: 0x00aa
+        "[L2]": 
+            code: 0x00ab
+        "[V2]": 
+            code: 0x00ac
+        "[EX1]": 
+            code: 0x00ad
+        "[EX2]": 
+            code: 0x00ae
+        "[M2]": 
+            code: 0x00af
+        /: 
+            code: 0x00b0
+        "[D2]": 
+            code: 0x00b1
+        "[R2]": 
+            code: 0x00b2
+        "[Y2]": 
+            code: 0x00b4
+        "[N2]": 
+            code: 0x00b5
+        "[E2]": 
+            code: 0x00b6
+        "[S2]": 
+            code: 0x00b7
+        "[A2]": 
+            code: 0x00b8
+        "[W2]": 
+            code: 0x00b9
+        "%": 
+            code: 0x00ba
+        "[X2]": 
+            code: 0x00bb
+        _: 
+            code: 0x00be
+        (: 
+            code: 0x00c0
+        ): 
+            code: 0x00c1
+        " ": 
+            code: 0x00c2
+        "-": 
+            code: 0x00c3
+        "!": 
+            code: 0x00c4
+        "[u2]": 
+            code: 0x00c5
+        "[space3]": 
+            code: 0x00c6
+        "+": 
+            code: 0x00f4
+        "?": 
+            code: 0x00fc
+        ":": 
+            code: 0x00fe
+    Commands:
+        "NewLine": 
+            code: 0xfffd
+            newline: 1
+        "HalfNewLine": 
+            code: 0xfffe
+            newline: 1
+        "End": 
+            code: 0xffff

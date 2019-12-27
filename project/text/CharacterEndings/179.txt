@@ -1,0 +1,6 @@
+@address $ffa8dc
+@width 160
+@autoend off
+@label CharacterEndings_179
+After the war she left Abel and 
+vanished. [End][End]# length: 48

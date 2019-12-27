@@ -1,0 +1,5 @@
+@address $e7cf49
+@width 160
+@label storage_10
+Mercurius Sword was sent to 
+the storage.# length: 44

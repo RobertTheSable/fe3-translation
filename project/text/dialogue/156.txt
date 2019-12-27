@@ -1,0 +1,33 @@
+@address $e2e311
+@width 160
+@label dialogue_156
+[_88][00][_89][47][80][SwitchFrame][00]
+[ShowPortait][4c][04]Rucke, a coward like you 
+wouldn't dare to do something 
+this big. Did Hardin fool you 
+with his fancy words? [WaitForA][SwitchFrame][01]
+[ShowPortait][7b][07]Ah! ...You are... How are you 
+still...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You thought I was dead? 
+Haha... Nevermind. [WaitForA]
+Give Minerva back to me. I 
+don't care about this country 
+anymore. [WaitForA]
+You can do what you want with 
+it. However, I won't rest until I 
+have dealt with "that guy" 
+personally. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes... But... Princess Minerva 
+has already breathed her 
+last... She cannot be saved... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Don't waste my time. Hand her 
+over now, or do you prefer to 
+die by my lance? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+O-okay! I understand. Hey, 
+you, bring the princess here! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 679

@@ -1,0 +1,32 @@
+@address $e3955f
+@width 160
+@label dialogue_169
+[_88][00][_89][47][80][SwitchFrame][00]
+[ShowPortait][83][04]Hahaha... They're here? [WaitForA]
+Our reinforcements will be 
+arriving soon. If we hold out 
+long enough, we'll be able to 
+attack them from both sides. [WaitForA]
+Swordfighter Nabarl! When 
+they open the gate that will be 
+your chance to attack. [WaitForA]
+Don't hold back, just kill them 
+all!! [WaitForA][SwitchFrame][01]
+[ShowPortait][12][07]Uh... Okay. The Altean knights 
+are, um, nothing to me. Yeah... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh! I should have expected no 
+less from you. [WaitForA]
+As long as we have you, not 
+even Talys's Ogma can defeat 
+us. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+What? Ogma!!? Uh... Um... 
+Yeah... I can, er, take care of 
+that dude. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Good, with your words I can 
+relax now. Well, good luck, 
+Nabarl! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 659

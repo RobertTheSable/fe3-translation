@@ -1,0 +1,5 @@
+@address $e7dc02
+@width 160
+@label storage_88
+Door Key was sent to the 
+storage. # length: 38

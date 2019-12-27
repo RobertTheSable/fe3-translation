@@ -1,0 +1,5 @@
+@address $ff99c8
+@width 160
+@autoend off
+@label CharacterEndings_107
+After the war he vanished. [End][End]# length: 31

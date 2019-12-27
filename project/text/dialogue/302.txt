@@ -1,0 +1,6 @@
+@address $e68255
+@width 160
+@label dialogue_302
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][21][04]Nyna, please forgive me... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 54

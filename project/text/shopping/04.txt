@@ -1,0 +1,6 @@
+@address $e7c42b
+@width 160
+@label shopping_04
+
+Do you want to 
+continue shopping? # length: 40

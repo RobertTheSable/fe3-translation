@@ -1,0 +1,9 @@
+@address $e6c287
+@width 160
+@label dialogue_476
+[_88][04][ShowPortait][6c][04]When Cavaliers or Pegasus 
+Knights dismount, they become 
+Knights. [WaitForA]
+When Horsemen dismount, they 
+can fight as Hunters. [WaitForA][CloseFrame][02]
+# length: 140

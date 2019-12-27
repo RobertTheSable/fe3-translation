@@ -1,0 +1,19 @@
+@address $e0a1f3
+@width 160
+@label worldmap_16
+Medon is Minerva and Maria's 
+homeland. [MapWaitForA]
+It is the birth land of flying 
+dragons and is widely known 
+for being a peaceful and rich 
+kingdom. [MapWaitForA]
+But the ambitious Prince 
+Michalis ignored his sisters' 
+opposition and aided Doluna 
+with its ambitions. [MapWaitForA]
+He led the Medonian Dragoons
+to attack numerous countries, 
+to instil fear in the people.[MapWaitForA]
+And, right now, he has
+gathered his soaring army to 
+fight a final battle with Marth...# length: 445

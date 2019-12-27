@@ -1,0 +1,12 @@
+@address $f0bbbc
+@type menu
+@label suspend_03
+ 
+ 
+ Funds:     0
+ Turn:
+ 
+Unit count:
+ PLAYER:   ENEMY:
+ 
+Objective:

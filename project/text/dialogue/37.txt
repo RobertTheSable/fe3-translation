@@ -1,0 +1,16 @@
+@address $e1928b
+@width 160
+@label dialogue_37
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][3c][06]What? The rebels have 
+entered the castle? [WaitForA]
+Hmm... Knights, seek out the 
+enemy!! Archers, guard the 
+throne. [WaitForA]
+Thieves, gather all the 
+treasures and prepare to make 
+your escape. [WaitForA]
+Listen well! Don't let the 
+rebels take one step into this 
+room! [WaitForA][CloseFrame][03]
+# length: 284

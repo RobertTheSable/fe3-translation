@@ -1,0 +1,17 @@
+@address $e2a314
+@width 160
+@label dialogue_125
+[_88][00][_89][0c][80][SwitchFrame][00]
+[ShowPortait][33][04]Ah, Lord Marth, I am Gotoh. 
+Welcome here. [WaitForA]
+Really...? You have fulfilled 
+our promise and brought both 
+the Starsphere and 
+Lightsphere here. [WaitForA]
+Excellent. Then I can create 
+the only spell that can 
+penetrate Imhullu, [SetColor][00][28]Starlight. [SetColor][00][24][WaitForA]
+Very well, take this, and use it 
+to defeat the evil priest, 
+Gharnef. [WaitForA][CloseFrame][02]
+# length: 347

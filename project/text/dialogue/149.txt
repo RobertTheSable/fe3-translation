@@ -1,0 +1,16 @@
+@address $e2ccf9
+@width 160
+@label dialogue_149
+[_88][00][_89][6d][80][SwitchFrame][01]
+[ShowPortait][8b][06]You two are Grust's... Prince 
+Yubello and Princess Yumina!? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7d][07]Waa... Lorenz... He's dead. What 
+should we do? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][7c][06]You fiends!! Don't come near 
+us! Otherwise, we'll kill 
+ourselves!! [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][8b][06]No! You've got it wrong... [WaitForA][CloseFrame][03]
+# length: 266

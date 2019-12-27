@@ -1,0 +1,17 @@
+@address $e0d0b2
+@width 160
+@label worldmap_35
+This was a fierce battle like no 
+other. But, their homeland of 
+Altea has been liberated. [MapWaitForA]
+All that remains is the castle... 
+If I could regain Altea castle, 
+where I was born... [MapWaitForA]
+Everybody, thank you... I 
+really must thank you all for 
+placing your trust in me... [MapWaitForA]
+Before Marth's face flowed 
+shimmering tears... [MapWaitForA]
+Even the girl, who gently wiped 
+his tears away, couldn't 
+prevent her own tears... # length: 416

@@ -1,0 +1,6 @@
+@address $ffb34c
+@width 160
+@autoend off
+@label CharacterEndings_214
+Fell in battle during "Frozen 
+Land".[End][End][00]# length: 43

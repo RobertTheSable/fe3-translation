@@ -1,0 +1,11 @@
+@address $e6ae26
+@width 160
+@label dialogue_461
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][69][04]The Akaneian army has 
+changed. 
+The troops are all bloodthirsty 
+savages now.[WaitForA]
+What is going on with this
+country?[WaitForA][CloseFrame][02]
+# length: 142

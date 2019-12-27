@@ -1,0 +1,6 @@
+@address $ffb571
+@width 160
+@autoend off
+@label CharacterEndings_221
+Fell in battle during "Dark 
+Emperor". [End][End][End][End]# length: 48

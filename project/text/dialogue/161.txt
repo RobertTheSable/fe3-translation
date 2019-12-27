@@ -1,0 +1,41 @@
+@address $e2f066
+@width 160
+@label dialogue_161
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][8b][07]Oh, Castor, is that you? What 
+are you doing here? [WaitForA][SwitchFrame][00]
+[ShowPortait][0c][04]Ah, Marth! Sniff... [WaitForA]
+Well, my mother fell ill and I 
+needed gold to pay for her 
+medicine. [WaitForA]
+However I couldn't find gold at 
+Talys, so I came here. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really...? That's terrible... I 
+hope your mother gets better 
+soon. [WaitForA]
+Well, goodbye... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+[_17][ef][ff]..... [WaitForA]
+[_16][10][00]Please wait!! My mother's 
+illness... Er... Gold...[WaitForA][SwitchFrame][01]
+[ClearFrame]
+Huh? Oh, that's right, I'm 
+sorry. Will this be enough? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Sniff... Marth. Thank you so 
+much. You are so kind, even to 
+a guy like me. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Castor... What...? Aren't you 
+being just a little over the 
+top? [WaitForA]
+Helping people in need is the 
+natural thing to do. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, Marth! You are my saviour. 
+I also wish to help you, Marth. [WaitForA]
+Please take me with you. I will 
+lend my life to you!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 832

@@ -1,0 +1,64 @@
+@address $e3898d
+@width 160
+@label dialogue_165
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6f][05]Oh... Please spare this girl. 
+She is just 10 years old. [WaitForA]
+She hasn't even finished her 
+training as a cleric. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Don't worry, old lady. We're 
+not going to take this child. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Huh...? Aren't you a soldier of 
+the Empire? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No... You've got the wrong 
+idea. We haven't come here to 
+fight. [WaitForA]
+If you require anything, please 
+ask. [WaitForA]
+We have some food, please 
+take it if you want. [WaitForA][CloseFrame][02]
+[_89][4c][80][SwitchFrame][00]
+[ShowPortait][80][04]Wait... Please, take me with 
+you... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+You... You're REALLY only 10 
+years old? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Actually I have already become 
+of age...  [WaitForA]
+But, my grandmother lied for 
+me so the soldiers wouldn't 
+take me away. [WaitForA]
+Well, I know if I stay here I will 
+eventually be discovered and 
+captured by the imperial 
+soldiers. [WaitForA]
+Lang's soldiers are like 
+beasts. But, you're different. 
+You have very kind eyes. [WaitForA]
+Please, take me out of this 
+country and to your own 
+country. Is that alright, 
+grandmother? [WaitForA][CloseFrame][02]
+[SwitchFrame][00]
+[ShowPortait][6f][05]Ah, of course. You will be much 
+safer compared to here.  [WaitForA]
+Young lad, I beg of you. Please 
+protect this girl. [WaitForA]
+If you want, it would be no 
+problem for her to become 
+your bride. [WaitForA]
+This child, like me in the past, 
+is a beautiful girl. She will 
+definitely make a fine wife. [WaitForA]
+Malicia, if this youth was to be 
+your husband, you would be 
+happy, right? [WaitForA][CloseFrame][02]
+[SwitchFrame][00]
+[ShowPortait][80][04]Honestly, grandmother. It's 
+far too early. Malicia doesn't 
+know what to do. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1441

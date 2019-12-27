@@ -1,0 +1,16 @@
+@address $e09c1b
+@width 160
+@label worldmap_13
+After defeating Hollstadt's 
+knights, the allied army swiftly 
+conquered the whole of Altea. [MapWaitForA]
+All that remains is Altea 
+castle, guarded by the Mage 
+Dragon, Morzas's men. [MapWaitForA]
+Morzas substituted General 
+Camus as the commander of 
+the occupation army, and was 
+a ruthless man guilty of killing [MapWaitForA]
+numerous people. [MapWaitForA]
+That dreaded Morzas once 
+again appeared before Marth. # length: 379

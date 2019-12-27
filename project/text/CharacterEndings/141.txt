@@ -1,0 +1,7 @@
+@address $ffa0f6
+@width 160
+@autoend off
+@label CharacterEndings_141
+After discarding his 
+dragonstone he left for 
+whereabouts unknown. [End][End][End]# length: 76

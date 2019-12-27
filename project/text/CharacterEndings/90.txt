@@ -1,0 +1,7 @@
+@address $ff94a4
+@width 160
+@autoend off
+@label CharacterEndings_90
+[AddSpaces][02]Princess Elice of Altea  
+
+# length: 30

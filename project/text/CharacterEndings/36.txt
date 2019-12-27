@@ -1,0 +1,7 @@
+@address $ff895f
+@width 160
+@autoend off
+@label CharacterEndings_36
+[AddSpaces][02]Sedgar, Aurelian Soldier 
+
+# length: 30

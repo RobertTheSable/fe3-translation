@@ -1,0 +1,7 @@
+@address $ff9249
+@width 160
+@autoend off
+@label CharacterEndings_78
+[AddSpaces][02]Shapeshifter Xane   
+
+# length: 25

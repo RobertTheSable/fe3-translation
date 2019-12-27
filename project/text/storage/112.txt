@@ -1,0 +1,4 @@
+@address $e7dfc0
+@width 160
+@label storage_112
+Aries was sent to the storage. # length: 33

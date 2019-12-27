@@ -1,0 +1,12 @@
+@address $e6eac7
+@width 160
+@label dialogue_505
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][67][04]The thieves escaped with my 
+family's treasured Lady Sword. [WaitForA]
+That sword can only be used 
+by females, but it contains 
+tremendous power. [WaitForA]
+If possible, please try and 
+recover it. [WaitForA][CloseFrame][02]
+# length: 210

@@ -1,0 +1,71 @@
+@address $e4e1dd
+@width 160
+@label dialogue_205
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][20][06]Astram, how are you doing? [WaitForA][SwitchFrame][00]
+[ShowPortait][2b][05]So it's the traitor, Jeorge. 
+What do you want with me? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Wait, Astram. General Eibel has 
+already fallen. [WaitForA]
+You won't be able to win even 
+if you continue fighting. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You want me to surrender...? 
+Never! [WaitForA]
+Even if I am the last one 
+standing. I am a warrior of 
+Akeneia to the end!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Why are you... Who are you 
+fighting for? Are you fighting 
+for Emperor Hardin? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No! It's not because of that 
+man, but because of Nyna... 
+And for Akaneia!! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+But, did Nyna tell you to fight 
+here? [WaitForA]
+Do you really think that Nyna 
+would hope for this kind of 
+battle? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Well... I hadn't seen Nyna for a 
+while. I was told that she fell 
+ill, and that I couldn't see her. [WaitForA]
+But... Since Hardin is Emperor 
+of Akaneia, I have no choice. [WaitForA]
+If I don't follow his orders I will
+become a traitor, and I will be 
+betraying Nyna.  [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Astram, Nyna already 
+entrusted the Emblem to 
+Prince Marth. [WaitForA]
+Do you understand... the 
+meaning of her actions? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Wh-what!! When did this 
+happen, Jeorge? Nyna 
+requested Prince Marth for 
+help? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I believe that is the only 
+explanation. [WaitForA]
+Astram, if you want to find out 
+the truth then come with us... [WaitForA]
+If you die here, what will Midia 
+do? You must live on, for her. [WaitForA]
+You must live on, so you can 
+confirm with your eyes what is 
+happening. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Hmm... I guess I have no choice.[WaitForA]
+But, Jeorge. If this war is as 
+Hardin said, and was caused 
+by Prince Marth's Ambitions.  [WaitForA]
+I will never forgive you! 
+Remember that!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1596

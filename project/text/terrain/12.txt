@@ -1,0 +1,5 @@
+@address $f0b328
+@type menu
+@label terrain_12
+Magma
+Blocked

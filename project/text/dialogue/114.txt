@@ -1,0 +1,32 @@
+@address $e28bcf
+@width 160
+@label dialogue_114
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][18][07]Oh!! Tiki, I was looking all over 
+for you. [WaitForA]
+It seems you've fallen under 
+Gharnef's spell... [WaitForA]
+Please wake up... [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][30][06]...Uh.[WaitForA]
+Ah...! Bantu... Why... [WaitForA]
+What's going on? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][18][07]Ah, good, you've awakened. 
+Are you alright? [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][30][06]Uh... What happened to me...? It
+was so scary... [WaitForA]
+It was like I was in a bad  
+dream... [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][18][07]I'm really sorry... For letting 
+you be frightened like that... [WaitForA]
+But everything is fine now. 
+From now on, I will always be by
+your side.  [WaitForA][CloseFrame][03]
+[SwitchFrame][01]
+[ShowPortait][30][06]Ah! Do you promise? [WaitForA]
+You mustn't leave me alone 
+ever again... [WaitForA][CloseFrame][03]
+# length: 607

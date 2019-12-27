@@ -1,0 +1,6 @@
+@address $ffa5c9
+@width 160
+@autoend off
+@label CharacterEndings_163
+After the war, she left with 
+the one like the wind. [End][End]# length: 58

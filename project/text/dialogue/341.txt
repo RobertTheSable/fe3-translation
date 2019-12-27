@@ -1,0 +1,6 @@
+@address $e68b01
+@width 160
+@label dialogue_341
+[_88][00][_89][bf][80][SwitchFrame][00]
+[ShowPortait][25][04]To die in battle is my wish... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 58

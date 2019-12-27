@@ -1,0 +1,7 @@
+@address $ff9adf
+@width 160
+@autoend off
+@label CharacterEndings_112
+[AddSpaces][02]Ryan, Archer of Altea  
+
+# length: 28

@@ -1,0 +1,9 @@
+@address $ff9e4a
+@width 160
+@autoend off
+@label CharacterEndings_129
+After the war she vanished 
+without a trace, much to 
+Marth's worry. [MapWaitForA]
+Perhaps she has already 
+become a bad girl... [End][End][End]# length: 126

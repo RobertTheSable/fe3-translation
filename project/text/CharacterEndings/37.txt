@@ -1,0 +1,7 @@
+@address $ff897d
+@width 160
+@autoend off
+@label CharacterEndings_37
+He remained with the Aurelian
+Knights, and worked tirelessly 
+to restore the nation. [End][End]# length: 91

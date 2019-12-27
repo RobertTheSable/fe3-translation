@@ -1,0 +1,5 @@
+@address $e7b93d
+@width 240
+@type nodigraph
+@label ChapterTitles_38
+BBBB  Ch18 Pass Battle         # length: 33

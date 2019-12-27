@@ -1,0 +1,47 @@
+@address $e0a8c2
+@width 160
+@label worldmap_20
+One year has passed since the 
+War of Darkness ended. [MapWaitForA]
+Thanks to the efforts of 
+Prince Marth, the Kingdom of 
+Altea, devastated by war, 
+finally begins to stabilise. [MapWaitForA]
+The knight Jagen, who 
+succeeded the ill Malledus, 
+became the prince's tactician 
+and helped him rule the [MapWaitForA]
+country, by his side. [MapWaitForA]
+Afterwards, Princess Shiida 
+was welcomed to Altea, and her 
+marriage with Prince Marth 
+was announced. [MapWaitForA]
+The citizens of Altea were 
+happy for the pair's fortune 
+and Shiida was passionately 
+welcomed to the country. [MapWaitForA]
+However... [MapWaitForA]
+Nearing the day of the 
+wedding, a letter suddenly 
+comes from the imperial palace 
+of Pales, containing an [MapWaitForA]
+imperial order. [MapWaitForA]
+"Dear Prince Marth of Altea, [MapWaitForA]
+At the Kingdom of Grust, 
+occupied by Akaneia, a huge 
+rebellion has broken out. [MapWaitForA]
+I request for your country to 
+subdue Grust. [MapWaitForA]
+Your highness, please send 
+Altea's full army immediately, 
+to quell Grust's rebellion."
+Emperor Hardin. [MapWaitForA]
+The Kingdom of Akaneia is the 
+suzerain state to Altea, and 
+its orders must be followed. [MapWaitForA]
+The helpless Marth orders the 
+knight Cain to protect his 
+kingdom. [MapWaitForA]
+And he leaves, along with 
+Jagen and the others, to an 
+expedition to Grust.# length: 1200

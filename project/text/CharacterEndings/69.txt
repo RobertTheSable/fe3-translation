@@ -1,0 +1,7 @@
+@address $ff9051
+@width 160
+@autoend off
+@label CharacterEndings_69
+As a bishop of Akaneia he 
+worked tirelessly to restore 
+the nation. [End][00]# length: 74

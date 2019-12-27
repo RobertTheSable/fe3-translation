@@ -1,0 +1,6 @@
+@address $ff9d6d
+@width 160
+@autoend off
+@label CharacterEndings_125
+Overseen by King Marth, he
+studied hard at Altea. [End][End][End]# length: 57

@@ -1,0 +1,7 @@
+@address $ff9ee6
+@width 160
+@autoend off
+@label CharacterEndings_131
+After the war he went to 
+Aurelis, perhaps to offer 
+prayers for Hardin... [End][End][End]# length: 83

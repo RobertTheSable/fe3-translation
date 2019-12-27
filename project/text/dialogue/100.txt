@@ -1,0 +1,17 @@
+@address $e1f27d
+@width 160
+@label dialogue_100
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][2a][04]Ah, are you Lord Marth? I am 
+Est of Medon! [WaitForA]
+I was captured when I tried to 
+recover the stolen Mercurius 
+Sword from the Grustian army. [WaitForA]
+But that young knight, Camus, 
+rescued me and I was able to 
+escape. [WaitForA]
+This is the Mercurius Sword, a 
+truly impressive sword, no? [WaitForA]
+But, can your highness wield 
+it? [WaitForA][CloseFrame][02]
+# length: 343

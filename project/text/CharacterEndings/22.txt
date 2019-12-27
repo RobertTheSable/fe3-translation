@@ -1,0 +1,7 @@
+@address $ff86a3
+@width 160
+@autoend off
+@label CharacterEndings_22
+[AddSpaces][02]Castor, Hunter of Talys 
+
+# length: 29

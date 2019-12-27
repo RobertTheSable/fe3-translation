@@ -1,0 +1,128 @@
+@address $f0a3e4
+@type menu
+@label statusTitles_01
+Book 1 Chapter 1
+Marth Embarks[End]
+@label statusTitles_02
+Book 1 Chapter 2
+Pirates of Galder[End]
+@label statusTitles_03
+Book 1 Chapter 3
+Brush in the Teeth[End]
+@label statusTitles_04
+Book 1 Chapter 4
+Aurelian Champions[End]
+@label statusTitles_05
+Book 1 Chapter 5
+Fire Emblem[End]
+@label statusTitles_06
+Book 1 Chapter 6
+Lefcandith Gauntlet[End]
+@label statusTitles_07
+Book 1 Chapter 7
+Coastal Skirmish[End]
+@label statusTitles_08
+Book 1 Chapter 8
+Princess Minerva[End]
+@label statusTitles_09
+Book 1 Chapter 9
+Knorda Market[End]
+@label statusTitles_10
+Book 1 Chapter 10
+Ageless Palace[End]
+@label statusTitles_11
+Book 1 Chapter 11
+Land of Sorrow[End]
+@label statusTitles_12
+Book 1 Chapter 12
+Oasis of Magic[End]
+@label statusTitles_13
+Book 1 Chapter 13
+Battle for Altea[End]
+@label statusTitles_14
+Book 1 Chapter 14
+Star and Savior[End]
+@label statusTitles_15
+Book 1 Chapter 15
+Manakete Princess[End]
+@label statusTitles_16
+Book 1 Chapter 16
+Camus the Sable[End]
+@label statusTitles_17
+Book 1 Chapter 17
+Knight-Filled Sky[End]
+@label statusTitles_18
+Book 1 Chapter 18
+Dark Pontifex[End]
+@label statusTitles_19
+Book 1 Chapter 19
+Dragonkin Realm[End]
+@label statusTitles_20
+Book 1 Chapter 20
+Chosen by Fate[End]
+@label statusTitles_21
+Book 2 Chapter 1
+Grustian Expedition[End]
+@label statusTitles_22
+Book 2 Chapter 2
+Rebellion at Medon[End]
+@label statusTitles_23
+Book 2 Chapter 3
+Abducted Princess[End]
+@label statusTitles_24
+Book 2 Chapter 4
+Joy and Sorrow[End]
+@label statusTitles_25
+Book 2 Chapter 5
+Grust's Liberation[End]
+@label statusTitles_26
+Book 2 Chapter 6
+Nest of Evil[End]
+@label statusTitles_27
+Book 2 Chapter 7
+Scarlet Swordsman[End]
+@label statusTitles_28
+Book 2 Chapter 8
+Soulful Bridge[End]
+@label statusTitles_29
+Book 2 Chapter 9
+Sorcerer Sanctuary[End]
+@label statusTitles_30
+Book 2 Chapter 10
+The Two Mages[End]
+@label statusTitles_31
+Book 2 Chapter 11
+Anri's Way[End]
+@label statusTitles_32
+Book 2 Chapter 12
+Dragon Graveyard[End]
+@label statusTitles_33
+Book 2 Chapter 13
+Frozen Land[End]
+@label statusTitles_34
+Book 2 Chapter 14
+Mystery Revealed[End]
+@label statusTitles_35
+Book 2 Chapter 15
+Prince's Return[End]
+@label statusTitles_36
+Book 2 Chapter 16
+Reclaim the Capital[End]
+@label statusTitles_37
+Book 2 Chapter 17
+Gra's Setting Sun[End]
+@label statusTitles_38
+Book 2 Chapter 18
+Battle of the Pass[End]
+@label statusTitles_39
+Book 2 Chapter 19
+The Final Battle[End]
+@label statusTitles_40
+Book 2 Chapter 20
+Dark Emperor[End]
+@label statusTitles_41
+Book 2 Final Chapter
+The Wyvern Valley[End]
+@label statusTitles_42
+Book 2 Final Chapter
+The Dragon's Table

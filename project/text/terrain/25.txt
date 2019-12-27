@@ -1,0 +1,5 @@
+@address $f0b4e4
+@type menu
+@label terrain_25
+Drawbrg
+Blocked

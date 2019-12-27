@@ -1,0 +1,5 @@
+@address $e7ded7
+@width 160
+@label storage_106
+Orion's Bolt was sent to the
+storage# length: 39

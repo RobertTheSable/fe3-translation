@@ -1,0 +1,5 @@
+@address $e7cdfb
+@width 160
+@label storage_02
+Silver Sword was sent to the 
+storage. # length: 42

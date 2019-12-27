@@ -1,0 +1,9 @@
+@address $ff8a4a
+@width 160
+@autoend off
+@label CharacterEndings_40
+[AddSpaces][02]Vyland, 
+@type normal
+Aurelian Soldier 
+
+# length: 29

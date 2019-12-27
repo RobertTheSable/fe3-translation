@@ -1,0 +1,22 @@
+@address $e1e957
+@width 160
+@label dialogue_94
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][61][07]Marth, so this is your 
+homeland, Altea? [WaitForA][SwitchFrame][00]
+[ShowPortait][00][10]Yes. It has already been 2 
+years since it was occupied by 
+the Dolunian Empire.[WaitForA]
+That day... I managed to 
+escape to Talys, thanks to my 
+sister, Elice's help.[WaitForA]
+But she was captured by the 
+Dolunian Empire in my place.[WaitForA]
+Right now, where on earth 
+could she be? ...I must rescue 
+her from their hands.[WaitForA]
+Okay, everybody move out! 
+For the freedom and peace of 
+our homeland, Altea!! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 474

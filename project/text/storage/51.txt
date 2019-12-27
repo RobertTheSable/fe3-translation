@@ -1,0 +1,5 @@
+@address $e7d5c7
+@width 160
+@label storage_51
+Bolganone was sent to the 
+storage. # length: 39

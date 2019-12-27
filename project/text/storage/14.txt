@@ -1,0 +1,5 @@
+@address $e7cff6
+@width 160
+@label storage_14
+Swordslayer was sent to the 
+storage. # length: 41

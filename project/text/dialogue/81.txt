@@ -1,0 +1,12 @@
+@address $e1dba7
+@width 160
+@label dialogue_81
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][1c][04]Lord Marth, it's been a while. 
+I'm Catria. [WaitForA]
+After hearing that Minerva has 
+finally joined your side, I have 
+been waiting for you. [WaitForA]
+I will also try my best. Please 
+watch over me. [WaitForA][CloseFrame][02]
+# length: 213

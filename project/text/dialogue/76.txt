@@ -1,0 +1,20 @@
+@address $e1d18e
+@width 160
+@label dialogue_76
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][61][04]Thank you, Prince Marth. It 
+was all thanks to your help 
+that we could return to Pales. [WaitForA]
+This radiant bow is called 
+Parthia. It is one of three 
+weapons passed down by my 
+royal family. [WaitForA]
+Also, there is the Mercurius 
+Sword and the Gradivus lance. 
+It seems those two were taken 
+by the enemy. [WaitForA]
+If we could obtain those 
+powerful weapons, your 
+battles would become slightly 
+easier... [WaitForA][CloseFrame][02]
+# length: 428

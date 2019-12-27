@@ -1,0 +1,7 @@
+@address $96d846
+@type normal
+@width 160
+@label endings_SaveGameDialogue
+[_11]Save Game?
+
+Yes[Space2][Space2][Space2]No[NewLine]

@@ -1,0 +1,81 @@
+@address $dcb100
+@width 160
+@label openings_Book2OP
+Y[_12]H[_11][ff]"A[4e]Pu[_12][e6][MapWaitForA]
+[_11][60][78][5d][f1]Z[Space2][_12]Z[_11]mV
+[_12]D[_11]Y[_12][4A][_11]sAPD[_12][e6]
+[_11]"GCoFvnY[_12]IJ[_11]s
+ELeUF[4e]P[_12][e7][MapWaitForA]
+[_11]
+[_0a]  After five long 
+[_0a] years the great war
+[_0a]  with the Dolunian 
+[_0a] Empire, which 
+[_0a]    caused much 
+[_0a] suffering and was 
+[_0a]  later called the 
+[_0a]  War of Darkness, 
+[_0a]   ended with the 
+[_0a] defeat of the Earth
+[_0a]    Dragon King 
+[_0a]      Medeus.  
+[_0a]  The warriors who 
+[_0a] had gathered under 
+[_0a]  the Fire Emblem 
+[_0a] returned to their 
+[_0a] homelands, and to 
+[_0a] restore the lands 
+[_0a]  from devastation 
+[_0a]    used up much 
+[_0a]     strength. 
+[_0a] Among the countries
+[_0a] that once made up 
+[_0a] the seven Kingdoms 
+[_0a] of Akaneia, Gra and
+[_0a] Grust were ruined. 
+[_0a]  Altea, Aurelis,  
+[_0a]   Medon, and     
+[_0a]  Talys were also 
+[_0a]  deeply scarred. 
+[_0a]   Even the grand 
+[_0a] Kingdom of Akaneia 
+[_0a]   was undergoing 
+[_0a] restoration. Then, 
+[_0a]    at the royal 
+[_0a]   capital Pales, 
+[_0a]  which was still 
+[_0a] shaken by the war 
+[_0a] an important event 
+[_0a]   occurred. King 
+[_0a]  Aurelis' younger 
+[_0a]  brother, Hardin, 
+[_0a]  married Princess 
+[_0a] Nyna and ascended 
+[_0a] as the 24th King of
+[_0a]      Akaneia. 
+[_0a]   After becoming 
+[_0a]   king, Hardin, 
+[_0a] although seemingly 
+[_0a]     reluctant, 
+[_0a] instantly restored 
+[_0a]    the country. 
+[_0a]  He gathered many 
+[_0a] soldiers to create 
+[_0a]  a powerful army. 
+[_0a] Following that he 
+[_0a]    declared the 
+[_0a] restoration of the 
+[_0a]   Holy Empire of 
+[_0a]    Akaneia, and 
+[_0a]  declared himself 
+[_0a]      Emperor. 
+[_0a] One year after the 
+[_0a] end of the war with
+[_0a]  Doluna the world 
+[_0a]    seems to be 
+[_0a] entering a state of
+[_0a]       peace. 
+[_0a] But the wheels of 
+[_0a] fate appear to have
+[_0a]      a fault. 
+[_0a] blargrandomlongline# length: 1700

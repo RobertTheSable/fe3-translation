@@ -1,0 +1,14 @@
+@address $e0c9a6
+@width 160
+@label worldmap_32
+This truly is an unimaginably 
+treacherous journey. [MapWaitForA]
+5000 metres... No, higher 
+than that. Looking down, a sea 
+of clouds can be seen. [MapWaitForA]
+They have reached the summit 
+of the cold mountain peak. [MapWaitForA]
+Breathing is difficult... 
+Dizziness is felt... 
+Their vitality is fast 
+approaching its limits. # length: 303

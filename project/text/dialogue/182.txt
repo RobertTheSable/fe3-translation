@@ -1,0 +1,74 @@
+@address $e3c9c9
+@width 160
+@label dialogue_182
+[_88][00][_89][48][80][SwitchFrame][00]
+[ShowPortait][4c][04]Minerva. If you wait in this 
+village, you should be able to 
+meet Marth. [WaitForA]
+Although I don't like that boy, 
+he is indeed of heroic calibre. 
+You should aid him. [WaitForA][SwitchFrame][01]
+[ShowPortait][1e][07]Brother, what are you going to 
+do next? If possible, you 
+should come with us... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I don't plan on doing that. I 
+just want to find Maria, and 
+bring her back to Medon. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Brother, you've changed... Or 
+should I say, you've changed 
+to how you used to be. [WaitForA]
+So you truly were under the 
+control of Gharnef's dark 
+magic. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, it wasn't that. [WaitForA]
+Wanting to destroy that 
+prideful Akaneia, and allow 
+Medon to become the 
+conqueror of this world, was [WaitForA]
+my own idea. [WaitForA]
+I originally planned to ally with 
+Doluna to destroy Akaneia, 
+and then later join forces with 
+Grust's Camus to defeat 
+Doluna. [WaitForA]
+But father didn't agree with 
+me, and finally he sent me 
+away. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+So that's why you killed 
+father? You idiot... Didn't you 
+know that it was a trap set by 
+Gharnef? [WaitForA]
+Father was indeed very strict 
+towards you. However that 
+was because he loved you. Why 
+didn't you understand? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+That's enough, Minerva. I'm 
+not stupid. When I was struck 
+by your lance, I was just 
+outside death's door. [WaitForA]
+Later, when I found 
+consciousness, in front of me I
+saw a crying Maria, praying to 
+the deities.  [WaitForA]
+She saved me, by selflessly 
+and tirelessly taking care of 
+me, even though her face was 
+completely in tears. [WaitForA]
+I don't believe in deities, but 
+at that time she truly looked 
+like an angel. [WaitForA]
+The way I treated Maria, and 
+yet she still cried for me... 
+Minerva, I must go. [WaitForA]
+I must rescue Maria. That is 
+the only thing I can do to 
+repent! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Michalis... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1739

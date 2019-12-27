@@ -1,0 +1,5 @@
+@address $e7b8bf
+@width 240
+@type nodigraph
+@label ChapterTitles_34
+BBBB  C14 Mystery Reveiled   # length: 31

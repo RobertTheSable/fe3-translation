@@ -1,0 +1,9 @@
+@address $ff96f9
+@width 160
+@autoend off
+@label CharacterEndings_97
+She remained within the royal 
+knights to care for the 
+survivors of war. She swore, 
+as a Paladin of Altea, to stay [MapWaitForA]
+loyal to Altea to the end. [End][End][End][End][00]# length: 158

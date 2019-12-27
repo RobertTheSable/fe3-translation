@@ -1,0 +1,12 @@
+@address $e1e86d
+@width 160
+@label dialogue_93
+[_88][04][ShowPortait][6b][04]You can't defeat the Dark 
+Pontifex, Gharnef. His [SetColor][00][28]Imhullu[SetColor][00][24]
+spell protects him. [WaitForA]
+The only thing that can harm 
+him is Gotoh's [SetColor][00][28]Starlight...[WaitForA]
+[SetColor][00][24]...Oh, this is bad.
+Please leave this place at 
+once. [WaitForA][CloseFrame][02]
+# length: 232

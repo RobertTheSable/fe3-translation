@@ -1,0 +1,26 @@
+@address $e2aab2
+@width 160
+@label dialogue_130
+[_88][00][_89][0a][80][SwitchFrame][00]
+[ShowPortait][32][04]Marth... I've missed you so 
+much. [WaitForA]
+Look at how you've grown... 
+Father must be very happy... [WaitForA][CloseFrame][02]
+[ShowPortait][00][05]Sister!! After discovering that 
+you had been taken by 
+Gharnef, I was extremely 
+worried. [WaitForA]
+I'm glad you're safe... [WaitForA][CloseFrame][02]
+[ShowPortait][32][04]Gharnef captured me so that 
+he could obtain the 
+resurrection staff, Aum, from 
+Gotoh. [WaitForA]
+If this staff is used at the 
+temple south from Doluna, it 
+can allow any person to come 
+back to life. [WaitForA]
+Let's go, Marth... To bring 
+back the most important 
+people that you lost. [WaitForA]
+Let's go!! To Doluna! [WaitForA][CloseFrame][02]
+# length: 570

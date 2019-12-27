@@ -1,0 +1,6 @@
+@address $e7bc5d
+@width 176
+@label classDescription_08
+Experienced Cavaliers who 
+have promoted. Possesses 
+superior abilities. # length: 77

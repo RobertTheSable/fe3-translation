@@ -1,0 +1,7 @@
+@address $ff9f96
+@width 160
+@autoend off
+@label CharacterEndings_134
+[AddSpaces][02]Foolish Brother Matthis
+
+# length: 28

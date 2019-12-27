@@ -1,0 +1,5 @@
+@address $f0cd3c
+@type menu
+@label supplyMenu_00
+Take   Store
+Discard

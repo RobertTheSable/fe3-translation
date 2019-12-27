@@ -1,0 +1,39 @@
+@address $e0d264
+@width 160
+@label worldmap_36
+Marth and the others once 
+again moved out from Altea, 
+and headed towards the 
+imperial capital of Pales. [MapWaitForA]
+But, along their way, they 
+passed through the Kingdom of 
+Gra, a land allied to Akaneia. [MapWaitForA]
+In the previous war Gra sided 
+with the Dolunian Empire, 
+which resulted in their king, 
+Jiol, dying in battle and the [MapWaitForA]
+destruction of the kingdom. [MapWaitForA]
+The country was once a part 
+of Altea, but they sided with 
+Akaneia after listening to 
+Hardin's orders. [MapWaitForA]
+Hardin found King Jiol's 
+daughter, Princess Sheema, 
+and allowed her to ascend the 
+throne, and he then ordered [MapWaitForA]
+reinforcements from Gra. [MapWaitForA]
+Sheema received wild support 
+from the citizens of Gra. [MapWaitForA]
+To them, Sheema was their 
+only hope. The youths all 
+volunteered to become 
+soldiers. [MapWaitForA]
+They were happy to move out 
+and have a chance to defeat 
+their bitter enemy, Altea. [MapWaitForA]
+But, their dreams were 
+shattered in an instant... [MapWaitForA]
+Before the fast approaching 
+Altean elites, Gra's soldiers 
+lost all morale, and fled for 
+their lives. # length: 1018

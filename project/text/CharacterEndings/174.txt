@@ -1,0 +1,7 @@
+@address $ffa808
+@width 160
+@autoend off
+@label CharacterEndings_174
+[AddSpaces][02]Samson, Sheema's Hero 
+
+# length: 27

@@ -1,0 +1,4 @@
+@address $f08da8
+@type menu
+@label itemNames_02
+Silver

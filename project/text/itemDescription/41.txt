@@ -1,0 +1,8 @@
+@address $f0a058
+@type menu
+@label itemDescription_41
+Temporarily
+increases 
+Magic
+defence
+by 7

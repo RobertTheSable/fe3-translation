@@ -1,0 +1,6 @@
+@address $ffab5d
+@width 160
+@autoend off
+@label CharacterEndings_188
+Fell in battle during "Coastal 
+Skirmish". [End][End]# length: 48

@@ -1,0 +1,5 @@
+@address $e7d452
+@width 160
+@label storage_42
+Ice Breath was sent to the
+storage. # length: 39

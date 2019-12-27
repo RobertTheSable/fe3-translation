@@ -1,0 +1,5 @@
+@address $e7e02b
+@width 160
+@label storage_115
+Cancer was sent to the 
+storage. # length: 36

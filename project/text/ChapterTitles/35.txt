@@ -1,0 +1,5 @@
+@address $e7b8de
+@width 240
+@type nodigraph
+@label ChapterTitles_35
+BBBB  Ch15 Prince's Return   # length: 31

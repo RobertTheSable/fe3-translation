@@ -1,0 +1,5 @@
+@address $e7b740
+@width 240
+@type nodigraph
+@label ChapterTitles_22
+BBBB  Ch2 Rebellion at Medon # length: 31

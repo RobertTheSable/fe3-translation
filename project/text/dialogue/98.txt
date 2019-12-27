@@ -1,0 +1,20 @@
+@address $e1ef04
+@width 160
+@label dialogue_98
+[_88][00][_89][0e][80][SwitchFrame][00]
+[ShowPortait][25][04]I am Arran. I used to work as 
+the captain of a knights group. [WaitForA]
+However, for certain reasons, 
+I now reside here. [WaitForA]
+I am very happy to be able to 
+serve you. [WaitForA]
+But this village and its 
+neighbourigng village haven't 
+got on well for a long time. [WaitForA]
+Once they know that your 
+highness has visited this 
+village, they will close their 
+village's gate. [WaitForA]
+You should give up thinking of 
+trying to recruit Samson. [WaitForA][CloseFrame][02]
+# length: 450

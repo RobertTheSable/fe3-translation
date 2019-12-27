@@ -1,0 +1,7 @@
+@address $ffb777
+@width 160
+@autoend off
+@label CharacterEndingsAlt_01
+He continued his beloved 
+Lena's will and cared for 
+orphans. [End][00]# length: 67

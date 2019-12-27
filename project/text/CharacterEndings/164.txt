@@ -1,0 +1,7 @@
+@address $ffa603
+@width 160
+@autoend off
+@label CharacterEndings_164
+[AddSpaces][02]Princess Sheema of Gra 
+
+# length: 28

@@ -1,0 +1,6 @@
+@address $ffae6e
+@width 160
+@autoend off
+@label CharacterEndings_198
+Fell in battle during "A 
+Knight-Filled Sky".[End]# length: 48

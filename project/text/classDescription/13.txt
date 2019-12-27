@@ -1,0 +1,5 @@
+@address $e7bdd1
+@width 176
+@label classDescription_13
+Weak fighting skills, but can 
+transform into allies. # length: 57

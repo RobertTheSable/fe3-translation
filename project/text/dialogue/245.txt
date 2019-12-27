@@ -1,0 +1,10 @@
+@address $e5ec50
+@width 160
+@label dialogue_245
+[_88][00][_89][49][80][SwitchFrame][00]
+[ShowPortait][6c][04]Have you heard about Rescue 
+magic? It can bring faraway 
+allies to your side. [WaitForA]
+If it does exist, it would be 
+impressive stuff. [WaitForA][CloseFrame][02]
+# length: 156

@@ -1,0 +1,30 @@
+@address $e39811
+@width 160
+@label dialogue_170
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][8c][07]Swordfighter, Nabarl!! Please 
+aid us again! [WaitForA]
+[SwitchFrame][00]
+[ShowPortait][12][04]Huh!? Dude, who are you? I 
+have no business with women 
+or children... [WaitForA]
+That said. (Hey, she's pretty 
+cute) What do you want?  [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff]..... 
+[_16][10][00]You can't be Nabarl!! Who are 
+you?  [WaitForA][_89][0e][80][SwitchFrame][00]
+[ShowPortait][82][04]Crap, I've been found out! [WaitForA]
+I'm Samto, a, er, humble 
+mercenary. Since I look like 
+Nabarl, lots of people mistake 
+me for him. [WaitForA]
+So I pretended to be him. But I 
+really hate that General Lang. 
+If you think I'm of any use, let 
+me help you. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Uh... I guess you would be 
+alright... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 590

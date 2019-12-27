@@ -1,0 +1,21 @@
+@address $e4fd4b
+@width 160
+@label dialogue_214
+[_88][00][_89][49][80][SwitchFrame][00]
+[ShowPortait][6c][04]Ah... Please leave me. I already 
+have nothing to give you. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Ah, please don't get us wrong. 
+We aren't here to steal. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+But, didn't you all come here 
+from Altea for revenge? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No, we don't want to fight Gra, 
+because Gra and Altea were 
+originally like one family. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Is that true...? Then, I will give
+my most important treasure... 
+to... you❤ [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 399

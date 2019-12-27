@@ -1,0 +1,32 @@
+@address $e1c157
+@width 160
+@label dialogue_65
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][00][06]Nyna. We'll be able to see Pales
+very soon.  [WaitForA]
+It must hold such painful 
+memories for you. [WaitForA][SwitchFrame][00]
+[ShowPortait][61][05]Ah... The fall of Pales, I can 
+still see it in my mind's eyes. [WaitForA]
+So many people were killed. [WaitForA]
+The royals were all taken to 
+the castle gate and executed 
+in public, as a warning to 
+everyone. [WaitForA]
+After managing to escape, I 
+turned back to see father and 
+mother, but they were no 
+longer what they used to be. [WaitForA]
+It brought such a terrible 
+shock to me... I wanted to cry, 
+but nothing came out. [WaitForA]
+All I felt was sorrow and 
+regret... [WaitForA]
+But that was already in the 
+past. Now is not the time to be 
+reminiscing. [WaitForA]
+Go, Marth, to the streets 
+where I was born, to Akaneia's 
+royal capital of Pales. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 754

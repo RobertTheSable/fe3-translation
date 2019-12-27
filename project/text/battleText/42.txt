@@ -1,0 +1,4 @@
+@address $f0e706
+@type menu
+@label battleText_42
+Round

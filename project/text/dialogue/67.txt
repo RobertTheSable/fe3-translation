@@ -1,0 +1,57 @@
+@address $e1c5d5
+@width 160
+@label dialogue_67
+[_88][00][_89][20][80][SwitchFrame][00]
+[ShowPortait][72][04]Do you need a slave? [WaitForA]
+Right now we only have 
+weakling kids for sale, but we 
+can sell them to you for a 
+cheap price. [WaitForA][SwitchFrame][01]
+[ShowPortait][00][07]You are selling children... How 
+dare you!! [WaitForA]
+If you want to live, release the
+children, and leave this place  
+at once!! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Ah, the Aritian army!!? [WaitForA]
+Help! [WaitForA]
+[CloseFrame][02]
+[SwitchFrame][01]
+[ClearFrame]
+You must have suffered, but 
+it's alright now. Please return 
+safely to your homes. [WaitForA]
+.....Why aren't you leaving? [WaitForA][SwitchFrame][00]
+[ShowPortait][73][04]I... I no longer have a home to 
+go back to. [WaitForA]
+[SwitchFrame][01]
+[ClearFrame]
+Ah... Huh? [WaitForA]
+You are a girl, but why are you 
+wearing boys' clothes? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I am bishop Miloah's daughter, 
+Linde. [WaitForA]
+I dressed up as a boy to 
+escape from Gharnef. [WaitForA]
+But... Then I was caught by the 
+slave merchants... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Really? So you are Miloah's 
+daughter... But you can relax 
+now. [WaitForA]
+Nyna has also been worried 
+about you. [WaitForA]
+From now on, we will protect 
+you... So you won't be in 
+danger any longer. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+No!! Lord Marth, I want to fight 
+as well. [WaitForA]
+I have my father's Aura tome, 
+which he gave me. As long as 
+Nyna permits, I can use it. [WaitForA]
+I want to personally defeat 
+Gharnef, to avenge my father. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1159

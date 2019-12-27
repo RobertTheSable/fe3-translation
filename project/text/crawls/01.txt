@@ -1,0 +1,4 @@
+@address $e7c0de
+@width off
+@label crawls_01
+We pray to the heavens   for help.                                                                             # length: 113

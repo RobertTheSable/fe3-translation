@@ -1,0 +1,4 @@
+@address $f0cf2a
+@type menu
+@label itemDiscarding_02
+Supply

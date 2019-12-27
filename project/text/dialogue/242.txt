@@ -1,0 +1,10 @@
+@address $e5ea63
+@width 160
+@label dialogue_242
+[_88][00][_89][21][80][SwitchFrame][00]
+[ShowPortait][6a][04]Be careful of thieves. If they 
+steal any precious items, you 
+should take them back from 
+them. [WaitForA]
+You mustn't let them escape. [WaitForA][CloseFrame][02]
+# length: 154

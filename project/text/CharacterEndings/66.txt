@@ -1,0 +1,7 @@
+@address $ff8fb6
+@width 160
+@autoend off
+@label CharacterEndings_66
+[AddSpaces][02]Midia, Knight of Akaneia 
+
+# length: 30

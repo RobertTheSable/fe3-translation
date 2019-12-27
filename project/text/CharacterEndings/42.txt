@@ -1,0 +1,7 @@
+@address $ff8ac2
+@width 160
+@autoend off
+@label CharacterEndings_42
+[AddSpaces][02]Matthis, Medonian Noble  
+
+# length: 30

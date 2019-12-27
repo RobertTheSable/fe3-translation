@@ -1,0 +1,4 @@
+@address $f0e80a
+@type menu
+@label battleText_51
+'s HP absorbed.

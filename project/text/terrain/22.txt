@@ -1,0 +1,5 @@
+@address $f0b47e
+@type menu
+@label terrain_22
+Chest
+Avd: 0%

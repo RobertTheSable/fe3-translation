@@ -1,0 +1,5 @@
+@address $e7dbdb
+@width 160
+@label storage_87
+Vulnerary was sent to the 
+storage. # length: 39

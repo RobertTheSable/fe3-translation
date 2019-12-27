@@ -1,0 +1,8 @@
+@address $f095e8
+@type menu
+@label itemDescription_05
+WeaponLv 3
+Exp   30
+Restores 
+all HP to
+an ally

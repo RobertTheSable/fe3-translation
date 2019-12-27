@@ -1,0 +1,8 @@
+@address $ffa92a
+@width 160
+@autoend off
+@label CharacterEndings_181
+She established a magic 
+academy at Pales. Later she 
+married, and passed her days 
+happily. [End][00]# length: 99

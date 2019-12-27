@@ -1,0 +1,5 @@
+@address $e7dc4f
+@width 160
+@label storage_90
+Bridge Key was sent to the 
+storage.# length: 39

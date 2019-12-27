@@ -1,0 +1,7 @@
+@address $ff84b6
+@width 160
+@autoend off
+@label CharacterEndings_14
+[AddSpaces][02]Ogma, Talys Mercenary  
+
+# length: 28

@@ -1,0 +1,4 @@
+@address $f0e4f0
+@type menu
+@label battleText_14
+ fell.

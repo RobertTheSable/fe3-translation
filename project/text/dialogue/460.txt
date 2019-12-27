@@ -1,0 +1,16 @@
+@address $e6acc5
+@width 160
+@label dialogue_460
+[_88][00][_89][49][80][SwitchFrame][00]
+[ShowPortait][6c][04]Since being ruled by the 
+imperial army, our days have 
+been difficultly passed. [WaitForA]
+But, we all believed that Lord 
+Marth would definitely come 
+back for us. [WaitForA]
+He would rescue us all from 
+our suffering... [WaitForA]
+Because, our Lord Marth is the 
+warrior of light chosen by the 
+deities... the Star and Savior! [WaitForA][CloseFrame][02]
+# length: 337

@@ -1,0 +1,8 @@
+@address $e5f703
+@width 160
+@label dialogue_262
+[_88][00][_89][3a][80][SwitchFrame][00]
+[ShowPortait][8a][04]Hahaha... It's time for me to 
+show you... The destructive 
+power of my Meteor magic... [_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 117

@@ -1,0 +1,4 @@
+@address $f0e7f8
+@type menu
+@label battleText_50
+Mobility

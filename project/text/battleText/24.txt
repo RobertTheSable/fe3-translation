@@ -1,0 +1,4 @@
+@address $f0e5a0
+@type menu
+@label battleText_24
+Luck 

@@ -1,0 +1,4 @@
+@address $f0e89c
+@type menu
+@label battleText_57
+ was summoned.

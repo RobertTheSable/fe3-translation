@@ -1,0 +1,4 @@
+@address $f0b80c
+@type menu
+@label menuCommands_21
+[0108] Config [0109]

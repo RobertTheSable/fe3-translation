@@ -1,0 +1,4 @@
+@address $f0939e
+@type menu
+@label itemNames_110
+StarSph

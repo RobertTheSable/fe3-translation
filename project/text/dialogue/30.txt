@@ -1,0 +1,7 @@
+@address $e18be4
+@width 160
+@label dialogue_30
+[_88][00][SwitchFrame][00]
+[_89][12][80][ShowPortait][3a][04]This castle is Minerva's. I 
+won't let you enter freely.[_94][20][01][CloseFrame][02]
+[_89][ff][ff]# length: 84

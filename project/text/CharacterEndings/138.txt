@@ -1,0 +1,7 @@
+@address $ffa074
+@width 160
+@autoend off
+@label CharacterEndings_138
+[AddSpaces][02]Rickard, Julian's bro    
+
+# length: 30

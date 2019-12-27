@@ -1,0 +1,5 @@
+@address $e7d691
+@width 160
+@label storage_56
+Doulam was sent to the 
+storage. # length: 36

@@ -1,0 +1,7 @@
+@address $ffa2af
+@width 160
+@autoend off
+@label CharacterEndings_148
+[AddSpaces][02]Palla, Medonian Knight   
+
+# length: 30

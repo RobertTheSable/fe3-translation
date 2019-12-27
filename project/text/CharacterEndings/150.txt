@@ -1,0 +1,7 @@
+@address $ffa314
+@width 160
+@autoend off
+@label CharacterEndings_150
+[AddSpaces][02]Princess Minerva 
+
+# length: 22

@@ -1,0 +1,5 @@
+@address $e7ce4b
+@type normal
+@width 160
+@label storage_04
+Killing Edge was sent to the# length: 29

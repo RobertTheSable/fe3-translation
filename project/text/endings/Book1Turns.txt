@@ -1,0 +1,29 @@
+@address $e7e45c
+@width off
+@type fixedWidth
+@label endings_Book1Turns
+     Turns taken: 
+[_0a]
+[_0a] Ch1 Marth Embarks       000 
+[_0a] Ch2 Pirates of Galder   000 
+[_0a] Ch3 A Brush in the Teeth000 
+[_0a] Ch4 Champions of Aurelis000 
+[_0a] Ch5 Fire Emblem         000 
+[_0a] Ch6 Lefcandith Gauntlet 000 
+[_0a] Ch7 Coastal Skirmish    000 
+[_0a] Ch8 Princess Minerva    000 
+[_0a] Ch9 Knorda Market       000 
+[_0a] Ch10 The Ageless Palace 000 
+[_0a] Ch11 Land of Sorrow     000 
+[_0a] Ch12 An Oasis of Magic  000 
+[_0a] Ch13 Battle for Altea   000 
+[_0a] Ch14 Star and Savior    000 
+[_0a] Ch15 Manakete Princess  000 
+[_0a] Ch16 Camus the Sable    000 
+[_0a] Ch17 Knight-Filled Sky  000 
+[_0a] Ch18 Dark Pontifex      000 
+[_0a] Ch19 Dragonkin Realm    000 
+[_0a] Ch20 Chosen By Fate     000 
+[_0a]
+[_0a]   Book 1 Total:0000   Turns 
+[_0a]# length: 725

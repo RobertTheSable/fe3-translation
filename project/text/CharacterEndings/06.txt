@@ -1,0 +1,7 @@
+@address $ff829f
+@width 160
+@autoend off
+@label CharacterEndings_06
+[AddSpaces][02]Cain, Knight of Altea  
+
+# length: 28

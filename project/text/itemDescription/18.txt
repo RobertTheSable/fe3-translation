@@ -1,0 +1,8 @@
+@address $f09ad6
+@type menu
+@label itemDescription_18
+WeaponLv20
+Exp   56
+All allies
+can move
+again

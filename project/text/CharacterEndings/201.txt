@@ -1,0 +1,6 @@
+@address $ffaf5c
+@width 160
+@autoend off
+@label CharacterEndings_201
+Fell in battle during "Chosen 
+by Fate". [End][End][00]# length: 47

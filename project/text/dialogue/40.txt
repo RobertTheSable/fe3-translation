@@ -1,0 +1,47 @@
+@address $e1992d
+@width 160
+@label dialogue_40
+[_88][00][_89][0e][80][SwitchFrame][01]
+[ShowPortait][11][07]Ah... Master! It's you, Master 
+Wendell. [WaitForA][SwitchFrame][00]
+[ShowPortait][29][04]Oh! Is it Merric? You're looking 
+lively. It's good to see you're 
+well.[WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes. I finally caught up with 
+Altea's Prince Marth. [WaitForA]
+I am currently with the 
+liberation army, fighting 
+against the Dolunian Empire.[WaitForA]
+But, Master, why are you
+here...? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Sigh... Khadein is finished. [WaitForA]
+Khadein is currently ruled by 
+the Dark Pontifex, Gharnef, 
+and has become a city of 
+darkness. [WaitForA]
+But I couldn't agree to do his 
+evil deeds, so I escaped. Along 
+the way I was captured by the 
+Medonian soldiers at Aurelis. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Is that so... Then, Master, can 
+you please aid us? [WaitForA]
+We're no match for Gharnef 
+and the Dolunian Empire... Yet,[WaitForA]
+We must reclaim Khadein in the
+end. [WaitForA]
+Prince Marth would be very 
+happy if a great bishop, like 
+you, joined our cause. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... Is that so? Although I 
+don't like fighting, I guess this 
+is the only option... [WaitForA]
+I understand, Merric. I will 
+fight together with you. 
+Please inform Prince Marth 
+about this action. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1067

@@ -1,0 +1,58 @@
+@address $e2d441
+@width 160
+@label dialogue_152
+[_88][00][_89][0d][80][SwitchFrame][01]
+[ShowPortait][02][07]Your highness, we found an 
+unexpected person held 
+captive in the fortress. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Huh? ...Linde! What are you
+doing here?[WaitForA][CloseFrame][03]
+[_0c][01][ShowPortait][8d][07]Lord Marth! It's great to finally
+see you. [WaitForA]
+In order to find you, I looked 
+all over for your news. [WaitForA]
+Then the Medonian soldiers 
+captured me, and took me to 
+this fortress... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I see. It's good to see that 
+you're safe. Coming here by 
+yourself was a dangerous 
+thing to do. [WaitForA]
+But, why were you looking for 
+me? Shouldn't you be by 
+Nyna's side? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Princess Nyna wanted me to 
+give this to you. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+? ...!! That's the Fire Emblem! [WaitForA]
+Isn't that the Akaneia royal 
+family's treasured Emblem 
+shield?! [WaitForA]
+But why give it to me? Right 
+now, shouldn't Akaneia be 
+prospering under Emperor 
+Hardin's mighty rule...? [WaitForA]
+In this peaceful age, why has 
+Nyna given the "Conqueror's 
+Proof" to somebody like me...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I don't know either. Nyna didn't
+say anything and just told me 
+to give it to you...  [WaitForA]
+I don't know why, but her eyes 
+seemed so sad... As if she had 
+been crying very hard... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Nyna!? Why... [WaitForA]
+Linde, regardless. It's 
+dangerous for you to go alone. 
+After this battle is over, we 
+will return to Nyna. [WaitForA]
+Before that time comes, you 
+will travel together with us. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Understood, Lord Marth! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1331

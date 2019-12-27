@@ -1,0 +1,7 @@
+@address $ffa0d9
+@width 160
+@autoend off
+@label CharacterEndings_140
+[AddSpaces][02]Tiki's Guardian Bantu   
+
+# length: 29

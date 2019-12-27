@@ -1,0 +1,15 @@
+@address $e6b368
+@width 160
+@label dialogue_468
+[_88][00][_89][61][80][SwitchFrame][00]
+[ShowPortait][6b][04]On the other side of the 
+mountains is a small hill, called 
+the Dragon's Table. [WaitForA]
+Recently, there have been 
+eerie roaring sounds coming 
+from there. [WaitForA]
+Grandfather and the others 
+are afraid a demon is about to 
+awaken. You mustn't get close 
+to that place. [WaitForA][CloseFrame][02]
+# length: 291

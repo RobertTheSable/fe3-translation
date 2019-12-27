@@ -1,0 +1,7 @@
+@address $ff8f60
+@width 160
+@autoend off
+@label CharacterEndings_64
+[AddSpaces][02]Greatest Archer Jeorge 
+
+# length: 28

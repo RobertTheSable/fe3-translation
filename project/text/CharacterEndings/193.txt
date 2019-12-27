@@ -1,0 +1,6 @@
+@address $fface2
+@width 160
+@autoend off
+@label CharacterEndings_193
+Fell in battle during "An Oasis 
+of Magic". [End][End][End][End][00]# length: 54

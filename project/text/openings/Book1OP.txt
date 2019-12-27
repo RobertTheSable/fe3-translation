@@ -1,0 +1,71 @@
+@address $dcf243
+@width 160
+@label openings_Book1OP
+In the distant past, the 
+continent of Akaneia was 
+invaded by the Dolunian 
+Empire, led by the Manakete [MapWaitForA]
+King, Medeus. [MapWaitForA]
+The people lived in fear and
+despair.[MapWaitForA]
+The Holy Kingdom of Akaneia, 
+which had always guarded the 
+world, was also destroyed by 
+the horrific power of the [MapWaitForA]
+Shadow Dragon. [MapWaitForA]
+The world was facing ruin. [MapWaitForA]
+However... A miracle occured. [MapWaitForA]
+Anri was a youth from the town 
+of Altea. [MapWaitForA]
+He went on a perilous journey 
+to obtain the divine sword of 
+light, Falchion. [MapWaitForA]
+And used it to challenge and 
+defeat the Shadow Dragon, 
+Medeus. [MapWaitForA]
+With Medeus's fall, the 
+Dolunian Empire was 
+vanquished.[MapWaitForA]
+The Kingdom of Akaneia was
+restored, and the world 
+entered an age of peace. [MapWaitForA]
+Taking lead from the Kingdom 
+of Altea, many other countries 
+also began to rebuild 
+themselves.[MapWaitForA]
+But, 100 years after the war 
+with Doluna.[MapWaitForA]
+After many years had passed, 
+Medeus resurrected at Doluna. [MapWaitForA]
+He allied with the neighbouring 
+kingdoms of Grust and Medon, 
+and restored the Dolunian 
+Empire.[MapWaitForA]
+Also he joined forces with 
+Khadein's Pontifex Gharnef, 
+who shared the same ambitions 
+of ruling the world as him, and [MapWaitForA]
+launched an attack on the
+Kingdom of Akaneia. [MapWaitForA]
+Akeneia fought to the death, 
+but under Grust's general 
+Camus and Medeus's might 
+they suffered terrible losses. [MapWaitForA]
+Aside from Princess Nyna, the 
+royal family was wiped out. [MapWaitForA]
+Altea's King Cornelius, who 
+possessed the bloodline of 
+Anri, left to defeat Medeus. [MapWaitForA]
+He took the Falchion, the 
+divine sword of legends, to 
+battle, but was betrayed by 
+Altea's ally, Gra, and died in [MapWaitForA]
+battle. [MapWaitForA]
+Following him, the Kingdom of 
+Altea also fell. [MapWaitForA]
+Prince Marth, just 14 years of 
+age, managed to escape with 
+the help of his elder sister, 
+Princess Elice. [MapWaitForA]
+And he fled to the distant 
+island country of Talys... # length: 1813

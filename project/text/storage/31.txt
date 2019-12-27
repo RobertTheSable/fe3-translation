@@ -1,0 +1,5 @@
+@address $e7d2a0
+@width 160
+@label storage_31
+Steel Axe was sent to the 
+storage. # length: 39

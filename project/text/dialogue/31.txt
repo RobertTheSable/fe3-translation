@@ -1,0 +1,30 @@
+@address $e18c3f
+@width 160
+@label dialogue_31
+[_88][00][_89][20][80][ShowPortait][6b][04]Kid, what are you looking at? 
+You haven't seen many rural 
+towns like this? [WaitForA]
+Now that you mention it, I 
+remember the time I went to 
+Pyrathi. [WaitForA]
+I was really shocked when I 
+first saw a Manakete... [WaitForA]
+An ordinary looking old man 
+suddenly transformed into a 
+gigantic dragon. [WaitForA]
+That was really... surprising. [WaitForA]
+Well... I knew that the dragon 
+tribe had some survivors. 
+But I didn't expect them to be 
+so impressive. [WaitForA]
+Huh...? Oh... This? I found it 
+there. [WaitForA]
+I don't know what it is, but you 
+don't see many glowing red 
+stones like this, right? [WaitForA]
+Oh well. It doesn't seem normal 
+to me. If you want, you can 
+have it. [WaitForA]
+See you, kid. I hope we can 
+meet again. [WaitForA][CloseFrame][02]
+# length: 716

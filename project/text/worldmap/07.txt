@@ -1,0 +1,34 @@
+@address $e09052
+@width 160
+@label worldmap_07
+After accepting Catria's 
+request, Prince Marth headed 
+to rescue the captive 
+Princess Maria of Medon. [MapWaitForA]
+And so, decided to mount an 
+attack on Deil prison. [MapWaitForA]
+Within the allied army, many 
+suggested it was a trap set by 
+General Minerva. [MapWaitForA]
+But Prince Marth believed 
+that, in the battle of 
+Lefcandith, he saw a gentle 
+female. [MapWaitForA]
+And it wasn't the fearful 
+enemy that everybody 
+described. [MapWaitForA]
+That person had the same 
+expression as his elder 
+sister... A tragic and painful 
+one... [MapWaitForA]
+From Minerva, Marth saw the 
+figure of his elder sister, 
+Elice, [MapWaitForA]
+who was still missing after 
+being captured by the Empire 
+in place of him. [MapWaitForA]
+Princess Maria must be 
+rescued. Then perhaps that 
+person can also be saved... [MapWaitForA]
+Marth's heart was decided 
+upon this action. # length: 780

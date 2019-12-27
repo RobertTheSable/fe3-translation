@@ -1,0 +1,75 @@
+@address $e6d00d
+@width 160
+@label dialogue_498
+[_88][00][SwitchFrame][01]
+[ShowPortait][83][07]So you are Lord Marth. 
+Currently the situation is 
+relaxed. [WaitForA]
+We have already subdued most 
+of the rebels. All that remains 
+is this fortress. [WaitForA]
+Since you are here, I will leave 
+the job of defeating the 
+rebels' leader, General 
+Lorenz, to you. [WaitForA][SwitchFrame][00]
+[ShowPortait][8b][04]Huh!? The leader of the rebels 
+is General Lorenz!? [WaitForA]
+Why would he rebel...? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Oh... I don't know why.[WaitForA]
+But it is a fact that he is 
+hiding Grust's prince. [WaitForA]
+He's probably dreaming of 
+restoring the Kingdom of 
+Grust. [WaitForA]
+What a fool. He really thought 
+his rebellion would be 
+victorious? [WaitForA]
+Lord Marth, you will kill Lorenz 
+and bring back the hidden 
+Grustian royal children. [WaitForA]
+We will leave this place to you, 
+and pursue the escaping 
+rebels. [WaitForA]
+We must show those Grustian 
+fools the consequences of 
+opposing us. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+General Lang... 
+What are you planning to do!? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+If you want to know, I am going 
+to slaughter the families of 
+the rebels. [WaitForA]
+Then we will burn down any 
+villages that harboured the 
+rebels. [WaitForA]
+That will stop them from 
+contemplating rebellion again. [WaitForA]
+Hahaha! I can almost see the 
+tears on the faces of those 
+fools. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What?! How can you be so 
+cruel... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Th-there's nothing wrong! [WaitForA]
+You'd best follow my orders 
+and not think about things too 
+much. [WaitForA]
+Or do you, also, intend to 
+rebel against Akaneia!? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+What! Of course not... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Then you'd better listen to my 
+orders!! [WaitForA]
+Lord Marth, don't think too 
+highly of yourself. [WaitForA]
+In my eyes you are just the 
+prince of a weak country. [WaitForA]
+With its power, Akaneia can 
+destroy your country at any 
+time. Don't forget about this! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1672

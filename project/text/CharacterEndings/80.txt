@@ -1,0 +1,7 @@
+@address $ff9294
+@width 160
+@autoend off
+@label CharacterEndings_80
+[AddSpaces][02]Wayward Paladin Arran
+
+# length: 26

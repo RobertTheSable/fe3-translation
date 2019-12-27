@@ -1,0 +1,7 @@
+address f0cd66
+width 2
+file 00.txt
+file 01.txt
+
+entry animMenu_00
+entry animMenu_01

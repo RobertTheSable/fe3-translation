@@ -1,0 +1,4 @@
+@address $f0e50e
+@type menu
+@label battleText_16
+ parried!

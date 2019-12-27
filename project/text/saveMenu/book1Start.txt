@@ -1,0 +1,4 @@
+@address $ec805c
+@width 160
+@label saveMenu_book1Start
+Book 1 War of Darkness[Space2][Space2][Space2][Space2]# length: 28

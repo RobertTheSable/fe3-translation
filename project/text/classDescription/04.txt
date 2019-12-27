@@ -1,0 +1,6 @@
+@address $e7bb58
+@width 176
+@label classDescription_04
+Armoured bowmen with high 
+defence, but who possess low 
+movement. # length: 71

@@ -1,0 +1,4 @@
+@address $f08e70
+@type menu
+@label itemNames_16
+Javelin

@@ -1,0 +1,6 @@
+@address $ffb60e
+@width 160
+@autoend off
+@label CharacterEndings_223
+Fell in battle during "The 
+Dragon's Table". [End][End]# length: 50

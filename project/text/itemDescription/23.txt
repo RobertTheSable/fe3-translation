@@ -1,0 +1,8 @@
+@address $f09c88
+@type menu
+@label itemDescription_23
+Transforms
+Mamkutes
+into an
+Earth
+Dragon

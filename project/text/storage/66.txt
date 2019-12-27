@@ -1,0 +1,5 @@
+@address $e7d82c
+@width 160
+@label storage_66
+Physic Staff was sent to the 
+storage. # length: 42

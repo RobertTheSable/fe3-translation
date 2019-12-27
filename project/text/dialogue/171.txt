@@ -1,0 +1,53 @@
+@address $e39a76
+@width 160
+@label dialogue_171
+[_88][00][_89][47][80][SwitchFrame][01]
+[ShowPortait][0d][07]Nabarl... You disappoint me... [WaitForA][SwitchFrame][00]
+[ShowPortait][12][04]Woah, I don't believe it... This 
+Killing Edge is, like, so 
+deadly... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Do we have to fight? Alright. I 
+guessed that we would have to 
+duel eventually. [WaitForA][_89][4c][80][SwitchFrame][00]
+[ShowPortait][82][04]Ah... Oh, snap! Woah dude! I'm 
+just faking it! ...Faking! [WaitForA]
+It's me... Samto. Have you 
+totally forgotten, Mister 
+Ogma? [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Samto!? The pit-fighter from 
+Knorda, Samto? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Yeah, that was me. Thanks for 
+saving me back then. [WaitForA]
+When everybody tried to 
+escape, you got yourself 
+caught, to hide our escape... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+[_17][ef][ff]..... [WaitForA]
+[_16][10][00][SwitchFrame][00]
+[ClearFrame]
+I heard from the others that 
+you were taken to the arena to 
+be whipped. [WaitForA]
+Even then, you didn't say 
+anything about our 
+whereabouts. [WaitForA]
+In the end, the young princess 
+of Talys, who was passing by, 
+protected you even when she 
+was in tears, and rescued you. [WaitForA]
+So, that is why, for Talys... 
+No... For the princess, you 
+wielded your sword again... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Enough... Don't say anymore! 
+It's already in the past... In the
+past...  [WaitForA][SwitchFrame][00]
+[ClearFrame]
+.....Mister Ogma... Regardless, I 
+hope to repay your favour! Let 
+me follow you, okay? [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1143

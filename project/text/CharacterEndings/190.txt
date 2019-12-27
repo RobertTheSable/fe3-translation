@@ -1,0 +1,6 @@
+@address $ffabf9
+@width 160
+@autoend off
+@label CharacterEndings_190
+Fell in battle during "Knorda 
+Market". [End][End][End]# length: 47

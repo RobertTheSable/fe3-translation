@@ -1,0 +1,5 @@
+@address $e7dcf0
+@width 160
+@label storage_94
+Secret Book was sent to the 
+storage. # length: 41

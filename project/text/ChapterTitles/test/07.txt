@@ -1,0 +1,5 @@
+@address $e7b56a
+@width 240
+@type nodigraph
+@label ChapterTitles_07
+BBBB  Ch7 Coastal Skirmish   # length: 31

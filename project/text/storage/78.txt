@@ -1,0 +1,5 @@
+@address $e7da35
+@width 160
+@label storage_78
+Again Staff was sent to the 
+storage. # length: 41

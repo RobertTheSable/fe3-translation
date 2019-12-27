@@ -1,0 +1,4 @@
+@address $e7d578
+@width 160
+@label storage_49
+Elfire was sent to the storage. # length: 34

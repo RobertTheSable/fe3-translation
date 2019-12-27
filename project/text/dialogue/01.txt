@@ -1,0 +1,25 @@
+@address $e0e1a6
+@width 160
+@label dialogue_01
+[_88][00][_89][0b][80][SwitchFrame][01]
+[ShowPortait][02][07]Prince Marth, Shiida has come 
+from Talys castle.[WaitForA][CloseFrame][03]
+[SwitchFrame][00]
+[ShowPortait][00][04]What? Shiida, what's happened 
+to the castle? [WaitForA][SwitchFrame][01]
+[ShowPortait][01][07]Marth, am I glad to see you! [WaitForA]
+The Galder pirates suddenly 
+attacked us. [WaitForA]
+They took over the castle, 
+and killed lots of people! [WaitForA]
+Please, you've got to rescue 
+my father! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Don't worry, Shiida. 
+The bravest Altean knights 
+are here in this fort. [WaitForA]
+We won't lose to those pirates. [WaitForA]
+Come, let's go to Talys castle 
+together. [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 489

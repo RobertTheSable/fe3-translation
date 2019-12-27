@@ -1,0 +1,6 @@
+@address $e7bcfe
+@width 176
+@label classDescription_10
+Experienced Pegasus Knights 
+who ride on wyverns. Still 
+weak against bows.# length: 79

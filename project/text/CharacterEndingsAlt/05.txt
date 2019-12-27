@@ -1,0 +1,7 @@
+@address $ffb908
+@width 160
+@autoend off
+@label CharacterEndingsAlt_05
+Save game? 
+Yes  No 
+[End]# length: 25

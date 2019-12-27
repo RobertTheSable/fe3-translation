@@ -1,0 +1,5 @@
+@address $e7da60
+@width 160
+@label storage_79
+Firestone was sent to the 
+storage. # length: 39

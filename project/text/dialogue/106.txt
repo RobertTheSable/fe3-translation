@@ -1,0 +1,19 @@
+@address $e1f6f6
+@width 160
+@label dialogue_106
+[_88][04][ShowPortait][67][04]Please listen carefully, this is 
+very important. To the south 
+west are two villages. [WaitForA]
+At the western village resides 
+a paladin called Arran. [WaitForA]
+At the eastern village resides 
+a hero called Samson. [WaitForA]
+Those two are both very 
+strong men. However, the two 
+villages don't get on well with 
+one another. [WaitForA]
+So, only one of them can 
+become an ally. [WaitForA]
+Please think carefully before 
+making a decision. [WaitForA][CloseFrame][02]
+# length: 433

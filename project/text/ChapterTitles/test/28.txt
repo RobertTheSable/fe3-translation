@@ -1,0 +1,5 @@
+@address $e7b7fe
+@width 240
+@type nodigraph
+@label ChapterTitles_28
+BBBB   Ch8 Soulful Bridge     # length: 32

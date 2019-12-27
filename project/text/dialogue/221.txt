@@ -1,0 +1,132 @@
+@address $e5a495
+@width 160
+@label dialogue_221
+[_88][00][_89][45][80][SwitchFrame][00]
+[ShowPortait][24][05]Oh, Lord Marth. I've been 
+waiting for you. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][06]Boah!? You've suffered a 
+grave wound... What 
+happened? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... It was truly 
+frightening... I suppose the 
+Akaneian royal family is indeed 
+under a curse. [WaitForA]
+You should know about Hardin 
+and Nyna's marriage, two 
+years ago. [WaitForA]
+To restore Akaneia, a king was 
+required, and only two people 
+were suitable. [WaitForA]
+King Aurelis's younger 
+brother, Hardin, and Altea's 
+Prince Marth, you... [WaitForA]
+Those were the choices, and 
+we pleaded for Nyna to make 
+the final decision. [WaitForA]
+Originally, she wanted to wait 
+a while longer, but we begged 
+for her to make up her mind 
+immediately. [WaitForA]
+In the end she said that 
+choosing Prince Marth as her 
+husband would hurt Princess 
+Shiida, [WaitForA]
+so she finally decided on 
+Hardin. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Wait a second, wasn't that a 
+little harsh on Nyna? [WaitForA]
+I understand that Akaneia 
+needed a king, but Nyna, she 
+already... [WaitForA][SwitchFrame][00]
+[ClearFrame]
+You are referring to Grust's 
+Lord Camus? But that would be 
+unspeakable... Unthinkable in 
+fact. [WaitForA]
+Princess Nyna was the sole 
+successor of the royal 
+bloodline of Akaneia. [WaitForA]
+I felt bad as well, but for this 
+country we had no other 
+choice. However, Lord Hardin 
+was very happy. [WaitForA]
+Compared to ascending 
+Akaneia's throne, he seemed 
+happier about the fact that 
+Nyna chose him for her [WaitForA]
+husband. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I also understand Hardin's 
+feelings. He could sacrifice his 
+own life for Nyna. [WaitForA]
+But, did he know about Camus? 
+If he did, I don't believe he 
+would be so happy. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... Of course we kept that 
+a secret, and we also 
+persuaded Nyna to hide it as 
+best as she could. [WaitForA]
+But, Lord Hardin was a very 
+sensitive man. He quickly 
+found out that Nyna's heart 
+had no place for him. [WaitForA]
+He felt very painful... He 
+locked himself in his room, and 
+didn't allow anybody to see 
+him. [WaitForA]
+Taking advantage of his 
+broken heart, Gharnef 
+appeared. [WaitForA]
+He took on the guise of a 
+merchant to approach Hardin, 
+and showed him the 
+Darksphere. [WaitForA]
+The distraught Hardin was 
+quickly consumed by the 
+Sphere. From that day on, he 
+completely changed. [WaitForA]
+It was because I was only 
+focused on restoring this 
+country that I committed such 
+a horrendous mistake. [WaitForA]
+Please, forgive me, Prince 
+Marth... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I can't believe all that 
+happened. [_17][ef][ff]..... [WaitForA]
+[_16][10][00]Where is Nyna now? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+When Hardin discovered that 
+she had taken the Emblem 
+shield, he had her confined in 
+her room. [WaitForA]
+After that, she would still 
+communicate in secret with me. 
+However, Hardin found out and 
+then he wounded me. [WaitForA]
+He also handed Nyna over to 
+Gharnef. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Gharnef...!? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Mmm... Gharnef had always 
+wanted to take Nyna. [WaitForA]
+He said that the resurrection 
+of the shadow dragon required 
+the blood of noble clerics... [WaitForA]
+And so... He took Nyna... To 
+use her as a live sacrifice... [WaitForA]
+Lord Marth, I'm already done 
+for. I will give my Thoron and 
+Physic to you. [WaitForA]
+I beg of you, please rescue 
+Nyna. Even if Akaneia is 
+destroyed it no longer 
+matters... [WaitForA]
+I only wish for Nyna to be 
+safe... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 3120

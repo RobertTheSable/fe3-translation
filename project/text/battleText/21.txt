@@ -1,0 +1,4 @@
+@address $f0e570
+@type menu
+@label battleText_21
+Strength 

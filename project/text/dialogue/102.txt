@@ -1,0 +1,9 @@
+@address $e1f476
+@width 160
+@label dialogue_102
+[_88][04][SwitchFrame][00]
+[ShowPortait][6a][04]The eastern prison is holding a 
+young foreigner called Xane. [WaitForA]
+It is rumored that he has an 
+impressive ability. [WaitForA][CloseFrame][02]
+# length: 135

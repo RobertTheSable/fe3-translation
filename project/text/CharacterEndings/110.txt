@@ -1,0 +1,7 @@
+@address $ff9a4d
+@width 160
+@autoend off
+@label CharacterEndings_110
+[AddSpaces][02]Rody, Knight of Altea  
+
+# length: 28

@@ -1,0 +1,54 @@
+@address $e5970d
+@width 160
+@label dialogue_216
+[_88][00][_89][45][80][SwitchFrame][00]
+[ShowPortait][63][04]Oh, Prince Marth. It is good to 
+see you. [WaitForA][SwitchFrame][01]
+[ShowPortait][8b][07]Huh, aren't you King Aurelis?! 
+What are you doing here? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I came here to stop my 
+country's army. Also I must 
+apologise to your highness. [WaitForA]
+I believed Hardin's words and 
+followed Akaneia, but I now 
+realise my wrongs. [WaitForA]
+Akaneia's Empress Nyna 
+secretly sent me a letter, 
+saying that Hardin isn't normal 
+and is ill... [WaitForA]
+My country will remain neutral, 
+and its knights will return to 
+Aurelis. I hope you won't 
+attack my men anymore. [WaitForA][SwitchFrame][01]
+[ClearFrame]
+I understand, your highness. I 
+don't want to fight with you. [WaitForA]
+Please forgive me for taking 
+so many of your knights' lives. [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Oh! You really are like what 
+the rumours say. [WaitForA]
+My body is frail and I have no 
+children, and even Hardin, my 
+younger brother, has 
+completely changed. [WaitForA]
+Prince Marth, please protect 
+Aurelis in my place. I will hand 
+my whole country to you. [WaitForA]
+I give this jewel to you as a 
+gift. This is a magical jewel 
+containing the divine power of 
+life. [WaitForA]
+I spent a lot of gold to buy it 
+from a travelling merchant. I 
+believe it will be useful to you. [WaitForA]
+Don't worry about Hardin. 
+Since he is a knight, it is 
+natural for him to die in battle. [WaitForA]
+That is his fate. [WaitForA]
+Well, Prince Marth, I will go on 
+ahead. I hope you will all be 
+safe... [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1344

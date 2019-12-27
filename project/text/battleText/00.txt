@@ -1,0 +1,4 @@
+@address $f0e3d0
+@type menu
+@label battleText_00
+A critical hit!

@@ -1,0 +1,5 @@
+@address $e7b5e7
+@width 240
+@type nodigraph
+@label ChapterTitles_11
+BBBB   Ch11 Land of Sorrow    # length: 32

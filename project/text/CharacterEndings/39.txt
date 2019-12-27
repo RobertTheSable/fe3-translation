@@ -1,0 +1,8 @@
+@address $ff89f4
+@type default
+@width 160
+@autoend off
+@label CharacterEndings_39
+He retired from the army, but 
+later returned and became a 
+Paladin of Aurelis. [End][End]# length: 86

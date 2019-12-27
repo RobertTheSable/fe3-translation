@@ -1,0 +1,6 @@
+@address $ffadd0
+@width 160
+@autoend off
+@label CharacterEndings_196
+Fell in battle during "Manakete 
+Princess". [End][00]# length: 48

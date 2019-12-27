@@ -1,0 +1,6 @@
+@address $ffb2b6
+@width 160
+@autoend off
+@label CharacterEndings_212
+Fell in battle during "Anri's 
+Way". [End][End]# length: 42

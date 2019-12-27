@@ -1,0 +1,8 @@
+@address $f09a74
+@type menu
+@label itemDescription_17
+WeaponLv11
+Exp   56
+Reveals
+insides of
+buildings

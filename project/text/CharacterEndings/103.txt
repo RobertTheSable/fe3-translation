@@ -1,0 +1,7 @@
+@address $ff98ca
+@width 160
+@autoend off
+@label CharacterEndings_103
+Following Marth's orders, he 
+became the leader of the 
+Grustian occupation army. [End][End]# length: 88

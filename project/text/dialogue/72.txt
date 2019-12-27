@@ -1,0 +1,7 @@
+@address $e1cd29
+@width 160
+@label dialogue_72
+[_88][04][ShowPortait][6b][04]Just outside this town is the 
+slave market. But it's just full 
+of stray kids. [WaitForA][CloseFrame][02]
+# length: 96

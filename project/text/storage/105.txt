@@ -1,0 +1,5 @@
+@address $e7deac
+@width 160
+@label storage_105
+Dragon Whip was sent to the 
+storage. # length: 41

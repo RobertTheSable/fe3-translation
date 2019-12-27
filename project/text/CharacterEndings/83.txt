@@ -1,0 +1,6 @@
+@address $ff9311
+@width 160
+@autoend off
+@label CharacterEndings_83
+After the war he returned to 
+being a mercenary. [End][00]# length: 53

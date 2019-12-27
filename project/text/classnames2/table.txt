@@ -1,0 +1,13 @@
+address f08b5e
+width 2
+file 00.txt
+
+entry classnames2_00
+entry classnames2_01
+entry classnames2_02
+entry classnames2_03
+entry classnames2_04
+entry classnames2_05
+entry classnames2_06
+entry classnames2_07
+entry classnames2_08

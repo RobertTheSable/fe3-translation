@@ -1,0 +1,8 @@
+@address $f0995e
+@type menu
+@label itemDescription_14
+WeaponLv--
+Exp   58
+Resurrects
+dead ally
+Ellis only

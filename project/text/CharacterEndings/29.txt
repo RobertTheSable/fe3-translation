@@ -1,0 +1,7 @@
+@address $ff87c9
+@width 160
+@autoend off
+@label CharacterEndings_29
+He ignored the expectations 
+of others and left like the 
+wind. [End][End]# length: 70

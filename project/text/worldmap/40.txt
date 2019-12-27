@@ -1,0 +1,13 @@
+@address $e0de55
+@width 160
+@label worldmap_40
+Under the guidance of 
+Archsage Gotoh, Marth and the 
+others headed to Medon's 
+north, to the "Wyvern Valley". [MapWaitForA]
+It is an undeveloped region 
+populated with flying dragons, 
+and ruled by barbarians. [MapWaitForA]
+But, there is no time to stop, 
+because the fate of the world 
+is in Marth's hands! # length: 294

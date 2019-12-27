@@ -1,0 +1,6 @@
+@address $ffb1c9
+@width 160
+@autoend off
+@label CharacterEndings_209
+Fell in battle during "Soulful 
+Bridge". [End][End]# length: 46

@@ -1,0 +1,25 @@
+@address $90d1ee
+@width 160
+@label dialogue_200
+[_88][00][_89][4c][80][SwitchFrame][01]
+[ShowPortait][2a][07]Abel... I'm sorry, you must have
+suffered.[WaitForA][Space2][SwitchFrame][00]
+[ShowPortait][04][04]Est!! You're safe.[WaitForA][SwitchFrame][01]
+[ClearFrame]
+Yes, Lord Marth rescued me.
+I'm alright now.[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Really...? Damn, Akaneia... But
+how should I apologise to Lord
+Marth...?[WaitForA][SwitchFrame][01]
+[ClearFrame]
+I'm sorry... It was all because
+of me.[WaitForA][SwitchFrame][00]
+[ClearFrame]
+No, Est! It has nothing to do
+with you!! Those fools... I won't
+forgive them...[WaitForA]
+I'll show them how deep my
+anger is!![WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 404

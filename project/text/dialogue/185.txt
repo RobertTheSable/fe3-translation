@@ -1,0 +1,60 @@
+@address $e3d594
+@width 160
+@label dialogue_185
+[_88][00][_89][47][80][SwitchFrame][00]
+[ShowPortait][87][04]Merric... Our match is due. [WaitForA][SwitchFrame][01]
+[ShowPortait][8e][07]Wait, Elrean! Why must we 
+fight? We both studied under 
+Master Wendell. Why do you 
+hate me so much? [WaitForA][SwitchFrame][00]
+[ClearFrame]
+I became Master's student 
+before you, and I was stronger 
+than you. [WaitForA]
+Yet he gave Excalibur, which 
+should have been mine, to you. [WaitForA]
+Why, Merric? Is it because 
+you're a noble of Altea? I was 
+so angry. [WaitForA]
+I believed I was going to be 
+Master's successor... [WaitForA][SwitchFrame][01]
+[ClearFrame]
+Is that it...? I'm sorry, Elrean, I
+will apologise to you.  [WaitForA]
+However, I never once thought
+about succeeding Master.  [WaitForA]
+I don't hate Khadein, but I had 
+already decided to return to 
+my homeland upon finishing my 
+studies. [WaitForA]
+At Altea there is somebody 
+that I wish to protect for my 
+whole life... [WaitForA]
+So, that's why Master 
+Wendell's successor can only 
+be you. [WaitForA]
+Elrean, please! To reclaim 
+Altea, will you lend me your
+strength?[WaitForA][SwitchFrame][00]
+[ClearFrame]
+Altea!? The country that 
+betrayed the Akaneia Empire 
+and, so, was invaded by them? [WaitForA]
+Why should I help them? Our 
+mage army has already sworn 
+loyalty to Emperor Hardin. [WaitForA]
+Right... So it was you... It was 
+you who brought the Altean 
+army here! [WaitForA][SwitchFrame][01]
+[ClearFrame]
+No!! It's all a 
+misunderstanding! [WaitForA][SwitchFrame][00]
+[ClearFrame]
+Shut up, you traitor!! I'm not 
+going to listen to your lies 
+anymore! [WaitForA]
+Will your Excalibur prevail, or 
+will it be my Thoron? Come! Let 
+us find out! [WaitForA][CloseFrame][02]
+[CloseFrame][03]
+# length: 1372
