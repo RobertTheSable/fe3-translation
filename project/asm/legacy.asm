@@ -41,24 +41,6 @@ code_4:
      LDA #$0005     ; a90500
      JSL loadMenuText   ; 2200806e
 
-ORG $819239
-code_5:
-     LDY #table_charnames    ; a00080
-     PLA            ; 68
-     JSL loadMenuText   ; 2200806e
-
-ORG $819252
-code_6:
-     LDY #table_itemDiscarding    ; a016cf
-     LDA #$0001     ; a90100
-     JSL loadMenuText   ; 2200806e
-
-ORG $81926d
-code_7:
-     LDY #table_itemDiscarding     ; a016cf
-     LDA #$0002     ; a90200
-     JSL loadMenuText   ; 2200806e
-
 ORG $819625
 code_8:
      LDY #table_selectMenu     ; a0e0c4

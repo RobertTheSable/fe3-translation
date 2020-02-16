@@ -82,4 +82,30 @@ ORG $81AFA6
     
 ORG $81ECB9
     ldx #$0E11
+
+; this section is for the "item owner" in the supply list
+ORG $819239
+    LDY #table_charnames    ; a00080
+    PLA                     ; 68
+    JSL loadMenuText        ; 2200806e
+    txa 
+    clc 
+    adc #$0000              ; move the slot number closer to the unit name to fix the number overflowing the boundary.
+    tax 
+    pla 
+    JSL $81D6AC
+    txa 
+    sec 
+    sbc #$0004              ; this needs to be reduced as well
+    tax 
+    LDY #table_itemDiscarding   ; a016cf
+    LDA #$0001                  ; a90100
+    JSL loadMenuText            ; 2200806e
     
+ORG $81926D
+    LDY #table_itemDiscarding   ; a016cf
+    LDA #$0002                  ; a90200
+    JSL loadMenuText            ; 2200806e
+ .end:
+    plp 
+    rts 
