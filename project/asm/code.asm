@@ -106,6 +106,3 @@ ORG $81926D
     LDY #table_itemDiscarding   ; a016cf
     LDA #$0002                  ; a90200
     JSL loadMenuText            ; 2200806e
- .end:
-    plp 
-    rts 
