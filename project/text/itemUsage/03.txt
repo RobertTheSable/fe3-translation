@@ -1,0 +1,5 @@
+@address $f0df6e
+@type menu
+@label menuEtc2_03
+│Strength rose! ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

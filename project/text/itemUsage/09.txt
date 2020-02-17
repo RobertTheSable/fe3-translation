@@ -1,0 +1,5 @@
+@address $f0e11e
+@type menu
+@label menuEtc2_09
+│Luck rose!     ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

@@ -1,5 +1,0 @@
-@address $e7b702
-@width 240
-@type nodigraph
-@label ChapterTitles_20
-BBBB  ChF Chosen by Fate     # length: 31

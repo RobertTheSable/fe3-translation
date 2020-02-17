@@ -1,4 +1,4 @@
 @address $f0cea8
 @type menu
 @label itemMenu_01
-[0108] Use    [0109]
+│ Use    ┆

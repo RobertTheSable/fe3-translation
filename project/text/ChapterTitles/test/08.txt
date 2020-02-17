@@ -1,5 +1,0 @@
-@address $e7b589
-@width 240
-@type nodigraph
-@label ChapterTitles_08
-BBBB  Ch8 Princess Minerva   # length: 31

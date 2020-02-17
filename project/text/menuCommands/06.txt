@@ -1,4 +1,4 @@
 @address $f0b6c2
 @type menu
 @label menuCommands_06
-[0108] Seize  [0109]
+│ Seize  ┆

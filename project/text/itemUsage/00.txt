@@ -1,0 +1,6 @@
+@address $f0de4e
+@type menu
+@label menuEtc2_00
+┌───────────────┐[HalfNewLine]
+│██        used!┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

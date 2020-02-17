@@ -1,7 +1,7 @@
 @address $f0cb86
 @type menu
 @label shopMenu_04
-[0105][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] Weapon[0109]
-[0108] Item  [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010c]
+┌───────┐[HalfNewLine]
+│ Weapon┆
+│ Item  ┆
+└┄┄┄┄┄┄┄┘

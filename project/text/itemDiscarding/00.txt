@@ -1,4 +1,4 @@
 @address $f0cf22
 @type menu
 @label itemDiscarding_00
-[010e][010e]
+██

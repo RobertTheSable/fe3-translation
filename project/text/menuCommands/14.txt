@@ -1,4 +1,4 @@
 @address $f0b772
 @type menu
 @label menuCommands_14
-[0108] Transfm[0109]
+│ Transfm┆

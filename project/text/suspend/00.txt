@@ -1,11 +1,11 @@
 @address $f0b9c8
 @type menu
 @label suspend_00
-[0105][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] Unit  [0109]
-[0108] Supply[0109]
-[0108] Status[0109]
-[0108] Save  [0109]
-[0108] Config[0109]
-[0108] End   [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010c]
+┌───────┐[HalfNewLine]
+│ Unit  ┆
+│ Supply┆
+│ Status┆
+│ Save  ┆
+│ Config┆
+│ End   ┆
+└┄┄┄┄┄┄┄┘

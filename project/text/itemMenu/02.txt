@@ -1,4 +1,4 @@
 @address $f0cebe
 @type menu
 @label itemMenu_02
-[0108] Trade  [0109]
+│ Trade  ┆

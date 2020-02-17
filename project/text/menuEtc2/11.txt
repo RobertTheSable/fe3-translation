@@ -1,5 +1,0 @@
-@address $f0e1ae
-@type menu
-@label menuEtc2_11
-[0108]Movement rose! [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

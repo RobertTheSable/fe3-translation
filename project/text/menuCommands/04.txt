@@ -1,4 +1,4 @@
 @address $f0b696
 @type menu
 @label menuCommands_04
-[0108] Arena  [0109]
+│ Arena  ┆

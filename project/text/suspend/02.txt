@@ -1,6 +1,6 @@
 @address $f0bb6e
 @type menu
 @label suspend_02
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] Game saved [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌─────────┐[HalfNewLine]
+│ Game saved ┆
+└┄┄┄┄┄┄┄┄┄┘

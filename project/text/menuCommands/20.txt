@@ -1,4 +1,4 @@
 @address $f0b7f6
 @type menu
 @label menuCommands_20
-[0108] Supply [0109]
+│ Supply ┆

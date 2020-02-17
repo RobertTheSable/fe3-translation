@@ -1,9 +1,9 @@
 @address $f0c730
 @type menu
 @label selectMenu_04
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] List   [0109]
-[0108] Trade  [0109]
-[0108] Deposit[0109]
-[0108] Discard[0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌────────┐[HalfNewLine]
+│ List   ┆
+│ Trade  ┆
+│ Deposit┆
+│ Discard┆
+└┄┄┄┄┄┄┄┄┘

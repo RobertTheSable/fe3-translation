@@ -1,0 +1,5 @@
+@address $f0e08e
+@type menu
+@label menuEtc2_07
+│Resistance rose┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

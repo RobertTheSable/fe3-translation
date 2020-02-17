@@ -1,4 +1,4 @@
 @address $f0b7b4
 @type menu
 @label menuCommands_17
-[0108] Dismnt [0109]
+│ Dismnt ┆

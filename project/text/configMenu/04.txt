@@ -1,7 +1,7 @@
 @address $f0ca22
 @type menu
 @label configMenu_04
-[0105][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] On [0109]
-[0108] Off[0109]
-[010a][010b][010b][010b][010b][010c]
+┌────┐[HalfNewLine]
+│ On ┆
+│ Off┆
+└┄┄┄┄┘

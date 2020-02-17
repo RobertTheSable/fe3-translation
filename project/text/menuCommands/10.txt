@@ -1,4 +1,4 @@
 @address $f0b71a
 @type menu
 @label menuCommands_10
-[0108] Secret![0109]
+│ Secret!┆

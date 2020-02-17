@@ -1,0 +1,6 @@
+@address $f0deba
+@type menu
+@label menuEtc2_01
+│██        was  ┆
+│used up!       ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

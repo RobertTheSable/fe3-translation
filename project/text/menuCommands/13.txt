@@ -1,4 +1,4 @@
 @address $f0b75c
 @type menu
 @label menuCommands_13
-[0108] Dragon [0109]
+│ Dragon ┆

@@ -736,6 +736,42 @@ menu:
             code: 0x00fc
         ":": 
             code: 0x00fe
+        "┌":
+            code: 0x0105
+        "─":
+            code: 0x0106
+        "┐":
+            code: 0x0107
+        "│":
+            code: 0x0108
+        "┆":
+            code: 0x0109
+        "└":
+            code: 0x010a
+        "┄":
+            code: 0x010b
+        "┘":
+            code: 0x010c
+        "⇆":
+            code: 0x010d
+        "█":
+            code: 0x010e
+        "┏":
+            code: 0x0113
+        "━":
+            code: 0x0114
+        "┓":
+            code: 0x0115
+        "┃":
+            code: 0x0116
+        "┇":
+            code: 0x0117
+        "┗":
+            code: 0x0118
+        "┅":
+            code: 0x0119
+        "┛":
+            code: 0x011a
     Commands:
         "NewLine": 
             code: 0xfffd

@@ -1,4 +1,4 @@
 @address $f0b838
 @type menu
 @label menuCommands_23
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+└┄┄┄┄┄┄┄┄┘

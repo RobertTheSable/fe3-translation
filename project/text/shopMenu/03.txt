@@ -1,7 +1,7 @@
 @address $f0cb36
 @type menu
 @label shopMenu_03
-[0105][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] Marth [0109]
-[0108] Supply[0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010c]
+┌───────┐[HalfNewLine]
+│ Marth ┆
+│ Supply┆
+└┄┄┄┄┄┄┄┘

@@ -1,5 +1,0 @@
-@address $e7b79e
-@width 240
-@type nodigraph
-@label ChapterTitles_25
-BBBB  Ch5 Grust's Liberation # length: 31

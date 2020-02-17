@@ -2,6 +2,9 @@ cache/
 roms/
 project/asm/bin/text
 project/asm/bin/fonts/fonts.asm
+project/asm/text.asm
+project/asm/textDefines.exp
 *.sfc
 *.smc
 *.directory
+project/*headered.asm

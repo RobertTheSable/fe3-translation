@@ -1,10 +1,10 @@
 @address $f0c00c
 @type menu
 @label suspend_10
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108]To continue,[0109]
-[0108]choose      [0109]
-[0108]Resume Ch   [0109]
-[0108]from the    [0109]
-[0108]file menu.  [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌────────────┐[HalfNewLine]
+│To continue,┆
+│choose      ┆
+│Resume Ch   ┆
+│from the    ┆
+│file menu.  ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┘

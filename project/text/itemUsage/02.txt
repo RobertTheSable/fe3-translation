@@ -1,0 +1,5 @@
+@address $f0df26
+@type menu
+@label menuEtc2_02
+│No result...   ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

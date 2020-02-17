@@ -1,9 +1,9 @@
 @address $f0cbd8
 @type menu
 @label prepMenu_00
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] View Map[0109]
-[0108] Items   [0109]
-[0108] Select  [0109]
-[0108] Save    [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌─────────┐[HalfNewLine]
+│ View Map┆
+│ Items   ┆
+│ Select  ┆
+│ Save    ┆
+└┄┄┄┄┄┄┄┄┄┘

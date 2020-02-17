@@ -1,4 +1,4 @@
 @address $f0d8b4
 @type menu
 @label supply_02
-[0109]
+┆

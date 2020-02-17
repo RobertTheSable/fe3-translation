@@ -1,4 +1,0 @@
-@address $e7b4ad
-@width 240
-@label ChapterTitles_00
-# length: 2

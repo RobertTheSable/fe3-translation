@@ -1,10 +1,10 @@
 @address $f0c818
 @type menu
 @label configMenu_00
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108] Animation[0109]
-[0108] Sound    [0109]
-[0108] Message  [0109]
-[0108] Terrain  [0109]
-[0108] Cursor   [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌──────────┐[HalfNewLine]
+│ Animation┆
+│ Sound    ┆
+│ Message  ┆
+│ Terrain  ┆
+│ Cursor   ┆
+└┄┄┄┄┄┄┄┄┄┄┘

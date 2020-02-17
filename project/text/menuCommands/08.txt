@@ -1,4 +1,4 @@
 @address $f0b6ee
 @type menu
 @label menuCommands_08
-[0108] Lower  [0109]
+│ Lower  ┆

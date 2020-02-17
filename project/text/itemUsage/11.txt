@@ -1,0 +1,5 @@
+@address $f0e1ae
+@type menu
+@label menuEtc2_11
+│Movement rose! ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

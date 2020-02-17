@@ -1,4 +1,4 @@
 @address $f0b746
 @type menu
 @label menuCommands_12
-[0108] Staff  [0109]
+│ Staff  ┆

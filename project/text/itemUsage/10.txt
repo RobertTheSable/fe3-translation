@@ -1,0 +1,5 @@
+@address $f0e166
+@type menu
+@label menuEtc2_10
+│Weapon Lvl rose┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

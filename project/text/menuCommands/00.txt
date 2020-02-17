@@ -1,4 +1,4 @@
 @address $f0b63e
 @type menu
 @label menuCommands_00
-[0108] Talk   [0109]
+│ Talk   ┆

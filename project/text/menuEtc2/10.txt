@@ -1,5 +1,0 @@
-@address $f0e166
-@type menu
-@label menuEtc2_10
-[0108]Weapon Lvl rose[0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

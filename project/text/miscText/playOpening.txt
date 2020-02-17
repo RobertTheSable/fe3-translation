@@ -1,7 +1,7 @@
 @address $8bb9be
 @type menu
 @label miscText_playOpening
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108]Play[space2]opening[0109]
-[0108]  Yes    No [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌────────────┐[HalfNewLine]
+│Play[space2]opening┆
+│  Yes    No ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┘

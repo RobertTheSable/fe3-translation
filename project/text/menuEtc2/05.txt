@@ -1,5 +1,0 @@
-@address $f0dffe
-@type menu
-@label menuEtc2_05
-[0108]Skill rose!    [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]

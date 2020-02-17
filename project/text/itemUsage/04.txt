@@ -1,0 +1,5 @@
+@address $f0dfb6
+@type menu
+@label menuEtc2_04
+│Defence rose!  ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

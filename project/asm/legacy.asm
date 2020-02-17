@@ -462,13 +462,13 @@ code_79:
 
 ORG $81ec9c
 code_80:
-     LDY #table_menuEtc2         ; a030de
+     LDY #table_itemUsage         ; a030de
      LDA #$0d           ; a90d
      JSL loadMenuText   ; 2200806e
 
 ORG $81ecdb
 code_81:
-     LDY #table_menuEtc2         ; a030de
+     LDY #table_itemUsage         ; a030de
 
 ORG $81ece6
 code_82:
@@ -476,13 +476,13 @@ code_82:
 
 ORG $81ed1f
 code_83:
-     LDY #table_menuEtc2         ; a030de
+     LDY #table_itemUsage         ; a030de
      LDA #$02           ; a902
      JSL loadMenuText   ; 2200806e
 
 ORG $81ed4d
 code_84:
-     LDY #table_menuEtc2         ; a030de
+     LDY #table_itemUsage         ; a030de
      LDA #$0001         ; a90100
      JSL loadMenuText   ; 2200806e
 
@@ -494,7 +494,7 @@ code_85:
 
 ORG $81ed96
 code_86:
-     LDY #table_menuEtc2         ; a030de
+     LDY #table_itemUsage         ; a030de
      LDA #$00           ; a900
      JSL loadMenuText   ; 2200806e
 
@@ -947,7 +947,7 @@ code_155:
 
 ORG !hiddenTreasurePopup
 code_156:
-     LDY #table_menuEtc2     ; a030de
+     LDY #table_itemUsage     ; a030de
      LDA #$0e       ; a90e
      JSL loadMenuText   ; 2200806e
 

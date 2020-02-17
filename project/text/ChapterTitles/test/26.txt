@@ -1,5 +1,0 @@
-@address $e7b7bd
-@width 240
-@type nodigraph
-@label ChapterTitles_26
-BBBB  Ch6 Nest of Evil         # length: 33

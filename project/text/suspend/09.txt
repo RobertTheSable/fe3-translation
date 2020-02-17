@@ -1,10 +1,10 @@
 @address $f0bf1e
 @type menu
 @label suspend_09
-[0105][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0106][0107][HalfNewLine]
-[0108]  When saving [0109]
-[0108]suspended data[0109]
-[0108]will be erased[0109]
-[0108]Is this okay? [0109]
-[0108]  Yes   No    [0109]
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+┌──────────────┐[HalfNewLine]
+│  When saving ┆
+│suspended data┆
+│will be erased┆
+│Is this okay? ┆
+│  Yes   No    ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

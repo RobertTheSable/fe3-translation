@@ -1,5 +1,0 @@
-@address $e7b95e
-@width 240
-@type nodigraph
-@label ChapterTitles_39
-BBBB  Ch19 Final Battle      # length: 31

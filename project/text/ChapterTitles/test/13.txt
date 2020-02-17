@@ -1,5 +1,0 @@
-@address $e7b626
-@width 240
-@type nodigraph
-@label ChapterTitles_13
-BBBB  C13 Battle for Altea   # length: 31

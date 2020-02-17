@@ -1,0 +1,5 @@
+@address $f0e0d6
+@type menu
+@label menuEtc2_08
+│Maximum HP rose┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘

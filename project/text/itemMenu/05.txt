@@ -1,4 +1,4 @@
 @address $f0cf00
 @type menu
 @label itemMenu_05
-[010a][010b][010b][010b][010b][010b][010b][010b][010b][010c]
+└┄┄┄┄┄┄┄┄┘

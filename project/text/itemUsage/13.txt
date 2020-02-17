@@ -1,0 +1,6 @@
+@address $f0e2ce
+@type menu
+@label menuEtc2_13
+┌─────────────────┐[HalfNewLine]
+│Hidden treasure! ┆
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘
