@@ -4,6 +4,7 @@ normal:
     CommandValue: 0x00
     MaxWidth: 160
     FontWidthAddress: "!normalFontWidths"
+    DefaultWidth: 8
     Encoding: &normal-encoding
         A:
             code: 0x01
