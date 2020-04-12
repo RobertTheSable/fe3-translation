@@ -8,7 +8,7 @@
 !bank87 = $870002
 !loadMenu_Item = $87ae3d
 !hook87_1 = $87B177
-!hiddenTreasurePopup = $87B407
+!hiddenTreasurePopup = $87B3ED
 !normalFontWidths = $87B4D2
 !fixedFontWidth = $87BCE5
 !hook87_2 = $87BA09
