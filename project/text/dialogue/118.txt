@@ -2,5 +2,5 @@
 @width 160
 @label dialogue_118
 [_88][00][SwitchFrame][00]
-[ShowPortait][4b][04][_89][bf][80]Nyna... Farewell... [_94][20][01][_89][ff][ff][CloseFrame][02]
+[ShowPortrait][4b][04][_89][bf][80]Nyna... Farewell... [_94][20][01][_89][ff][ff][CloseFrame][02]
 # length: 47

@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_207
 [_88][00][_89][45][80][SwitchFrame][01]
-[ShowPortait][26][07]Princess Sheema, it seems the 
+[ShowPortrait][26][07]Princess Sheema, it seems the 
 Altean army has arrived. [WaitForA][SwitchFrame][00]
-[ShowPortait][89][04]Really...? It's already the end. [WaitForA]
+[ShowPortrait][89][04]Really...? It's already the end. [WaitForA]
 Samson, I have brought you 
 much trouble. I need to watch 
 the final days of my Kingdom 

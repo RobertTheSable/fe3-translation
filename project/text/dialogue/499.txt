@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_499
 [_88][00][SwitchFrame][00]
-[ShowPortait][8b][04]...Jagen, what's going on? Why 
+[ShowPortrait][8b][04]...Jagen, what's going on? Why 
 has Hardin handed over this 
 country to such a man...? [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]General Lang was once a noble 
+[ShowPortrait][02][07]General Lang was once a noble 
 of Akaneia. However, in the 
 previous war, he supported 
 the Dolunian Empire. [WaitForA]

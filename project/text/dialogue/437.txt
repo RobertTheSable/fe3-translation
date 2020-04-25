@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_437
 [_88][00][_89][c0][80][SwitchFrame][00]
-[ShowPortait][4d][04]YOU... DID WELL... BUT YOU 
+[ShowPortrait][4d][04]YOU... DID WELL... BUT YOU 
 CAN'T WIN... AGAINST LORD 
 MEDEUS... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 94

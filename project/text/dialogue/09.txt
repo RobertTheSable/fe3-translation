@@ -1,7 +1,7 @@
 @address $e0eaa9
 @width 160
 @label dialogue_09
-[_88][04][ShowPortait][69][04]Akaneia's Princess Nyna and 
+[_88][04][ShowPortrait][69][04]Akaneia's Princess Nyna and 
 Aurelis' Lord Hardin have 
 currently united. [WaitForA]
 It seems they are fighting to 

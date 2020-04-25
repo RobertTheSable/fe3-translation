@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_158
 [_88][00][_89][6d][80][SwitchFrame][00]
-[ShowPortait][8b][04]Jagen, how is the situation at 
+[ShowPortrait][8b][04]Jagen, how is the situation at 
 the castle? Have they found 
 Minerva yet? [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Right, about that... Although 
+[ShowPortrait][02][07]Right, about that... Although 
 the enemy has fled, there 
 seems to be no trace of the 
 princess.[WaitForA][SwitchFrame][00]

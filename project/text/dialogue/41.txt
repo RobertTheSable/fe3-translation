@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_41
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][07][04]Huh!? Aren't you the prince of 
+[ShowPortrait][07][04]Huh!? Aren't you the prince of 
 Altea? [WaitForA]
 Thanks for rescuing me. I'm 
 Rickard, a humble thief.[WaitForA]

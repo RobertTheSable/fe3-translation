@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_470
 [_88][00][SwitchFrame][01]
-[ShowPortait][8f][07]Marth!! I don't have to go back 
+[ShowPortrait][8f][07]Marth!! I don't have to go back 
 to the Ice Dragon Shrine 
 anymore. [WaitForA]
 I'm so happy! I really like 

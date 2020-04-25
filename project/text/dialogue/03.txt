@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_03
 [_88][00][SwitchFrame][00]
-[_89][12][80][ShowPortait][34][04]What, the Altean army!? 
+[_89][12][80][ShowPortrait][34][04]What, the Altean army!? 
 If we let you guys walk all over 
 us, it would ruin the name of 
 us pirates! 

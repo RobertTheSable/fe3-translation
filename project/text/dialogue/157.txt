@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_157
 [_88][00][SwitchFrame][01]
-[ShowPortait][4c][06]Minerva, it's been a while. This 
+[ShowPortrait][4c][06]Minerva, it's been a while. This 
 isn't like you at all. [WaitForA]
 Losing your precious Maria, 
 and even being abandoned by 
 your men. [WaitForA]
 Is this really the perfect 
 country that you wanted? [WaitForA][SwitchFrame][00]
-[ShowPortait][1e][05]Mi... Michalis... How...? [WaitForA][CloseFrame][02]
+[ShowPortrait][1e][05]Mi... Michalis... How...? [WaitForA][CloseFrame][02]
 [CloseFrame][03]
 # length: 245

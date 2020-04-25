@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_501
 [_88][00][SwitchFrame][00]
-[ShowPortait][8b][04]General Lorenz!! How could 
+[ShowPortrait][8b][04]General Lorenz!! How could 
 you...[WaitForA][CloseFrame][02]
 # length: 52

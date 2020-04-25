@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_183
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][8b][07]Huh!? Princess Minerva, what 
+[ShowPortrait][8b][07]Huh!? Princess Minerva, what 
 are you doing here? [WaitForA][SwitchFrame][00]
-[ShowPortait][92][04]My brother... Michalis rescued 
+[ShowPortrait][92][04]My brother... Michalis rescued 
 me. [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Really? That's great. When I 

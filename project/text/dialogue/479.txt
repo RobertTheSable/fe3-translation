@@ -1,7 +1,7 @@
 @address $e6c44e
 @width 160
 @label dialogue_479
-[_88][04][ShowPortait][69][04]If your Strength is great, your 
+[_88][04][ShowPortrait][69][04]If your Strength is great, your 
 weapon or magical damage will 
 increase. [WaitForA]
 Also the effect of healing 

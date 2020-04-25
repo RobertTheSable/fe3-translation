@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_156
 [_88][00][_89][47][80][SwitchFrame][00]
-[ShowPortait][4c][04]Rucke, a coward like you 
+[ShowPortrait][4c][04]Rucke, a coward like you 
 wouldn't dare to do something 
 this big. Did Hardin fool you 
 with his fancy words? [WaitForA][SwitchFrame][01]
-[ShowPortait][7b][07]Ah! ...You are... How are you 
+[ShowPortrait][7b][07]Ah! ...You are... How are you 
 still...? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 You thought I was dead? 

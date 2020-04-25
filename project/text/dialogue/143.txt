@@ -1,7 +1,7 @@
 @address $e2bfa7
 @width 160
 @label dialogue_143
-[_88][04][ShowPortait][67][04]Hoho! Horses and Pegasi can't 
+[_88][04][ShowPortrait][67][04]Hoho! Horses and Pegasi can't 
 be used inside castles. [WaitForA]
 You wouldn't want those 
 animals wandering around 

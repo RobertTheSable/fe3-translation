@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_218
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][8b][04]I should have expected no less 
+[ShowPortrait][8b][04]I should have expected no less 
 from Akaneia. They have such 
 a powerful army. [WaitForA]
 We won't be able to get close
 so easily.[WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Hardin is gambling everything 
+[ShowPortrait][02][07]Hardin is gambling everything 
 on this one battle, and he 
 appears to have gathered the 
 entire army of Akaneia here. [WaitForA]

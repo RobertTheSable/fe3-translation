@@ -1,7 +1,7 @@
 @address $e18c3f
 @width 160
 @label dialogue_31
-[_88][00][_89][20][80][ShowPortait][6b][04]Kid, what are you looking at? 
+[_88][00][_89][20][80][ShowPortrait][6b][04]Kid, what are you looking at? 
 You haven't seen many rural 
 towns like this? [WaitForA]
 Now that you mention it, I 

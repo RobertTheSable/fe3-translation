@@ -2,16 +2,16 @@
 @width 160
 @label dialogue_173
 [_88][00][_89][5a][80][SwitchFrame][01]
-[ShowPortait][02][07]Your highness! We've found 
+[ShowPortrait][02][07]Your highness! We've found 
 bishop Wendell held captive in 
 the castle. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][8b][06]Ah, bishop Wendell! It's great 
+[ShowPortrait][8b][06]Ah, bishop Wendell! It's great 
 to see that you're safe. [WaitForA]
 When I heard you were taken 
 from the village in Medon, I 
 was really worried. [WaitForA][SwitchFrame][00]
-[ShowPortait][29][05]Lang wanted me to help him 
+[ShowPortrait][29][05]Lang wanted me to help him 
 deal with the Grustian 
 rebellion, so he took me here. [WaitForA][SwitchFrame][01]
 [ClearFrame]

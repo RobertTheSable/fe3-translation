@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_162
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][8c][05]Marth!! [WaitForA][SwitchFrame][01]
-[ShowPortait][90][06]Shiida!? What, even you've 
+[ShowPortrait][8c][05]Marth!! [WaitForA][SwitchFrame][01]
+[ShowPortrait][90][06]Shiida!? What, even you've 
 come here...? Could it be that 
 something's happened to 
 Altea? [WaitForA][SwitchFrame][00]
@@ -20,7 +20,7 @@ Even the castle has fallen... [WaitForA][SwitchFrame][01]
 Wh-what!? How could... Altea... 
 Jagen, what's going on? [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][02][05]It is regrettable... What I 
+[ShowPortrait][02][05]It is regrettable... What I 
 feared the most has happened. [WaitForA]
 Emperor Hardin has listened to 
 Lang's words and declared us 
@@ -84,7 +84,7 @@ Your highness... [WaitForA]
 Shiida, what about the 
 others? Is Elice safe? [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][8c][05]Elice... She agreed to be their 
+[ShowPortrait][8c][05]Elice... She agreed to be their 
 hostage, to allow me to 
 escape... [WaitForA]
 The others... I don't know... 

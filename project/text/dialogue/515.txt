@@ -2,18 +2,18 @@
 @width 160
 @label dialogue_515
 [_88][00][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, please calm 
+[ShowPortrait][02][07]Your highness, please calm 
 down! If we fight with Lang 
 now, we will become traitors. [WaitForA]
 On top of that, we currently 
 don't have the strength to 
 oppose Lang's army. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][8b][06]But, Jagen, can we really give 
+[ShowPortrait][8b][06]But, Jagen, can we really give 
 those children to Lang? That 
 I... [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][02][07]Right now... No matter what, 
+[ShowPortrait][02][07]Right now... No matter what, 
 we must stay calm! [WaitForA]
 If we go to Medon... And 
 succesfully rescue Princess 

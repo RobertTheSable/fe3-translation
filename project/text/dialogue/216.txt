@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_216
 [_88][00][_89][45][80][SwitchFrame][00]
-[ShowPortait][63][04]Oh, Prince Marth. It is good to 
+[ShowPortrait][63][04]Oh, Prince Marth. It is good to 
 see you. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][07]Huh, aren't you King Aurelis?! 
+[ShowPortrait][8b][07]Huh, aren't you King Aurelis?! 
 What are you doing here? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 I came here to stop my 

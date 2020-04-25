@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_238
 [_88][00][_89][48][80][SwitchFrame][01]
-[ShowPortait][92][07]Maria! Please open your eyes. 
+[ShowPortrait][92][07]Maria! Please open your eyes. 
 It's me, Minerva! Be strong! [WaitForA][SwitchFrame][00]
-[ShowPortait][1d][04]Uh... Oh... Minerva, sister... [WaitForA]
+[ShowPortrait][1d][04]Uh... Oh... Minerva, sister... [WaitForA]
 Ah, Medeus, he... [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Everything's alright now, 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_90
 [_88][00][SwitchFrame][00]
-[ShowPortait][4e][04]Those that dare to wield 
+[ShowPortrait][4e][04]Those that dare to wield 
 weapons against me will die. 
 I'll show you the horrors of my 
 sealing magic, Imhullu. [_94][20][01][CloseFrame][02]

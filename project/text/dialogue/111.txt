@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_111
 [_88][00][_89][53][80][SwitchFrame][00]
-[ShowPortait][4e][04]Tiki... The great princess of 
+[ShowPortrait][4e][04]Tiki... The great princess of 
 the Naga tribe, which fell into 
 ruin long ago. [WaitForA]
 Use your power to burn the 

@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_00
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][02][07][6f][79][5d][f1][f2]
+[ShowPortrait][02][07][6f][79][5d][f1][f2]
 [60][78][5d][ec]Fm[5c][b9][88][f4]u
 [f8]mpeLP[WaitForA][CloseFrame][03]
 [SwitchFrame][00]
-[ShowPortait][00][04]0CLPt.[Exclaim2][5c][b9][88]
+[ShowPortrait][00][04]0CLPt.[Exclaim2][5c][b9][88]
 [ec]"[ab]F[Space2]A[4e]PYF[WaitForA][SwitchFrame][01]
-[ShowPortait][01][07][6f][79][5d][f4][Space2][ac]DSlF[4e]P[WaitForA]
+[ShowPortrait][01][07][6f][79][5d][f4][Space2][ac]DSlF[4e]P[WaitForA]
 [7e][79][88]Y[ed][ad]u
 [_12][CloseParen2][_13]v[_11][Space2]EO[4e]SGPY[WaitForA]
 E[ec]i[_12]st[_11]KpS

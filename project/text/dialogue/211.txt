@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_211
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][67][04]Hardin sent troops here to 
+[ShowPortrait][67][04]Hardin sent troops here to 
 prevent Gra from rebelling. [WaitForA]
 The Akaneian soldiers are the
 only ones that can still fight. [WaitForA][CloseFrame][02]

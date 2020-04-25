@@ -1,7 +1,7 @@
 @address $e6c31d
 @width 160
 @label dialogue_477
-[_88][04][ShowPortait][6a][04]Unneeded weapons and items 
+[_88][04][ShowPortrait][6a][04]Unneeded weapons and items 
 can be stored in the supply 
 wagon. [WaitForA]
 If you want to take them back 

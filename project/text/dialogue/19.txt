@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_19
 [_88][00][_89][0d][80][SwitchFrame][00]
-[ShowPortait][60][04]Look, your highness. We found 
+[ShowPortrait][60][04]Look, your highness. We found 
 10000 Gold inside the castle, 
 which the bandits left behind. [WaitForA]
 With these we can make 

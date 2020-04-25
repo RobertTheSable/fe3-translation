@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_267
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][16][04]I am Roshea of the Aurelian
+[ShowPortrait][16][04]I am Roshea of the Aurelian
 knights. I don't want to fight, 
 but I can't betray my 
 companions. Please forgive [WaitForA]

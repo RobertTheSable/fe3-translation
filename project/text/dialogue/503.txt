@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_503
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][69][04]General Lorenz recovered the 
+[ShowPortrait][69][04]General Lorenz recovered the 
 children from Wendell, hoping 
 to raise them at Grust. [WaitForA]
 When the Emperor found out, 

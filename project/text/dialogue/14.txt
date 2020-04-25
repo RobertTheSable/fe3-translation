@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_14
 [_88][00][SwitchFrame][00]
-[_89][20][80][ShowPortait][67][04]Citizens of Altea, please 
+[_89][20][80][ShowPortrait][67][04]Citizens of Altea, please 
 rescue Sister Lena. [WaitForA]
 Miss Lena helped to cure the 
 poor and sick. [WaitForA]

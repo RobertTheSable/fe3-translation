@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_161
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][8b][07]Oh, Castor, is that you? What 
+[ShowPortrait][8b][07]Oh, Castor, is that you? What 
 are you doing here? [WaitForA][SwitchFrame][00]
-[ShowPortait][0c][04]Ah, Marth! Sniff... [WaitForA]
+[ShowPortrait][0c][04]Ah, Marth! Sniff... [WaitForA]
 Well, my mother fell ill and I 
 needed gold to pay for her 
 medicine. [WaitForA]

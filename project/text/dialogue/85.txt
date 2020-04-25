@@ -1,7 +1,7 @@
 @address $e1e07f
 @width 160
 @label dialogue_85
-[_88][04][ShowPortait][6b][04]When you reach Level 10 you 
+[_88][04][ShowPortrait][6b][04]When you reach Level 10 you 
 can change your class. [WaitForA]
 Cavaliers become Paladins. 
 Mercenaries become Heroes. [WaitForA]

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_247
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6a][04]Whatever you do, don't get 
+[ShowPortrait][6a][04]Whatever you do, don't get 
 close to that tunnel. I heard 
 that a scary fire dragon lives 
 in there. [WaitForA][CloseFrame][02]

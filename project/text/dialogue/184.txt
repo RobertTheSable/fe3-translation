@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_184
 [_88][00][_89][47][80][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, there's 
+[ShowPortrait][02][07]Your highness, there's 
 something strange about the 
 temple's situation. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Hmm, you're right, something's 
+[ShowPortrait][8b][04]Hmm, you're right, something's 
 definitely going on. Let's go, 
 Jagen. I'm worried about 
 Merric. [WaitForA][CloseFrame][02]

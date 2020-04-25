@@ -2,7 +2,7 @@
 @width 160
 @label unused_unusedText28
 mission. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][06]General Lang, what is it this 
+[ShowPortrait][8b][06]General Lang, what is it this 
 time? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 ...Well... My castle was 
@@ -58,7 +58,7 @@ longer stay silent. I want to
 find Ogma, so we can rescue 
 those children. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][02][06]I understand. You've had to 
+[ShowPortrait][02][06]I understand. You've had to 
 stay patient for so long. I 
 have also reached my 
 limits. [WaitForA]

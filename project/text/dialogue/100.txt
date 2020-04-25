@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_100
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][2a][04]Ah, are you Lord Marth? I am 
+[ShowPortrait][2a][04]Ah, are you Lord Marth? I am 
 Est of Medon! [WaitForA]
 I was captured when I tried to 
 recover the stolen Mercurius 

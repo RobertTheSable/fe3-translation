@@ -1,7 +1,7 @@
 @address $e0ea1c
 @width 160
 @label dialogue_08
-[_88][04][ShowPortait][68][04]Galder is a port town to the 
+[_88][04][ShowPortrait][68][04]Galder is a port town to the 
 west of Talys Island. [WaitForA]
 Right now it is a pirates' base, 
 ruled by a man called Gomer. [WaitForA][CloseFrame][02]

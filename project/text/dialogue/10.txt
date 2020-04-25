@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_10
 [_88][00][_89][0b][80][SwitchFrame][00]
-[ShowPortait][0d][04]Prince Marth, I am Ogma, a 
+[ShowPortrait][0d][04]Prince Marth, I am Ogma, a 
 Talys mercenary. [WaitForA]
 I have been ordered by my king 
 to join your army, along with 

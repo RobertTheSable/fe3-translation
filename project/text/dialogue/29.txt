@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_29
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][10][07]Matthis, brother! [WaitForA]
+[ShowPortrait][10][07]Matthis, brother! [WaitForA]
 Brother, it's me, Lena. [WaitForA][SwitchFrame][00]
-[ShowPortait][2c][04]Ah, Lena!? Why are you 
+[ShowPortrait][2c][04]Ah, Lena!? Why are you 
 here...? [WaitForA][SwitchFrame][01]
 [ClearFrame]
 I was captured by the Ghoul's 

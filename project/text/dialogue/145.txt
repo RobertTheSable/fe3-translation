@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_145
 [_88][00][SwitchFrame][00]
-[ShowPortait][74][05]General! There's trouble. [WaitForA]
+[ShowPortrait][74][05]General! There's trouble. [WaitForA]
 The rebel army has appeared 
 from the east of Deil prison. [WaitForA][CloseFrame][02]
 [SwitchFrame][01]
-[ShowPortait][40][06]What! How would the rebels 
+[ShowPortrait][40][06]What! How would the rebels 
 know to come here!? [WaitForA]
 Damn... Order the Dragoons to 
 charge! And request for 
@@ -16,5 +16,5 @@ Don't let them enter the
 prison! Crush them before 
 they get near! [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][92][07]Prince Marth... [WaitForA][CloseFrame][03]
+[ShowPortrait][92][07]Prince Marth... [WaitForA][CloseFrame][03]
 # length: 373

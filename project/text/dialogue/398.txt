@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_398
 [_88][00][_89][38][80][SwitchFrame][00]
-[ShowPortait][20][04]If you hadn't gotten so close 
+[ShowPortrait][20][04]If you hadn't gotten so close 
 you wouldn't have needed to 
 die. Pitiful fools... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 111

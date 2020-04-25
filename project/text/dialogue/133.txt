@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_133
 [_88][00][_89][12][80][SwitchFrame][00]
-[ShowPortait][4f][04]Ha... Foolish kid! Don't think 
+[ShowPortrait][4f][04]Ha... Foolish kid! Don't think 
 you're so great!! [WaitForA]
 Even though you've entered 
 my castle, I won't surrender to 

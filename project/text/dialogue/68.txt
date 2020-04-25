@@ -1,7 +1,7 @@
 @address $e1ca8b
 @width 160
 @label dialogue_68
-[_88][04][ShowPortait][69][04]This place is Akaneia's Knorda 
+[_88][04][ShowPortrait][69][04]This place is Akaneia's Knorda 
 town. [WaitForA]
 The armoury and vendor have 
 lots of nice goods. [WaitForA][CloseFrame][02]

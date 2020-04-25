@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_40
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][11][07]Ah... Master! It's you, Master 
+[ShowPortrait][11][07]Ah... Master! It's you, Master 
 Wendell. [WaitForA][SwitchFrame][00]
-[ShowPortait][29][04]Oh! Is it Merric? You're looking 
+[ShowPortrait][29][04]Oh! Is it Merric? You're looking 
 lively. It's good to see you're 
 well.[WaitForA][SwitchFrame][01]
 [ClearFrame]

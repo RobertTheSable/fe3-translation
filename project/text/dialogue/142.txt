@@ -1,7 +1,7 @@
 @address $e2bef4
 @width 160
 @label dialogue_142
-[_88][04][ShowPortait][6c][04]Oh, you're the prince of Altea! [WaitForA]
+[_88][04][ShowPortrait][6c][04]Oh, you're the prince of Altea! [WaitForA]
 It's like a dream to be able to 
 see you... [WaitForA]
 This... This Vulnerary is a 

@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_152
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, we found an 
+[ShowPortrait][02][07]Your highness, we found an 
 unexpected person held 
 captive in the fortress. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Huh? ...Linde! What are you
+[ShowPortrait][8b][04]Huh? ...Linde! What are you
 doing here?[WaitForA][CloseFrame][03]
-[_0c][01][ShowPortait][8d][07]Lord Marth! It's great to finally
+[_0c][01][ShowPortrait][8d][07]Lord Marth! It's great to finally
 see you. [WaitForA]
 In order to find you, I looked 
 all over for your news. [WaitForA]

@@ -341,7 +341,7 @@ normal:
             code: 0x81
         _82:
             code: 0x82
-        ShowPortait:
+        ShowPortrait:
             code: 0x84
         CloseFrame:
             code: 0x85

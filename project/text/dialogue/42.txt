@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_42
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][0f][07]Aren't you Rickard? What are
+[ShowPortrait][0f][07]Aren't you Rickard? What are
 you doing here? [WaitForA][SwitchFrame][00]
-[ShowPortait][07][04]Oh, big bro Julian! It's been a 
+[ShowPortrait][07][04]Oh, big bro Julian! It's been a 
 while.  [WaitForA]
 Heh, it's a little embarrassing. 
 I came to the castle to steal, 

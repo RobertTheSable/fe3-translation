@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_192
 [_88][00][_89][1e][80][SwitchFrame][00]
-[ShowPortait][8b][04]Xane, we've already climbed 
+[ShowPortrait][8b][04]Xane, we've already climbed 
 this high. It's so cold... Even 
 breathing is hard. [WaitForA][SwitchFrame][01]
-[ShowPortait][28][07]We're almost there. Look, can 
+[ShowPortrait][28][07]We're almost there. Look, can 
 you see over there? That's 
 the Ice Dragon Shrine where 
 Gotoh is.[WaitForA][SwitchFrame][00]

@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_177
 [_88][00][_89][4c][80][SwitchFrame][00]
-[ShowPortait][18][04]Oh, Prince Marth. It's been a 
+[ShowPortrait][18][04]Oh, Prince Marth. It's been a 
 while since we met. [WaitForA]
 There seems to be some 
 commotion outside. What's 
 going on? [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][07]Ah, Bantu! I didn't expect to 
+[ShowPortrait][8b][07]Ah, Bantu! I didn't expect to 
 meet you here. How is Tiki? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 That child isnt with me 

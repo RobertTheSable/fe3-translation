@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_193
 [_88][00][_89][1e][80][SwitchFrame][00]
-[ShowPortait][8b][05]Hey, Xane. Gotoh didn't really 
+[ShowPortrait][8b][05]Hey, Xane. Gotoh didn't really 
 mention anything about the 
 five Spheres, but I thought 
 they were very important. [WaitForA]
 Do you know anything about 
 them? [WaitForA][SwitchFrame][01]
-[ShowPortait][28][06]Gotoh was afraid of shocking 
+[ShowPortrait][28][06]Gotoh was afraid of shocking 
 you so he didn't say anything. I
 will tell you.  [WaitForA]
 However, after I've told you, 

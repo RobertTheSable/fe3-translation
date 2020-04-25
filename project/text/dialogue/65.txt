@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_65
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][00][06]Nyna. We'll be able to see Pales
+[ShowPortrait][00][06]Nyna. We'll be able to see Pales
 very soon.  [WaitForA]
 It must hold such painful 
 memories for you. [WaitForA][SwitchFrame][00]
-[ShowPortait][61][05]Ah... The fall of Pales, I can 
+[ShowPortrait][61][05]Ah... The fall of Pales, I can 
 still see it in my mind's eyes. [WaitForA]
 So many people were killed. [WaitForA]
 The royals were all taken to 

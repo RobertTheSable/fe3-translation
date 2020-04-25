@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_124
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][60][07]Prince Marth, I have already 
+[ShowPortrait][60][07]Prince Marth, I have already 
 found the location of Thabes! [WaitForA]
 To the far north of Khadein, 
 at the Marmotord Desert, 
@@ -11,7 +11,7 @@ town. [WaitForA]
 But those who went to Thabes 
 never came back. [WaitForA]
 So, what will you do? [WaitForA][SwitchFrame][00]
-[ShowPortait][00][04]... [WaitForA]
+[ShowPortrait][00][04]... [WaitForA]
 I must go there, to reclaim the 
 Falchion and to rescue my 
 sister. [WaitForA]

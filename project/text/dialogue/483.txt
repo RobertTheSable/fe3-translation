@@ -1,7 +1,7 @@
 @address $e6c67f
 @width 160
 @label dialogue_483
-[_88][04][ShowPortait][6b][04]In the arena, you will be 
+[_88][04][ShowPortrait][6b][04]In the arena, you will be 
 rewarded with gold and 
 experience if you win. [WaitForA]
 But if you die, you lose your 

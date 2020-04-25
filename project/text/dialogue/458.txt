@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_458
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6b][04]Nearby are enemy spies. Be 
+[ShowPortrait][6b][04]Nearby are enemy spies. Be 
 careful! They will come from 
 the forts. [WaitForA][CloseFrame][02]
 # length: 92

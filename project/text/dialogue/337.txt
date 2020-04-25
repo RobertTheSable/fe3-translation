@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_337
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][8c][04]Ah, Lord Marth... 
+[ShowPortrait][8c][04]Ah, Lord Marth... 
 How could you die... [_94][20][01][CloseFrame][02]
 # length: 64

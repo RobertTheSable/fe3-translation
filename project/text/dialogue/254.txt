@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_254
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][7f][04]Please spare me! Wait, thats 
+[ShowPortrait][7f][04]Please spare me! Wait, thats 
 useless... No choice... I'm going 
 to chop your head off!! [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 118

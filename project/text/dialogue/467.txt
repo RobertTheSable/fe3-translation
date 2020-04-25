@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_467
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][69][04]This is the Wyvern Valley. [WaitForA]
+[ShowPortrait][69][04]This is the Wyvern Valley. [WaitForA]
 Don't go any further. 
 Otherwise I fear you'll be 
 burnt to death by the dragons. [WaitForA][CloseFrame][02]

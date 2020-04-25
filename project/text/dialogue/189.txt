@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_189
 [_88][00][_89][43][80][SwitchFrame][01]
-[ShowPortait][8f][06]Marth!! It's been a long time, 
+[ShowPortrait][8f][06]Marth!! It's been a long time, 
 it's me Tiki! I really missed you.[WaitForA][SwitchFrame][00]
-[ShowPortait][8b][05]Huh... Tiki!? You came here to 
+[ShowPortrait][8b][05]Huh... Tiki!? You came here to 
 meet us? That's right... You're 
 with Gotoh right now.  [WaitForA]
 But, I haven't seen you for a 
@@ -23,7 +23,7 @@ down. [WaitForA][SwitchFrame][01]
 Marth... ...I love you❤  [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Huh...!? [WaitForA][_89][0e][80][SwitchFrame][01]
-[ShowPortait][28][06][ClearFrame]
+[ShowPortrait][28][06][ClearFrame]
 ...As if. I wouldn't say 
 something like that. [WaitForA][SwitchFrame][00]
 [ClearFrame]

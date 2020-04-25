@@ -2,14 +2,14 @@
 @width 160
 @label dialogue_140
 [_88][00][_89][1f][80][SwitchFrame][01]
-[ShowPortait][61][07]Prince Marth... Thank you. 
+[ShowPortrait][61][07]Prince Marth... Thank you. 
 Everything's finally over. [WaitForA]
 Because of your efforts, this 
 world was saved. [WaitForA]
 But to you, the price to pay 
 for this victory was too large. 
 I am truly sorry. [WaitForA][SwitchFrame][00]
-[ShowPortait][00][04]Nyna, please don't say that. 
+[ShowPortrait][00][04]Nyna, please don't say that. 
 Shiida's death was because of 
 my own mistake. [WaitForA]
 But... Shiida, for a while... 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_208
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][8b][07]You are Princess Sheema? It's 
+[ShowPortrait][8b][07]You are Princess Sheema? It's 
 great to see you safe. [WaitForA]
 I don't view Gra as an anemy. 
 Gra and my country were 
@@ -16,7 +16,7 @@ turning out the way they did. [WaitForA]
 Princess Sheema, please allow 
 us to be friends once again. I 
 don't want to fight Gra. [WaitForA][SwitchFrame][00]
-[ShowPortait][89][04]Prince Marth... Once I heard 
+[ShowPortrait][89][04]Prince Marth... Once I heard 
 that you didn't attack my 
 fleeing soldiers, I was really 
 surprised. [WaitForA]

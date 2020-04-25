@@ -1,7 +1,7 @@
 @address $e6c3b8
 @width 160
 @label dialogue_478
-[_88][04][ShowPortait][6b][04]If you want to avoid enemy 
+[_88][04][ShowPortrait][6b][04]If you want to avoid enemy 
 attacks, aside from Speed, 
 you also need Luck. [WaitForA]
 Standing on certain places 

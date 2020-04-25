@@ -1,7 +1,7 @@
 @address $e1b359
 @width 160
 @label dialogue_54
-[_88][04][ShowPortait][6a][04]It seems the princess of Medon
+[_88][04][ShowPortrait][6a][04]It seems the princess of Medon
 is being held captive at Deil  
 castle. [WaitForA]
 If Medon and the Empire are 

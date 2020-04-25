@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_508
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][6a][04]What's going to happen to 
+[ShowPortrait][6a][04]What's going to happen to 
 Medon now? [WaitForA]
 First they said Prince Michalis 
 died, then Princess Maria went 

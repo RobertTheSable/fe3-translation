@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_474
 [_88][00][SwitchFrame][01]
-[ShowPortait][8c][07]Marth... [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Shiida, it's finally over. I'm 
+[ShowPortrait][8c][07]Marth... [WaitForA][SwitchFrame][00]
+[ShowPortrait][8b][04]Shiida, it's finally over. I'm 
 sorry for making you suffer. [WaitForA][SwitchFrame][01]
 [ClearFrame]
 No, I couldn't help you one 

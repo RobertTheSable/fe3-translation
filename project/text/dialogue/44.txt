@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_44
 [_88][00][_89][0b][80][SwitchFrame][00]
-[ShowPortait][1e][05]General Harmein. I cannot go 
+[ShowPortrait][1e][05]General Harmein. I cannot go 
 ahead with this battle. [WaitForA]
 As an honourable knight of 
 Medon, I wish to fight an open 
 front battle. [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][3b][04]But, Princess Minerva. Your 
+[ShowPortrait][3b][04]But, Princess Minerva. Your 
 Medonian army, at Aurelis, has 
 already lost over half of its 
 soldiers. [WaitForA]
@@ -23,7 +23,7 @@ what will happen if you disobey
 the Empire. [WaitForA]
 Your sister, Maria's life would 
 have no guarantee. [WaitForA][CloseFrame][02]
-[ShowPortait][1e][05][ClearFrame]
+[ShowPortrait][1e][05][ClearFrame]
 ...I understand. I will leave 
 everything to you... [WaitForA]
 But I don't believe this method 

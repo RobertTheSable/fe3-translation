@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_250
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6a][04]If you continue north from 
+[ShowPortrait][6a][04]If you continue north from 
 here there are no more shops. 
 Be sure to make enough 
 preparations if you're going. [WaitForA][CloseFrame][02]

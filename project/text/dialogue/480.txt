@@ -1,7 +1,7 @@
 @address $e6c4e5
 @width 160
 @label dialogue_480
-[_88][04][ShowPortait][68][04]Clerics cannot fight. [WaitForA]
+[_88][04][ShowPortrait][68][04]Clerics cannot fight. [WaitForA]
 However they can use sacred 
 staves to aid allies. [WaitForA][CloseFrame][02]
 # length: 92

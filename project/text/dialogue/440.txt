@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_440
 [_88][00][SwitchFrame][00]
-[ShowPortait][91][04]GWA...! WHY... WHY HAVE I... 
+[ShowPortrait][91][04]GWA...! WHY... WHY HAVE I... 
 BEEN DEFEATED... SO 
 EASILY..... [_94][20][01]
 

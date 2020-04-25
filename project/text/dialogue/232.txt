@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_232
 [_88][00][_89][5f][80][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, the wall in 
+[ShowPortrait][02][07]Your highness, the wall in 
 front of us collapsed! [WaitForA][CloseFrame][03]
 # length: 73

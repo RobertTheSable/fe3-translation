@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_273
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][02][04]Prince Marth, you must be 
+[ShowPortrait][02][04]Prince Marth, you must be 
 strong!! 
 You cannot lose... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 85

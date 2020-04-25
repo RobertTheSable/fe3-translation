@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_61
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][20][04]Prince Marth, I am Jeorge, a 
+[ShowPortrait][20][04]Prince Marth, I am Jeorge, a 
 sniper of Akaneia. [WaitForA]
 After the battle of Pales, I 
 was captured by the Dolunian 

@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_198
 [_88][00][_89][5e][80][SwitchFrame][00]
-[ShowPortait][33][04]Marth, this is the Starsphere. 
+[ShowPortrait][33][04]Marth, this is the Starsphere. 
 You can take this with you as 
 well. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][07]Huh? Gotoh, why are you 
+[ShowPortrait][8b][07]Huh? Gotoh, why are you 
 giving such an important item 
 to me? [WaitForA][SwitchFrame][00]
 [ClearFrame]

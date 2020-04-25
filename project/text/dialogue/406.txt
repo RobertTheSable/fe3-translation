@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_406
 [_88][00][_89][38][80][SwitchFrame][00]
-[ShowPortait][26][04]Prince Marth... I thought you 
+[ShowPortrait][26][04]Prince Marth... I thought you 
 were a noble person, but 
 you're just a murderer... You 
 disappoint me. [_94][20][01][CloseFrame][02]

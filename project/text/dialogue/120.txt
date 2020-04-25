@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_120
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][01][07]General Lorenz, I am Shiida of 
+[ShowPortrait][01][07]General Lorenz, I am Shiida of 
 Talys. [WaitForA]
 I have heard much about you 
 from my father. [WaitForA][SwitchFrame][00]
-[ShowPortait][31][04]Ah, Princess Shiida. [WaitForA]
+[ShowPortrait][31][04]Ah, Princess Shiida. [WaitForA]
 You have become more 
 beautiful now. [WaitForA]
 I really must thank your 

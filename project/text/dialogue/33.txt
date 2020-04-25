@@ -1,7 +1,7 @@
 @address $e18fa6
 @width 160
 @label dialogue_33
-[_88][04][ShowPortait][69][04]The Armorslayer sword is 
+[_88][04][ShowPortrait][69][04]The Armorslayer sword is 
 effective against Knights and 
 Generals. [WaitForA]
 The Ridersbane is effective 

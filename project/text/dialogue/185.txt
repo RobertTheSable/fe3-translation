@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_185
 [_88][00][_89][47][80][SwitchFrame][00]
-[ShowPortait][87][04]Merric... Our match is due. [WaitForA][SwitchFrame][01]
-[ShowPortait][8e][07]Wait, Elrean! Why must we 
+[ShowPortrait][87][04]Merric... Our match is due. [WaitForA][SwitchFrame][01]
+[ShowPortrait][8e][07]Wait, Elrean! Why must we 
 fight? We both studied under 
 Master Wendell. Why do you 
 hate me so much? [WaitForA][SwitchFrame][00]

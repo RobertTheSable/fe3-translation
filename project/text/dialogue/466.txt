@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_466
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][67][04]Midia is really pitiful. [WaitForA]
+[ShowPortrait][67][04]Midia is really pitiful. [WaitForA]
 She only just retired as a 
 knight to live together with 
 Astram, and now she has been 

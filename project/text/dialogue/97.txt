@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_97
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][26][04]I am Samson. I used to be a 
+[ShowPortrait][26][04]I am Samson. I used to be a 
 famous gladiator. [WaitForA]
 However, for certain reasons, 
 I now reside here. [WaitForA]

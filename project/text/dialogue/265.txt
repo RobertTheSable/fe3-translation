@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_265
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][17][04]As long as we're here, we won't 
+[ShowPortrait][17][04]As long as we're here, we won't 
 let you get to Pales. If you 
 don't want to die, run back to 
 your country! [_94][20][01][CloseFrame][02]

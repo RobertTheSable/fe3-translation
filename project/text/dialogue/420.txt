@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_420
 [_88][00][_89][c0][80][SwitchFrame][00]
-[ShowPortait][88][04]My Akaneia army could be 
+[ShowPortrait][88][04]My Akaneia army could be 
 defeated...? [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 67

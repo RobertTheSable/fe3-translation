@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_350
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][07][04]Big bro... I won't be around [End]
+[ShowPortrait][07][04]Big bro... I won't be around [End]
 @label dialogue_350_ex
 anymore. You mustn't be 
 lonely... [_94][20][01][CloseFrame][02]

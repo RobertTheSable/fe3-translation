@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_66
 [_88][00][_89][0a][80][SwitchFrame][01]
-[ShowPortait][00][07]Nyna, this is Pales castle. [WaitForA][SwitchFrame][00]
-[ShowPortait][61][04]Ah! Pales... At last, Pales. [WaitForA]
+[ShowPortrait][00][07]Nyna, this is Pales castle. [WaitForA][SwitchFrame][00]
+[ShowPortrait][61][04]Ah! Pales... At last, Pales. [WaitForA]
 It's so great... I have finally 
 returned. [WaitForA]
 But there should still be many 

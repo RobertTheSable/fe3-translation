@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_199
 [_88][00][_89][47][80][SwitchFrame][01]
-[ShowPortait][74][06]General, the missing Altean 
+[ShowPortrait][74][06]General, the missing Altean 
 remnants have finally 
 returned. [WaitForA][SwitchFrame][00]
-[ShowPortait][88][05]Really? Haha...! What good 
+[ShowPortrait][88][05]Really? Haha...! What good 
 timing. [WaitForA]
 We will follow our original plan. 
 Have Gra's soldiers move out 

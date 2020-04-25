@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_151
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][1c][07]Warren!? Even you've joined 
+[ShowPortrait][1c][07]Warren!? Even you've joined 
 the rebels...? [WaitForA][SwitchFrame][00]
-[ShowPortait][79][04]Whitewing, Catria, it's been a 
+[ShowPortrait][79][04]Whitewing, Catria, it's been a 
 long time. [WaitForA]
 I am just a hunter. I'll do 
 anything as long as I get paid. [WaitForA][SwitchFrame][01]

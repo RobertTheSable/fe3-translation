@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_204
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][90][04]What's going on...? Even 
+[ShowPortrait][90][04]What's going on...? Even 
 thieves have managed to find 
 their way in. [WaitForA]
 Could the Geosphere have 
 been taken by them!? [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, a suspicious 
+[ShowPortrait][02][07]Your highness, a suspicious 
 thief is escaping towards the 
 north. [WaitForA]
 We should send somebody in 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_159
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][0d][04]Yumina, Yubello. This place is 
+[ShowPortrait][0d][04]Yumina, Yubello. This place is 
 the territory of the dreaded 
 Medonian Vikings. [WaitForA]
 Originally, I didn't want to 
@@ -10,9 +10,9 @@ come here, but we must cross
 through here to reach the 
 bishop. [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][7d][05]Ogma, I'm scared... I want to... 
+[ShowPortrait][7d][05]Ogma, I'm scared... I want to... 
 go back... [WaitForA][SwitchFrame][01]
-[ShowPortait][7c][06]Yubello! Be strong, you're a 
+[ShowPortrait][7c][06]Yubello! Be strong, you're a 
 man!! Remember, you can use 
 fire magic to attack with! [WaitForA][SwitchFrame][00]
 [ClearFrame]
@@ -29,7 +29,7 @@ I don't know what to do... [WaitForA][SwitchFrame][00]
 Oh... Yumina... I will try my 
 best... So please don't cry. [WaitForA][CloseFrame][02]
 [CloseFrame][03]
-[ShowPortait][0d][04][SwitchFrame][00]
+[ShowPortrait][0d][04][SwitchFrame][00]
 [ClearFrame]
 Crap... This is bad... We've 
 been discovered. No choice, 

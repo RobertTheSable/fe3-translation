@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_11
 [_88][00][_89][0d][80][SwitchFrame][00]
-[ShowPortait][65][04]Your highness, thank you very 
+[ShowPortrait][65][04]Your highness, thank you very 
 much for chasing off the 
 pirates. [WaitForA]
 Now we can finally live in 

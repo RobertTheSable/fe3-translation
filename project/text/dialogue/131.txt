@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_131
 [_88][00][SwitchFrame][00]
-[ShowPortait][4e][04]I don't believe it! Damn 
+[ShowPortrait][4e][04]I don't believe it! Damn 
 Starlight... [WaitForA]
 But remember this. [WaitForA]
 You may have bested me, but 

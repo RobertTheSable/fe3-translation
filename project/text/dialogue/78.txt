@@ -2,19 +2,19 @@
 @width 160
 @label dialogue_78
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][74][06]King Jiol. The allied army has 
+[ShowPortrait][74][06]King Jiol. The allied army has 
 finally come. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][44][07]What do you mean allied army? 
+[ShowPortrait][44][07]What do you mean allied army? 
 Idiot!! [WaitForA]
 Why don't you just call them 
 rebels!? [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][74][06]Yes, I'm sorry. 
+[ShowPortrait][74][06]Yes, I'm sorry. 
 It's just that everybody calls 
 them the allied army now, so... [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][44][07]Idiot!! Those fools are just a 
+[ShowPortrait][44][07]Idiot!! Those fools are just a 
 bunch of rebels. You shouldn't 
 have to fear them. [WaitForA]
 I can't believe this. Not only 
@@ -25,11 +25,11 @@ Have you requested
 reinforcements from the 
 Dolunian Empire yet?[WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][74][06]Yes, a squadron of Pegasus 
+[ShowPortrait][74][06]Yes, a squadron of Pegasus 
 Knights are expected to 
 arrive soon.[WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][44][07]Pegasus Knights?! What good 
+[ShowPortrait][44][07]Pegasus Knights?! What good 
 can those things do?! [WaitForA]
 I specifically requested either 
 Camus's Sable Order or 
@@ -44,5 +44,5 @@ want to die just yet. [WaitForA]
 Do you understand what to 
 do!? [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][74][06]Yes, your highness... [WaitForA][CloseFrame][03]
+[ShowPortrait][74][06]Yes, your highness... [WaitForA][CloseFrame][03]
 # length: 996

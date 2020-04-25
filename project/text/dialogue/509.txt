@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_509
 [_88][00][_89][47][80][SwitchFrame][00]
-[ShowPortait][93][04]Hahaha... Prince Marth, it's 
+[ShowPortrait][93][04]Hahaha... Prince Marth, it's 
 been a while. [WaitForA][SwitchFrame][01]
-[ShowPortait][90][07]Hardin... Why did you attack my 
+[ShowPortrait][90][07]Hardin... Why did you attack my 
 country? Why did you do it? 
 Even now I am still in disbelief. 
 Have you really changed? [WaitForA][SwitchFrame][00]

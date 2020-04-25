@@ -1,7 +1,7 @@
 @address $e191ba
 @width 160
 @label dialogue_35
-[_88][04][ShowPortait][68][04]You can use a key in front of a 
+[_88][04][ShowPortrait][68][04]You can use a key in front of a 
 door or drawbridge to open 
 them. [WaitForA][CloseFrame][02]
 # length: 83

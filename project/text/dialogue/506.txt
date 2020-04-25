@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_506
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6b][04]You should be careful of 
+[ShowPortrait][6b][04]You should be careful of 
 Rumel. He is carrying a 
 Ridersbane. [WaitForA]
 Cavaliers and Paladins can be 

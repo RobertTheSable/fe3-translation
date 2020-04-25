@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_182
 [_88][00][_89][48][80][SwitchFrame][00]
-[ShowPortait][4c][04]Minerva. If you wait in this 
+[ShowPortrait][4c][04]Minerva. If you wait in this 
 village, you should be able to 
 meet Marth. [WaitForA]
 Although I don't like that boy, 
 he is indeed of heroic calibre. 
 You should aid him. [WaitForA][SwitchFrame][01]
-[ShowPortait][1e][07]Brother, what are you going to 
+[ShowPortrait][1e][07]Brother, what are you going to 
 do next? If possible, you 
 should come with us... [WaitForA][SwitchFrame][00]
 [ClearFrame]

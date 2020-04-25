@@ -1,7 +1,7 @@
 @address $e1bf63
 @width 160
 @label dialogue_62
-[_88][04][ShowPortait][67][04]With a Levin Sword in one's 
+[_88][04][ShowPortrait][67][04]With a Levin Sword in one's 
 hands, even the thickest of 
 armour can be penetrated with 
 its lightning bolts... [WaitForA][CloseFrame][02]

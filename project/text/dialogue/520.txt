@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_520
 [_88][00][SwitchFrame][01]
-[ShowPortait][02][07]Ha... He fled fast despite his 
+[ShowPortrait][02][07]Ha... He fled fast despite his 
 big words. He should be pretty 
 faraway by now.[WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Jagen... You really surprised 
+[ShowPortrait][8b][04]Jagen... You really surprised 
 me. I couldn't believe you 
 would say something like that. [WaitForA][SwitchFrame][01]
 [ClearFrame]

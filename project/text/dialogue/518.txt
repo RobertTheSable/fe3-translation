@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_518
 [_88][00][SwitchFrame][00]
-[_89][5e][80][ShowPortait][33][04]Is that so...? So Tiki was that 
+[_89][5e][80][ShowPortrait][33][04]Is that so...? So Tiki was that 
 happy? It must have been hard 
 for her, living like that. [WaitForA]
 Although it was to protect 
@@ -11,7 +11,7 @@ things. She must hate me... [WaitForA]
 Marth, you may leave. I will use 
 my magic to send you to Altea 
 instantly. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][07]Gotoh, aren't you coming along 
+[ShowPortrait][8b][07]Gotoh, aren't you coming along 
 with us? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Oh... I have something to 

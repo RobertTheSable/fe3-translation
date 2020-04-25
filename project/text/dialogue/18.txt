@@ -2,14 +2,14 @@
 @width 160
 @label dialogue_18
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][0f][06]Hurry, Miss Lena! If you aren't 
+[ShowPortrait][0f][06]Hurry, Miss Lena! If you aren't 
 quick, we'll both be finished. [WaitForA]
 I heard the Altean knights 
 have arrived towards the 
 south. [WaitForA]
 Now's our chance to escape. 
 Please hang on, you can do it! [WaitForA][CloseFrame][03]
-[ShowPortait][10][07]I'm sorry... But, I still haven't 
+[ShowPortrait][10][07]I'm sorry... But, I still haven't 
 found my precious Mend 
 staff... [WaitForA]
 Julian! Forget about me and 
@@ -17,7 +17,7 @@ flee yourself! [WaitForA]
 If it's just you, I can teleport 
 you away to safety with my 
 Warp staff. [WaitForA][CloseFrame][03]
-[ShowPortait][0f][06][ClearFrame]
+[ShowPortrait][0f][06][ClearFrame]
 How is that going to help? [WaitForA]
 Don't you understand why I 
 betrayed them in the first 

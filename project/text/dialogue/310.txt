@@ -2,5 +2,5 @@
 @width 160
 @label dialogue_310
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][2a][04]Ah... Minerva... [_94][20][01][CloseFrame][02]
+[ShowPortrait][2a][04]Ah... Minerva... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 44

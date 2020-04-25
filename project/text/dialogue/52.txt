@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_52
 [_88][00][_89][0d][80][SwitchFrame][00]
-[ShowPortait][1c][04]Prince Marth, I am Catria of 
+[ShowPortrait][1c][04]Prince Marth, I am Catria of 
 Medon's Whitewings. [WaitForA]
 I've actually arrived in secret 
 to request for help from your 

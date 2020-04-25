@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_190
 [_88][00][_89][1e][80][SwitchFrame][00]
-[ShowPortait][8b][04]Wow... To think there could be 
+[ShowPortrait][8b][04]Wow... To think there could be 
 a place like this... 
 I can feel my whole body 
 burning up just standing here. [WaitForA][SwitchFrame][01]
-[ShowPortait][28][07]Flame Barrel... The graveyard 
+[ShowPortrait][28][07]Flame Barrel... The graveyard 
 of Fire Dragons. [WaitForA]
 This is where Fire Dragons 
 that have degenerated wait to 

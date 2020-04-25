@@ -1,7 +1,7 @@
 @address $e1e7eb
 @width 160
 @label dialogue_92
-[_88][04][ShowPortait][6a][04]You can't use armour to 
+[_88][04][ShowPortrait][6a][04]You can't use armour to 
 defend against magic. [WaitForA]
 Instead, you can use the 
 Barrier staff or Pure Water. [WaitForA][CloseFrame][02]

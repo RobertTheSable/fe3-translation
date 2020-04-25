@@ -2,14 +2,14 @@
 @width 160
 @label dialogue_224
 [_88][00][_89][93][80][SwitchFrame][01]
-[ShowPortait][02][07]Marth, it's finally over. Now, 
+[ShowPortrait][02][07]Marth, it's finally over. Now, 
 the world is safe. Look, the 
 princesses are over there... [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Sister! And there's Princess 
+[ShowPortrait][8b][04]Sister! And there's Princess 
 Nyna... And Lena and Maria as 
 well. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][61][06]Marth, you finally came. I am so
+[ShowPortrait][61][06]Marth, you finally came. I am so
 happy...  [WaitForA]
 [_93][_89][60][80][_10][01]Gwaa!! [WaitForA]
 Damn, you're carrying the 

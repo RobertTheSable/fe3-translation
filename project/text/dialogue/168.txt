@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_168
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][02][06]Your highness, we've finally 
+[ShowPortrait][02][06]Your highness, we've finally 
 subdued Grust. [WaitForA]
 However, many enemies are 
 hiding inside the castle. So we 
 must be careful. [WaitForA][SwitchFrame][00]
-[ShowPortait][90][05]Hmm, I understand. [WaitForA]
+[ShowPortrait][90][05]Hmm, I understand. [WaitForA]
 Still... If we don't defeat Lang, 
 the citizens of this country 
 cannot be saved. [WaitForA][SwitchFrame][01]

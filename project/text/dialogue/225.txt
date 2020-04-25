@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_225
 [_88][00][_89][e0][00][SwitchFrame][01]
-[ShowPortait][02][07]Huh, wasn't that Gharnef? He 
+[ShowPortrait][02][07]Huh, wasn't that Gharnef? He 
 and his men pretended to be 
 the princesses. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Mmm, but what are they 
+[ShowPortrait][8b][04]Mmm, but what are they 
 planning? They said something 
 about resurrecting the 
 Shadow Dragon... [WaitForA]

@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_230
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][8b][04]So this is the Dragon's Table, 
+[ShowPortrait][8b][04]So this is the Dragon's Table, 
 where the Divine Dragon Naga 
 sealed away the Earth 
 Dragons... [WaitForA]
 But, wasn't Medeus the 
 guardian of the altar...? [WaitForA][SwitchFrame][01]
-[ShowPortait][33][07]Medeus could not tolerate the 
+[ShowPortrait][33][07]Medeus could not tolerate the 
 humans' actions against the 
 Manaketes. [WaitForA]
 So he gathered the other 

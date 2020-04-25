@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_129
 [_88][00][_89][53][80][SwitchFrame][00]
-[ShowPortait][4e][04]Marth. [WaitForA]
+[ShowPortrait][4e][04]Marth. [WaitForA]
 You've finally come. [WaitForA]
 I, Pontifex Gharnef, have been
 waiting for a long time...  [WaitForA]

@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_427
 [_88][00][_89][c0][80][SwitchFrame][00]
-[ShowPortait][3b][04]...Urgh... Minerva... You 
+[ShowPortrait][3b][04]...Urgh... Minerva... You 
 traitor... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 66

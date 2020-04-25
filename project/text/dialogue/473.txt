@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_473
 [_88][00][SwitchFrame][01]
-[ShowPortait][80][06]Really, Tiki... For how long do 
+[ShowPortrait][80][06]Really, Tiki... For how long do 
 you plan on hogging Marth!? [WaitForA]
 Honestly Marth, if you dare to 
 show even the slightest 
 happiness, Shiida won't 
 forgive you. [WaitForA][SwitchFrame][00]
-[ShowPortait][8c][05]Malicia, you're talking 
+[ShowPortrait][8c][05]Malicia, you're talking 
 nonsense again. However 
 Marth really does look happy... [WaitForA][SwitchFrame][01]
 [ClearFrame]

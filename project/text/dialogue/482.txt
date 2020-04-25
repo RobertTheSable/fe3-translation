@@ -1,7 +1,7 @@
 @address $e6c5de
 @width 160
 @label dialogue_482
-[_88][04][ShowPortait][6b][04]If you equip heavy weapons 
+[_88][04][ShowPortrait][6b][04]If you equip heavy weapons 
 you will be slowed down by 
 them. [WaitForA]
 So equipping light, but weak, 

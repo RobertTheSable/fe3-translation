@@ -2,5 +2,5 @@
 @width 160
 @label dialogue_455
 [_88][00][_89][11][80][SwitchFrame][00]
-[ShowPortait][1e][04]I am looking for Prince Marth. [_94][20][01][CloseFrame][02]
+[ShowPortrait][1e][04]I am looking for Prince Marth. [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 58

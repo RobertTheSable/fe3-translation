@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_463
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][6a][04]Emperor Hardin was once a 
+[ShowPortrait][6a][04]Emperor Hardin was once a 
 kind man, but he suddenly 
 changed into a 
 frightening Emperor... [WaitForA]

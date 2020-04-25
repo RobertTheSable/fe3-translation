@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_181
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][8b][04]Jagen, everybody appears to 
+[ShowPortrait][8b][04]Jagen, everybody appears to 
 be safe. That's great to see. [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]But, your highness, what 
+[ShowPortrait][02][07]But, your highness, what 
 should we do next? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Hmmm... I want to return to 

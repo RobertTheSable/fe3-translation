@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_163
 [_88][00][_89][47][80][SwitchFrame][00]
-[ShowPortait][81][05]Commander Lang. A... Altea's 
+[ShowPortrait][81][05]Commander Lang. A... Altea's 
 army has come... [WaitForA][SwitchFrame][01]
-[ShowPortait][83][06]Fool, get a grip. Their army 
+[ShowPortrait][83][06]Fool, get a grip. Their army 
 doesn't amount to anything. 
 They can't possibly defeat us. [WaitForA][SwitchFrame][00]
 [ClearFrame]

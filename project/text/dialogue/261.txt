@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_261
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][88][04]What! Being able to defeat my 
+[ShowPortrait][88][04]What! Being able to defeat my 
 great army. Are you even 
 human? [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 93

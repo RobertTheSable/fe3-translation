@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_339
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][60][04]PLEASE INFORM 
+[ShowPortrait][60][04]PLEASE INFORM 
 VINCENTASM OF MARTH
 2 
   

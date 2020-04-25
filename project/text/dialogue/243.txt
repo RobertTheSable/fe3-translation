@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_243
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][69][04]Warren is such an idiot. He 
+[ShowPortrait][69][04]Warren is such an idiot. He 
 actually joined the rebels 
 because of money. [WaitForA]
 Oh, I remember he and Catria 

@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_165
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][6f][05]Oh... Please spare this girl. 
+[ShowPortrait][6f][05]Oh... Please spare this girl. 
 She is just 10 years old. [WaitForA]
 She hasn't even finished her 
 training as a cleric. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][07]Don't worry, old lady. We're 
+[ShowPortrait][8b][07]Don't worry, old lady. We're 
 not going to take this child. [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Huh...? Aren't you a soldier of 
@@ -20,7 +20,7 @@ ask. [WaitForA]
 We have some food, please 
 take it if you want. [WaitForA][CloseFrame][02]
 [_89][4c][80][SwitchFrame][00]
-[ShowPortait][80][04]Wait... Please, take me with 
+[ShowPortrait][80][04]Wait... Please, take me with 
 you... [WaitForA][SwitchFrame][01]
 [ClearFrame]
 You... You're REALLY only 10 
@@ -43,7 +43,7 @@ country and to your own
 country. Is that alright, 
 grandmother? [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][6f][05]Ah, of course. You will be much 
+[ShowPortrait][6f][05]Ah, of course. You will be much 
 safer compared to here.  [WaitForA]
 Young lad, I beg of you. Please 
 protect this girl. [WaitForA]
@@ -57,7 +57,7 @@ Malicia, if this youth was to be
 your husband, you would be 
 happy, right? [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][80][04]Honestly, grandmother. It's 
+[ShowPortrait][80][04]Honestly, grandmother. It's 
 far too early. Malicia doesn't 
 know what to do. [WaitForA][CloseFrame][02]
 [CloseFrame][03]

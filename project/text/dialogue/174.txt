@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_174
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][84][04]Huff, huff... Please... Help... 
+[ShowPortrait][84][04]Huff, huff... Please... Help... 
 Those thieves... are going to... [WaitForA][SwitchFrame][01]
-[ShowPortait][12][07][_17][ef][ff]..... [WaitForA]
+[ShowPortrait][12][07][_17][ef][ff]..... [WaitForA]
 [_16][10][00][SwitchFrame][00]
 [ClearFrame]
 Why... Why... Aren't you saying

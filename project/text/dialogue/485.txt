@@ -1,7 +1,7 @@
 @address $e6c7ea
 @width 160
 @label dialogue_485
-[_88][00][_89][21][80][ShowPortait][67][04]The previous war caused many 
+[_88][00][_89][21][80][ShowPortrait][67][04]The previous war caused many 
 hardships for the countries'
 people. [WaitForA]
 The only country that had it 

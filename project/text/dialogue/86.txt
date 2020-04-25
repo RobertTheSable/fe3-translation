@@ -1,7 +1,7 @@
 @address $e1e12a
 @width 160
 @label dialogue_86
-[_88][04][ShowPortait][69][04]If you have a Silver Card, the 
+[_88][04][ShowPortrait][69][04]If you have a Silver Card, the 
 goods at any shop can be 
 bought for half their price. [WaitForA]
 It's like a dream come true, 

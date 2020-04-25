@@ -1,7 +1,7 @@
 @address $e6ce23
 @width 160
 @label dialogue_494
-[_88][00][_89][21][80][ShowPortait][6b][04]The mercenaries protecting 
+[_88][00][_89][21][80][ShowPortrait][6b][04]The mercenaries protecting 
 the castle are Astram's elites. 
 It would be great if they could 
 become your allies. [WaitForA][CloseFrame][02]

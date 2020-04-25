@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_460
 [_88][00][_89][49][80][SwitchFrame][00]
-[ShowPortait][6c][04]Since being ruled by the 
+[ShowPortrait][6c][04]Since being ruled by the 
 imperial army, our days have 
 been difficultly passed. [WaitForA]
 But, we all believed that Lord 

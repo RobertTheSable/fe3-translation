@@ -1,7 +1,7 @@
 @address $e1cbf8
 @width 160
 @label dialogue_71
-[_88][04][ShowPortait][67][04]Since ancient times, the 
+[_88][04][ShowPortrait][67][04]Since ancient times, the 
 Akaneia royal family passed on 
 three special weapons. [WaitForA]
 The fire bow [SetColor][00][28]Parthia. [SetColor][00][24]

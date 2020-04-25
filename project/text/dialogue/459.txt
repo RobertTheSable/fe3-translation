@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_459
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][6a][04]After Altea fell, Elice was 
+[ShowPortrait][6a][04]After Altea fell, Elice was 
 taken to an unknown place by 
 a black-robed bishop... [WaitForA]
 Oh... Princess Elice... I pray 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_241
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6a][04]I only saw a glance of him, but 
+[ShowPortrait][6a][04]I only saw a glance of him, but 
 that paladin, Arran, didn't look 
 too good. [WaitForA]
 In any case, if he continues 

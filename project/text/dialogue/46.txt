@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_46
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][18][04]Have you seen a young girl by 
+[ShowPortrait][18][04]Have you seen a young girl by 
 the name of Tiki? [WaitForA]
 Tiki is the [SetColor][00][2c]Naga [SetColor][00][24]tribe's sole 
 survivor. [WaitForA]
@@ -11,7 +11,7 @@ nobody to defeat the
 Manaketes that serve Medeus. [WaitForA]
 I am a Fire Dragon, but I lost 
 something important at 
-Pyrathi so I cannot fight. 
+Pyrathi so I cannot fight 
 anymore.[WaitForA]
 Regardless, I will come along 
 with you. Please help me find 

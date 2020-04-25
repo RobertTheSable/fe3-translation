@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_167
 [_88][00][_89][20][80][SwitchFrame][01]
-[ShowPortait][66][06]Oh, aren't you the prince of 
+[ShowPortrait][66][06]Oh, aren't you the prince of 
 Altea? I have heard a lot about
 you.  [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][05]I heard bishop Wendell lived in 
+[ShowPortrait][8b][05]I heard bishop Wendell lived in 
 this village. [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Yes, that's right... However, 

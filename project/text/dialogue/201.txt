@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_201
 [_88][00][_89][4c][80][SwitchFrame][01]
-[ShowPortait][90][07]Abel!? Why are you... I don't 
+[ShowPortrait][90][07]Abel!? Why are you... I don't 
 believe this, you're betraying 
 your homeland!? [WaitForA][SwitchFrame][00]
-[ShowPortait][04][04]Lord Marth... Please forgive 
+[ShowPortrait][04][04]Lord Marth... Please forgive 
 me... They took Est... If I didn't 
 fight... They would kill her. [WaitForA]
 ...But after meeting your 

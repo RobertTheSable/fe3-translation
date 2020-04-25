@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_89
 [_88][00][_89][0c][80][SwitchFrame][00]
-[ShowPortait][33][04]Prince Marth... I am Archsage 
+[ShowPortrait][33][04]Prince Marth... I am Archsage 
 Gotoh. [WaitForA]
 I am currently using my magic 
 to communicate with you. [WaitForA]

@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_80
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][1b][07]Astram! Why are you here...? [WaitForA][SwitchFrame][00]
-[ShowPortait][2b][04]Midia? Is that you, Midia? [WaitForA]
+[ShowPortrait][1b][07]Astram! Why are you here...? [WaitForA][SwitchFrame][00]
+[ShowPortrait][2b][04]Midia? Is that you, Midia? [WaitForA]
 Are you alright? [WaitForA]
 It's great... to see you again. [WaitForA][SwitchFrame][01]
 [ClearFrame]

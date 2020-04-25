@@ -1,7 +1,7 @@
 @address $e6cf8a
 @width 160
 @label dialogue_497
-[_88][00][_89][21][80][ShowPortait][67][04]Have you seen that child's 
+[_88][00][_89][21][80][ShowPortrait][67][04]Have you seen that child's 
 dance? Is is really good. [WaitForA]
 Seeing it instantly 
 rejuvenates my tired body. [WaitForA][CloseFrame][02]

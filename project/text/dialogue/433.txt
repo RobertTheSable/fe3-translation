@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_433
 [_88][00][_89][c0][80][SwitchFrame][00]
-[ShowPortait][45][04]Don't think you've won. Doluna 
+[ShowPortrait][45][04]Don't think you've won. Doluna 
 will not fall. Urgh... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 83

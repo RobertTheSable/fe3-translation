@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_01
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][02][07]Prince Marth, Shiida has come 
+[ShowPortrait][02][07]Prince Marth, Shiida has come 
 from Talys castle.[WaitForA][CloseFrame][03]
 [SwitchFrame][00]
-[ShowPortait][00][04]What? Shiida, what's happened 
+[ShowPortrait][00][04]What? Shiida, what's happened 
 to the castle? [WaitForA][SwitchFrame][01]
-[ShowPortait][01][07]Marth, am I glad to see you! [WaitForA]
+[ShowPortrait][01][07]Marth, am I glad to see you! [WaitForA]
 The Galder pirates suddenly 
 attacked us. [WaitForA]
 They took over the castle, 

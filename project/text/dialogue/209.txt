@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_209
 [_88][00][_89][4c][80][SwitchFrame][00]
-[ShowPortait][26][04]That's great, Sheema. Now I 
+[ShowPortrait][26][04]That's great, Sheema. Now I 
 can finally leave without 
 worry. [WaitForA][SwitchFrame][01]
-[ShowPortait][89][07]Samson... Can you not leave...? [WaitForA][SwitchFrame][00]
+[ShowPortrait][89][07]Samson... Can you not leave...? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 You don't need me anymore. 
 From now on Prince Marth will 

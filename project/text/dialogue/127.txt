@@ -1,7 +1,7 @@
 @address $e2a7b0
 @width 160
 @label dialogue_127
-[_88][04][ShowPortait][68][04]It seems that a great bishop 
+[_88][04][ShowPortrait][68][04]It seems that a great bishop 
 resides at the northern 
 village. [WaitForA]
 But he doesn't like humans, so 

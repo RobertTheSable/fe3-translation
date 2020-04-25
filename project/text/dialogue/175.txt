@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_175
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][02][07]Your highness, we've finally 
+[ShowPortrait][02][07]Your highness, we've finally 
 got rid of the thieves, but the 
 temple has been completely 
 wrecked by them and there's [WaitForA]
 nothing left there. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Really, even the Fane of 
+[ShowPortrait][8b][04]Really, even the Fane of 
 Raman has been reduced to 
 ruins? This is a frightful age 
 we're in. [WaitForA][SwitchFrame][01]

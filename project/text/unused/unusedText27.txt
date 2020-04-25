@@ -2,7 +2,7 @@
 @width 160
 @label unused_unusedText27
 [_88][00][SwitchFrame][00]
-[ShowPortait][83][05]Ah, I should have expected no 
+[ShowPortrait][83][05]Ah, I should have expected no 
 less from you, Lord Marth. 
 Very impressive. Good work. [WaitForA]
 Leave Medon to me. Your 

@@ -2,5 +2,5 @@
 @width 160
 @label dialogue_431
 [_88][00][_89][c0][80][SwitchFrame][00]
-[ShowPortait][41][04]King Mediuth... Forgive me... [_94][20][01][CloseFrame][02]
+[ShowPortrait][41][04]King Mediuth... Forgive me... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 57

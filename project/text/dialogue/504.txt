@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_504
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][67][04]I heard General Lorenz resided 
+[ShowPortrait][67][04]I heard General Lorenz resided 
 at Talys island in his youth. [WaitForA]
 At that time, Talys was not 
 unified, and there were 

@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_239
 [_88][00][_89][48][80][SwitchFrame][01]
-[ShowPortait][7e][07]Princess Nyna! Open your 
+[ShowPortrait][7e][07]Princess Nyna! Open your 
 eyes! Be strong...! [WaitForA][SwitchFrame][00]
-[ShowPortait][61][04]Ah... I made a huge mistake. 
+[ShowPortrait][61][04]Ah... I made a huge mistake. 
 Because of my stupidity... I 
 caused such grief for Hardin. [WaitForA]
 And I made him... turn into that. 

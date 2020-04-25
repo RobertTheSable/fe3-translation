@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_498
 [_88][00][SwitchFrame][01]
-[ShowPortait][83][07]So you are Lord Marth. 
+[ShowPortrait][83][07]So you are Lord Marth. 
 Currently the situation is 
 relaxed. [WaitForA]
 We have already subdued most 
@@ -12,7 +12,7 @@ Since you are here, I will leave
 the job of defeating the 
 rebels' leader, General 
 Lorenz, to you. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Huh!? The leader of the rebels 
+[ShowPortrait][8b][04]Huh!? The leader of the rebels 
 is General Lorenz!? [WaitForA]
 Why would he rebel...? [WaitForA][SwitchFrame][01]
 [ClearFrame]

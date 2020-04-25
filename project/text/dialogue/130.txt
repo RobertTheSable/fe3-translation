@@ -2,16 +2,16 @@
 @width 160
 @label dialogue_130
 [_88][00][_89][0a][80][SwitchFrame][00]
-[ShowPortait][32][04]Marth... I've missed you so 
+[ShowPortrait][32][04]Marth... I've missed you so 
 much. [WaitForA]
 Look at how you've grown... 
 Father must be very happy... [WaitForA][CloseFrame][02]
-[ShowPortait][00][05]Sister!! After discovering that 
+[ShowPortrait][00][05]Sister!! After discovering that 
 you had been taken by 
 Gharnef, I was extremely 
 worried. [WaitForA]
 I'm glad you're safe... [WaitForA][CloseFrame][02]
-[ShowPortait][32][04]Gharnef captured me so that 
+[ShowPortrait][32][04]Gharnef captured me so that 
 he could obtain the 
 resurrection staff, Aum, from 
 Gotoh. [WaitForA]

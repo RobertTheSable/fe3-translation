@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_125
 [_88][00][_89][0c][80][SwitchFrame][00]
-[ShowPortait][33][04]Ah, Lord Marth, I am Gotoh. 
+[ShowPortrait][33][04]Ah, Lord Marth, I am Gotoh. 
 Welcome here. [WaitForA]
 Really...? You have fulfilled 
 our promise and brought both 

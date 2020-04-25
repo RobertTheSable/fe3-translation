@@ -1,7 +1,7 @@
 @address $e1cb56
 @width 160
 @label dialogue_70
-[_88][04][ShowPortait][6a][04]I hate war. It always makes 
+[_88][04][ShowPortrait][6a][04]I hate war. It always makes 
 women and children weep. [WaitForA]
 You musn't continue like this. [WaitForA]
 Head back to your lover's side 

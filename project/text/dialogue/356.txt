@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_356
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][18][04]PLEASE INFORM 
+[ShowPortrait][18][04]PLEASE INFORM 
 VINCENTASM OF DEATH
   
  [_94][20][01][CloseFrame][02]

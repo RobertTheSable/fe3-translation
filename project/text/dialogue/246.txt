@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_246
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][67][04]This country no longer has any 
+[ShowPortrait][67][04]This country no longer has any 
 young girls. The imperial 
 soldiers took them all away. [WaitForA]
 Especially beautiful girls, who 

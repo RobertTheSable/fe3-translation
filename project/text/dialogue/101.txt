@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_101
 [_88][04][SwitchFrame][00]
-[ShowPortait][6b][04]Be wary of the Devil Sword. [WaitForA]
+[ShowPortrait][6b][04]Be wary of the Devil Sword. [WaitForA]
 It has tremendous might, but if 
 you're unskilled you could 
 bring about your own death. [WaitForA][CloseFrame][02]

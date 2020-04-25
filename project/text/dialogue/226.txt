@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_226
 [_88][00][_89][0a][80][SwitchFrame][01]
-[ShowPortait][33][07]Marth, you have done well. You 
+[ShowPortrait][33][07]Marth, you have done well. You 
 have all five Spheres in your 
 possession. [WaitForA]
 Because of your efforts, the 
 lost [SetColor][00][28]Binding Shield [SetColor][00][24]has finally 
 been restored. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Yes! The five Spheres have 
+[ShowPortrait][8b][04]Yes! The five Spheres have 
 attached onto the royal 
 shield... [WaitForA]
 So this is the Binding Shield? 

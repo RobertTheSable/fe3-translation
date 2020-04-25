@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_257
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][85][04]Stealing what rightfully 
+[ShowPortrait][85][04]Stealing what rightfully 
 belongs to us thieves. To 
 think there could be such 
 people in this world... You lot [WaitForA]

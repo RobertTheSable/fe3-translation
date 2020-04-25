@@ -1,7 +1,7 @@
 @address $e1cafa
 @width 160
 @label dialogue_69
-[_88][04][ShowPortait][68][04]This is terrible. Since Akaneia 
+[_88][04][ShowPortrait][68][04]This is terrible. Since Akaneia 
 fell, this town has become so 
 desolate.[WaitForA][CloseFrame][02]
 # length: 89

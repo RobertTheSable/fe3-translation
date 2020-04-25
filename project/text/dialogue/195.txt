@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_195
 [_88][00][_89][4c][80][SwitchFrame][01]
-[ShowPortait][8b][07]Tiki!? Are you alright... [WaitForA][SwitchFrame][00]
-[ShowPortait][8f][04]Uh... [WaitForA][SwitchFrame][01]
+[ShowPortrait][8b][07]Tiki!? Are you alright... [WaitForA][SwitchFrame][00]
+[ShowPortrait][8f][04]Uh... [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Tiki, it's me, Marth. Hey, open 
 your eyes! [WaitForA][SwitchFrame][00]

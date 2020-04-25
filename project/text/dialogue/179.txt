@@ -1,6 +1,6 @@
 @address $e3c438
 @width 160
 @label dialogue_179
-[_88][00][_89][21][80][ShowPortait][6a][04]It seems the relations between 
+[_88][00][_89][21][80][ShowPortrait][6a][04]It seems the relations between 
 two archers should be good. [WaitForA][CloseFrame][02]
 # length: 79

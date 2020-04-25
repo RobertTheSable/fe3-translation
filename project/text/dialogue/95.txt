@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_95
 [_88][00][_89][0a][80][SwitchFrame][00]
-[ShowPortait][00][04]Soldiers of Altea, and the 
+[ShowPortrait][00][04]Soldiers of Altea, and the 
 warriors that have fought 
 alongside us, I am truly 
 grateful to you all. [WaitForA]

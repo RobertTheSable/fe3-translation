@@ -1,7 +1,7 @@
 @address $e2bdfe
 @width 160
 @label dialogue_141
-[_88][04][ShowPortait][67][04]The Fane of Raman houses 
+[_88][04][ShowPortrait][67][04]The Fane of Raman houses 
 [SetColor][00][28]three Spheres [SetColor][00][24]containing 
 great power. [WaitForA]
 The [SetColor][00][28]Lightsphere [SetColor][00][24], [SetColor][00][28]Starsphere  [SetColor][00][24]

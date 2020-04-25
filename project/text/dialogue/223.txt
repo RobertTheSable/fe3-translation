@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_223
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][93][04]Marth...? As a servant of the 
+[ShowPortrait][93][04]Marth...? As a servant of the 
 Empire, you dared to invade 
 Pales. [WaitForA]
 I am disappointed in you. So 
 Altea's Prince of Light is just 
 a lowlife. [WaitForA][SwitchFrame][01]
-[ShowPortait][90][07]Hardin! You are being 
+[ShowPortrait][90][07]Hardin! You are being 
 controlled by the Darksphere, 
 and have lost your just heart!! [WaitForA]
 Please, you must return to 

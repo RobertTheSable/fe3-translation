@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_516
 [_88][00][SwitchFrame][00]
-[ShowPortait][83][05]Ah, I should have expected no 
+[ShowPortrait][83][05]Ah, I should have expected no 
 less from you, Lord Marth. 
 Very impressive. Good work. [WaitForA]
 Leave Medon to me. Your 
 highness, you have a new 
 mission. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][06]General Lang, what is it this 
+[ShowPortrait][8b][06]General Lang, what is it this 
 time?[WaitForA][SwitchFrame][00]
 [ClearFrame]
 ...Well... My castle was 
@@ -64,7 +64,7 @@ longer stay silent. I want to
 find Ogma, so we can rescue 
 those children. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][02][06]I understand. You've had to 
+[ShowPortrait][02][06]I understand. You've had to 
 stay patient for so long. I 
 have also reached my 
 limits. [WaitForA]

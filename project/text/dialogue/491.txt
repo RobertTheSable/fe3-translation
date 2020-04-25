@@ -1,7 +1,7 @@
 @address $e6cc54
 @width 160
 @label dialogue_491
-[_88][00][_89][21][80][ShowPortait][67][04]The holy Fane of Raman, to the 
+[_88][00][_89][21][80][ShowPortrait][67][04]The holy Fane of Raman, to the 
 thieves, is just an ancient 
 building. [WaitForA]
 Those thieving rogues living in 

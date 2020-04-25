@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_153
 [_88][00][_89][43][80][SwitchFrame][01]
-[ShowPortait][2f][07]Julian! Catria has finally 
+[ShowPortrait][2f][07]Julian! Catria has finally 
 brought the Altean knights 
 here. [WaitForA]
 I will go with them to rescue 
 Princess Minerva. Please take 
 Lena and hurry to safety. [WaitForA][SwitchFrame][00]
-[ShowPortait][0f][04]That isn't possible, Palla. Miss 
+[ShowPortrait][0f][04]That isn't possible, Palla. Miss 
 Lena's gone missing... I'm not 
 leaving just by myself. [WaitForA][SwitchFrame][01]
 [ClearFrame]

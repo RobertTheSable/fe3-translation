@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_191
 [_88][00][_89][1e][80][SwitchFrame][01]
-[ShowPortait][28][07]Phew. We've finally passed the 
+[ShowPortrait][28][07]Phew. We've finally passed the 
 Fire Dragons' valley. Are you 
 okay, Marth? [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Uh... Yeah, I'm fine. Xane, 
+[ShowPortrait][8b][04]Uh... Yeah, I'm fine. Xane, 
 you said that there were other 
 wild dragons elsewhere. Is that
 true?  [WaitForA][SwitchFrame][01]

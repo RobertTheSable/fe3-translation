@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_148
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][6a][04]After the previous war ended, 
+[ShowPortrait][6a][04]After the previous war ended, 
 Princess Nyna handed over 
 this country to General 
 Lorenz, and allowed him to [WaitForA]

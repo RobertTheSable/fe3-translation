@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_249
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][6b][04]The commander of Khadein's 
+[ShowPortrait][6b][04]The commander of Khadein's 
 mage army, is a youth called 
 Elrean. Although he's not a bad 
 guy, he can be unreasonable. [WaitForA]

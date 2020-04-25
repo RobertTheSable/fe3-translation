@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_115
 [_88][00][_89][45][80][SwitchFrame][01]
-[ShowPortait][00][07]General Camus. I don't want to 
+[ShowPortrait][00][07]General Camus. I don't want to 
 fight you. [WaitForA]
 You should understand that 
 this battle is meaningless. [WaitForA]
@@ -10,7 +10,7 @@ Nyna also wants to see you. [WaitForA]
 Please forget about the past, 
 and drop your sword. [WaitForA][CloseFrame][03]
 [SwitchFrame][00]
-[ShowPortait][4b][04]Prince Marth... It's already too 
+[ShowPortrait][4b][04]Prince Marth... It's already too 
 late... [WaitForA]
 My homeland, Grust, must help 
 Doluna achieve its ambitions. [WaitForA]
@@ -22,7 +22,7 @@ And besides, I caused your
 father's death... [WaitForA]
 Why don't we just end 
 everything here?[WaitForA][SwitchFrame][01]
-[ShowPortait][61][07]Wait Camus... I beg of you. [WaitForA]
+[ShowPortrait][61][07]Wait Camus... I beg of you. [WaitForA]
 Your fight with Prince Marth 
 isn't what I wish to see. [WaitForA]
 Please... I beg of you, help us...

@@ -2,14 +2,14 @@
 @width 160
 @label dialogue_500
 [_88][00][_89][47][80][SwitchFrame][01]
-[ShowPortait][31][07]Lord Marth! It's you... [WaitForA]
+[ShowPortrait][31][07]Lord Marth! It's you... [WaitForA]
 Although I knew the enemy's 
 reinforcements had come, but 
 I didn't expect it was you... [WaitForA]
 It is a shame, that we must 
 fight Altea... And fight against 
 your highness... [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Please wait. I don't intend to 
+[ShowPortrait][8b][04]Please wait. I don't intend to 
 fight with you. [WaitForA]
 From the citizens I have 
 discovered disturbing facts 

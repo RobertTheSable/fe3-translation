@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_26
 [_88][00][_89][0d][80][SwitchFrame][00]
-[ShowPortait][63][04]Oh, Prince Marth, you came at 
+[ShowPortrait][63][04]Oh, Prince Marth, you came at 
 the perfect time. [WaitForA]
 Princess Nyna has almost 
 arrived here from the fort. [WaitForA]

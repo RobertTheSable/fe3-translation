@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_164
 [_88][00][_89][6d][80][SwitchFrame][01]
-[ShowPortait][74][07]Captain Jeorge. The 
+[ShowPortrait][74][07]Captain Jeorge. The 
 commander ordered us to 
 return to the castle 
 immediately. [WaitForA][SwitchFrame][00]
-[ShowPortait][20][04]Lang...? I hate that guy. He 
+[ShowPortrait][20][04]Lang...? I hate that guy. He 
 treats the civilians like 
 slaves. [WaitForA]
 I'm not seriously going to work 

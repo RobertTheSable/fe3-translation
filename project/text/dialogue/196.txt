@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_196
 [_88][00][_89][50][80][SwitchFrame][00]
-[ShowPortait][33][04]Prince Marth, you finally came![WaitForA]
+[ShowPortrait][33][04]Prince Marth, you finally came![WaitForA]
 I should have expected 
 nothing less from the one who 
 possesses the heroic bloodline 

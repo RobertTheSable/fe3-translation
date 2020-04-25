@@ -1,10 +1,10 @@
 @address $e29227
 @width 160
 @label dialogue_116
-[_88][00][_89][0a][80][ShowPortait][00][04]Nyna... I'm sorry. [WaitForA]
+[_88][00][_89][0a][80][ShowPortrait][00][04]Nyna... I'm sorry. [WaitForA]
 I couldn't fulfil my promise to 
 you... [WaitForA][SwitchFrame][01]
-[ShowPortait][61][07]No, Marth... You have also 
+[ShowPortrait][61][07]No, Marth... You have also 
 suffered. [WaitForA]
 I'm sorry. ...Really. [WaitForA]
 I already knew that this would 

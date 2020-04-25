@@ -2,20 +2,20 @@
 @width 160
 @label dialogue_122
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][4c][06]Gotoh, the allied army has 
+[ShowPortrait][4c][06]Gotoh, the allied army has 
 come. [WaitForA]
 This place is going to become a 
 battlefield. 
 Please leave to safety. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][33][07]Mmm... I understand. [WaitForA]
+[ShowPortrait][33][07]Mmm... I understand. [WaitForA]
 but Michalis, you truly are a 
 fool. [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][4c][06][_17][ef][ff][Exclaim2].... 
+[ShowPortrait][4c][06][_17][ef][ff][Exclaim2].... 
 [_16][10][00]Why did you call me a fool!? [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][33][07]You love Minerva and she 
+[ShowPortrait][33][07]You love Minerva and she 
 deeply respects you. [WaitForA]
 Since you were young, you two 
 both discussed the future of 
@@ -33,7 +33,7 @@ pointless ambition, which
 would lead this country down 
 the path of ruin...[WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][4c][06]...That is already in the past. [WaitForA]
+[ShowPortrait][4c][06]...That is already in the past. [WaitForA]
 Minerva betrayed me and 
 betrayed this country... [WaitForA]
 But, Gotoh, I haven't lost yet. [WaitForA]
@@ -47,7 +47,7 @@ Marth, for you to see. [WaitForA]
 That is my final will, as king of 
 Medon! [WaitForA][CloseFrame][03]
 [SwitchFrame][01]
-[ShowPortait][33][07]Really...? Then I have nothing 
+[ShowPortrait][33][07]Really...? Then I have nothing 
 more to say. [WaitForA]
 Go! Michalis, go and punish 
 yourself, for the crime of 

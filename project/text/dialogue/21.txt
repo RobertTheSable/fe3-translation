@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_21
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][01][07]Swordfighter Nabarl! [WaitForA]
+[ShowPortrait][01][07]Swordfighter Nabarl! [WaitForA]
 Why would a person like you 
 become a bodyguard for these 
 bandits? [WaitForA][SwitchFrame][00]
-[ShowPortait][12][04]...!? Huh, who are you? [WaitForA]
+[ShowPortrait][12][04]...!? Huh, who are you? [WaitForA]
 I have no business with women 
 or children! Get out of here!! [WaitForA][SwitchFrame][01]
 [ClearFrame]

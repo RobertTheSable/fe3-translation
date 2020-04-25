@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_469
 [_88][00][SwitchFrame][00]
-[ShowPortait][33][04]Marth, courageous prince of 
+[ShowPortrait][33][04]Marth, courageous prince of 
 Altea. [WaitForA]
 Because of your efforts, the 
 Shadow Dragon, Medeus, has 

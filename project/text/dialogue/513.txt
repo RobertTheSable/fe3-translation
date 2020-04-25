@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_513
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][02][04]Your highness, we've entered 
+[ShowPortrait][02][04]Your highness, we've entered 
 the castle! [WaitForA]
 But, don't forget that Hardin 
 is being protected by the 

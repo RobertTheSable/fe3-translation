@@ -1,7 +1,7 @@
 @address $e1f506
 @width 160
 @label dialogue_103
-[_88][04][ShowPortait][68][04]Princess Elice was taken away 
+[_88][04][ShowPortrait][68][04]Princess Elice was taken away 
 by a bishop called Gharnef, 
 and now her whereabouts are 
 unknown. [WaitForA]

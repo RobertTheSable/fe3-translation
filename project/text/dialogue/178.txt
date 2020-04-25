@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_178
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][06][07]Mister Jeorge! Please wait a 
+[ShowPortrait][06][07]Mister Jeorge! Please wait a 
 second! [WaitForA][SwitchFrame][00]
-[ShowPortait][20][04]Huh? ...Gordin? Long time no 
+[ShowPortrait][20][04]Huh? ...Gordin? Long time no 
 see. [WaitForA]
 You appear stronger, but has 
 your archery improved? [WaitForA][SwitchFrame][01]

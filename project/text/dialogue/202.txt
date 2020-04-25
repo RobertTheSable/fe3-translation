@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_202
 [_88][00][_89][0a][80][SwitchFrame][00]
-[ShowPortait][8b][04]That was a fierce battle. Is 
+[ShowPortrait][8b][04]That was a fierce battle. Is 
 everybody alright? [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Don't worry, they have been 
+[ShowPortrait][02][07]Don't worry, they have been 
 awaiting this day for a long 
 time. [WaitForA][SwitchFrame][00]
 [ClearFrame]

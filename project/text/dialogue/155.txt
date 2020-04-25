@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_155
 [_88][00][_89][4c][80][SwitchFrame][00]
-[ShowPortait][0f][05]Your highness, it's been a long 
+[ShowPortrait][0f][05]Your highness, it's been a long 
 time. It's me, Julian. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][06]Julian!? Even though I heard 
+[ShowPortrait][8b][06]Julian!? Even though I heard 
 you went to Medon with Lena, I 
 didn't expect to see you 
 here... [WaitForA]

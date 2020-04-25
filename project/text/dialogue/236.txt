@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_236
 [_88][00][_89][48][80][SwitchFrame][01]
-[ShowPortait][8e][07]Elice! It's me, Merric! Please 
+[ShowPortrait][8e][07]Elice! It's me, Merric! Please 
 open your eyes. [WaitForA]
 I studied magic so that I could 
 protect you... Yet I still 
@@ -10,7 +10,7 @@ couldn't do that, or be by your
 side... [WaitForA]
 Elice... I'm begging you... 
 Please open your eyes! [WaitForA][SwitchFrame][00]
-[ShowPortait][32][04]Merric...? [WaitForA]
+[ShowPortrait][32][04]Merric...? [WaitForA]
 ...! Oh, Merric! Save me... 
 Gharnef, he... is so 
 frightening... Please save me! [WaitForA][SwitchFrame][01]

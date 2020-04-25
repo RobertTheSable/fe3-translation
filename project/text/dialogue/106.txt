@@ -1,7 +1,7 @@
 @address $e1f6f6
 @width 160
 @label dialogue_106
-[_88][04][ShowPortait][67][04]Please listen carefully, this is 
+[_88][04][ShowPortrait][67][04]Please listen carefully, this is 
 very important. To the south 
 west are two villages. [WaitForA]
 At the western village resides 

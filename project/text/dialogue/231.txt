@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_231
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][90][04]What is this strange air? It 
+[ShowPortrait][90][04]What is this strange air? It 
 feels like it's full of evil 
 spirits. [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]That is true... My body appears 
+[ShowPortrait][02][07]That is true... My body appears 
 to be frozen. These are the 
 evil spirits of the Earth 
 Dragons. [WaitForA]

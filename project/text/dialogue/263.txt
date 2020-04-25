@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_263
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][89][04]You... You dare treat my 
+[ShowPortrait][89][04]You... You dare treat my 
 citizens like that... Die! [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 81

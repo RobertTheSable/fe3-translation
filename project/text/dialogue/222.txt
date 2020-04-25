@@ -2,16 +2,16 @@
 @width 160
 @label dialogue_222
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][93][04]Midia, even you betrayed me. 
+[ShowPortrait][93][04]Midia, even you betrayed me. 
 Akaneia's paladins have lost 
 their touch. [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][1b][05]You fool!! Don't you see it? 
+[ShowPortrait][1b][05]You fool!! Don't you see it? 
 What you're doing isn't normal. [WaitForA]
 Where did you take Nyna to? 
 Bring her back to us now!! [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][93][04]Nyna! That woman betrayed 
+[ShowPortrait][93][04]Nyna! That woman betrayed 
 me. [WaitForA]
 I just wanted to destroy 
 Grust. And she had to go and 
@@ -19,7 +19,7 @@ give the Emblem to that boy... [WaitForA]
 Those who betray me must die. 
 Midia, you're no exception!! [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][1b][05]If you want to take my life, go 
+[ShowPortrait][1b][05]If you want to take my life, go 
 ahead. [WaitForA]
 But, Hardin... Do you know how 
 much suffering you've caused 
@@ -27,7 +27,7 @@ because of your stupid
 jealousy? [WaitForA]
 Just open your eyes and see! [WaitForA][CloseFrame][02]
 [SwitchFrame][00]
-[ShowPortait][93][04]Stupid jealousy...? Haha. You 
+[ShowPortrait][93][04]Stupid jealousy...? Haha. You 
 can say what you like. [WaitForA]
 This world is corrupt and full 
 of annoying people. Is this kind

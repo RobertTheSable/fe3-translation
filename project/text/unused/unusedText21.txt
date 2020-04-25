@@ -2,9 +2,9 @@
 @width 160
 @label unused_unusedText21
 @type default
-[_88][00][_89][0e][80][_0c][00][ShowPortait][11][04]Oh! Prince Marth, it's been a 
+[_88][00][_89][0e][80][_0c][00][ShowPortrait][11][04]Oh! Prince Marth, it's been a 
 while. [WaitForA][SwitchFrame][01]
-[ShowPortait][00][07]Huh? Oh, Merric... Merric!? [WaitForA][SwitchFrame][00]
+[ShowPortrait][00][07]Huh? Oh, Merric... Merric!? [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Yeah, it's me! [WaitForA]
 When I was studying at 

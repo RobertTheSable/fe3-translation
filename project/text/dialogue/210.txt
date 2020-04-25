@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_210
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][02][07]Lord Marth, if this battle 
+[ShowPortrait][02][07]Lord Marth, if this battle 
 continues it will become 
 meaningless, and will only give 
 more time for Hardin. [WaitForA][SwitchFrame][00]
-[ShowPortait][8b][04]Mmm, I was thinking the same. 
+[ShowPortrait][8b][04]Mmm, I was thinking the same. 
 If we keep heading east, more 
 needless blood will be spilt. [WaitForA]
 So I have decided a different 

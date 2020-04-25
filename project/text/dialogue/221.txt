@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_221
 [_88][00][_89][45][80][SwitchFrame][00]
-[ShowPortait][24][05]Oh, Lord Marth. I've been 
+[ShowPortrait][24][05]Oh, Lord Marth. I've been 
 waiting for you. [WaitForA][SwitchFrame][01]
-[ShowPortait][8b][06]Boah!? You've suffered a 
+[ShowPortrait][8b][06]Boah!? You've suffered a 
 grave wound... What 
 happened? [WaitForA][SwitchFrame][00]
 [ClearFrame]

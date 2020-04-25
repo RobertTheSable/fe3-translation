@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_217
 [_88][00][_89][0a][80][SwitchFrame][00]
-[ShowPortait][8b][04]Jagen, it seems we've finally 
+[ShowPortrait][8b][04]Jagen, it seems we've finally 
 crossed the peak. Pales isn't 
 far from here. [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Yes, if we go down from here, 
+[ShowPortrait][02][07]Yes, if we go down from here, 
 we will reach the capital of 
 Pales in an instant. [WaitForA]
 Also, your highness, I just 

@@ -1,7 +1,7 @@
 @address $e1b2a9
 @width 160
 @label dialogue_53
-[_88][04][ShowPortait][69][04]In the forts, there are many 
+[_88][04][ShowPortrait][69][04]In the forts, there are many 
 enemies making preparations 
 for battle. [WaitForA]
 It's best to take control of 

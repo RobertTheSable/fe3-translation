@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_205
 [_88][00][_89][0e][80][SwitchFrame][01]
-[ShowPortait][20][06]Astram, how are you doing? [WaitForA][SwitchFrame][00]
-[ShowPortait][2b][05]So it's the traitor, Jeorge. 
+[ShowPortrait][20][06]Astram, how are you doing? [WaitForA][SwitchFrame][00]
+[ShowPortrait][2b][05]So it's the traitor, Jeorge. 
 What do you want with me? [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Wait, Astram. General Eibel has 

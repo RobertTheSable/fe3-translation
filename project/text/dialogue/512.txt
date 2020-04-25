@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_512
 [_88][00][SwitchFrame][00]
-[ShowPortait][91][04]HAHAHA... IT'S NOT OVER YET. 
+[ShowPortrait][91][04]HAHAHA... IT'S NOT OVER YET. 
 YOUR NAIVITY... WILL DESTROY
 YOU...  [WaitForA]
 THOSE CLERICS WILL BE 

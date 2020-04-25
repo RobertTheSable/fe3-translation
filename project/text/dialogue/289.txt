@@ -2,5 +2,5 @@
 @width 160
 @label dialogue_289
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][14][04]Lord Hardin... [_94][20][01][CloseFrame][02]
+[ShowPortrait][14][04]Lord Hardin... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 42

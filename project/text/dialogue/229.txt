@@ -2,11 +2,11 @@
 @width 160
 @label dialogue_229
 [_88][00][_89][48][80][SwitchFrame][00]
-[ShowPortait][8b][04]Prince Michalis!? What are you 
+[ShowPortrait][8b][04]Prince Michalis!? What are you 
 doing here? [WaitForA]
 And you've suffered a grave 
 wound. What happened? [WaitForA][SwitchFrame][01]
-[ShowPortait][4c][07]...Marth... ...I have been 
+[ShowPortrait][4c][07]...Marth... ...I have been 
 waiting... for you... [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Huh!? [WaitForA][SwitchFrame][01]

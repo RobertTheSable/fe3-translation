@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_266
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][15][04]You... Why are you invading 
+[ShowPortrait][15][04]You... Why are you invading 
 other countries? Have you 
 been blinded by ambition? [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 111

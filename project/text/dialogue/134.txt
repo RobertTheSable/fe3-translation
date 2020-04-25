@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_134
 [_88][00][_89][12][80][SwitchFrame][00]
-[ShowPortait][49][04]This world, and everything on 
+[ShowPortrait][49][04]This world, and everything on 
 it, is ours... 
 The ones who intruded were 
 you humans! [_94][20][01][CloseFrame][02]

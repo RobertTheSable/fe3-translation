@@ -1,7 +1,7 @@
 @address $e0e7e2
 @width 160
 @label dialogue_04
-[_88][00][_89][20][80][ShowPortait][64][04]Prince Marth, please wait. [WaitForA]
+[_88][00][_89][20][80][ShowPortrait][64][04]Prince Marth, please wait. [WaitForA]
 This is what the villagers 
 gathered up. [WaitForA]
 All together there's 5000 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_60
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortait][92][04]Greetings, Prince Marth. I am 
+[ShowPortrait][92][04]Greetings, Prince Marth. I am 
 Minerva of Medon. [WaitForA]
 Thank you for rescuing Maria. [WaitForA]
 We were on opposing sides in 

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_441
 [_88][00][SwitchFrame][00]
-[ShowPortait][13][04]Marth... Your highness... I have 
+[ShowPortrait][13][04]Marth... Your highness... I have 
 finally awakened... From my 
 deep dream... [_94][20][01]
 

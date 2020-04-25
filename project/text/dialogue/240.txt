@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_240
 [_88][00][_89][20][80][SwitchFrame][00]
-[ShowPortait][69][04]Your highness. Thank you for 
+[ShowPortrait][69][04]Your highness. Thank you for 
 rescuing this village. [WaitForA]
 We don't have much to reward 
 you with, but please take this 

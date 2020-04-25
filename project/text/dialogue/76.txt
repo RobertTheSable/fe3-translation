@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_76
 [_88][00][_89][0a][80][SwitchFrame][00]
-[ShowPortait][61][04]Thank you, Prince Marth. It 
+[ShowPortrait][61][04]Thank you, Prince Marth. It 
 was all thanks to your help 
 that we could return to Pales. [WaitForA]
 This radiant bow is called 

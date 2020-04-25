@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_445
 [_88][00][_89][11][80][SwitchFrame][00]
-[ShowPortait][28][04]Hey! Wait, I'm not an enemy. 
+[ShowPortrait][28][04]Hey! Wait, I'm not an enemy. 
 Don't fight me! [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 74

@@ -1,7 +1,7 @@
 @address $e6c547
 @width 160
 @label dialogue_481
-[_88][04][ShowPortait][67][04]If you get separated during 
+[_88][04][ShowPortrait][67][04]If you get separated during 
 battle, it can be dangerous. [WaitForA]
 But, having somebody distract 
 the enemy is also a good 

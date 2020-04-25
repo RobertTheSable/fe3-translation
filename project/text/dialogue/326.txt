@@ -2,6 +2,6 @@
 @width 160
 @label dialogue_326
 [_88][00][_89][bf][80][SwitchFrame][00]
-[ShowPortait][80][04]How annoying, why here...? 
+[ShowPortrait][80][04]How annoying, why here...? 
 Lord Marth... [_94][20][01][CloseFrame][02]
 [_89][ff][ff]# length: 70

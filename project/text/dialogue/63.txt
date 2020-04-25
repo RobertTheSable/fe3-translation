@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_63
 [_88][04][SwitchFrame][00]
-[ShowPortait][67][04]This world has three great 
+[ShowPortrait][67][04]This world has three great 
 bishops. [WaitForA]
 [SetColor][00][2c]Pontifex Miloah [WaitForA]
 Dark Pontifex Gharnef[WaitForA]

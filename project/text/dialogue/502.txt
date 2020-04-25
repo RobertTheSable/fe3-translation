@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_502
 [_88][00][_89][61][80][SwitchFrame][00]
-[ShowPortait][67][04]The deceased King Grust had 
+[ShowPortrait][67][04]The deceased King Grust had 
 two children: [WaitForA]
 Princess Yumina and Prince 
 Yubello, twins of 13 to 14 

@@ -2,13 +2,13 @@
 @width 160
 @label dialogue_235
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][90][04]...! 
+[ShowPortrait][90][04]...! 
 [_16][10][00]Isn't that my sister and the 
 others!? Who are they 
 protecting...? [WaitForA]
 Damn... That's... Is that 
 Medeus...? [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]Wait, if the princesses are in 
+[ShowPortrait][02][07]Wait, if the princesses are in 
 the way, your highness's sword
 will be unable to strike.  [WaitForA]
 We must think of something 

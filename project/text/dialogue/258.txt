@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_258
 [_88][00][_89][39][80][SwitchFrame][00]
-[ShowPortait][93][04]Rebels... Did you come here to 
+[ShowPortrait][93][04]Rebels... Did you come here to 
 get yourselves killed? 
 I'll show you to fear my 
 Gradivus!! [_94][20][01][CloseFrame][02]

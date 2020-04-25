@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_169
 [_88][00][_89][47][80][SwitchFrame][00]
-[ShowPortait][83][04]Hahaha... They're here? [WaitForA]
+[ShowPortrait][83][04]Hahaha... They're here? [WaitForA]
 Our reinforcements will be 
 arriving soon. If we hold out 
 long enough, we'll be able to 
@@ -12,7 +12,7 @@ they open the gate that will be
 your chance to attack. [WaitForA]
 Don't hold back, just kill them 
 all!! [WaitForA][SwitchFrame][01]
-[ShowPortait][12][07]Uh... Okay. The Altean knights 
+[ShowPortrait][12][07]Uh... Okay. The Altean knights 
 are, um, nothing to me. Yeah... [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Oh! I should have expected no 

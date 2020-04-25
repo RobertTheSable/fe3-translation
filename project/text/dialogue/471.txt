@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_471
 [_88][00][SwitchFrame][00]
-[ShowPortait][33][04]Tiki... Don't be so happy. Many 
+[ShowPortrait][33][04]Tiki... Don't be so happy. Many 
 people died in this battle. [WaitForA]
 Marth, to you, this victory is 
 also painful. Losing your loved 

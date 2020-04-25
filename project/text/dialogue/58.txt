@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_58
 [_88][00][_89][0a][80][SwitchFrame][01]
-[ShowPortait][61][07]Prince Marth, do you know 
+[ShowPortrait][61][07]Prince Marth, do you know 
 about Akaneia's Archbishop 
 Miloah? [WaitForA][SwitchFrame][00]
-[ShowPortait][00][04]Yes. The great bishop who 
+[ShowPortrait][00][04]Yes. The great bishop who 
 protected Akaneia with his 
 Aura tome... [WaitForA]
 He died in battle against 

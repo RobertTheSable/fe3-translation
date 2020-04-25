@@ -2,10 +2,10 @@
 @width 160
 @label dialogue_233
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][4e][05]Come, boy, you want to stop 
+[ShowPortrait][4e][05]Come, boy, you want to stop 
 me again? This time I won't 
 spare you!!  [WaitForA][SwitchFrame][01]
-[ShowPortait][90][06]Gharnef, give my sister and 
+[ShowPortrait][90][06]Gharnef, give my sister and 
 the others back!! Where have 
 you taken them!? [WaitForA][SwitchFrame][00]
 [ClearFrame]

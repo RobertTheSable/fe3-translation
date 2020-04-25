@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_132
 [_88][00][_89][0b][80][SwitchFrame][01]
-[ShowPortait][60][07]Your highness, look. 
+[ShowPortrait][60][07]Your highness, look. 
 That is Medeus's castle. [WaitForA][SwitchFrame][00]
-[ShowPortait][00][04]... We've finally reached it. 
+[ShowPortrait][00][04]... We've finally reached it. 
 But why hasn't Medeus left the 
 castle to fight? [WaitForA][SwitchFrame][01]
 [ClearFrame]

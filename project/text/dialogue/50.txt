@@ -1,7 +1,7 @@
 @address $e1aed6
 @width 160
 @label dialogue_50
-[_88][04][ShowPortait][6a][04]The port of Warren seems to 
+[_88][04][ShowPortrait][6a][04]The port of Warren seems to 
 have lots of rarities for sale. [WaitForA]
 If you're going there, don't go 
 overboard with your shopping. [WaitForA][CloseFrame][02]

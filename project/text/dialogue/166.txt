@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_166
 [_88][00][_89][4d][80][SwitchFrame][01]
-[ShowPortait][0f][06]Hey, Rickard! What are you 
+[ShowPortrait][0f][06]Hey, Rickard! What are you 
 doing here?[WaitForA][SwitchFrame][00]
-[ShowPortait][07][05]Oh, big bro. It's been so long. [WaitForA]
+[ShowPortrait][07][05]Oh, big bro. It's been so long. [WaitForA]
 Originally I planned to earn 
 money with you. But you had 
 already stopped your ways. [WaitForA]

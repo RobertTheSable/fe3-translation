@@ -2,12 +2,12 @@
 @width 160
 @label dialogue_67
 [_88][00][_89][20][80][SwitchFrame][00]
-[ShowPortait][72][04]Do you need a slave? [WaitForA]
+[ShowPortrait][72][04]Do you need a slave? [WaitForA]
 Right now we only have 
 weakling kids for sale, but we 
 can sell them to you for a 
 cheap price. [WaitForA][SwitchFrame][01]
-[ShowPortait][00][07]You are selling children... How 
+[ShowPortrait][00][07]You are selling children... How 
 dare you!! [WaitForA]
 If you want to live, release the
 children, and leave this place  
@@ -22,7 +22,7 @@ You must have suffered, but
 it's alright now. Please return 
 safely to your homes. [WaitForA]
 .....Why aren't you leaving? [WaitForA][SwitchFrame][00]
-[ShowPortait][73][04]I... I no longer have a home to 
+[ShowPortrait][73][04]I... I no longer have a home to 
 go back to. [WaitForA]
 [SwitchFrame][01]
 [ClearFrame]

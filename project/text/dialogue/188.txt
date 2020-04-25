@@ -2,8 +2,8 @@
 @width 160
 @label dialogue_188
 [_88][00][_89][1e][80][SwitchFrame][00]
-[ShowPortait][8b][05]Jagen, this place is...[WaitForA][SwitchFrame][01]
-[ShowPortait][02][06]This is the death desert of 
+[ShowPortrait][8b][05]Jagen, this place is...[WaitForA][SwitchFrame][01]
+[ShowPortrait][02][06]This is the death desert of 
 Marmotord.[WaitForA]
 There was a story about it in 
 the Anri Saga. [WaitForA]

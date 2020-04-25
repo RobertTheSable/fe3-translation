@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_256
 [_88][00][_89][3a][80][SwitchFrame][00]
-[ShowPortait][83][04]Please... Please wait. I'm 
+[ShowPortrait][83][04]Please... Please wait. I'm 
 sorry... Please forgive me... I 
 was just following the 
 Emperor's orders. [_94][20][01]

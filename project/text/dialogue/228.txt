@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_228
 [_88][00][_89][43][80][SwitchFrame][00]
-[ShowPortait][8b][04]Jagen, where is this? Is this 
+[ShowPortrait][8b][04]Jagen, where is this? Is this 
 Medon, or Doluna?  [WaitForA][SwitchFrame][01]
-[ShowPortait][02][07]We're right at the countries' 
+[ShowPortrait][02][07]We're right at the countries' 
 border. This is where Medon's 
 wyverns are born. [WaitForA]
 However, these lands are 

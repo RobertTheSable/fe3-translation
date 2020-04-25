@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_472
 [_88][00][SwitchFrame][00]
-[ShowPortait][33][04]Marth, to you, this victory is 
+[ShowPortrait][33][04]Marth, to you, this victory is 
 also painful. Losing your loved 
 ones, and having to live all 
 alone. [WaitForA]

@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_510
 [_88][00][_89][60][80][SwitchFrame][00]
-[ShowPortait][33][04]Prince Marth. The altar is 
+[ShowPortrait][33][04]Prince Marth. The altar is 
 probably full of crazed 
 barbarians and Mage Dragons 
 that have lost their mind. [WaitForA]

@@ -2,14 +2,14 @@
 @width 160
 @label dialogue_79
 [_88][00][_89][0d][80][SwitchFrame][01]
-[ShowPortait][60][07]Prince Marth, we searched the 
+[ShowPortrait][60][07]Prince Marth, we searched the 
 whole castle, but the divine 
 Falchion sword is nowhere to 
 be found. [WaitForA]
 It seems the rumours were 
 true. It has already been taken
 away by Gharnef.  [WaitForA][SwitchFrame][00]
-[ShowPortait][00][04]Really...? But, without the 
+[ShowPortrait][00][04]Really...? But, without the 
 Falchion we cannot defeat 
 Medeus. [WaitForA]
 ...I'm sorry everyone, but even 

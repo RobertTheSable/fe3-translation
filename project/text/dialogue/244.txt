@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_244
 [_88][00][_89][21][80][SwitchFrame][00]
-[ShowPortait][69][04]I'll tell you a secret. That 
+[ShowPortrait][69][04]I'll tell you a secret. That 
 armoury seems to have 
 connections with the rebels. [WaitForA]
 If you're going to visit it, be 
