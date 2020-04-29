@@ -1,5 +1,0 @@
-@address $e7b7de
-@width 240
-@type nodigraph
-@label ChapterTitles_27
-BBBB   Ch7 Scarlet Swordsman  # length: 32

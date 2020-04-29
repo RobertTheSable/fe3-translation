@@ -1,5 +1,0 @@
-@address $e7b83e
-@width 240
-@type nodigraph
-@label ChapterTitles_30
-BBBB  Ch10 Two Mages          # length: 32
