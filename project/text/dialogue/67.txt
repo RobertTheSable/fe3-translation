@@ -13,7 +13,7 @@ If you want to live, release the
 children, and leave this place  
 at once!! [WaitForA][SwitchFrame][00]
 [ClearFrame]
-Ah, the Aritian army!!? [WaitForA]
+Ah, the Altean army!!? [WaitForA]
 Help! [WaitForA]
 [CloseFrame][02]
 [SwitchFrame][01]

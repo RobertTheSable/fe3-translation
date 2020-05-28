@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_99
 [_88][00][_89][0e][80][SwitchFrame][00]
-[ShowPortrait][28][04]Oh, Aritia's prince. [WaitForA]
+[ShowPortrait][28][04]Oh, Altea's prince. [WaitForA]
 Thanks to you I was able to 
 escape. [WaitForA]
 I am Xane. I came here from a 
