@@ -10,6 +10,9 @@ Credits:
         Neill Corlett - For the translated title screenï»¿
         
 Changelog:
+    beta 0.20:
+        - Fix a mistake in Bantus B1 join dialogue.
+        - Correct some naming inconsistencies.
     beta 0.19:
         - Fixed the hidden treasure popup location for 1.1 ROMs.
     beta 0.18:
