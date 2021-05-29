@@ -1,7 +1,7 @@
 @address $e2c321
 @width 160
 @label dialogue_147
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][31][06]It seems the Empire's 
 reinforcements have come. It's
 already reached this stage...  [WaitForA]

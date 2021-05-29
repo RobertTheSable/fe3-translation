@@ -1,7 +1,7 @@
 @address $e5c53a
 @width 160
 @label dialogue_228
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Jagen, where is this? Is this 
 Medon, or Doluna?  [WaitForA][SwitchFrame][01]
 [ShowPortrait][02][07]We're right at the countries' 

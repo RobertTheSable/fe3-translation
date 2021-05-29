@@ -1,7 +1,7 @@
 @address $e6a807
 @width 160
 @label dialogue_445
-[_88][00][_89][11][80][SwitchFrame][00]
+[_88][00][PlaySong][11][80][SwitchFrame][00]
 [ShowPortrait][28][04]Hey! Wait, I'm not an enemy. 
 Don't fight me! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 74
+[PlaySong][ff][ff]# length: 74

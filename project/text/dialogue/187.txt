@@ -1,7 +1,7 @@
 @address $e3e17c
 @width 160
 @label dialogue_187
-[_88][00][_89][50][80][SwitchFrame][01]
+[_88][00][PlaySong][50][80][SwitchFrame][01]
 [ShowPortrait][33][07]Marth... Can you hear me...? [WaitForA][SwitchFrame][00]
 [ShowPortrait][8b][04]Ah, Gotoh! Yes, I can hear 
 you... You're using the power 

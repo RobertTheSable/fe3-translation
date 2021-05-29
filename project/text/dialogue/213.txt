@@ -1,7 +1,7 @@
 @address $e4fc21
 @width 160
 @label dialogue_213
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][6a][04]The soldiers here are all 
 foreigners.[WaitForA]
 There's nobody else to 

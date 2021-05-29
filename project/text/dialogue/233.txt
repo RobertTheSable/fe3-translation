@@ -1,7 +1,7 @@
 @address $e5d244
 @width 160
 @label dialogue_233
-[_88][00][_89][60][80][SwitchFrame][00]
+[_88][00][PlaySong][60][80][SwitchFrame][00]
 [ShowPortrait][4e][05]Come, boy, you want to stop 
 me again? This time I won't 
 spare you!!  [WaitForA][SwitchFrame][01]

@@ -1,7 +1,7 @@
 @address $e5bb7c
 @width 160
 @label dialogue_225
-[_88][00][_89][e0][00][SwitchFrame][01]
+[_88][00][PlaySong][e0][00][SwitchFrame][01]
 [ShowPortrait][02][07]Huh, wasn't that Gharnef? He 
 and his men pretended to be 
 the princesses. [WaitForA][SwitchFrame][00]

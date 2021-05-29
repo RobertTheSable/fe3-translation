@@ -1,7 +1,7 @@
 @address $e59fe0
 @width 160
 @label dialogue_218
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][8b][04]I should have expected no less 
 from Akaneia. They have such 
 a powerful army. [WaitForA]

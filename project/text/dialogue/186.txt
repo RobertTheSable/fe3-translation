@@ -1,7 +1,7 @@
 @address $e3db35
 @width 160
 @label dialogue_186
-[_88][00][_89][4c][80][SwitchFrame][01]
+[_88][00][PlaySong][4c][80][SwitchFrame][01]
 [ShowPortrait][29][07]Elrean! What are you doing?!! [WaitForA][SwitchFrame][00]
 [ShowPortrait][87][04]Oh, Master Wendell. You've 
 returned... [WaitForA][SwitchFrame][01]

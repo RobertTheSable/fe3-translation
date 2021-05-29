@@ -1,7 +1,7 @@
 @address $e1d95a
 @width 160
 @label dialogue_80
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][1b][07]Astram! Why are you here...? [WaitForA][SwitchFrame][00]
 [ShowPortrait][2b][04]Midia? Is that you, Midia? [WaitForA]
 Are you alright? [WaitForA]

@@ -1,7 +1,7 @@
 @address $e1ce51
 @width 160
 @label dialogue_75
-[_88][00][_89][0b][80][SwitchFrame][01]
+[_88][00][PlaySong][0b][80][SwitchFrame][01]
 [ShowPortrait][1b][06]Boah, the people in the castle 
 are panicking. What exactly is 
 going on? [WaitForA][CloseFrame][03]

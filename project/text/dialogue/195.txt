@@ -1,7 +1,7 @@
 @address $e4c1e0
 @width 160
 @label dialogue_195
-[_88][00][_89][4c][80][SwitchFrame][01]
+[_88][00][PlaySong][4c][80][SwitchFrame][01]
 [ShowPortrait][8b][07]Tiki!? Are you alright... [WaitForA][SwitchFrame][00]
 [ShowPortrait][8f][04]Uh... [WaitForA][SwitchFrame][01]
 [ClearFrame]

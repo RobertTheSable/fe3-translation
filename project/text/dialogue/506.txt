@@ -1,7 +1,7 @@
 @address $e6eb9c
 @width 160
 @label dialogue_506
-[_88][00][_89][21][80][SwitchFrame][00]
+[_88][00][PlaySong][21][80][SwitchFrame][00]
 [ShowPortrait][6b][04]You should be careful of 
 Rumel. He is carrying a 
 Ridersbane. [WaitForA]

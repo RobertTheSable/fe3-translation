@@ -1,6 +1,6 @@
 @address $e7e1f5
 @width 160
 @label arena_00
-[_88][06][_89][15][80][_95]This is the arena. Do you want 
+[_88][06][PlaySong][15][80][_95]This is the arena. Do you want 
 to pay the wager of [_82][a0] 
 gold? # length: 76

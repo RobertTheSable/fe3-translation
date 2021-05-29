@@ -1,7 +1,7 @@
 @address $e4da4a
 @width 160
 @label dialogue_201
-[_88][00][_89][4c][80][SwitchFrame][01]
+[_88][00][PlaySong][4c][80][SwitchFrame][01]
 [ShowPortrait][90][07]Abel!? Why are you... I don't 
 believe this, you're betraying 
 your homeland!? [WaitForA][SwitchFrame][00]

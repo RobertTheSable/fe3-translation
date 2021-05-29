@@ -1,8 +1,8 @@
 @address $e69833
 @width 160
 @label dialogue_405
-[_88][00][_89][38][80][SwitchFrame][00]
+[_88][00][PlaySong][38][80][SwitchFrame][00]
 [ShowPortrait][04][04]Your highness... Please 
 forgive me... I don't want to 
 lose Est... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 97
+[PlaySong][ff][ff]# length: 97

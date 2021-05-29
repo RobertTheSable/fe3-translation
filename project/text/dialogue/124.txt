@@ -1,7 +1,7 @@
 @address $e2a154
 @width 160
 @label dialogue_124
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][60][07]Prince Marth, I have already 
 found the location of Thabes! [WaitForA]
 To the far north of Khadein, 

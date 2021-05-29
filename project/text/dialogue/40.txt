@@ -1,7 +1,7 @@
 @address $e1992d
 @width 160
 @label dialogue_40
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][11][07]Ah... Master! It's you, Master 
 Wendell. [WaitForA][SwitchFrame][00]
 [ShowPortrait][29][04]Oh! Is it Merric? You're looking 

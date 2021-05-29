@@ -1,7 +1,7 @@
 @address $e68c83
 @width 160
 @label dialogue_349
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][0c][04]Mother... I'm sorry I can't send 
 any more gold. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 77
+[PlaySong][ff][ff]# length: 77

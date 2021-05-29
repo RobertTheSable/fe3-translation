@@ -1,7 +1,7 @@
 @address $e5ec50
 @width 160
 @label dialogue_245
-[_88][00][_89][49][80][SwitchFrame][00]
+[_88][00][PlaySong][49][80][SwitchFrame][00]
 [ShowPortrait][6c][04]Have you heard about Rescue 
 magic? It can bring faraway 
 allies to your side. [WaitForA]

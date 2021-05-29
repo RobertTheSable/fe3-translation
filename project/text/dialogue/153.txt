@@ -1,7 +1,7 @@
 @address $e2d9a8
 @width 160
 @label dialogue_153
-[_88][00][_89][43][80][SwitchFrame][01]
+[_88][00][PlaySong][43][80][SwitchFrame][01]
 [ShowPortrait][2f][07]Julian! Catria has finally 
 brought the Altean knights 
 here. [WaitForA]

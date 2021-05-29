@@ -1,7 +1,7 @@
 @address $e4dbc1
 @width 160
 @label dialogue_202
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][8b][04]That was a fierce battle. Is 
 everybody alright? [WaitForA][SwitchFrame][01]
 [ShowPortrait][02][07]Don't worry, they have been 

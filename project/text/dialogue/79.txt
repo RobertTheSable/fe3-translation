@@ -1,7 +1,7 @@
 @address $e1d7cb
 @width 160
 @label dialogue_79
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][60][07]Prince Marth, we searched the 
 whole castle, but the divine 
 Falchion sword is nowhere to 

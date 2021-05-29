@@ -1,7 +1,7 @@
 @address $e4fb17
 @width 160
 @label dialogue_212
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][6a][04]Princess Sheema is the child 
 of King Jiol's second wife. But, 
 she is different from the king. [WaitForA]

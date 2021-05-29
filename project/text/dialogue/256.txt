@@ -1,7 +1,7 @@
 @address $e5f329
 @width 160
 @label dialogue_256
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][83][04]Please... Please wait. I'm 
 sorry... Please forgive me... I 
 was just following the 
@@ -15,4 +15,4 @@ let me explain. [_94][20][01]
 Yes... That's right... Like 
 that... You let your guard 
 down... Idiot... Die!! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 349
+[PlaySong][ff][ff]# length: 349

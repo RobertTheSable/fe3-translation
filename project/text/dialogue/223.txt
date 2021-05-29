@@ -1,7 +1,7 @@
 @address $e5b4f1
 @width 160
 @label dialogue_223
-[_88][00][_89][60][80][SwitchFrame][00]
+[_88][00][PlaySong][60][80][SwitchFrame][00]
 [ShowPortrait][93][04]Marth...? As a servant of the 
 Empire, you dared to invade 
 Pales. [WaitForA]

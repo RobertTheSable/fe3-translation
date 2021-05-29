@@ -1,7 +1,7 @@
 @address $e1acd3
 @width 160
 @label dialogue_47
-[_88][00][_89][27][80][SwitchFrame][01]
+[_88][00][PlaySong][27][80][SwitchFrame][01]
 [ShowPortrait][1e][03]I still cannot bring myself to 
 fight like this. Palla, Catria, 
 Est, let us return. [WaitForA][CloseFrame][03]

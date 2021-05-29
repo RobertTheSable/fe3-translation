@@ -1,7 +1,7 @@
 @address $e1d18e
 @width 160
 @label dialogue_76
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][61][04]Thank you, Prince Marth. It 
 was all thanks to your help 
 that we could return to Pales. [WaitForA]

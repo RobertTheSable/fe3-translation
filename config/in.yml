@@ -350,7 +350,7 @@ normal:
             code: 0x87
         _88:
             code: 0x88
-        _89:
+        PlaySong:
             code: 0x89
         WaitForA:
             code: 0x8a

@@ -4,4 +4,4 @@
 [_88][00][SwitchFrame][00]
 [ShowPortrait][4e][04]Haha... It's already too late... 
 This world is done for... Urgh.[_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 89
+[PlaySong][ff][ff]# length: 89

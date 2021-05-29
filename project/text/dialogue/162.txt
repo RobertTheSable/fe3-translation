@@ -1,7 +1,7 @@
 @address $e2f3c7
 @width 160
 @label dialogue_162
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][8c][05]Marth!! [WaitForA][SwitchFrame][01]
 [ShowPortrait][90][06]Shiida!? What, even you've 
 come here...? Could it be that 

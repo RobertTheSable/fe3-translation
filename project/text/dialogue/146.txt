@@ -1,7 +1,7 @@
 @address $e2c25b
 @width 160
 @label dialogue_146
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Jagen, we've finally arrived. 
 Is that the rebels' fortress? [WaitForA][SwitchFrame][01]
 [ShowPortrait][02][07]I just saw the occupation 

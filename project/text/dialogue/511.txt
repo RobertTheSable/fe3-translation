@@ -1,7 +1,7 @@
 @address $e6f2d3
 @width 160
 @label dialogue_511
-[_88][00][_89][20][80][SwitchFrame][00]
+[_88][00][PlaySong][20][80][SwitchFrame][00]
 [ShowPortrait][67][04]Oh, Prince Marth. It's been a 
 while. How is my 
 granddaughter, Lena? [WaitForA]

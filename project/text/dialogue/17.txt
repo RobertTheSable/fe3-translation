@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_17
 [_88][00][SwitchFrame][00]
-[_89][12][80][ShowPortrait][37][04]Don't underestimate the 
+[PlaySong][12][80][ShowPortrait][37][04]Don't underestimate the 
 Galder pirates. 
 Taste my Hand Axe! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 90
+[PlaySong][ff][ff]# length: 90

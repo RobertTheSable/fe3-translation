@@ -1,7 +1,7 @@
 @address $90d1ee
 @width 160
 @label dialogue_200
-[_88][00][_89][4c][80][SwitchFrame][01]
+[_88][00][PlaySong][4c][80][SwitchFrame][01]
 [ShowPortrait][2a][07]Abel... I'm sorry, you must have
 suffered.[WaitForA][Space2][SwitchFrame][00]
 [ShowPortrait][04][04]Est!! You're safe.[WaitForA][SwitchFrame][01]

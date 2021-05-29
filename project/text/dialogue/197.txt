@@ -1,7 +1,7 @@
 @address $e4cc50
 @width 160
 @label dialogue_197
-[_88][00][_89][50][80][SwitchFrame][00]
+[_88][00][PlaySong][50][80][SwitchFrame][00]
 [ShowPortrait][33][04]Prince Marth, you  finally came![WaitForA]
 I should have expected 
 nothing less from the one who 

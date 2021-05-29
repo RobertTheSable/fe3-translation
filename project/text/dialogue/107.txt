@@ -1,7 +1,7 @@
 @address $e1f8bb
 @width 160
 @label dialogue_107
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][4d][04]Hahaha... Marth, so you've 
 returned to die. [WaitForA]
 I am Emperor Medeus's right 

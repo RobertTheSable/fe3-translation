@@ -1,7 +1,7 @@
 @address $e6b368
 @width 160
 @label dialogue_468
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][6b][04]On the other side of the 
 mountains is a small hill, called 
 the Dragon's Table. [WaitForA]

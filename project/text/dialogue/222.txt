@@ -1,7 +1,7 @@
 @address $e5b136
 @width 160
 @label dialogue_222
-[_88][00][_89][60][80][SwitchFrame][00]
+[_88][00][PlaySong][60][80][SwitchFrame][00]
 [ShowPortrait][93][04]Midia, even you betrayed me. 
 Akaneia's paladins have lost 
 their touch. [WaitForA][CloseFrame][02]

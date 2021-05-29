@@ -1,7 +1,7 @@
 @address $e59c8a
 @width 160
 @label dialogue_217
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Jagen, it seems we've finally 
 crossed the peak. Pales isn't 
 far from here. [WaitForA][SwitchFrame][01]

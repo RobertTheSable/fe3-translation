@@ -1,7 +1,7 @@
 @address $e1e73b
 @width 160
 @label dialogue_91
-[_88][00][_89][74][80][SwitchFrame][00]
+[_88][00][PlaySong][74][80][SwitchFrame][00]
 [ShowPortrait][4e][04]Marth... I'm afraid I don't have 
 time to continue playing games 
 with you. [WaitForA]

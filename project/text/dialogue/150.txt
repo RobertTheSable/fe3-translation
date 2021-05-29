@@ -1,7 +1,7 @@
 @address $e2ce12
 @width 160
 @label dialogue_150
-[_88][00][_89][43][80][SwitchFrame][01]
+[_88][00][PlaySong][43][80][SwitchFrame][01]
 [ShowPortrait][1c][07]Lord Marth!! Great, so you are 
 here. [WaitForA][SwitchFrame][00]
 [ShowPortrait][8b][04]Catria!? I heard a rebellion 

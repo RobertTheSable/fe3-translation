@@ -1,8 +1,8 @@
 @address $e5f5c9
 @width 160
 @label dialogue_259
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][86][04]You dare trespass this temple, 
 unforgivable! Earth, punish 
 them! Bolganone!! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 108
+[PlaySong][ff][ff]# length: 108

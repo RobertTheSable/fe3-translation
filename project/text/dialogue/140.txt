@@ -1,7 +1,7 @@
 @address $e2bb4f
 @width 160
 @label dialogue_140
-[_88][00][_89][1f][80][SwitchFrame][01]
+[_88][00][PlaySong][1f][80][SwitchFrame][01]
 [ShowPortrait][61][07]Prince Marth... Thank you. 
 Everything's finally over. [WaitForA]
 Because of your efforts, this 

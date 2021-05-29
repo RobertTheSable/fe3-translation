@@ -1,7 +1,7 @@
 @address $e69ab7
 @width 160
 @label dialogue_413
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][7a][04]General Rucke, I leave the 
 rest to you... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 71
+[PlaySong][ff][ff]# length: 71

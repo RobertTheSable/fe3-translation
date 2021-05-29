@@ -1,7 +1,7 @@
 @address $e2e311
 @width 160
 @label dialogue_156
-[_88][00][_89][47][80][SwitchFrame][00]
+[_88][00][PlaySong][47][80][SwitchFrame][00]
 [ShowPortrait][4c][04]Rucke, a coward like you 
 wouldn't dare to do something 
 this big. Did Hardin fool you 

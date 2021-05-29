@@ -1,7 +1,7 @@
 @address $e0faed
 @width 160
 @label dialogue_23
-[_88][00][_89][20][80][ShowPortrait][67][04]Hoho! You're looking very 
+[_88][00][PlaySong][20][80][ShowPortrait][67][04]Hoho! You're looking very 
 lively, young lad! [WaitForA]
 It isn't an easy task to reach 
 a place like this. [WaitForA]

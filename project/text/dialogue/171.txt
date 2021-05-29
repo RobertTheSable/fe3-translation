@@ -1,7 +1,7 @@
 @address $e39a76
 @width 160
 @label dialogue_171
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][0d][07]Nabarl... You disappoint me... [WaitForA][SwitchFrame][00]
 [ShowPortrait][12][04]Woah, I don't believe it... This 
 Killing Edge is, like, so 
@@ -9,7 +9,7 @@ deadly... [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Do we have to fight? Alright. I 
 guessed that we would have to 
-duel eventually. [WaitForA][_89][4c][80][SwitchFrame][00]
+duel eventually. [WaitForA][PlaySong][4c][80][SwitchFrame][00]
 [ShowPortrait][82][04]Ah... Oh, snap! Woah dude! I'm 
 just faking it! ...Faking! [WaitForA]
 It's me... Samto. Have you 

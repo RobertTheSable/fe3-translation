@@ -1,7 +1,7 @@
 @address $e3f90e
 @width 160
 @label dialogue_189
-[_88][00][_89][43][80][SwitchFrame][01]
+[_88][00][PlaySong][43][80][SwitchFrame][01]
 [ShowPortrait][8f][06]Marth!! It's been a long time, 
 it's me Tiki! I really missed you.[WaitForA][SwitchFrame][00]
 [ShowPortrait][8b][05]Huh... Tiki!? You came here to 
@@ -22,7 +22,7 @@ down. [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Marth... ...I love you❤  [WaitForA][SwitchFrame][00]
 [ClearFrame]
-Huh...!? [WaitForA][_89][0e][80][SwitchFrame][01]
+Huh...!? [WaitForA][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][28][06][ClearFrame]
 ...As if. I wouldn't say 
 something like that. [WaitForA][SwitchFrame][00]

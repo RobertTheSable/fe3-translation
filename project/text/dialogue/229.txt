@@ -1,7 +1,7 @@
 @address $e5c726
 @width 160
 @label dialogue_229
-[_88][00][_89][48][80][SwitchFrame][00]
+[_88][00][PlaySong][48][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Prince Michalis!? What are you 
 doing here? [WaitForA]
 And you've suffered a grave 

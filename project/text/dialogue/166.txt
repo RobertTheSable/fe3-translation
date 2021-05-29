@@ -1,7 +1,7 @@
 @address $e38f69
 @width 160
 @label dialogue_166
-[_88][00][_89][4d][80][SwitchFrame][01]
+[_88][00][PlaySong][4d][80][SwitchFrame][01]
 [ShowPortrait][0f][06]Hey, Rickard! What are you 
 doing here?[WaitForA][SwitchFrame][00]
 [ShowPortrait][07][05]Oh, big bro. It's been so long. [WaitForA]

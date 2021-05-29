@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_518
 [_88][00][SwitchFrame][00]
-[_89][5e][80][ShowPortrait][33][04]Is that so...? So Tiki was that 
+[PlaySong][5e][80][ShowPortrait][33][04]Is that so...? So Tiki was that 
 happy? It must have been hard 
 for her, living like that. [WaitForA]
 Although it was to protect 

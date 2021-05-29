@@ -1,7 +1,7 @@
 @address $e2b84c
 @width 160
 @label dialogue_139
-[_88][00][_89][91][80][SwitchFrame][01]
+[_88][00][PlaySong][91][80][SwitchFrame][01]
 [ShowPortrait][01][07]Lord Marth... [WaitForA]
 I can finally return to Talys. [WaitForA][SwitchFrame][00]
 [ShowPortrait][00][04]Mmm... Shiida. [WaitForA]

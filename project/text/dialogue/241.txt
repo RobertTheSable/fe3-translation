@@ -1,7 +1,7 @@
 @address $e5e995
 @width 160
 @label dialogue_241
-[_88][00][_89][21][80][SwitchFrame][00]
+[_88][00][PlaySong][21][80][SwitchFrame][00]
 [ShowPortrait][6a][04]I only saw a glance of him, but 
 that paladin, Arran, didn't look 
 too good. [WaitForA]

@@ -1,9 +1,9 @@
 @address $e5f108
 @width 160
 @label dialogue_251
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][31][04]What!? You are... from the 
 Altean army? So even Altea 
 want to cause suffering to my 
 people? [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 125
+[PlaySong][ff][ff]# length: 125

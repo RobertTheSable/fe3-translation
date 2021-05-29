@@ -1,7 +1,7 @@
 @address $e1b11e
 @width 160
 @label dialogue_52
-[_88][00][_89][0d][80][SwitchFrame][00]
+[_88][00][PlaySong][0d][80][SwitchFrame][00]
 [ShowPortrait][1c][04]Prince Marth, I am Catria of 
 Medon's Whitewings. [WaitForA]
 I've actually arrived in secret 

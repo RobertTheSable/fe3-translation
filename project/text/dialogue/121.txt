@@ -1,7 +1,7 @@
 @address $e29909
 @width 160
 @label dialogue_121
-[_88][00][_89][20][80][ShowPortrait][67][04]Oh, Lord Marth, you finally 
+[_88][00][PlaySong][20][80][ShowPortrait][67][04]Oh, Lord Marth, you finally 
 came. [WaitForA]
 Is my granddaughter, Lena, 
 alright? [WaitForA]

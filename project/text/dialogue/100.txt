@@ -1,7 +1,7 @@
 @address $e1f27d
 @width 160
 @label dialogue_100
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][2a][04]Ah, are you Lord Marth? I am 
 Est of Medon! [WaitForA]
 I was captured when I tried to 

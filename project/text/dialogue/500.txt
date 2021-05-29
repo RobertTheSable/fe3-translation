@@ -1,7 +1,7 @@
 @address $e6de1a
 @width 160
 @label dialogue_500
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][31][07]Lord Marth! It's you... [WaitForA]
 Although I knew the enemy's 
 reinforcements had come, but 

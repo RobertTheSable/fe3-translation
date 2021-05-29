@@ -1,7 +1,7 @@
 @address $e5d59d
 @width 160
 @label dialogue_235
-[_88][00][_89][60][80][SwitchFrame][00]
+[_88][00][PlaySong][60][80][SwitchFrame][00]
 [ShowPortrait][90][04]...! 
 [_16][10][00]Isn't that my sister and the 
 others!? Who are they 

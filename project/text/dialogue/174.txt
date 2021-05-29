@@ -1,7 +1,7 @@
 @address $e3aa68
 @width 160
 @label dialogue_174
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][84][04]Huff, huff... Please... Help... 
 Those thieves... are going to... [WaitForA][SwitchFrame][01]
 [ShowPortrait][12][07][_17][ef][ff]..... [WaitForA]

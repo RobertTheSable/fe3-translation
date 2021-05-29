@@ -1,10 +1,10 @@
 @address $e5f93e
 @width 160
 @label dialogue_267
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][16][04]I am Roshea of the Aurelian
 knights. I don't want to fight, 
 but I can't betray my 
 companions. Please forgive [WaitForA]
 me... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 151
+[PlaySong][ff][ff]# length: 151

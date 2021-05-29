@@ -1,9 +1,9 @@
 @address $e68e34
 @width 160
 @label dialogue_356
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][18][04]PLEASE INFORM 
 VINCENTASM OF DEATH
   
  [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 69
+[PlaySong][ff][ff]# length: 69

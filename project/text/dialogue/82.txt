@@ -1,7 +1,7 @@
 @address $e1dc85
 @width 160
 @label dialogue_82
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][2f][04]Lord Marth, greetings. I am 
 Palla of the Whitewings. [WaitForA]
 After hearing that you 

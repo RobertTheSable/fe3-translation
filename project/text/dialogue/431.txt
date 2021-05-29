@@ -1,6 +1,6 @@
 @address $e69f56
 @width 160
 @label dialogue_431
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][41][04]King Medeus... Forgive me... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 57
+[PlaySong][ff][ff]# length: 57

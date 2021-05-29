@@ -1,7 +1,7 @@
 @address $e29f2a
 @width 160
 @label dialogue_123
-[_88][00][_89][0c][80][SwitchFrame][00]
+[_88][00][PlaySong][0c][80][SwitchFrame][00]
 [ShowPortrait][33][04]Marth, I am currently at a 
 village north of Medon castle. [WaitForA]
 That's right, it is already very 

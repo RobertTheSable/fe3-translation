@@ -1,7 +1,7 @@
 @address $e2ebff
 @width 160
 @label dialogue_160
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][0d][07]Who's there? Are you one of 
 the pirates!? [WaitForA][SwitchFrame][00]
 [ShowPortrait][7e][04]I am Sirius, a traveller... [WaitForA][SwitchFrame][01]
@@ -14,7 +14,7 @@ Those children... [WaitForA][SwitchFrame][01]
 [ClearFrame]
 Something happened, so I'm 
 taking care of them now. You 
-know them? [WaitForA][_89][0e][80][SwitchFrame][00]
+know them? [WaitForA][PlaySong][0e][80][SwitchFrame][00]
 [ClearFrame]
 No... But if you're carrying the 
 children, you won't be able to 

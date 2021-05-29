@@ -1,4 +1,4 @@
 @address $e7e345
 @width 160
 @label arena_03
-[_88][06][_89][15][80][_95]What, are you surrendering? # length: 39
+[_88][06][PlaySong][15][80][_95]What, are you surrendering? # length: 39

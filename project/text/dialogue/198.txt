@@ -1,7 +1,7 @@
 @address $e4ce49
 @width 160
 @label dialogue_198
-[_88][00][_89][5e][80][SwitchFrame][00]
+[_88][00][PlaySong][5e][80][SwitchFrame][00]
 [ShowPortrait][33][04]Marth, this is the Starsphere. 
 You can take this with you as 
 well. [WaitForA][SwitchFrame][01]

@@ -1,7 +1,7 @@
 @address $e4e05c
 @width 160
 @label dialogue_204
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][90][04]What's going on...? Even 
 thieves have managed to find 
 their way in. [WaitForA]

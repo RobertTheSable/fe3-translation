@@ -1,7 +1,7 @@
 @address $e1a559
 @width 160
 @label dialogue_45
-[_88][00][_89][3f][80][SwitchFrame][00]
+[_88][00][PlaySong][3f][80][SwitchFrame][00]
 [ShowPortrait][60][04]Prince Marth, we can finally 
 talk about the Manaketes. [WaitForA]
 The Manaketes already 

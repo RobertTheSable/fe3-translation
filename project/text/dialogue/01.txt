@@ -1,7 +1,7 @@
 @address $e0e1a6
 @width 160
 @label dialogue_01
-[_88][00][_89][0b][80][SwitchFrame][01]
+[_88][00][PlaySong][0b][80][SwitchFrame][01]
 [ShowPortrait][02][07]Prince Marth, Shiida has come 
 from Talys castle.[WaitForA][CloseFrame][03]
 [SwitchFrame][00]

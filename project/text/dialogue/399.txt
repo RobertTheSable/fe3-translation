@@ -1,7 +1,7 @@
 @address $e69672
 @width 160
 @label dialogue_399
-[_88][00][_89][11][80][SwitchFrame][00]
+[_88][00][PlaySong][11][80][SwitchFrame][00]
 [ShowPortrait][29][04]I don't like fighting. You can do
 as you please... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 79
+[PlaySong][ff][ff]# length: 79

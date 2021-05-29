@@ -1,7 +1,7 @@
 @address $e1ab3a
 @width 160
 @label dialogue_46
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][18][04]Have you seen a young girl by 
 the name of Tiki? [WaitForA]
 Tiki is the [SetColor][00][2c]Naga [SetColor][00][24]tribe's sole 

@@ -1,7 +1,7 @@
 @address $e5840b
 @width 160
 @label dialogue_215
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][16][04]Wolf, Sedgar, Vyland. Is this 
 really okay...? Can we really 
 fight this battle? [WaitForA][SwitchFrame][01]

@@ -1,7 +1,7 @@
 @address $e29a16
 @width 160
 @label dialogue_122
-[_88][00][_89][0b][80][SwitchFrame][01]
+[_88][00][PlaySong][0b][80][SwitchFrame][01]
 [ShowPortrait][4c][06]Gotoh, the allied army has 
 come. [WaitForA]
 This place is going to become a 

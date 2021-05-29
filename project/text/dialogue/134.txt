@@ -1,9 +1,9 @@
 @address $e2b34d
 @width 160
 @label dialogue_134
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][49][04]This world, and everything on 
 it, is ours... 
 The ones who intruded were 
 you humans! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 117
+[PlaySong][ff][ff]# length: 117

@@ -1,7 +1,7 @@
 @address $e5d1f4
 @width 160
 @label dialogue_232
-[_88][00][_89][5f][80][SwitchFrame][01]
+[_88][00][PlaySong][5f][80][SwitchFrame][01]
 [ShowPortrait][02][07]Your highness, the wall in 
 front of us collapsed! [WaitForA][CloseFrame][03]
 # length: 73

@@ -1,7 +1,7 @@
 @address $e4fd4b
 @width 160
 @label dialogue_214
-[_88][00][_89][49][80][SwitchFrame][00]
+[_88][00][PlaySong][49][80][SwitchFrame][00]
 [ShowPortrait][6c][04]Ah... Please leave me. I already 
 have nothing to give you. [WaitForA][SwitchFrame][01]
 [ShowPortrait][8b][07]Ah, please don't get us wrong. 

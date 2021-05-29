@@ -1,7 +1,7 @@
 @address $e3fe33
 @width 160
 @label unused_unusedText24
-[_88][00][_89][1e][80][SwitchFrame][00]
+[_88][00][PlaySong][1e][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Wow... To think there could be 
 a place like this... 
 I can feel my whole body 

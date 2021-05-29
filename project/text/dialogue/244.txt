@@ -1,7 +1,7 @@
 @address $e5eba8
 @width 160
 @label dialogue_244
-[_88][00][_89][21][80][SwitchFrame][00]
+[_88][00][PlaySong][21][80][SwitchFrame][00]
 [ShowPortrait][69][04]I'll tell you a secret. That 
 armoury seems to have 
 connections with the rebels. [WaitForA]

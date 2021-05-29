@@ -1,7 +1,7 @@
 @address $e69f01
 @width 160
 @label dialogue_430
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][40][04]The Altean knights... Are 
 strong... So strong... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 78
+[PlaySong][ff][ff]# length: 78

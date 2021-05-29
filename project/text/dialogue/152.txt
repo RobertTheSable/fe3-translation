@@ -1,7 +1,7 @@
 @address $e2d441
 @width 160
 @label dialogue_152
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][02][07]Your highness, we found an 
 unexpected person held 
 captive in the fortress. [WaitForA][SwitchFrame][00]

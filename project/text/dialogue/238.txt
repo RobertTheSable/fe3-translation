@@ -1,7 +1,7 @@
 @address $e5e055
 @width 160
 @label dialogue_238
-[_88][00][_89][48][80][SwitchFrame][01]
+[_88][00][PlaySong][48][80][SwitchFrame][01]
 [ShowPortrait][92][07]Maria! Please open your eyes. 
 It's me, Minerva! Be strong! [WaitForA][SwitchFrame][00]
 [ShowPortrait][1d][04]Uh... Oh... Minerva, sister... [WaitForA]

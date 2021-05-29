@@ -1,7 +1,7 @@
 @address $e3955f
 @width 160
 @label dialogue_169
-[_88][00][_89][47][80][SwitchFrame][00]
+[_88][00][PlaySong][47][80][SwitchFrame][00]
 [ShowPortrait][83][04]Hahaha... They're here? [WaitForA]
 Our reinforcements will be 
 arriving soon. If we hold out 

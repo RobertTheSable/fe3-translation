@@ -2,9 +2,9 @@
 @width 160
 @label dialogue_03
 [_88][00][SwitchFrame][00]
-[_89][12][80][ShowPortrait][34][04]What, the Altean army!? 
+[PlaySong][12][80][ShowPortrait][34][04]What, the Altean army!? 
 If we let you guys walk all over 
 us, it would ruin the name of 
 us pirates! 
 ...Die! [_94][20][01][CloseFrame][02]
-[_89][ff][00]# length: 142
+[PlaySong][ff][00]# length: 142

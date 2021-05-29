@@ -1,7 +1,7 @@
 @address $e5a341
 @width 160
 @label dialogue_219
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][16][04]Prince Marth, I am Roshea of 
 the Aurelian Knights. [WaitForA]
 I have King Aurelis's 

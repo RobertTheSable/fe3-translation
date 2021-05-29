@@ -18,4 +18,4 @@ appear. [_94][20][01]
 The heart... As long as there is 
 light, darkness will never fade 
 away... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 364
+[PlaySong][ff][ff]# length: 364

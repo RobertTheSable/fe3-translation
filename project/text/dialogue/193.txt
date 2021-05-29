@@ -1,7 +1,7 @@
 @address $e4b4d9
 @width 160
 @label dialogue_193
-[_88][00][_89][1e][80][SwitchFrame][00]
+[_88][00][PlaySong][1e][80][SwitchFrame][00]
 [ShowPortrait][8b][05]Hey, Xane. Gotoh didn't really 
 mention anything about the 
 five Spheres, but I thought 

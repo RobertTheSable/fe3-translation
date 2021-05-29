@@ -1,7 +1,7 @@
 @address $e2e894
 @width 160
 @label dialogue_159
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][0d][04]Yumina, Yubello. This place is 
 the territory of the dreaded 
 Medonian Vikings. [WaitForA]

@@ -1,7 +1,7 @@
 @address $e4ec78
 @width 160
 @label dialogue_207
-[_88][00][_89][45][80][SwitchFrame][01]
+[_88][00][PlaySong][45][80][SwitchFrame][01]
 [ShowPortrait][26][07]Princess Sheema, it seems the 
 Altean army has arrived. [WaitForA][SwitchFrame][00]
 [ShowPortrait][89][04]Really...? It's already the end. [WaitForA]

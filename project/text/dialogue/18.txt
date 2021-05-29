@@ -1,7 +1,7 @@
 @address $e0f45f
 @width 160
 @label dialogue_18
-[_88][00][_89][0b][80][SwitchFrame][01]
+[_88][00][PlaySong][0b][80][SwitchFrame][01]
 [ShowPortrait][0f][06]Hurry, Miss Lena! If you aren't 
 quick, we'll both be finished. [WaitForA]
 I heard the Altean knights 

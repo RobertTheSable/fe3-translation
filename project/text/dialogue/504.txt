@@ -1,7 +1,7 @@
 @address $e6e954
 @width 160
 @label dialogue_504
-[_88][00][_89][21][80][SwitchFrame][00]
+[_88][00][PlaySong][21][80][SwitchFrame][00]
 [ShowPortrait][67][04]I heard General Lorenz resided 
 at Talys island in his youth. [WaitForA]
 At that time, Talys was not 

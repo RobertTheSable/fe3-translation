@@ -1,9 +1,9 @@
 @address $e2a84b
 @width 160
 @label dialogue_128
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][4c][04]Damn you, Minerva... I still 
 haven't lost. 
 I'll show you to fear the 
 Medonian Dragoons! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 121
+[PlaySong][ff][ff]# length: 121

@@ -1,7 +1,7 @@
 @address $e3bc22
 @width 160
 @label dialogue_177
-[_88][00][_89][4c][80][SwitchFrame][00]
+[_88][00][PlaySong][4c][80][SwitchFrame][00]
 [ShowPortrait][18][04]Oh, Prince Marth. It's been a 
 while since we met. [WaitForA]
 There seems to be some 

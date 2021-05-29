@@ -1,7 +1,7 @@
 @address $e1deb4
 @width 160
 @label dialogue_84
-[_88][00][_89][0c][80][SwitchFrame][00]
+[_88][00][PlaySong][0c][80][SwitchFrame][00]
 [ShowPortrait][4b][04]So you are Altea's Prince 
 Marth...? [WaitForA]
 Then, I have one request. This 

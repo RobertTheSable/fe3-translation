@@ -1,8 +1,8 @@
 @address $e1de3d
 @width 160
 @label dialogue_83
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][44][04]Altea's fallen soldiers... I 
 should have killed you all when 
 I had the chance. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 110
+[PlaySong][ff][ff]# length: 110

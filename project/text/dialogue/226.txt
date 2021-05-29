@@ -1,7 +1,7 @@
 @address $e5bcfe
 @width 160
 @label dialogue_226
-[_88][00][_89][0a][80][SwitchFrame][01]
+[_88][00][PlaySong][0a][80][SwitchFrame][01]
 [ShowPortrait][33][07]Marth, you have done well. You 
 have all five Spheres in your 
 possession. [WaitForA]

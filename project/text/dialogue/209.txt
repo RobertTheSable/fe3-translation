@@ -1,7 +1,7 @@
 @address $e4f582
 @width 160
 @label dialogue_209
-[_88][00][_89][4c][80][SwitchFrame][00]
+[_88][00][PlaySong][4c][80][SwitchFrame][00]
 [ShowPortrait][26][04]That's great, Sheema. Now I 
 can finally leave without 
 worry. [WaitForA][SwitchFrame][01]

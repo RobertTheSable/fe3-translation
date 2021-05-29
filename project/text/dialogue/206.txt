@@ -1,14 +1,14 @@
 @address $e4e866
 @width 160
 @label dialogue_206
-[_88][00][_89][5a][80][SwitchFrame][01]
+[_88][00][PlaySong][5a][80][SwitchFrame][01]
 [ShowPortrait][02][06]Prince Marth. [WaitForA]
 The enemies in the castle have 
 been vanquished. Altea is 
 finally in our hands again. [WaitForA][SwitchFrame][00]
 [ShowPortrait][8b][05]Really? That's great. But, I 
 still don't see my sister... [WaitForA][CloseFrame][03]
-[_89][43][80][SwitchFrame][01]
+[PlaySong][43][80][SwitchFrame][01]
 [ShowPortrait][33][06]Your highness, Princess Elice 
 was taken by Gharnef. [WaitForA][SwitchFrame][00]
 [ClearFrame]

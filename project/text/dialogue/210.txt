@@ -1,7 +1,7 @@
 @address $e4f770
 @width 160
 @label dialogue_210
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][02][07]Lord Marth, if this battle 
 continues it will become 
 meaningless, and will only give 

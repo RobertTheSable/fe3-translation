@@ -1,7 +1,7 @@
 @address $e2f066
 @width 160
 @label dialogue_161
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][8b][07]Oh, Castor, is that you? What 
 are you doing here? [WaitForA][SwitchFrame][00]
 [ShowPortrait][0c][04]Ah, Marth! Sniff... [WaitForA]

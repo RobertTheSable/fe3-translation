@@ -1,7 +1,7 @@
 @address $e1fd49
 @width 160
 @label dialogue_111
-[_88][00][_89][53][80][SwitchFrame][00]
+[_88][00][PlaySong][53][80][SwitchFrame][00]
 [ShowPortrait][4e][04]Tiki... The great princess of 
 the Naga tribe, which fell into 
 ruin long ago. [WaitForA]

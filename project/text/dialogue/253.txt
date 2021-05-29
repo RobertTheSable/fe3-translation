@@ -1,8 +1,8 @@
 @address $e5f20d
 @width 160
 @label dialogue_253
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][7b][04]Da-damn... Why would Altea... 
 I'll send you to your graves, 
 die! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 96
+[PlaySong][ff][ff]# length: 96

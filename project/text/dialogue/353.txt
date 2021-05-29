@@ -1,6 +1,6 @@
 @address $e68d9c
 @width 160
 @label dialogue_353
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][12][04]Prince Marth... Don't die. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 54
+[PlaySong][ff][ff]# length: 54

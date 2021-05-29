@@ -1,6 +1,6 @@
 @address $e69d0f
 @width 160
 @label dialogue_422
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][51][04]Glory to the Emperor... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 51
+[PlaySong][ff][ff]# length: 51

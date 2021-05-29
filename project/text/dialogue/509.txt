@@ -1,7 +1,7 @@
 @address $e6ee28
 @width 160
 @label dialogue_509
-[_88][00][_89][47][80][SwitchFrame][00]
+[_88][00][PlaySong][47][80][SwitchFrame][00]
 [ShowPortrait][93][04]Hahaha... Prince Marth, it's 
 been a while. [WaitForA][SwitchFrame][01]
 [ShowPortrait][90][07]Hardin... Why did you attack my 

@@ -1,7 +1,7 @@
 @address $e6cd7f
 @width 160
 @label dialogue_493
-[_88][00][_89][21][80][ShowPortrait][6b][04]The Kingdom of Gra views 
+[_88][00][PlaySong][21][80][ShowPortrait][6b][04]The Kingdom of Gra views 
 Altea as its enemy. [WaitForA]
 But, in reality, they were 
 forced to fight because of 

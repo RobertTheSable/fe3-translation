@@ -1,7 +1,7 @@
 @address $e5dc36
 @width 160
 @label dialogue_237
-[_88][00][_89][48][80][SwitchFrame][01]
+[_88][00][PlaySong][48][80][SwitchFrame][01]
 [ShowPortrait][0f][07]Miss Lena, wake up! It's me, 
 Julian. What should I do? [WaitForA]
 I know I'm a man with no merits,

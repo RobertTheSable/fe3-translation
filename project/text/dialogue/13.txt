@@ -1,7 +1,7 @@
 @address $e0ef86
 @width 160
 @label dialogue_13
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][01][07]Castor!? [WaitForA]
 You're Castor! Why are you 
 doing this...? [WaitForA][SwitchFrame][00]

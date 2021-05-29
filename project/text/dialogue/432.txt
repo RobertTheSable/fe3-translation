@@ -1,8 +1,8 @@
 @address $e69f93
 @width 160
 @label dialogue_432
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][44][04]The Kingdom of Gra... is done 
 for... My daughter... Sheema... 
 You must... for me... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 115
+[PlaySong][ff][ff]# length: 115

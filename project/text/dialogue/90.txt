@@ -6,4 +6,4 @@
 weapons against me will die. 
 I'll show you the horrors of my 
 sealing magic, Imhullu. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 139
+[PlaySong][ff][ff]# length: 139

@@ -1,8 +1,8 @@
 @address $e1ecba
 @width 160
 @label dialogue_96
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][46][04]Altea's fallen soldiers still 
 live? But as long as I'm here, I 
 won't let you enter this castle! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 127
+[PlaySong][ff][ff]# length: 127

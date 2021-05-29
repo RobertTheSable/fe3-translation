@@ -1,8 +1,8 @@
 @address $e1c0d3
 @width 160
 @label dialogue_64
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][40][04]Damn! You're all useless. In 
 that case, let me personally 
 take care of them. Die, rebels! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 121
+[PlaySong][ff][ff]# length: 121

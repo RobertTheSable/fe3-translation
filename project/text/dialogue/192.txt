@@ -1,7 +1,7 @@
 @address $e4abf1
 @width 160
 @label dialogue_192
-[_88][00][_89][1e][80][SwitchFrame][00]
+[_88][00][PlaySong][1e][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Xane, we've already climbed 
 this high. It's so cold... Even 
 breathing is hard. [WaitForA][SwitchFrame][01]

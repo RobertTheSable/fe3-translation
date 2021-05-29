@@ -1,7 +1,7 @@
 @address $e2fe14
 @width 160
 @label unused_unusedText23
-[_88][00][_89][47][80][SwitchFrame][00]
+[_88][00][PlaySong][47][80][SwitchFrame][00]
 [ShowPortrait][81][05]Commander Lang. A... Altea's 
 army has come... [WaitForA][SwitchFrame][01]
 [ShowPortrait][83][06]Fool, get a grip. Their army 

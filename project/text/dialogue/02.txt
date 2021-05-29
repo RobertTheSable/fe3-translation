@@ -1,7 +1,7 @@
 @address $e0e3a1
 @width 160
 @label dialogue_02
-[_88][00][_89][0d][80][SwitchFrame][00]
+[_88][00][PlaySong][0d][80][SwitchFrame][00]
 [ShowPortrait][62][04]Oh, Prince Marth, I am glad to 
 see you're safe. [WaitForA]
 We are all very grateful for 

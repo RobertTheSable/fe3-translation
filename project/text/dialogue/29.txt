@@ -1,7 +1,7 @@
 @address $e18578
 @width 160
 @label dialogue_29
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][10][07]Matthis, brother! [WaitForA]
 Brother, it's me, Lena. [WaitForA][SwitchFrame][00]
 [ShowPortrait][2c][04]Ah, Lena!? Why are you 

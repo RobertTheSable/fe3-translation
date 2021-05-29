@@ -1,6 +1,6 @@
 @address $e69e19
 @width 160
 @label dialogue_426
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][3a][04]You... Don't think you've won. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 58
+[PlaySong][ff][ff]# length: 58

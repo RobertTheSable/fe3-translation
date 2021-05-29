@@ -1,7 +1,7 @@
 @address $e0ebce
 @width 160
 @label dialogue_10
-[_88][00][_89][0b][80][SwitchFrame][00]
+[_88][00][PlaySong][0b][80][SwitchFrame][00]
 [ShowPortrait][0d][04]Prince Marth, I am Ogma, a 
 Talys mercenary. [WaitForA]
 I have been ordered by my king 

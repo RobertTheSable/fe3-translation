@@ -1,7 +1,7 @@
 @address $e3b089
 @width 160
 @label dialogue_175
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][02][07]Your highness, we've finally 
 got rid of the thieves, but the 
 temple has been completely 
@@ -61,7 +61,7 @@ know that line from the first
 chapter of the Raman Bible. [WaitForA][SwitchFrame][00]
 [ClearFrame]
 Hmm, I have heard that before. 
-The tales of Naga... [WaitForA][_89][0d][80][SwitchFrame][01]
+The tales of Naga... [WaitForA][PlaySong][0d][80][SwitchFrame][01]
 [ClearFrame]
 [_10][19]Your highness, we must cross
 Chiasmir Bridge next. [WaitForA]

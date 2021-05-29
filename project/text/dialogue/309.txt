@@ -1,6 +1,6 @@
 @address $e683ed
 @width 160
 @label dialogue_309
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][29][04]I don't like fighting... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 52
+[PlaySong][ff][ff]# length: 52

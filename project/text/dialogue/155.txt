@@ -1,7 +1,7 @@
 @address $e2dfb7
 @width 160
 @label dialogue_155
-[_88][00][_89][4c][80][SwitchFrame][00]
+[_88][00][PlaySong][4c][80][SwitchFrame][00]
 [ShowPortrait][0f][05]Your highness, it's been a long 
 time. It's me, Julian. [WaitForA][SwitchFrame][01]
 [ShowPortrait][8b][06]Julian!? Even though I heard 

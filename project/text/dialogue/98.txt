@@ -1,7 +1,7 @@
 @address $e1ef04
 @width 160
 @label dialogue_98
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][25][04]I am Arran. I used to work as 
 the captain of a knights group. [WaitForA]
 However, for certain reasons, 

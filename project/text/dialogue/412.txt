@@ -1,7 +1,7 @@
 @address $e69a67
 @width 160
 @label dialogue_412
-[_88][00][_89][53][80][SwitchFrame][00]
+[_88][00][PlaySong][53][80][SwitchFrame][00]
 [ShowPortrait][61][04]THOSE WHO OPPOSE... LORD 
 MEDEUS... MUST DIE... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 76
+[PlaySong][ff][ff]# length: 76

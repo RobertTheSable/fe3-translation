@@ -1,7 +1,7 @@
 @address $e5cfa2
 @width 160
 @label dialogue_231
-[_88][00][_89][60][80][SwitchFrame][00]
+[_88][00][PlaySong][60][80][SwitchFrame][00]
 [ShowPortrait][90][04]What is this strange air? It 
 feels like it's full of evil 
 spirits. [WaitForA][SwitchFrame][01]

@@ -1,7 +1,7 @@
 @address $e68a2a
 @width 160
 @label dialogue_338
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][02][04]PLEASE INFORM 
 VINCENTASM OF MARTH
 1 

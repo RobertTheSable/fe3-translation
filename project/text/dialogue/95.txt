@@ -1,7 +1,7 @@
 @address $e1eb4a
 @width 160
 @label dialogue_95
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][00][04]Soldiers of Altea, and the 
 warriors that have fought 
 alongside us, I am truly 

@@ -1,7 +1,7 @@
 @address $e1fa30
 @width 160
 @label dialogue_108
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][60][04]Congratulations, Prince Marth. [WaitForA]
 Altea has finally been 
 liberated. [WaitForA]

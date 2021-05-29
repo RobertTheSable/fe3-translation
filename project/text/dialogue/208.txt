@@ -1,7 +1,7 @@
 @address $e4f250
 @width 160
 @label dialogue_208
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][8b][07]You are Princess Sheema? It's 
 great to see you safe. [WaitForA]
 I don't view Gra as an anemy. 

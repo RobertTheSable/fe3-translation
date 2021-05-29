@@ -1,7 +1,7 @@
 @address $e4d7d8
 @width 160
 @label dialogue_199
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][74][06]General, the missing Altean 
 remnants have finally 
 returned. [WaitForA][SwitchFrame][00]

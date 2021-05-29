@@ -1,6 +1,6 @@
 @address $e68b6e
 @width 160
 @label dialogue_343
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][05][04]Lord Marth, good luck... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 52
+[PlaySong][ff][ff]# length: 52

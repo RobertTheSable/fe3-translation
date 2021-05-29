@@ -1,7 +1,7 @@
 @address $e2a47b
 @width 160
 @label dialogue_126
-[_88][00][_89][0c][80][SwitchFrame][00]
+[_88][00][PlaySong][0c][80][SwitchFrame][00]
 [ShowPortrait][33][04]Marth, you still haven't 
 brought with you the 
 Starsphere and Lightsphere? [WaitForA]

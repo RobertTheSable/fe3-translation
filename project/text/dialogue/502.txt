@@ -1,7 +1,7 @@
 @address $e6e52a
 @width 160
 @label dialogue_502
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][67][04]The deceased King Grust had 
 two children: [WaitForA]
 Princess Yumina and Prince 

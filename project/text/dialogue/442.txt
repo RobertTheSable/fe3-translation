@@ -1,7 +1,7 @@
 @address $e6a752
 @width 160
 @label dialogue_442
-[_88][00][_89][c0][80][SwitchFrame][00]
+[_88][00][PlaySong][c0][80][SwitchFrame][00]
 [ShowPortrait][31][04]Please permit, citizens of 
 Grust... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 65
+[PlaySong][ff][ff]# length: 65

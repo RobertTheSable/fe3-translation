@@ -1,7 +1,7 @@
 @address $e5a495
 @width 160
 @label dialogue_221
-[_88][00][_89][45][80][SwitchFrame][00]
+[_88][00][PlaySong][45][80][SwitchFrame][00]
 [ShowPortrait][24][05]Oh, Lord Marth. I've been 
 waiting for you. [WaitForA][SwitchFrame][01]
 [ShowPortrait][8b][06]Boah!? You've suffered a 

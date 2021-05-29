@@ -1,7 +1,7 @@
 @address $e5f781
 @width 160
 @label dialogue_263
-[_88][00][_89][3a][80][SwitchFrame][00]
+[_88][00][PlaySong][3a][80][SwitchFrame][00]
 [ShowPortrait][89][04]You... You dare treat my 
 citizens like that... Die! [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 81
+[PlaySong][ff][ff]# length: 81

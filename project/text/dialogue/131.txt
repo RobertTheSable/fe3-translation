@@ -10,5 +10,5 @@ you won't be able to defeat
 Medeus with your puny 
 strength. [WaitForA]
 Haha... I will be patiently 
-awaiting you in Hell... [_94][20][01][_89][ff][ff][CloseFrame][02]
+awaiting you in Hell... [_94][20][01][PlaySong][ff][ff][CloseFrame][02]
 # length: 242

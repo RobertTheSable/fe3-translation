@@ -1,7 +1,7 @@
 @address $e3898d
 @width 160
 @label dialogue_165
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][6f][05]Oh... Please spare this girl. 
 She is just 10 years old. [WaitForA]
 She hasn't even finished her 
@@ -19,7 +19,7 @@ If you require anything, please
 ask. [WaitForA]
 We have some food, please 
 take it if you want. [WaitForA][CloseFrame][02]
-[_89][4c][80][SwitchFrame][00]
+[PlaySong][4c][80][SwitchFrame][00]
 [ShowPortrait][80][04]Wait... Please, take me with 
 you... [WaitForA][SwitchFrame][01]
 [ClearFrame]

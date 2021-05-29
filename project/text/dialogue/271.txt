@@ -1,8 +1,8 @@
 @address $e5fb3a
 @width 160
 @label dialogue_271
-[_88][00][_89][3b][80][SwitchFrame][00]
+[_88][00][PlaySong][3b][80][SwitchFrame][00]
 [ShowPortrait][91][04]I... HAVE RESURRECTED... 
 STUPID HUMANS... I WILL KILL 
 YOU ALL... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 96
+[PlaySong][ff][ff]# length: 96

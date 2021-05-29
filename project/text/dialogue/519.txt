@@ -2,7 +2,7 @@
 @width 160
 @label dialogue_519
 [_88][00][SwitchFrame][00]
-[_89][5e][80][ShowPortrait][33][04]Marth, you may leave. I will use 
+[PlaySong][5e][80][ShowPortrait][33][04]Marth, you may leave. I will use 
 my magic to send you to Altea 
 instantly. [WaitForA][SwitchFrame][01]
 [ShowPortrait][8b][07]Gotoh, aren't you coming along 

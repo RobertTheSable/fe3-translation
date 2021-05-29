@@ -1,7 +1,7 @@
 @address $e2b220
 @width 160
 @label dialogue_133
-[_88][00][_89][12][80][SwitchFrame][00]
+[_88][00][PlaySong][12][80][SwitchFrame][00]
 [ShowPortrait][4f][04]Ha... Foolish kid! Don't think 
 you're so great!! [WaitForA]
 Even though you've entered 

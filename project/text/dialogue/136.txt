@@ -1,7 +1,7 @@
 @address $e2b49a
 @width 160
 @label dialogue_136
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][33][04]Marth. You truly are a hero for 
 being able to reach here. [WaitForA]
 In the past I used to hate 

@@ -1,7 +1,7 @@
 @address $e3c48d
 @width 160
 @label dialogue_180
-[_88][00][_89][47][80][SwitchFrame][01]
+[_88][00][PlaySong][47][80][SwitchFrame][01]
 [ShowPortrait][02][07]Your highness, please hurry. 
 The pursuers have already 
 arrived. [WaitForA][SwitchFrame][00]

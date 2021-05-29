@@ -1,9 +1,9 @@
 @address $e2b7c8
 @width 160
 @label dialogue_138
-[_88][00][_89][13][80][SwitchFrame][00]
+[_88][00][PlaySong][13][80][SwitchFrame][00]
 [ShowPortrait][4f][04]I have awakened from my 
 sleep. 
 Rebels! You will suffer a fiery 
 death by the flames of Hell. [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 125
+[PlaySong][ff][ff]# length: 125

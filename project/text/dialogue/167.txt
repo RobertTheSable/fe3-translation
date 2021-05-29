@@ -1,7 +1,7 @@
 @address $e391d5
 @width 160
 @label dialogue_167
-[_88][00][_89][20][80][SwitchFrame][01]
+[_88][00][PlaySong][20][80][SwitchFrame][01]
 [ShowPortrait][66][06]Oh, aren't you the prince of 
 Altea? I have heard a lot about
 you.  [WaitForA][SwitchFrame][00]

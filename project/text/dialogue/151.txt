@@ -1,7 +1,7 @@
 @address $e2d110
 @width 160
 @label dialogue_151
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][1c][07]Warren!? Even you've joined 
 the rebels...? [WaitForA][SwitchFrame][00]
 [ShowPortrait][79][04]Whitewing, Catria, it's been a 

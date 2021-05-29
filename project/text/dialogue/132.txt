@@ -1,7 +1,7 @@
 @address $e2adfc
 @width 160
 @label dialogue_132
-[_88][00][_89][0b][80][SwitchFrame][01]
+[_88][00][PlaySong][0b][80][SwitchFrame][01]
 [ShowPortrait][60][07]Your highness, look. 
 That is Medeus's castle. [WaitForA][SwitchFrame][00]
 [ShowPortrait][00][04]... We've finally reached it. 

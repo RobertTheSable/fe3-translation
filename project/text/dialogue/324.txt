@@ -1,6 +1,6 @@
 @address $e686f7
 @width 160
 @label dialogue_324
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][7d][04]Yumina... I'm sorry... [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 50
+[PlaySong][ff][ff]# length: 50

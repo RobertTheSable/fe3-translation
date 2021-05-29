@@ -1,7 +1,7 @@
 @address $e3b87d
 @width 160
 @label dialogue_176
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][03][04]Your highness, you're safe! [WaitForA][SwitchFrame][01]
 [ShowPortrait][8b][07]Cain! You're safe as well? [WaitForA][SwitchFrame][00]
 [ClearFrame]

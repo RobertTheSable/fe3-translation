@@ -1,6 +1,6 @@
 @address $e6862c
 @width 160
 @label dialogue_320
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][77][04]Cecille... I'm sorry.[_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 48
+[PlaySong][ff][ff]# length: 48

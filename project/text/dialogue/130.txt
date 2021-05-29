@@ -1,7 +1,7 @@
 @address $e2aab2
 @width 160
 @label dialogue_130
-[_88][00][_89][0a][80][SwitchFrame][00]
+[_88][00][PlaySong][0a][80][SwitchFrame][00]
 [ShowPortrait][32][04]Marth... I've missed you so 
 much. [WaitForA]
 Look at how you've grown... 

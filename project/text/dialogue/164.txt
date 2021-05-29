@@ -1,7 +1,7 @@
 @address $e386ae
 @width 160
 @label dialogue_164
-[_88][00][_89][6d][80][SwitchFrame][01]
+[_88][00][PlaySong][6d][80][SwitchFrame][01]
 [ShowPortrait][74][07]Captain Jeorge. The 
 commander ordered us to 
 return to the castle 

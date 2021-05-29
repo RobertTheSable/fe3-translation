@@ -1,7 +1,7 @@
 @address $e2dcaf
 @width 160
 @label dialogue_154
-[_88][00][_89][4c][80][SwitchFrame][01]
+[_88][00][PlaySong][4c][80][SwitchFrame][01]
 [ShowPortrait][0f][06]Hey! That was uncalled for. 
 Why do you always keep 
 picking on me? [WaitForA]

@@ -1,7 +1,7 @@
 @address $e5f075
 @width 160
 @label dialogue_250
-[_88][00][_89][21][80][SwitchFrame][00]
+[_88][00][PlaySong][21][80][SwitchFrame][00]
 [ShowPortrait][6a][04]If you continue north from 
 here there are no more shops. 
 Be sure to make enough 

@@ -1,7 +1,7 @@
 @address $e6af5d
 @width 160
 @label dialogue_463
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][6a][04]Emperor Hardin was once a 
 kind man, but he suddenly 
 changed into a 

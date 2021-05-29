@@ -1,7 +1,7 @@
 @address $e1e394
 @width 160
 @label dialogue_89
-[_88][00][_89][0c][80][SwitchFrame][00]
+[_88][00][PlaySong][0c][80][SwitchFrame][00]
 [ShowPortrait][33][04]Prince Marth... I am Archsage 
 Gotoh. [WaitForA]
 I am currently using my magic 

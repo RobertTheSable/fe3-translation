@@ -1,7 +1,7 @@
 @address $e3eda3
 @width 160
 @label dialogue_188
-[_88][00][_89][1e][80][SwitchFrame][00]
+[_88][00][PlaySong][1e][80][SwitchFrame][00]
 [ShowPortrait][8b][05]Jagen, this place is...[WaitForA][SwitchFrame][01]
 [ShowPortrait][02][06]This is the death desert of 
 Marmotord.[WaitForA]
@@ -29,7 +29,7 @@ And that was so that he could
 rescue Princess Artemis... [WaitForA]
 Although it will be long, I would 
 like to describe the legend of 
-Anri. [WaitForA][_89][48][80][_10][01]
+Anri. [WaitForA][PlaySong][48][80][_10][01]
 100 years ago... The ruler of 
 this continent, the Holy 
 Kingdom of Akaneia, was 

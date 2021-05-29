@@ -1,7 +1,7 @@
 @address $e4df35
 @width 160
 @label dialogue_203
-[_88][00][_89][20][80][SwitchFrame][01]
+[_88][00][PlaySong][20][80][SwitchFrame][01]
 [ShowPortrait][69][07]Oh, your highness, you've 
 finally come. I have been 
 waiting, to give this to you. [WaitForA]

@@ -1,7 +1,7 @@
 @address $e2ccf9
 @width 160
 @label dialogue_149
-[_88][00][_89][6d][80][SwitchFrame][01]
+[_88][00][PlaySong][6d][80][SwitchFrame][01]
 [ShowPortrait][8b][06]You two are Grust's... Prince 
 Yubello and Princess Yumina!? [WaitForA][CloseFrame][03]
 [SwitchFrame][01]

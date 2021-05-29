@@ -1,7 +1,7 @@
 @address $e3c9c9
 @width 160
 @label dialogue_182
-[_88][00][_89][48][80][SwitchFrame][00]
+[_88][00][PlaySong][48][80][SwitchFrame][00]
 [ShowPortrait][4c][04]Minerva. If you wait in this 
 village, you should be able to 
 meet Marth. [WaitForA]

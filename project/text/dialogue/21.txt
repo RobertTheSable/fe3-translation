@@ -1,7 +1,7 @@
 @address $e0f864
 @width 160
 @label dialogue_21
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][01][07]Swordfighter Nabarl! [WaitForA]
 Why would a person like you 
 become a bodyguard for these 

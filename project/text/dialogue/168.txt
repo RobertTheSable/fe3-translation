@@ -1,7 +1,7 @@
 @address $e39379
 @width 160
 @label dialogue_168
-[_88][00][_89][0d][80][SwitchFrame][01]
+[_88][00][PlaySong][0d][80][SwitchFrame][01]
 [ShowPortrait][02][06]Your highness, we've finally 
 subdued Grust. [WaitForA]
 However, many enemies are 

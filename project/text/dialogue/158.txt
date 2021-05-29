@@ -1,7 +1,7 @@
 @address $e2e6db
 @width 160
 @label dialogue_158
-[_88][00][_89][6d][80][SwitchFrame][00]
+[_88][00][PlaySong][6d][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Jagen, how is the situation at 
 the castle? Have they found 
 Minerva yet? [WaitForA][SwitchFrame][01]

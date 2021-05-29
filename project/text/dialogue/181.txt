@@ -1,7 +1,7 @@
 @address $e3c5c8
 @width 160
 @label dialogue_181
-[_88][00][_89][43][80][SwitchFrame][00]
+[_88][00][PlaySong][43][80][SwitchFrame][00]
 [ShowPortrait][8b][04]Jagen, everybody appears to 
 be safe. That's great to see. [WaitForA][SwitchFrame][01]
 [ShowPortrait][02][07]But, your highness, what 

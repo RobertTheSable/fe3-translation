@@ -1,7 +1,7 @@
 @address $e1c5d5
 @width 160
 @label dialogue_67
-[_88][00][_89][20][80][SwitchFrame][00]
+[_88][00][PlaySong][20][80][SwitchFrame][00]
 [ShowPortrait][72][04]Do you need a slave? [WaitForA]
 Right now we only have 
 weakling kids for sale, but we 

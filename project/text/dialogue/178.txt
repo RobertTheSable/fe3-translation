@@ -1,7 +1,7 @@
 @address $e3c002
 @width 160
 @label dialogue_178
-[_88][00][_89][0e][80][SwitchFrame][01]
+[_88][00][PlaySong][0e][80][SwitchFrame][01]
 [ShowPortrait][06][07]Mister Jeorge! Please wait a 
 second! [WaitForA][SwitchFrame][00]
 [ShowPortrait][20][04]Huh? ...Gordin? Long time no 

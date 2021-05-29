@@ -1,7 +1,7 @@
 @address $e689a3
 @width 160
 @label dialogue_336
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][60][04]Lord Marth, you died so 
 tragically... [_94][20][01][CloseFrame][02]
 # length: 63

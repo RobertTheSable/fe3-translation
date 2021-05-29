@@ -1,7 +1,7 @@
 @address $e6eac7
 @width 160
 @label dialogue_505
-[_88][00][_89][61][80][SwitchFrame][00]
+[_88][00][PlaySong][61][80][SwitchFrame][00]
 [ShowPortrait][67][04]The thieves escaped with my 
 family's treasured Lady Sword. [WaitForA]
 That sword can only be used 

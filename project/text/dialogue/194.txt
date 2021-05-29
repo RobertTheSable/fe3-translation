@@ -1,7 +1,7 @@
 @address $e4bc74
 @width 160
 @label dialogue_194
-[_88][00][_89][48][80][SwitchFrame][00]
+[_88][00][PlaySong][48][80][SwitchFrame][00]
 [ShowPortrait][8b][04]This is the Ice Dragon Shrine. 
 Anri's final destination... [WaitForA][SwitchFrame][01]
 [ShowPortrait][02][07]Yes. It was here that Anri 

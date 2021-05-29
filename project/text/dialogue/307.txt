@@ -1,6 +1,6 @@
 @address $e6837a
 @width 160
 @label dialogue_307
-[_88][00][_89][bf][80][SwitchFrame][00]
+[_88][00][PlaySong][bf][80][SwitchFrame][00]
 [ShowPortrait][26][04]Crap... Is this the end...? [_94][20][01][CloseFrame][02]
-[_89][ff][ff]# length: 55
+[PlaySong][ff][ff]# length: 55

@@ -1,7 +1,7 @@
 @address $e193bb
 @width 160
 @label dialogue_38
-[_88][00][_89][0a][80][ShowPortrait][61][04]You are Prince Marth? Finally, 
+[_88][00][PlaySong][0a][80][ShowPortrait][61][04]You are Prince Marth? Finally, 
 I have a chance to meet with 
 you. I am Nyna of Akaneia. [WaitForA]
 Our Kingdom of Akaneia, the 

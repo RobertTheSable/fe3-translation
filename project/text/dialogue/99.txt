@@ -1,7 +1,7 @@
 @address $e1f0d9
 @width 160
 @label dialogue_99
-[_88][00][_89][0e][80][SwitchFrame][00]
+[_88][00][PlaySong][0e][80][SwitchFrame][00]
 [ShowPortrait][28][04]Oh, Altea's prince. [WaitForA]
 Thanks to you I was able to 
 escape. [WaitForA]

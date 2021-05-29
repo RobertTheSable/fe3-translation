@@ -1,4 +1,4 @@
 @address $e7e3a5
 @width 160
 @label arena_05
-[_88][06][_89][15][80][_95]Oh, you died. What an idiot... [WaitForA]# length: 44
+[_88][06][PlaySong][15][80][_95]Oh, you died. What an idiot... [WaitForA]# length: 44
