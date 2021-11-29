@@ -7,4 +7,4 @@ If we let you guys walk all over
 us, it would ruin the name of 
 us pirates! 
 ...Die! [_94][20][01][CloseFrame][02]
-[PlaySong][ff][00]# length: 142
+[PlaySong][ff][ff]# length: 142
