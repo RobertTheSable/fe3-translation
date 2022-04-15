@@ -337,10 +337,12 @@ normal:
             code: 0x16
         _17:
             code: 0x17
-        _81:
+        ItemName:
             code: 0x81
         _82:
             code: 0x82
+        EndSubstitution:
+            code: 0x83
         ShowPortrait:
             code: 0x84
         CloseFrame:

@@ -2,6 +2,6 @@
 @width 160
 @label shopping_12
 
-[_81]s 
+[ItemName]s 
 was sent to the 
 storage. # length: 37
