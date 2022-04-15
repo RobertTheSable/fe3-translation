@@ -3,5 +3,5 @@
 @label shopping_66
 
 I'll take that for 
-[_82][a0]G. Is that 
+[SubGold][a0]G. Is that 
 alright? # length: 50

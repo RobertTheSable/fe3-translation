@@ -337,9 +337,9 @@ normal:
             code: 0x16
         _17:
             code: 0x17
-        ItemName:
+        SubItemName:
             code: 0x81
-        _82:
+        SubGold:
             code: 0x82
         EndSubstitution:
             code: 0x83

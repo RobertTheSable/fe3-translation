@@ -2,4 +2,4 @@
 @width 160
 @label shopping_05
 
-That will be [_82][a0]G. # length: 23
+That will be [SubGold][a0]G. # length: 23

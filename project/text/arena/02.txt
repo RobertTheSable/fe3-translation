@@ -3,7 +3,7 @@
 @label arena_02
 
 Your enemy is level [_8c][39]
-The prize is [_82][a0] gold. [WaitForA]
+The prize is [SubGold][a0] gold. [WaitForA]
 You can only leave by pressing 
 B before the next round 
 begins or when you win or lose. [WaitForA]

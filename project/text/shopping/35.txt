@@ -2,4 +2,4 @@
 @width 160
 @label shopping_35
 
-[ItemName]# Vendor > supply message
+[SubItemName]# Vendor > supply message

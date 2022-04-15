@@ -2,4 +2,4 @@
 @width 160
 @label arena_04
 [_88][06][PlaySong][15][80][_95]You won. Here's your prize of 
-[_82][a0] gold. # length: 53
+[SubGold][a0] gold. # length: 53

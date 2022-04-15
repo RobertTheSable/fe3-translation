@@ -3,4 +3,4 @@
 @label shopping_51
 
 That will be 
-[_82][a0]G. # length: 25
+[SubGold][a0]G. # length: 25

@@ -2,4 +2,4 @@
 @width 160
 @label shopping_58
 
-[ItemName]# Secret shop > supply message
+[SubItemName]# Secret shop > supply message
