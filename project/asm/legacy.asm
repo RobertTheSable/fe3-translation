@@ -1,11 +1,15 @@
+includeonce
+
+function shiftedBank(label) = bank(label)<<8
+
 macro loadAddress1(addr)
-    LDA #((<addr>>>8)&$FF00)
+    LDA #shiftedBank(<addr>)
     STA $01
     LDA #<addr>
 endmacro
 
 macro loadAddress2(addr)
-    LDA #((<addr>>>8)&$FF00)
+    LDA #shiftedBank(<addr>)
     STA $01
     LDY #<addr>
 endmacro
@@ -798,7 +802,7 @@ code_134:
 
 ORG !hook86_1
 code_136:
-     JSL code_181   ; 220086ee
+     JSL handleBattleText ; 220086ee
      LDX $1018      ; ae1810
      RTS            ; 60
 
@@ -958,7 +962,7 @@ code_157:
      NOP            ; ea
 
 ORG !loadStorageText
-     lda #((table_storage>>8)&$FF00)
+     lda #shiftedBank(table_storage)
      sta $01
      lda $0F4B
      asl A
@@ -979,7 +983,7 @@ ORG $8df821
 loadB2OpeningAddress:
     php
     rep #$30
-    lda #$dc00
+    lda #shiftedBank(bin_720)
     sta $01
     lda bin_720+2   ; currently #$100
     clc
@@ -1202,6 +1206,7 @@ loadMenuText:
      PHP            ; 80
      REP #$20       ; c220
      PHA            ; 48
+     ; this needs to be changed if menu text gets put somewhere else
      LDA #$f000     ; a900f0
      STA $01        ; 8501
      STY $00        ; 8400
@@ -1221,13 +1226,14 @@ loadMenuText:
      ADC $17        ; 6517
      STA $03        ; 8503
      LDY #$0000     ; a00000
+.loop:
      LDA [$00],Y    ; b700
      CMP #$fffd     ; c9fdff
-     BEQ $2b        ; f02b
+     BEQ .newline     ; f02b
      CMP #$fffe     ; c9feff
-     BEQ $38        ; f038
+     BEQ .halfnewline ; f038
      CMP #$ffff     ; c9ffff
-     BEQ $45        ; f045
+     BEQ .terminate ; f045
      PHY            ; 5a
      ASL            ; a0
      ASL            ; a0
@@ -1236,15 +1242,17 @@ loadMenuText:
      STA [$03]      ; 8703
      LDA $8b9afa,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
-     BEQ $05        ; f005
+     BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
      STA [$03],Y    ; 9703
+.halfHeight:
      PLY            ; 7a
      INY            ; c8
      INY            ; c8
      INC $03        ; e603
      INC $03        ; e603
-     BRA $ce        ; 80ce
+     BRA .loop      ; 80ce
+.newline:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0080     ; 698000
@@ -1254,7 +1262,8 @@ loadMenuText:
      STA $03        ; 8503
      INY            ; c8
      INY            ; c8
-     BRA $bc        ; 80bc
+     BRA .loop      ; 80bc
+.halfnewline:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0040     ; 694000
@@ -1264,7 +1273,8 @@ loadMenuText:
      STA $03        ; 8503
      INY            ; c8
      INY            ; c8
-     BRA $aa        ; 80aa
+     BRA .loop      ; 80aa
+.terminate:
      LDA $03        ; a503
      SEC            ; 38
      SBC #$3000     ; e90030
@@ -1277,19 +1287,23 @@ loadMenuText:
      TAX            ; aa
      LDA $8b9afa,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
-     BNE $0a        ; d00a
+     BNE .fullHeight ; d00a
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0040     ; 694000
      STA $17        ; 8517
-     BRA $08        ; 8008
+     BRA .exit      ; 8008
+.fullHeight:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0080     ; 698000
      STA $17        ; 8517
+.exit:
      PLX            ; fa
      PLP            ; 28
      RTL            ; 6b
+     ; what branches to here???
+     ; maybe an artifact from relocating something
      PHA            ; 48
      LDA #$8b00     ; a9008b
      STA $01        ; 8501
@@ -1302,11 +1316,10 @@ code_177:
      REP #$30       ; c230
      ASL            ; a0
      TAX            ; aa
-     LDA #$E700     ; a90067
+     LDA #shiftedBank(ChapterTitles_00) ; a90067
+     ; ^ aka lda #$E7
      STA $04        ; 8504
-     bank noassume
-     LDA table_ChapterTitles,X  ; bf0082ee
-     bank auto
+     LDA.L table_ChapterTitles,X  ; bf0082ee
      STA $03        ; 8503
      PLP            ; 28
      RTL            ; 6b
@@ -1316,9 +1329,10 @@ code_178:
      PHP            ; 80
      PHB            ; 8b
      LDY #$0000     ; a00000
+.loop:
      LDA [$00],Y    ; b700
      CMP #$ffff     ; c9ffff
-     BEQ $10        ; f010
+     BEQ .exit      ; f010
      CPY #$000a     ; c00a00
      BEQ $0b        ; f00b
      JSR code_179   ; 200084
@@ -1326,7 +1340,8 @@ code_178:
      INC $03        ; e603
      INY            ; c8
      INY            ; c8
-     BRA $e9        ; 80e9
+     BRA .loop      ; 80e9
+.exit:
      TYA            ; 98
      CLC            ; 18
      ADC $1018      ; 6d1810
@@ -1367,54 +1382,73 @@ code_180:
      RTL            ; 6b
 
 ORG $ee8600
-code_181:
+handleBattleText:
      SEP #$20       ; e220
      CMP #$05       ; c905
-     BEQ $03        ; f003
+     BEQ .variableText ; f003
      REP #$20       ; c220
      RTL            ; 6b
+.variableText:
      INX            ; e8
      INX            ; e8
      LDA $1db4,X    ; bdb41d
+     ; address ee860e
      PHA            ; 48
      CMP #$07       ; c907
-     BEQ $3a        ; f03a
+     BEQ .dmg       ; f03a
+                    ; arena damage
      CMP #$09       ; c909
-     BEQ $22        ; f022
+     BEQ .exp       ; f022
+                    ; gained EXP
      CMP #$20       ; c920
-     BEQ $1e        ; f01e
+     BEQ .exp       ; f01e
+                    ; lost EXP?
      CMP #$0a       ; c90a
-     BEQ $1e        ; f01e
+     BEQ .used      ; f01e
      CMP #$0b       ; c90b
-     BEQ $26        ; f026
+                    ; "chanted"
+     BEQ .item      ; f026
      CMP #$13       ; c913
-     BEQ $22        ; f022
+                    ; "had a"
+     BEQ .item      ; f022
      CMP #$14       ; c914
-     BEQ $1e        ; f01e
+                    ; "took the"
+     BEQ .item      ; f01e
      CMP #$35       ; c935
-     BEQ $16        ; f016
+     BEQ .money     ; f016
+                    ; "had X gold"
      CMP #$36       ; c936
-     BEQ $12        ; f012
+     BEQ .money     ; f012
+                    ; "took X gold"
      CMP #$2d       ; c92d
-     BEQ $0a        ; f00a
-     BRA $1f        ; 801f
+     BEQ .possesive ; f00a
+     BRA .default   ; 801f
+.exp:
      LDA #$40       ; a940
-     BRA $12        ; 8012
+     BRA .storeAndExit ; 8012
+.used:
      LDA #$41       ; a941
-     BRA $0e        ; 800e
+     BRA .storeAndExit ; 800e
+.possesive:
+     ; i.e. "Marth's" instead of "Marth"
      LDA #$43       ; a943
-     BRA $0a        ; 800a
+     BRA .storeAndExit ; 800a
+.money:
      LDA #$42       ; a942
-     BRA $06        ; 8006
+     BRA .storeAndExit ; 8006
+.item:
      LDA #$1f       ; a91f
-     BRA $02        ; 8002
+     BRA .storeAndExit  ; 8002
+.dmg:
      LDA #$44       ; a944
+.storeAndExit
      STA $1db4,X    ; 9db41d
      DEX            ; ca
      DEX            ; ca
      PLA            ; 68
      REP #$20       ; c220
      RTL            ; 6b
+.default:
      PLA            ; 68
      LDA #$43       ; a943
      DEX            ; ca
@@ -1424,18 +1458,22 @@ code_181:
 
 ORG $ee8700
 code_182:
+    ; battle text
      PHP            ; 80
      PHB            ; 8b
      LDY #$0000     ; a00000
+.loop:
      LDA [$00],Y    ; b700
      CMP #$fffd     ; c9fdff
-     BNE $06        ; d006
+     BNE .newline   ; d006
      JSL code_183   ; 220088ee
-     BRA $f3        ; 80f3
+     BRA .loop      ; 80f3
+.newline:
      CMP #$ffff     ; c9ffff
-     BEQ $06        ; f006
+     BEQ .exit      ; f006
      JSL !algorithm86_1    ; 22a5b186
-     BRA $e8        ; 80e8
+     BRA .loop      ; 80e8
+.exit:
      TYA            ; 98
      CLC            ; 18
      ADC $1018      ; 6d1810
@@ -1483,14 +1521,16 @@ code_135:
      JSL code_178   ; 2200836e
      PLB            ; ab
      PLP            ; 28
-     LDA #$F000
+     LDA #$F000     
+     ; ^ probably the highest byte for somet menu text related address
      RTL            ; 60
 
 ORG $ee8900
 code_184:
      LDA $00        ; a500
      PHA            ; 48
-     LDA #$E700     ; a90067
+     LDA.W #shiftedBank(storage_00) ; a90067
+     ; ^ AKA LFA #$E700
      STA $01        ; 8501
      STA $0f03      ; 8d030f
      PLA            ; 68
@@ -1505,33 +1545,38 @@ code_185:
      LDA $1db4,X    ; bdb41d
      SEP #$20       ; e220
      CMP #$13       ; c913
-     BEQ $16        ; f016
+     BEQ +          ; f016
      CMP #$14       ; c914
-     BEQ $12        ; f012
+     BEQ +          ; f012
      CMP #$07       ; c907
-     BEQ $0e        ; f00e
+     BEQ +          ; f00e
      CMP #$09       ; c909
-     BEQ $10        ; f010
+     BEQ ++         ; f010
+.exit:
      REP #$20       ; c220
      DEC $1039      ; ce3910
      PLX            ; fa
      LDA #$2400     ; a90024
      RTL            ; 6b
++:
      REP #$20       ; c220
      JSL code_138   ; 22c0ff86
+++:
      SEP #$20       ; e220
      LDA #$1f       ; a91f
      DEC $1039      ; ce3910
      LDX $1039      ; ae3910
      STA $1db4,X    ; 9db41d
-     BRA $e1        ; 80e1
+     BRA .exit      ; 80e1
 
 ORG $ee8b00
 code_186:
+    ; parsing character names for the select menu
      PHP            ; 80
      REP #$20       ; c220
      PHA            ; 48
      LDA #$f000     ; a900f0
+     ; ^ another shifted bank
      STA $01        ; 8501
      STY $00        ; 8400
      PLA            ; 68
@@ -1550,16 +1595,22 @@ code_186:
      ADC $17        ; 6517
      STA $03        ; 8503
      LDY #$0000     ; a00000
+.loop:
      LDA [$00],Y    ; b700
      CPY #$000c     ; c00c00
-     BNE $03        ; d003
+     BNE +          ; d003
+code_186_weirdBranchAddress = $ee8b33
      LDA #$ffff     ; a9ffff
+     ; ^ address $ee8b33 is the operand of this instruction
+     ; but some instrucitons branch to it
+     ; maybe a bug?
++:
      CMP #$fffd     ; c9fdff
-     BEQ $2b        ; f02b
+     BEQ .newline   ; f02b
      CMP #$fffe     ; c9feff
-     BEQ $38        ; f038
+     BEQ .halfnewline ; f038
      CMP #$ffff     ; c9ffff
-     BEQ $45        ; f045
+     BEQ .terminate ; f045
      PHY            ; 5a
      ASL            ; a0
      ASL            ; a0
@@ -1568,15 +1619,17 @@ code_186:
      STA [$03]      ; 8703
      LDA $8b9afa,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
-     BEQ $05        ; f005
+     BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
      STA [$03],Y    ; 9703
+.halfHeight:
      PLY            ; 7a
      INY            ; c8
      INY            ; c8
      INC $03        ; e603
      INC $03        ; e603
-     BRA $c6        ; 80c6
+     BRA .loop        ; 80c6
+.newline:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0080     ; 698000
@@ -1586,7 +1639,8 @@ code_186:
      STA $03        ; 8503
      INY            ; c8
      INY            ; c8
-     BRA $bc        ; 80bc
+     BRA .weirdBranchAddress ; 80bc
+.halfnewline:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0040     ; 694000
@@ -1596,7 +1650,8 @@ code_186:
      STA $03        ; 8503
      INY            ; c8
      INY            ; c8
-     BRA $aa        ; 80aa
+     BRA .weirdBranchAddress ; 80aa
+.terminate:
      LDA $03        ; a503
      SEC            ; 38
      SBC #$3000     ; e90030
@@ -1609,19 +1664,22 @@ code_186:
      TAX            ; aa
      LDA $8b9afa,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
-     BNE $0a        ; d00a
+     BNE .fullHeight ; d00a
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0040     ; 694000
      STA $17        ; 8517
-     BRA $08        ; 8008
+     BRA .exit      ; 8008
+.fullHeight:
      LDA $17        ; a517
      CLC            ; 18
      ADC #$0080     ; 698000
      STA $17        ; 8517
+.exit:
      PLX            ; fa
      PLP            ; 28
      RTL            ; 6b
+     ; a mystery just like the other menu algorithm
      PHA            ; 48
      LDA #$8b00     ; a9008b
      STA $01        ; 8501
@@ -1632,7 +1690,7 @@ ORG $f0fe00
 code_187:
      LDA $0f02      ; ad020f
      CMP #$ffff     ; c9ffff
-     BNE $11        ; d011
+     BNE .exit      ; d011
      LDA #$7fff     ; a9ff7f
      STA $0f02      ; 8d020f
      SEP #$20       ; e220
@@ -1640,6 +1698,7 @@ code_187:
      INC A          ; 1a
      STA $0f04      ; 8d040f
      REP #$20       ; c220
+.exit:
      INC $0f02      ; ee020f
      LDA $0f09      ; ad090f
      RTL            ; 6b

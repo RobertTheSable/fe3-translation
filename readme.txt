@@ -10,6 +10,10 @@ Credits:
         Neill Corlett - For the translated title screenï»¿
         
 Changelog:
+    beta 0.22:
+        - Fixed the text used when vendors/secret shops sell items to the convoy.
+    beta 0.21:
+        - Fixed a mistaken song code that caused Gazzack's boss quote to break sound if animations were off.
     beta 0.20:
         - Fix a mistake in Bantus B1 join dialogue.
         - Correct some naming inconsistencies.
