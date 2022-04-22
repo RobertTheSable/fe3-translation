@@ -14,6 +14,12 @@ macro loadAddress2(addr)
     LDY #<addr>
 endmacro
 
+macro loadSaveMenuAddress(addr)
+    LDA #shiftedBank(<addr>)     ; a900ec
+    STA $04        ; 8504
+    LDA #<addr>
+endmacro
+
 ORG $818071
 code_0:
      LDY #table_prepMenu     ; a0d6cb
@@ -38,6 +44,7 @@ code_3:
      LDY #table_charnames     ; a00080
      PLA            ; 68
      JSL code_186   ; 22008b6e
+                    ; replaces a jump to $81E21F
 
 ORG $818efd
 code_4:
@@ -351,12 +358,20 @@ code_59:
      LDA #$0000         ; a90000
      JSL loadMenuText   ; 2200806e
 
+     
 ORG $81cc05
 code_60:
+    ; controls the horizontal offset of the Fire Emblem Sprite
+    ; that appears next to marth's name in some chapters
+    ; this was increased from 05 -> 07 since marth's name was longer
+    ; in english than in Japanese
      LDA #$07           ; a907
 
 ORG $81cc28
 code_61:
+    ; since the fire emblem sprite is on the sprite layer,
+    ; a whole in the menu background layer needs to be created to see it.
+    ; this value controls the horizontal position of that hole.
      LDA #$07           ; a907
 
 ORG $81ce65
@@ -530,27 +545,10 @@ code_89:
      NOP            ; ea
      NOP            ; ea
      NOP            ; ea
-     
-ORG $8486b0
-loadB1OpeningAddress:
-    lda $07df
-    and #$00ff
-    bne $01
-    inc a
-    dec a
-    asl a
-    tax
-    lda #$dc00
-    sta $01
-    lda $dcb000,x
-    clc
-    adc #$b000
     
 ORG $84c039
 code_91:
-     LDA #$8800     ; a90088
-     STA $04        ; 8504
-     LDA #saveMenu_F1     ; a990f0
+    %loadSaveMenuAddress(saveMenu_F1)
 
 ORG $84c050
 code_92:
@@ -562,9 +560,7 @@ code_93:
 
 ORG $84c081
 code_94:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_emptyFile    ; a94280
+     %loadSaveMenuAddress(saveMenu_emptyFile)
 
 ORG $84c0e2
 code_95:
@@ -580,69 +576,47 @@ code_97:
 
 ORG $84fae0
 code_98:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_resumeCh     ; a90080
+     %loadSaveMenuAddress(saveMenu_resumeCh)
 
 ORG $84fb06
 code_99:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_restartCh     ; a90c80
+     %loadSaveMenuAddress(saveMenu_restartCh)
 
 ORG $84fb2c
 code_100:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_newGame     ; a91880
+     %loadSaveMenuAddress(saveMenu_newGame)
 
 ORG $84fb52
 code_101:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_copyFile     ; a92480
+     %loadSaveMenuAddress(saveMenu_copyFile)
 
 ORG $84fb78
 code_102:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_eraseFile     ; a93080
+     %loadSaveMenuAddress(saveMenu_eraseFile)
 
 ORG $84fb9e
 code_103:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_restartCh     ; a90c80
+     %loadSaveMenuAddress(saveMenu_restartCh)
 
 ORG $84fbc4
 code_104:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_newGame     ; a91880
+     %loadSaveMenuAddress(saveMenu_newGame)
 
 ORG $84fbea
 code_105:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_copyFile     ; a92480
+     %loadSaveMenuAddress(saveMenu_copyFile)
 
 ORG $84fc10
 code_106:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_eraseFile     ; a93080
+     %loadSaveMenuAddress(saveMenu_eraseFile)
 
 ORG $84fc36
 code_107:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_newGame     ; a91880
+     %loadSaveMenuAddress(saveMenu_newGame)
 
 ORG $84fc5c
 code_108:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_newGame     ; a91880
+     %loadSaveMenuAddress(saveMenu_newGame)
 
 ORG $84fd93
 code_109:
@@ -653,9 +627,7 @@ code_109:
 
 ORG $84fda1
 code_110:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_book1Start     ; a95c80
+     %loadSaveMenuAddress(saveMenu_book1Start)
      STA $03        ; 8503
      JSL $84c1b8    ; 22b8c184
 
@@ -668,9 +640,7 @@ code_111:
 
 ORG $84fddf
 code_112:
-     LDA #$ec00     ; a900ec
-     STA $04        ; 8504
-     LDA #saveMenu_book2Start     ; a97880
+     %loadSaveMenuAddress(saveMenu_book2Start)
      STA $03        ; 8503
      JSL $84c1b8    ; 22b8c184
 
@@ -690,7 +660,7 @@ code_113:
 ORG !loadChar1
 ;loading character names
 code_114:
-     LDA #$f000     ; a900f0
+     LDA #shiftedBank(charnames_00)     ; a900f0
 skip 8
 code_115:
      LDY #table_charnames     ; a00080
@@ -703,15 +673,15 @@ code_116:
 skip 16
 ;ORG $869774
 code_117:
-     LDY #table_itemNames     ; a0948c
+     LDY.W #table_itemNames     ; a0948c
 skip 48
 ;ORG $8697a7
 code_118:
-     LDA #$f000     ; a900f0
+     LDA.W #shiftedBank(charnames_00)     ; a900f0
 skip 8
 ;ORG $8697b2
 code_119:
-     LDY #table_charnames     ; a00080
+     LDY.W #table_charnames     ; a00080
 skip 12
 ;ORG $8697c1
 code_120:
@@ -725,35 +695,35 @@ code_121:
 skip 70
 ;ORG $869820 / $86985E
 code_122:
-     LDA #$f0       ; a9f0
+     LDA.B #bank(classnames2_00) ; a9f0
      STA $02        ; 8502
-     LDY #table_classnames2     ; a05e8b
+     LDY.W #table_classnames2     ; a05e8b
      REP #$20       ; c220
      TXA            ; 8a
      RTS            ; 60
-     LDA #$f0       ; a9f0
+     LDA.B #bank(classnames_00) ; a9f0
      STA $02        ; 8502
      LDA $15        ; a515
-     LDY #table_classnames    ; a09c88
+     LDY.W #table_classnames      ; a09c88
 skip 28
 ; ORG $869850
 code_123:
-     LDA #$f0       ; a9f0
+     LDA.B #bank(classnames3_00)  ; a9f0
      STA $02        ; 8502
-     LDY #table_classnames3     ; a01c8c
+     LDY.W #table_classnames3     ; a01c8c
 skip 6
 ; ORG $86985d
 code_124:
-     LDA #$f0       ; a9f0
+     LDA.B #bank(classnames_00)  ; a9f0
      STA $02        ; 8502
      LDA $15        ; a515
-     LDY #table_classnames     ; a09c88
+     LDY.W #table_classnames     ; a09c88
 
 ORG !loadBattleText1 ;$86b09b
 code_125:
-     LDA #$f000     ; a90070
+     LDA.W #shiftedBank(battleText_00) ; a90070
      STA $01        ; 8501
-     LDA #table_battleText     ; a946e3
+     LDA.W #table_battleText     ; a946e3
 skip 13
 ;ORG $86b0b0
 code_126:
@@ -761,9 +731,9 @@ code_126:
 skip 7
 ;ORG $86b0ba
 code_127:
-     LDA #$f000     ; a900f0
+     LDA.W #shiftedBank(charnames_00) ; a900f0
      STA $01        ; 8501
-     LDA #table_charnames     ; a90080
+     LDA.W #table_charnames     ; a90080
 skip 23
 ;ORG $86b0d9
 code_128:
@@ -771,21 +741,21 @@ code_128:
 skip 9
 ;ORG $86b0e5
 code_129:
-     LDA #$f000     ; a900f0
+     LDA.W #shiftedBank(itemNames_00) ; a900f0
      STA $01        ; 8501
-     LDA #table_itemNames     ; a9948c
+     LDA.W #table_itemNames     ; a9948c
 skip 18
 ;ORG $86b0ff
 code_130:
-     LDA #$f000     ; a900f0
+     LDA.W #shiftedBank(classnames_00) ; a900f0
      STA $01        ; 8501
-     LDA #table_classnames     ; a99c88
+     LDA.W #table_classnames     ; a99c88
 skip 58
 ;ORG $86b141
 code_131:
-     LDA #$F000     ; a90070
+     LDA.W #shiftedBank(battleText_00) ; a90070
      STA $01        ; 8501
-     LDA #table_battleText     ; a946e3
+     LDA.W #table_battleText     ; a946e3
 skip 80
 ;ORG $86b199
 code_132:
@@ -798,7 +768,7 @@ code_133:
 
 ORG !loadClassDescriptionBank
 code_134:
-     LDA #$E700     ; a90067
+     LDA.W #shiftedBank(classDescription_00)     ; a90067
 
 ORG !hook86_1
 code_136:
@@ -818,32 +788,32 @@ code_138:
      
 ORG !bank87+$9379
 code_139:
-     LDY #table_shopMenu     ; a09aca
+     LDY.W #table_shopMenu     ; a09aca
      LDA #$0000     ; a90000
      JSL loadMenuText   ; 2200806e
 skip 726
 ;ORG $879659
 code_140:
-     LDY #table_shopMenu     ; a09aca
+     LDY.W #table_shopMenu     ; a09aca
      PLA            ; 68
      INC A          ; 1a
      JSL loadMenuText   ; 2200806e
 
 ORG !bank87+$998e
 code_141:
-     LDY #table_menuEtc1     ; a05cd0
+     LDY.W #table_menuEtc1     ; a05cd0
      LDA #$0001     ; a90100
      JSL loadMenuText   ; 2200806e
 skip 260
 ;ORG $879a9c
 code_142:
-     LDY #table_menuEtc1     ; a05cd0
+     LDY.W #table_menuEtc1     ; a05cd0
      LDA #$0017     ; a91700
      JSL loadMenuText   ; 2200806e
 skip 25
 ;ORG $879abf
 code_143:
-     LDY #table_menuEtc1     ; a05cd0
+     LDY.W #table_menuEtc1     ; a05cd0
      LDA #$0018     ; a91800
      JSL loadMenuText   ; 2200806e
 
@@ -877,13 +847,13 @@ code_143:
 ORG !bank87+$9f4a
 ;probably all of this is for reinforcement popups
 code_144:
-     LDX #table_charnames     ; a20080
+     LDX.W #table_charnames     ; a20080
      stx $0F7D	
      lda #$08	
      sta $0F7C
 ;ORG $879f55
 code_145:
-     LDX #table_menuEtc1     ; a25cd0
+     LDX.W #table_menuEtc1     ; a25cd0
      stx $0F7F
      lda #$11
      sta $0F82
@@ -894,7 +864,7 @@ code_145:
      rep #$20
 ;ORG $879f6d
 code_146:
-     LDA #$f000     ; a900f0
+     LDA.W #shiftedBank(charnames_00)     ; a900f0
      sta $01
      lda $0F81
      and #$00FF
@@ -910,7 +880,7 @@ code_147:
 
 ORG !bank87+$a1b5 ; $87a1b5
 code_148:
-     LDY #table_prepMenu2        ; a068cc
+     LDY.W #table_prepMenu2        ; a068cc
      JSL loadMenuText   ; 2200806e
 
 ORG !bank87+$a48a  ;$87a48a
@@ -921,7 +891,7 @@ code_149:
 
 ORG !bank87+$a674
 code_150:
-     LDX #table_charnames     ; a20080
+     LDX.W #table_charnames     ; a20080
 
 ORG !bank87+$a6ae
 code_151:
@@ -930,16 +900,16 @@ code_151:
      ;lda #$00
 ORG !loadMenu_Item
 code_152:
-     LDY #table_menuEtc1     ; a05cd0
+     LDY.W #table_menuEtc1     ; a05cd0
      JSL loadMenuText   ; 2200806e
-     LDX #$0A0D
+     LDX #$0A0D     ; probably a coordinate
 skip 9
 ;ORG $87ae44
 code_153:
-     LDY #table_itemNames     ; a0948c
+     LDY.W #table_itemNames     ; a0948c
      LDA $0bb0      ; adb00b
      JSL loadMenuText   ; 2200806e
-     LDX #$0A0B
+     LDX #$0A0B     ; probably a coordinate
 
 ORG !hook87_1
 code_154:
@@ -951,7 +921,7 @@ code_155:
 
 ORG !hiddenTreasurePopup
 code_156:
-     LDY #table_itemUsage     ; a030de
+     LDY.W #table_itemUsage     ; a030de
      LDA #$0e       ; a90e
      JSL loadMenuText   ; 2200806e
 
@@ -962,12 +932,12 @@ code_157:
      NOP            ; ea
 
 ORG !loadStorageText
-     lda #shiftedBank(table_storage)
+     lda.w #shiftedBank(table_storage)
      sta $01
      lda $0F4B
      asl A
      clc 
-     adc #table_storage
+     adc.w #table_storage
      sta $00
      lda [$00]
      sta $00
@@ -978,28 +948,6 @@ ORG $8dd6aa
 bin_14:
 ; ??? - appears to change text from 607 to 608
      db $a8
-     
-ORG $8df821
-loadB2OpeningAddress:
-    php
-    rep #$30
-    lda #shiftedBank(bin_720)
-    sta $01
-    lda bin_720+2   ; currently #$100
-    clc
-    adc #$b000
-
-ORG $8dfacd
-bin_15:
-     lda #$E700     ;A90067
-;    sta $01
-;    lda $121E
-;    xba 
-;    dec A
-;    and #$00FF
-;    asl A
-;    tax 
-;    lda bin_16,X
 
 ORG $8ec667
 ; no idea, but introduced in quirino's patch.
@@ -1045,57 +993,54 @@ code_162:
 ORG $96af4a
 code_163:
      ; Book 2 ending Chapter Turns, good ending
-     LDA endings_Book2GoodTurns,X  ; bf08ea67
+     LDA.L endings_Book2GoodTurns,X  ; bf08ea67
 
 ; 96/B068:	A20000  	ldx #$0000
 ; 96/B06B:	A0CC01  	ldy #$01CC
 ORG $96b06e
 code_164:
      ; Book 2 ending Chapter Turns, bad ending
-     LDA endings_Book2BadTurns,X  ; bf31e767
+     LDA.L endings_Book2BadTurns,X  ; bf31e767
 
 ; 96/B151:	A20000  	ldx #$0000
 ; 96/B154:	A0BC01  	ldy #$01BC
 ORG $96b157
 code_165:
      ; Book 1 ending Chapter Turns
-     LDA endings_Book1Turns,X  ; bf5ce467
+     LDA.L endings_Book1Turns,X  ; bf5ce467
 
 ORG $96da49
 code_166:
-     LDA #endings_timePasses     ; a990b9
+     LDA.W #endings_timePasses     ; a990b9
      sta $00
-     jsr l_96E449
+     jsr loadBook12TransitionText
 
 ORG $96dac2
 code_167:
-     LDA #endings_book2WarOfHeroes    ; a970b9
+     LDA.W #endings_book2WarOfHeroes    ; a970b9
      sta $00
-     jsr l_96E449
+     jsr loadBook12TransitionText
 
 ORG $96dd58
 ; "personal records" text
 code_168:
-     LDA #endings_PersonalRecords     ; a9b0b9
+     LDA.W #endings_PersonalRecords     ; a9b0b9
      sta $00
-     jsr l_96E488
+     jsr loadPersonalRecordsText
 
 ORG $96ddce
 ; load "met" text
 code_169:
-     LDA #endings_Met     ; a950b9
+     LDA.W #endings_Met     ; a950b9
      sta $00
      ldy #$000E
 
 ORG $96DDED
 ; load "fell" text
-     lda #endings_Fallen
+     lda.w #endings_Fallen
      sta $00
      ldy #$000D
-     
-ORG $96df8b
-code_170:
-     JSL code_188    ; 220080ff
+
 
 ; 96/E0B7:	AF15B996	lda $96B915
 ; 96/E0BB:	8703    	sta [$03]
@@ -1120,34 +1065,39 @@ code_170:
 ; 96/E0ED:	E603    	inc $03
 ORG $96e0ef
 code_171:
-     bank noassume
-     LDA endings_Met    ; af50b996
-     bank auto
+     LDA.L endings_Met    ; af50b996
 ; 96/E0F3:	8703    	sta [$03]
 ; 96/E0F5:	E603    	inc $03
 ; 96/E0F7:	AF1DB996	lda $96B91D
 ; 96/E0FB:	8703    	sta [$03]
 
+; these are probably for:
+; book 1 ending
+; book 2 bad ending
+; book 2 good ending
+; but I'm too lazy to check which is for which.
+; it shouldn't matter since they jump to the same place anyway
+ORG $96df8b
+     JSL loadCharacterEnding    ; 220080ff
+
 ORG $96e18d
-code_172:
-     JSL code_188    ; 220080ff
+     JSL loadCharacterEnding    ; 220080ff
 
 ORG $96e1a4
-code_173:
-     JSL code_188    ; 220080ff
+     JSL loadCharacterEnding    ; 220080ff
 
 ORG $96E449
-l_96E449:
+loadBook12TransitionText:
     php
     sep #$30
-    lda #$96
+    lda.b #bank(endings_book2WarOfHeroes)
     sta $02
 
 ORG $96E488
-l_96E488:
+loadPersonalRecordsText:
      php
      sep #$30
-     LDA #$96
+     lda.b #bank(endings_PersonalRecords)
      sta $02
      rep #$30
 
@@ -1162,7 +1112,7 @@ ORG $96f774
 loadEndingBank:
      php 
      sep #$30
-     LDA.B #((endings_Book2History>>16)&$FF)       ; a967
+     LDA.B #bank(endings_Book2History)       ; a967
      sta $02
      rep #$30
      
@@ -1180,11 +1130,6 @@ bin_148:
      db $fb, $00, $1c, $01, $3d, $01, $5e, $01, $7f, $01, $a0, $01, $c1, $01, $e2, $01
      db $03, $02, $24, $02, $45, $02, $66, $02, $87, $02, $a8, $02, $c9, $02, $ea, $02
      db $07
-
-ORG $dcb056
-bin_720:
-; second word overwrites the offset for the book 1 OP, no clue about the first word
-     db $00, $00, $00, $01
 
 ORG $dcf958
 ; padding end zeroes for the book 1 OP
@@ -1575,7 +1520,7 @@ code_186:
      PHP            ; 80
      REP #$20       ; c220
      PHA            ; 48
-     LDA #$f000     ; a900f0
+     LDA #shiftedBank(charnames_00)     ; a900f0
      ; ^ another shifted bank
      STA $01        ; 8501
      STY $00        ; 8400
@@ -1598,6 +1543,8 @@ code_186:
 .loop:
      LDA [$00],Y    ; b700
      CPY #$000c     ; c00c00
+     ; ^ this limit was added in the old translation
+     ; it's meant to truncate long character names
      BNE +          ; d003
 code_186_weirdBranchAddress = $ee8b33
      LDA #$ffff     ; a9ffff
@@ -1704,9 +1651,9 @@ code_187:
      RTL            ; 6b
 
 ORG $ff8000
-code_188:
+loadCharacterEnding:
      PHB            ; 8b
-     LDA #$ff       ; a9ff
+     LDA.B #bank(CharacterEndings_00)       ; a9ff
      PHA            ; 48
      PLB            ; ab
      LDA ($00)      ; b200
