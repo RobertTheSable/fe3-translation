@@ -14,17 +14,6 @@ storeMenuPos:
      stx $0c1b
      LDY #table_suspend     ; a0acb9
 
-; ORG $81A7C5
-;     sep #$20
-;     ldx #$0603
-;     sta $0C1B
-; fix long names leaving data behind when paging vertically on the unit page
-ORG $81a7ce
-    ; the high byte determines the nummber of vertical 8px rows to be filled in
-    ; the low byte controls the number of horizontal 8px columns to be filled in
-    ldx #$1408 ; original value: $1407
-;     stx $0C1D
-
 ; character select highlighting
 ; this changes the length of the highlighting when actually selecting/desecting a unit
 org $818285
@@ -113,26 +102,105 @@ openMenuBasedOnCusror:
     stx $0C1B       ; also unchanged, and probably should not be changed
     
 
-; These are all to do with either text highlighting in various menus, or positioning in theitem popup menu
-; I accidentally deleted my notes so I forget what's what, though.
-
-ORG $81A887
-    ldy #$0006
-    
-ORG $81AF71
+ORG $81af5f
+loadSupplyMenuText:
+    php
+    sep #$20
+    ldx #$05A4
+    LDY #table_supplyMenu     ; a03acd
+    LDA #$00       ; a900
+    JSL loadMenuText   ; 2200806e    
+    ldx #$05A4      ; "Take" coordinates probably
+; sets the length of de-highlighting for the "Take" and "Store" text 
     ldy #$000C
-    
-ORG $81AF7C
+    lda #$01
+    jsr $C945
+    ldx #$0624
+; sets the length of de-highlighting for the "Discard" text
     ldy #$0007
+    lda #$01
+    jsr $C945
+    lda $0c0f
+    cmp #$03
+    beq .exit
+    cmp #$02
+    beq .discard
+    cmp #$01
+    beq .store
+.take:
+    ldx #$05A4  ; text coordinates, probably
+    ldy #$0004  ; highlight length for "Take" text, probably
+    bra .highlightAndExit
+.store:
+    ldx #$05B2 ; text coordinates, probably
+    ldy #$0005 ; sets the length of highlighting for the "Store" text
+    bra .highlightAndExit
+.discard:
+    ldx #$0624 ; discard text coordinates, probably
+    ldy #$0007 ; length of highlighting for the "Discard" text
+.highlightAndExit:
+    lda #$00
+    jsr $C945
+.exit:
+    plp
+    rts
     
-ORG $81AF9E
-    ldy #$0005
     
-ORG $81AFA6
-    ldy #$0007
-    
-ORG $81ECB9
-    ldx #$0E11
+; ORG $81A7C5
+;     sep #$20
+;     ldx #$0603
+;     sta $0C1B
+; fix long names leaving data behind when paging vertically on the unit page
+ORG $81a7ce
+    ; the high byte determines the nummber of vertical 8px rows to be filled in
+    ; the low byte controls the number of horizontal 8px columns to be filled in
+    ldx #$1408 ; original value: $1407
+;     stx $0C1D
+
+
+ORG $81a86b
+loadCharNameForUnitMenu:
+     LDY #table_charnames    ; a00080
+     LDX $17        ; a617
+     JSL loadMenuText   ; 2200806e
+     lda $17
+     sec
+     sbc #$0080
+     tax
+     phx
+     ldx $0BD1
+     lda $7F3812,X
+     and #$0001
+     plx
+; highlighting length for names on the unit screen 
+     ldy #$0006
+     jsr $C945
+; ...continues on
+
+ORG $81EC8E
+loadBindingshieldLightMessage:
+    sep #$20
+    ldx.w #$0904
+    stx $0C1B
+    jsl $81D5A8
+    ldx $15
+    ldy.w #table_itemUsage         ; a030de
+    lda.b #$0d           ; a90d
+    jsl loadMenuText   ; 2200806e
+    ldx #$0A05
+    stx $0C05
+    ldx #$3640
+    stx $0C08
+    jsl $81D77B
+    jsl $81E475
+    ldx #$0E11  ; coordinates for the cursor for the 
+                ; "Binding Shield emits light" message
+                ; high byte is the y coordinate
+                ; low byte is the x coordinate
+    jsr $EDC7
+    jsl $8196BD
+    plp
+    rtl
 
 ; this section is for the "item owner" in the supply list
 ORG $819239
@@ -141,7 +209,8 @@ ORG $819239
     JSL loadMenuText        ; 2200806e
     txa 
     clc 
-    adc #$0000              ; move the slot number closer to the unit name to fix the number overflowing the boundary.
+    adc #$0000              ; move the slot number closer to the unit name 
+                            ; to fix the number overflowing the boundary.
     tax 
     pla 
     JSL $81D6AC

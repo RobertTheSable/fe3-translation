@@ -138,12 +138,6 @@ code_23:
      LDY #table_itemNames     ; a0948c
      JSL loadMenuText   ; 2200806e
 
-ORG $81a86b
-code_24:
-     LDY #table_charnames    ; a00080
-     LDX $17        ; a617
-     JSL loadMenuText   ; 2200806e
-
 ORG $81a897
 code_25:
      LDY #table_itemDiscarding     ; a016cf
@@ -167,12 +161,6 @@ ORG $81aa21
 code_29:
      LDY #table_suspend     ; a0acb9
      LDA #$0008     ; a90800
-     JSL loadMenuText   ; 2200806e
-
-ORG $81af65
-code_30:
-     LDY #table_supplyMenu     ; a03acd
-     LDA #$00       ; a900
      JSL loadMenuText   ; 2200806e
 
 ORG $81b2a5
@@ -477,12 +465,6 @@ ORG $81eb4e
 code_79:
      LDY #table_suspend         ; a0acb9
      LDA #$000d         ; a90d00
-     JSL loadMenuText   ; 2200806e
-
-ORG $81ec9c
-code_80:
-     LDY #table_itemUsage         ; a030de
-     LDA #$0d           ; a90d
      JSL loadMenuText   ; 2200806e
 
 ORG $81ecdb
