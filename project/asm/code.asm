@@ -1,5 +1,6 @@
 incsrc legacy.asm
 incsrc opening.asm
+incsrc endings.asm
 ; Translation patch fixes made by RobertOfNormandy
 
 ORG $819847

@@ -970,26 +970,6 @@ code_162:
      NOP            ; ea
      NOP            ; ea
 
-; 96/AF44:	A20000  	ldx #$0000
-; 96/AF47:	A0F201  	ldy #$01F2
-ORG $96af4a
-code_163:
-     ; Book 2 ending Chapter Turns, good ending
-     LDA.L endings_Book2GoodTurns,X  ; bf08ea67
-
-; 96/B068:	A20000  	ldx #$0000
-; 96/B06B:	A0CC01  	ldy #$01CC
-ORG $96b06e
-code_164:
-     ; Book 2 ending Chapter Turns, bad ending
-     LDA.L endings_Book2BadTurns,X  ; bf31e767
-
-; 96/B151:	A20000  	ldx #$0000
-; 96/B154:	A0BC01  	ldy #$01BC
-ORG $96b157
-code_165:
-     ; Book 1 ending Chapter Turns
-     LDA.L endings_Book1Turns,X  ; bf5ce467
 
 ORG $96da49
 code_166:
@@ -1099,20 +1079,6 @@ loadEndingBank:
      rep #$30
      
  
-ORG $969fdc
-; no clue what this is - probably part of a table read at $969B27
-; index into a table at $8DA267, which are word addresses for data in bank 8D
-bin_148:
-     db $33, $00, $54, $00, $75, $00, $96, $00, $b7, $00, $d8, $00, $f9, $00, $1a, $01
-     db $3b, $01, $5c, $01, $7d, $01, $9e, $01, $bf, $01, $e0, $01, $01, $02, $22, $02
-     db $43, $02, $64, $02, $85, $02, $a6, $02, $c3, $02, $35, $00, $56, $00, $77, $00
-     db $98, $00, $b9, $00, $da, $00, $fb, $00, $1c, $01, $3d, $01, $5e, $01, $7f, $01
-     db $a0, $01, $c1, $01, $e2, $01, $03, $02, $24, $02, $45, $02, $66, $02, $87, $02
-     db $a8, $02, $c3, $02, $35, $00, $56, $00, $77, $00, $98, $00, $b9, $00, $da, $00
-     db $fb, $00, $1c, $01, $3d, $01, $5e, $01, $7f, $01, $a0, $01, $c1, $01, $e2, $01
-     db $03, $02, $24, $02, $45, $02, $66, $02, $87, $02, $a8, $02, $c9, $02, $ea, $02
-     db $07
-
 ORG $dcf958
 ; padding end zeroes for the book 1 OP
 bin_723:

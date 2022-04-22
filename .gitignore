@@ -6,5 +6,5 @@ project/asm/text.asm
 project/asm/textDefines.exp
 *.sfc
 *.smc
-*.directory
+.directory
 project/*headered.asm
