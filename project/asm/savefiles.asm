@@ -36,6 +36,7 @@ code_89:
 ;  on the save menu.
 ; for the translation, 0x20 needed to be added to each to correctly overrite the save menu
 ;  and not other stuff in ram.
+; if the change at $84C0E2 is reverted, these could probably be removed.
 ; slot 1:
 ORG $84BF58
     ldx #$0020 ; original value 0
