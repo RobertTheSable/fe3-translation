@@ -14,12 +14,6 @@ macro loadAddress2(addr)
     LDY #<addr>
 endmacro
 
-macro loadSaveMenuAddress(addr)
-    LDA #shiftedBank(<addr>)     ; a900ec
-    STA $04        ; 8504
-    LDA #<addr>
-endmacro
-
 ORG $818071
 code_0:
      LDY #table_prepMenu     ; a0d6cb

@@ -1,5 +1,12 @@
 includeonce
 
+macro loadSaveMenuAddress(addr)
+    LDA #shiftedBank(<addr>)     ; a900ec
+    STA $04        ; 8504
+    LDA #<addr>
+    STA $03
+endmacro
+
 !textCodeZero = $A0
 !textCodeOne = $A1
 !textCodeTwo = $A2
@@ -58,13 +65,12 @@ setupSaveFileName:
     lda #$F200 ; 84BFB8
     sta $00 ; 84BFBB
     %loadSaveMenuAddress(saveMenu_B_C_)
-    sta $03 ; 84BFC5
     jsl copyTextToBuffer ; 84BFC7
     pla  ; 84BFCB
     sep #$20 ; 84BFCC
     clc  ; 84BFCE
     adc.b #!textCodeZero ; 84BFCF
-    sta $7FF200 ; 84BFD1
+    sta $7FF200 ; write the file save index
     lda $1436 ; 84BFD5
     bne .notEmpty ; 84BFD8
     brl .loadEmptyFileAddress ; 84BFDA
@@ -117,7 +123,6 @@ setupSaveFileName:
 .loadSaveMenu_F1:
     rep #$20
     %loadSaveMenuAddress(saveMenu_F1)
-    sta $03 ; 84C041
     lda #$7F00 ; 84C043
     sta $01 ; 84C046
     lda #$F200 ; 84C048
@@ -132,7 +137,6 @@ setupSaveFileName:
 .loadSaveMenu_F2:
     rep #$20 ; 84C05B
     %loadSaveMenuAddress(saveMenu_F2)
-    sta $03 ; 84C065
     lda #$7F00 ; 84C067
     sta $01 ; 84C06A
     lda #$F200 ; 84C06C
@@ -148,7 +152,6 @@ setupSaveFileName:
     rep #$20 ; 84C07F
     ; in vanilla: %loadSaveMenuAddress($84C6F3)
     %loadSaveMenuAddress(saveMenu_emptyFile)
-    sta $03 ; 84C089
     lda #$7F00 ; 84C08B
     sta $01 ; 84C08E
     lda #$F200 ; 84C090
@@ -166,7 +169,7 @@ setupSaveFileName:
     sta $01 ; 84C0AD
     lda #$F200 ; 84C0AF
     sta $00 ; 84C0B2
-    jsl $84C1D1 ; 84C0B4
+    jsl copyTextToEndOfBuffer ; 84C0B4
     ldy $27 ; 84C0B8
     cpy #$0000 ; 84C0BA
     beq .exit ; 84C0BD
@@ -195,8 +198,8 @@ setupFixedWidthText:
     sta $0F25 ; 84C0DF
     ; controls the position of the chapter titles in the overworld summaries
     ; in vanilla this value is #$4000
-    ; lowering the value shifted the displayed part of the chapter titles left.
-    ; (it also seems to hide what is supposed to be the chapter number?)
+    ; changing it to #$3E00 shifts the displayed part of the chapter titles left.
+    ; it also seems to hide what is supposed to be the chapter number on chapter summaries
 ; ORG $84C0E2
     lda #$3E00     ; a9003e
     sta $0F23 ; 84C0E5
@@ -215,9 +218,9 @@ setupFixedWidthText:
     sta $0F12 ; 84C10D
     lda #$0001 ; 84C110
     sta $0F07 ; 84C113
-    lda #shiftedBank(fixedFontWidth)
+    lda #shiftedBank(!fixedFontWidth)
     sta $0F1A ; 84C119
-    lda #(fixedFontWidth-1)
+    lda #(!fixedFontWidth-1)
     sta $0F19 ; 84C11F
 .loop:
     sep #$20 ; 84C122
@@ -242,8 +245,12 @@ setupFixedWidthText:
     bne .loop ; 84C142
     plp  ; 84C144
     rts  ; 84C145
-    
+
+; copying text to a buffer
 copyTextToBuffer = $84c1b8
+
+; copies to the end of a filled buffer
+copyTextToEndOfBuffer = $84C1D1
 
 ORG $84C211
 loadSaveTitleAddress:
@@ -300,7 +307,11 @@ setupChapterTitleName:
     sta $01 ; 84E735
     lda #$F200 ; 84E737
     sta $00 ; 84E73A
-    pea $00B4 ; 84E73C
+    pea $00B4   ; starting offset of the text after the chapter number prefix
+                ; I can't figure out what the relationship betwene the prefix length
+                ; and this value should be
+                ; in vanilla it's $00B4 while the prefix is $15 bytes long
+                ; in the translation it should be $00AC while the prefix is $10 bytes long
     jsr setupFixedWidthText ; 84E73F
     pla  ; 84E742
     plp  ; 84E743
@@ -313,8 +324,7 @@ setupChapterTitleName:
     sta $01 ; 84E74C
     lda #$F200 ; 84E74E
     sta $00 ; 84E751
-    %loadSaveMenuAddress(saveMenu_B_C_old)
-    sta $03 ; 84E75B
+    %loadSaveMenuAddress(chapterTitle_B_C_)
     jsl copyTextToBuffer ; 84E75D
     sep #$20 ; 84E761
     lda $07DF ; 84E763
@@ -367,30 +377,31 @@ setupChapterTitleName:
     bra .exit ; 84E7C5
 .book2F1:
     rep #$20 ; 84E7C7
-    ; should probably have been overwritten?
+    ; should probably have been overwritten to use saveMenu_F1
+    ; as it is this just writes spaces in the english patches
+    ; because it's overwritten by "B_C_B_C_old"
+    ; (which is probably a mistake)
     %loadSaveMenuAddress($84C6DB)
-    sta $03 ; 84E7D1
     lda #$7F00 ; 84E7D3
     sta $01 ; 84E7D6
     lda #$F200 ; 84E7D8
     sta $00 ; 84E7DB
     lda $00 ; 84E7DD
     clc  ; 84E7DF
-    adc #$0009 ; 84E7E0
+    adc #$0009 ; should be 6
     sta $00 ; 84E7E3
     jsl copyTextToBuffer ; 84E7E5
     bra .exit ; 84E7E9
 .book2F2:
     rep #$20 ; 84E7EB
     %loadSaveMenuAddress(saveMenu_F2)
-    sta $03 ; 84E7F5
     lda #$7F00 ; 84E7F7
     sta $01 ; 84E7FA
     lda #$F200 ; 84E7FC
     sta $00 ; 84E7FF
     lda $00 ; 84E801
     clc  ; 84E803
-    adc #$0009 ; 84E804
+    adc #$0009 ; should be 6
     sta $00 ; 84E807
     jsl copyTextToBuffer ; 84E809
     bra .exit ; 84E80D
@@ -453,7 +464,6 @@ code_108:
 ORG $84fd89
     ; unchanged from vanilla
     %loadSaveMenuAddress(saveMenu_B_C_B_C_old)
-    sta $03
     ; overrides a jump to copyTextToBuffer
     NOP            ; ea
     NOP            ; ea
@@ -463,13 +473,11 @@ ORG $84fd89
 ORG $84fda1
 code_110:
      %loadSaveMenuAddress(saveMenu_book1Start)
-     STA $03        ; 8503
      jsl copyTextToBuffer    ; 22b8c184
 
 ORG $84FDC7
     ; unchanged from vanilla
     %loadSaveMenuAddress($84C6D0)
-    sta $03
     ; overrides a jump to copyTextToBuffer
     NOP            ; ea
     NOP            ; ea
@@ -479,7 +487,6 @@ ORG $84FDC7
 ORG $84fddf
 code_112:
      %loadSaveMenuAddress(saveMenu_book2Start)
-     STA $03        ; 8503
      jsl copyTextToBuffer    ; 22b8c184
 
 ORG $858380
