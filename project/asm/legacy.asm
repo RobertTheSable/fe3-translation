@@ -511,134 +511,6 @@ code_88:
      LDA #$0002         ; a90200
      JSL loadMenuText   ; 2200806e
      
-ORG $848639
-code_89:
-     JSL code_113       ; 22808305
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-    
-ORG $84c039
-code_91:
-    %loadSaveMenuAddress(saveMenu_F1)
-
-ORG $84c050
-code_92:
-     ADC #$0008     ; 690800
-
-ORG $84c074
-code_93:
-     ADC #$0008     ; 690800
-
-ORG $84c081
-code_94:
-     %loadSaveMenuAddress(saveMenu_emptyFile)
-
-ORG $84c0e2
-code_95:
-     LDA #$3e00     ; a9003e
-
-ORG $84c216
-code_96:
-     LDA #$E700     ; a90067
-
-ORG $84e720
-code_97:
-     JSL code_177   ; 220081ee
-
-ORG $84fae0
-code_98:
-     %loadSaveMenuAddress(saveMenu_resumeCh)
-
-ORG $84fb06
-code_99:
-     %loadSaveMenuAddress(saveMenu_restartCh)
-
-ORG $84fb2c
-code_100:
-     %loadSaveMenuAddress(saveMenu_newGame)
-
-ORG $84fb52
-code_101:
-     %loadSaveMenuAddress(saveMenu_copyFile)
-
-ORG $84fb78
-code_102:
-     %loadSaveMenuAddress(saveMenu_eraseFile)
-
-ORG $84fb9e
-code_103:
-     %loadSaveMenuAddress(saveMenu_restartCh)
-
-ORG $84fbc4
-code_104:
-     %loadSaveMenuAddress(saveMenu_newGame)
-
-ORG $84fbea
-code_105:
-     %loadSaveMenuAddress(saveMenu_copyFile)
-
-ORG $84fc10
-code_106:
-     %loadSaveMenuAddress(saveMenu_eraseFile)
-
-ORG $84fc36
-code_107:
-     %loadSaveMenuAddress(saveMenu_newGame)
-
-ORG $84fc5c
-code_108:
-     %loadSaveMenuAddress(saveMenu_newGame)
-
-ORG $84fd93
-code_109:
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-
-ORG $84fda1
-code_110:
-     %loadSaveMenuAddress(saveMenu_book1Start)
-     STA $03        ; 8503
-     JSL $84c1b8    ; 22b8c184
-
-ORG $84fdd1
-code_111:
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-     NOP            ; ea
-
-ORG $84fddf
-code_112:
-     %loadSaveMenuAddress(saveMenu_book2Start)
-     STA $03        ; 8503
-     JSL $84c1b8    ; 22b8c184
-
-ORG $858380
-code_113:
-     PHA                    ; 48
-     ASL                    ; a0
-     ADC $01,S              ; 6301
-     TAX                    ; aa
-     PLA                    ; 68
-     LDA table_worldmap+1,X ; bf018060
-     STA $000001            ; 8f010000
-     LDA table_worldmap,X   ; bf008060
-     STA $000000            ; 8f000000
-     RTL                    ; 6b
-     
 ORG !loadChar1
 ;loading character names
 code_114:
@@ -908,7 +780,6 @@ code_156:
      JSL loadMenuText   ; 2200806e
 
 ORG !hook87_2
-code_157:
      JSL code_187   ; 2200fef0
      NOP            ; ea
      NOP            ; ea
@@ -1201,20 +1072,6 @@ loadMenuText:
      LDA #$8b00     ; a9008b
      STA $01        ; 8501
      PLA            ; 68
-     RTL            ; 6b
-
-ORG $ee8100
-code_177:
-     PHP            ; 80
-     REP #$30       ; c230
-     ASL            ; a0
-     TAX            ; aa
-     LDA #shiftedBank(ChapterTitles_00) ; a90067
-     ; ^ aka lda #$E7
-     STA $04        ; 8504
-     LDA.L table_ChapterTitles,X  ; bf0082ee
-     STA $03        ; 8503
-     PLP            ; 28
      RTL            ; 6b
 
 ORG $ee8300

@@ -1,6 +1,7 @@
 incsrc legacy.asm
 incsrc opening.asm
 incsrc endings.asm
+incsrc savefiles.asm
 ; Translation patch fixes made by RobertOfNormandy
 
 ORG $819847
@@ -24,20 +25,6 @@ org $818285
 ; this changes the length of text that gets de-highlighted when the select screen loads
 org $81864B
     ldy #$0006
-
-; these adjust the leftmost position that gets overwritten when copying or erasing files
-;  on the save menu.
-; for the translation, 0x20 needed to be added to each to correctly overrite the save menu
-;  and not other stuff in ram.
-; slot 1:
-ORG $84BF58
-    ldx #$0020 ; original value 0
-; slot two:
-ORG $84BF6F
-    ldx #$0054 ; original value $34
-; slot three:
-ORG $84BF86
-    ldx #$0088 ; original value $68
     
 ; Map battle messages (LvlUp, GotItm, Broken weapon)
 ORG $82C51A
@@ -50,27 +37,6 @@ ORG $82C51A
     ; Broken weapon message
     db $11, $20, $5B, $20, $58, $20, $54, $20, $3E, $20, $57, $20, $DF, $20 
     db $01, $20, $4B, $20, $48, $20, $44, $20, $2E, $20, $47, $20, $CF, $20
-    
-; Set the width of the box for titles on the opening of each chapter.
-; chapter index 0 is only used by a debug map so the first value isn't used
-ORG $84E5AF
-    ; this table controls the right boundary of the title box
-    ; values lower than 3 don't seem to be supported
-    ; every increase moves the right boudary by 16 pixels
-    ; (aka two glyphs in fixed width fonts)
-    ; in rev 1.1, this data is read at $84:DD7F
-    db $00, $04, $06, $06, $06, $03, $07, $05, $05, $04, $05, $05, $05, $06, $05, $06
-    db $05, $06, $04, $05, $04, $07, $06, $06, $05, $06, $03, $06, $04, $06, $04, $03
-    db $06, $03, $06, $05, $07, $06, $07, $06, $04, $06, $07 
-    ; the final 2 chapters of the game don't have intros, 
-    ; so they have no values in either table
-
-    ; this table determines the leftmost position of the title window
-    ; unlike the first table, the values here are in absolute pixels
-    ; in rev 1.1, this data is read at $84:EE92
-    db $00, $20, $10, $10, $10, $28, $08, $18, $18, $20, $18, $18, $18, $10, $18, $10
-    db $18, $10, $20, $18, $20, $08, $10, $10, $18, $10, $28, $10, $20, $10, $20, $28
-    db $10, $28, $10, $18, $08, $10, $08, $10, $20, $10, $08
 
     
 ; move the remaining unit count ont he select screen left 
