@@ -2,6 +2,7 @@ incsrc legacy.asm
 incsrc opening.asm
 incsrc endings.asm
 incsrc savefiles.asm
+incsrc statmenu.asm
 ; Translation patch fixes made by RobertOfNormandy
 
 ORG $819847

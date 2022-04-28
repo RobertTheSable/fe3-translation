@@ -326,59 +326,6 @@ code_58:
      LDA #$0000         ; a90000
      JSL loadMenuText   ; 2200806e
 
-ORG $81cb3e
-code_59:
-     LDY #table_charnames         ; a00080
-     LDA $7f4416        ; af16447f
-     JSL loadMenuText   ; 2200806e
-     LDX $17            ; a617
-     LDY #table_classnames         ; a09c88
-     LDA $7f4401        ; af01447f
-     JSL loadMenuText   ; 2200806e
-     LDX $17            ; a617
-     LDY #table_menuStats         ; a04eb8
-     LDA #$0000         ; a90000
-     JSL loadMenuText   ; 2200806e
-
-     
-ORG $81cc05
-code_60:
-    ; controls the horizontal offset of the Fire Emblem Sprite
-    ; that appears next to marth's name in some chapters
-    ; this was increased from 05 -> 07 since marth's name was longer
-    ; in english than in Japanese
-     LDA #$07           ; a907
-
-ORG $81cc28
-code_61:
-    ; since the fire emblem sprite is on the sprite layer,
-    ; a whole in the menu background layer needs to be created to see it.
-    ; this value controls the horizontal position of that hole.
-     LDA #$07           ; a907
-
-ORG $81ce65
-code_62:
-     LDY #table_menuStats         ; a04eb8
-     LDA #$01           ; a901
-     JSL loadMenuText   ; 2200806e
-
-ORG $81cf39
-code_63:
-     LDY #table_menuStats         ; a04eb8
-     JSL loadMenuText   ; 2200806e
-
-ORG $81cf7a
-code_64:
-     LDY #table_menuStats         ; a04eb8
-     LDA #$02           ; a902
-     JSL loadMenuText   ; 2200806e
-
-ORG $81d09b
-code_65:
-     LDY #table_menuStats         ; a04eb8
-     LDA #$0003         ; a90300
-     JSL loadMenuText   ; 2200806e
-
 ORG $81da35
 code_66:
      LDY #table_itemNames         ; a0948c
