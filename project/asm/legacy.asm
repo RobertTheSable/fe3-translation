@@ -233,12 +233,6 @@ code_42:
      LDA #$0001         ; a90100
      JSL loadMenuText   ; 2200806e
 
-ORG $81c150
-code_43:
-     LDY #table_menuEtc1     ; a05cd0
-     LDA #$000a     ; a90a00
-     JSL loadMenuText   ; 2200806e
-
 ORG $81c1e7
 code_44:
      LDY #table_itemDescription         ; a0ae93
