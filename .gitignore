@@ -8,3 +8,8 @@ project/asm/textDefines.exp
 *.smc
 .directory
 project/*headered.asm
+sable
+sable.exe
+asar.dll
+libasar.so
+
