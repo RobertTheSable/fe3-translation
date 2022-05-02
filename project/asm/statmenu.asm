@@ -50,7 +50,7 @@ ORG $81C134
      ; ^ controls the X offset of some menu padding
      ; that gets added to the eqiup window
      sta $0C1B ; 81C147
-     jsl _81D5A8
+     jsl getMenuBufferPos
      ldx $15
 ; code_43:
      LDY #table_menuEtc1 ; 81c150
@@ -110,7 +110,7 @@ setupCharacterSummaryWindow:
      jsl setupMenu ; 81CB2E
      inc $0C1B ; 81CB32
      inc $0C1C ; 81CB35
-     jsl _81D5A8 ; 81CB38
+     jsl getMenuBufferPos ; 81CB38
      ldx $15 ; 81CB3C
 ; ORG $81cb3e
 ; code_59:
@@ -248,7 +248,7 @@ setupEquipStatsMenu:
      jsl setupMenu ; 81CE55
      inc $0C1B ; 81CE59
      inc $0C1C ; 81CE5C
-     jsl _81D5A8 ; 81CE5F
+     jsl getMenuBufferPos ; 81CE5F
      ldx $15 ; 81CE63
 ; ORG $81ce65
 ; code_62:
@@ -262,7 +262,7 @@ setupEquipStatsMenu:
      clc  ; 81CE76
      adc #$0003 ; 81CE77
      sta $0C1B ; 81CE7A
-     jsl _81D5A8 ; 81CE7D
+     jsl getMenuBufferPos ; 81CE7D
      ldx $15 ; 81CE81
      lda $0769 ; 81CE83
      jsr $A55B ; 81CE86
@@ -372,7 +372,7 @@ setupStatsWindow:
     jsl setupMenu ; 81CF6A
     inc $0C1B ; 81CF6E
     inc $0C1C ; 81CF71
-    jsl _81D5A8 ; 81CF74
+    jsl getMenuBufferPos ; 81CF74
     ldx $15 ; 81CF78
 ; ORG $81cf7a
 ; code_64:
@@ -385,7 +385,7 @@ setupStatsWindow:
                 ; from the left of the window
     sta $0C1B ; 81CF89
     rep #$20 ; 81CF8C
-    jsl _81D5A8 ; 81CF8E
+    jsl getMenuBufferPos ; 81CF8E
     ldx $15 ; 81CF92
     lda $7F4409 ; 81CF94
     jsr .calculateStatText ; 81CF98
@@ -482,7 +482,7 @@ setupExtraStatsWindow:
      inc $0C1B ; 81D08C
      inc $0C1B ; 81D08F
      inc $0C1C ; 81D092
-     jsl _81D5A8 ; 81D095
+     jsl getMenuBufferPos ; 81D095
      ldx $15 ; 81D099
 ; ORG $81d09b
 ; code_65:
@@ -626,7 +626,7 @@ setupMenu:
     lda $0C1E ; 81D4F6
     dec A ; 81D4F9
     sta $0C1E ; 81D4FA
-    jsl _81D5A8 ; 81D4FD
+    jsl getMenuBufferPos ; 81D4FD
     rep #$30 ; 81D501
     ldx $15 ; 81D503
     lda $0C1F ; 81D505
@@ -709,14 +709,18 @@ setupMenu:
     sta $0C1E ; 81D5A3
     plp  ; 81D5A6
     rtl  ; 81D5A7
-_81D5A8:
+getMenuBufferPos:
+    ; calculates position in the output buffer to write data to
+    ; usually the formula is (X position * 2) + (Y position * #$40)
+    ; unless the Y position is not already calculated, 
+    ; then (X position * 2) is added to a value stored in $15-$16
     php  ; 81D5A8
     sep #$20 ; 81D5A9
     lda $0C1C ; 81D5AB
     bne + ; 81D5AE
     stz $15 ; 81D5B0
     stz $16 ; 81D5B2
-    bra ._D5CE ; 81D5B4
+    bra ++ ; 81D5B4
 +:
     xba  ; 81D5B6
     lda #$40 ; 81D5B7
@@ -730,7 +734,7 @@ _81D5A8:
     rep #$20 ; 81D5C8
     sta $15 ; 81D5CA
     sep #$20 ; 81D5CC
-._D5CE:
+++:
     lda $0C1B ; 81D5CE
     beq .exit ; 81D5D1
     asl A ; 81D5D3
