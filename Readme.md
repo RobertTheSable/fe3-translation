@@ -15,13 +15,13 @@ Please check the releases tab and follow the included readme.
 
 ### Setup
 
-You will need to acquire headered and unheaderd roms for FE3 revisions 1.0 and 1.1
+You will need to acquire headered and unheaderd roms for FE3 revisions 1.0 and 1.1. You're on your own for this.
 
 1. Create some folder somewhere you can work in.
 2. Inside that folder, clone this repo.
     * Use `git clone https://github.com/RobertTheSable/fe3-translation.git` if you don't intent to contribute or fork this repo.
     * Use `git clone git@github.com:RobertTheSable/fe3-translation.git` if you intent to contribute to this translation and/or create your own fork.
-4. Create and `fe3-translation/roms` subfolder and copy or move your roms there.
+4. Create a `fe3-translation/roms` subfolder and copy or move your roms there.
     * Make sure their  names match the "file" keys for each rom entry in [config.yml](https://github.com/RobertTheSable/fe3-translation/blob/master/config.yml#L36)
 3. Download [Sable](https://github.com/RobertTheSable/sable-text-converter) (at least version [1.2.1](https://github.com/RobertTheSable/sable-text-converter/releases/tag/1.2.1))
 4. Unzip sable.exe and the bunled asar.dll file into the parent folder that this repository was cloned into.
