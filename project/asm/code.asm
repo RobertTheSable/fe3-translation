@@ -194,3 +194,11 @@ ORG $81926D
     LDY #table_itemDiscarding   ; a016cf
     LDA #$0002                  ; a90200
     JSL loadMenuText            ; 2200806e
+    
+;these next two block aren't actually different, I've jsut added it for documentations
+ORG $96db71
+    LDA.W #endings_SaveGameDialogue
+    
+ORG $96e44c
+    LDA.B #bank(endings_SaveGameDialogue)
+
