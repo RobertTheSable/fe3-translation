@@ -1,6 +1,7 @@
-address 8e9216
+address 8e9213
 width 3
 data e0e1a6
+file 00.txt
 file 01.txt
 file 02.txt
 file 03.txt
@@ -522,6 +523,7 @@ file 518.txt
 file 519.txt
 file 520.txt
 
+entry dialogue_00
 entry dialogue_01
 entry dialogue_02
 entry dialogue_03

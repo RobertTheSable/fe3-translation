@@ -1,0 +1,2857 @@
+japanese:
+  HasDigraphs: false
+  ByteWidth: 1
+  CommandValue: 0
+  MaxWidth: 160
+  Commands: &normal-commands
+    End:
+        code: 0x00
+    NewLine:
+        code: 0x01
+        newline: 1
+    ClearFrame:
+        code: 0x02
+        newline: 1
+    _05:
+        code: 0x05
+        args: 1
+    SetColor:
+        code: 0x07
+        args: 2
+    MapWaitForA:
+        code: 0x09
+        newline: 1
+    _0a:
+        code: 0x0a
+    _0c:
+        code: 0x0c
+        args: 1
+    AddSpaces:
+        code: 0x0f
+        args: 1
+    _10:
+        code: 0x10
+        args: 1
+    UsePage0:
+        code: 0x11
+        page: 0
+    UsePage1:
+        code: 0x12
+        page: 1
+    UsePage2:
+        code: 0x13
+        page: 2
+    UsePage3:
+        code: 0x14
+        page: 3
+    _16:
+        code: 0x16
+        args: 2
+    _17:
+        code: 0x17
+        args: 2
+    SubItemName:
+        code: 0x81
+    SubGold:
+        code: 0x82
+    EndSubstitution:
+        code: 0x83
+    ShowPortrait:
+        code: 0x84
+        args: 2
+    CloseFrame:
+        code: 0x85
+        newline: 1
+        args: 1
+    _87:
+        code: 0x87
+    _88:
+        code: 0x88
+        args: 1
+    PlaySong:
+        code: 0x89
+        args: 2
+    WaitForA:
+        code: 0x8a
+    _8f:
+        code: 0x8f
+        args: 1
+    SwitchFrame:
+        code: 0x92
+        newline: 1
+        args: 1
+    _93:
+        code: 0x93
+    _94:
+        code: 0x94
+        args: 2
+    _95:
+        code: 0x95
+  Encoding:
+    あ:
+      code: 0x01
+      length: 11
+    い:
+      code: 0x02
+      length: 10
+    う:
+      code: 0x03
+      length: 11
+    え:
+      code: 0x04
+      length: 11
+    お:
+      code: 0x05
+      length: 11
+    か:
+      code: 0x06
+      length: 12
+    き:
+      code: 0x07
+      length: 10
+    く:
+      code: 0x08
+      length: 10
+    け:
+      code: 0x09
+      length: 11
+    こ:
+      code: 0x0a
+      length: 10
+    さ:
+      code: 0x0b
+      length: 10
+    し:
+      code: 0x0c
+      length: 10
+    す:
+      code: 0x0d
+      length: 11
+    せ:
+      code: 0x0e
+      length: 11
+    そ:
+      code: 0x0f
+      length: 10
+    た:
+      code: 0x10
+      length: 11
+    ち:
+      code: 0x11
+      length: 10
+    つ:
+      code: 0x12
+      length: 11
+    て:
+      code: 0x13
+      length: 11
+    と:
+      code: 0x14
+      length: 10
+    な:
+      code: 0x15
+      length: 12
+    に:
+      code: 0x16
+      length: 11
+    ぬ:
+      code: 0x17
+      length: 12
+    ね:
+      code: 0x18
+      length: 12
+    の:
+      code: 0x19
+      length: 11
+    は:
+      code: 0x1a
+      length: 11
+    ひ:
+      code: 0x1b
+      length: 12
+    ふ:
+      code: 0x1c
+      length: 11
+    へ:
+      code: 0x1d
+      length: 12
+    ほ:
+      code: 0x1e
+      length: 11
+    ま:
+      code: 0x1f
+      length: 9
+    み:
+      code: 0x20
+      length: 12
+    む:
+      code: 0x21
+      length: 12
+    め:
+      code: 0x22
+      length: 11
+    も:
+      code: 0x23
+      length: 10
+    や:
+      code: 0x24
+      length: 11
+    ゆ:
+      code: 0x25
+      length: 11
+    よ:
+      code: 0x26
+      length: 10
+    ら:
+      code: 0x27
+      length: 9
+    り:
+      code: 0x28
+      length: 10
+    る:
+      code: 0x29
+      length: 10
+    れ:
+      code: 0x2a
+      length: 11
+    ろ:
+      code: 0x2b
+      length: 10
+    わ:
+      code: 0x2c
+      length: 11
+    を:
+      code: 0x2d
+      length: 11
+    ん:
+      code: 0x2e
+      length: 11
+    が:
+      code: 0x2f
+      length: 13
+    ぎ:
+      code: 0x30
+      length: 11
+    ぐ:
+      code: 0x31
+      length: 11
+    げ:
+      code: 0x32
+      length: 12
+    ご:
+      code: 0x33
+      length: 11
+    ざ:
+      code: 0x34
+      length: 11
+    じ:
+      code: 0x35
+      length: 10
+    ず:
+      code: 0x36
+      length: 11
+    ぜ:
+      code: 0x37
+      length: 12
+    ぞ:
+      code: 0x38
+      length: 11
+    だ:
+      code: 0x39
+      length: 11
+    ぢ:
+      code: 0x3a
+      length: 10
+    づ:
+      code: 0x3b
+      length: 12
+    で:
+      code: 0x3c
+      length: 11
+    ど:
+      code: 0x3d
+      length: 10
+    ば:
+      code: 0x3e
+      length: 12
+    び:
+      code: 0x3f
+      length: 13
+    ぶ:
+      code: 0x40
+      length: 11
+    べ:
+      code: 0x41
+      length: 12
+    ぼ:
+      code: 0x42
+      length: 12
+    ぱ:
+      code: 0x43
+      length: 12
+    ぴ:
+      code: 0x44
+      length: 13
+    ぷ:
+      code: 0x45
+      length: 11
+    ぺ:
+      code: 0x46
+      length: 12
+    ぽ:
+      code: 0x47
+      length: 12
+    ぁ:
+      code: 0x48
+      length: 9
+    ぃ:
+      code: 0x49
+      length: 8
+    ぅ:
+      code: 0x4a
+      length: 7
+    ぇ:
+      code: 0x4b
+      length: 8
+    ぉ:
+      code: 0x4c
+      length: 9
+    ゃ:
+      code: 0x4d
+      length: 9
+    っ:
+      code: 0x4e
+      length: 9
+    ゅ:
+      code: 0x4f
+      length: 9
+    ょ:
+      code: 0x50
+      length: 8
+    ア:
+      code: 0x51
+      length: 11
+    イ:
+      code: 0x52
+      length: 11
+    ウ:
+      code: 0x53
+      length: 10
+    工:
+      code: 0x54
+      length: 11
+    オ:
+      code: 0x55
+      length: 11
+    カ:
+      code: 0x56
+      length: 10
+    キ:
+      code: 0x57
+      length: 12
+    ク:
+      code: 0x58
+      length: 10
+    ケ:
+      code: 0x59
+      length: 12
+    コ:
+      code: 0x5a
+      length: 10
+    サ:
+      code: 0x5b
+      length: 12
+    シ:
+      code: 0x5c
+      length: 12
+    ス:
+      code: 0x5d
+      length: 11
+    セ:
+      code: 0x5e
+      length: 11
+    ソ:
+      code: 0x5f
+      length: 11
+    タ:
+      code: 0x60
+      length: 10
+    チ:
+      code: 0x61
+      length: 12
+    ツ:
+      code: 0x62
+      length: 10
+    テ:
+      code: 0x63
+      length: 12
+    卜:
+      code: 0x64
+      length: 10
+    ナ:
+      code: 0x65
+      length: 12
+    ニ:
+      code: 0x66
+      length: 12
+    ヌ:
+      code: 0x67
+      length: 10
+    ネ:
+      code: 0x68
+      length: 11
+    ノ:
+      code: 0x69
+      length: 11
+    ハ:
+      code: 0x6a
+      length: 11
+    ヒ:
+      code: 0x6b
+      length: 10
+    フ:
+      code: 0x6c
+      length: 10
+    ヘ:
+      code: 0x6d
+      length: 12
+    ホ:
+      code: 0x6e
+      length: 11
+    マ:
+      code: 0x6f
+      length: 12
+    ミ:
+      code: 0x70
+      length: 10
+    ム:
+      code: 0x71
+      length: 11
+    メ:
+      code: 0x72
+      length: 11
+    モ:
+      code: 0x73
+      length: 11
+    ヤ:
+      code: 0x74
+      length: 12
+    ユ:
+      code: 0x75
+      length: 12
+    ヨ:
+      code: 0x76
+      length: 10
+    ラ:
+      code: 0x77
+      length: 11
+    リ:
+      code: 0x78
+      length: 10
+    ル:
+      code: 0x79
+      length: 12
+    レ:
+      code: 0x7a
+      length: 11
+    ロ:
+      code: 0x7b
+      length: 10
+    ワ:
+      code: 0x7c
+      length: 10
+    ン:
+      code: 0x7d
+      length: 11
+    ガ:
+      code: 0x7e
+      length: 11
+    ギ:
+      code: 0x7f
+      length: 12
+    グ:
+      code: 0x80
+      length: 11
+    ゲ:
+      code: 0x81
+      length: 11
+    ゴ:
+      code: 0x82
+      length: 11
+    ザ:
+      code: 0x83
+      length: 12
+    ジ:
+      code: 0x84
+      length: 12
+    ズ:
+      code: 0x85
+      length: 11
+    ゼ:
+      code: 0x86
+      length: 12
+    ゾ:
+      code: 0x87
+      length: 12
+    ダ:
+      code: 0x88
+      length: 11
+    ヂ:
+      code: 0x89
+      length: 11
+    ヅ:
+      code: 0x8a
+      length: 11
+    デ:
+      code: 0x8b
+      length: 11
+    ド:
+      code: 0x8c
+      length: 11
+    バ:
+      code: 0x8d
+      length: 12
+    ビ:
+      code: 0x8e
+      length: 11
+    ブ:
+      code: 0x8f
+      length: 11
+    ベ:
+      code: 0x90
+      length: 11
+    ボ:
+      code: 0x91
+      length: 11
+    パ:
+      code: 0x92
+      length: 12
+    ピ:
+      code: 0x93
+      length: 11
+    プ:
+      code: 0x94
+      length: 12
+    ペ:
+      code: 0x95
+      length: 11
+    ポ:
+      code: 0x96
+      length: 12
+    ァ:
+      code: 0x97
+      length: 8
+    ィ:
+      code: 0x98
+      length: 8
+    ゥ:
+      code: 0x99
+      length: 8
+    ェ:
+      code: 0x9a
+      length: 9
+    ォ:
+      code: 0x9b
+      length: 9
+    ャ:
+      code: 0x9c
+      length: 9
+    ッ:
+      code: 0x9d
+      length: 8
+    ュ:
+      code: 0x9e
+      length: 9
+    ョ:
+      code: 0x9f
+      length: 7
+    0:
+      code: 0xa0
+      length: 9
+    1:
+      code: 0xa1
+      length: 9
+    2:
+      code: 0xa2
+      length: 9
+    3:
+      code: 0xa3
+      length: 9
+    4:
+      code: 0xa4
+      length: 10
+    5:
+      code: 0xa5
+      length: 9
+    6:
+      code: 0xa6
+      length: 9
+    7:
+      code: 0xa7
+      length: 9
+    8:
+      code: 0xa8
+      length: 10
+    9:
+      code: 0xa9
+      length: 9
+    神:
+      code: 0xaa
+      length: 13
+    何:
+      code: 0xab
+      length: 13
+    会:
+      code: 0xac
+      length: 13
+    賊:
+      code: 0xad
+      length: 13
+    大:
+      code: 0xae
+      length: 12
+    男:
+      code: 0xaf
+      length: 11
+    元:
+      code: 0xb0
+      length: 13
+    気:
+      code: 0xb1
+      length: 13
+    出:
+      code: 0xb2
+      length: 12
+    状:
+      code: 0xb3
+      length: 13
+    今:
+      code: 0xb4
+      length: 13
+    皇:
+      code: 0xb5
+      length: 13
+    帝:
+      code: 0xb6
+      length: 12
+    聖:
+      code: 0xb7
+      length: 11
+    寺:
+      code: 0xb8
+      length: 12
+    ー:
+      code: 0xb9
+      length: 10
+    勇:
+      code: 0xba
+      length: 12
+    者:
+      code: 0xbb
+      length: 12
+    "?":
+      code: 0xbc
+      length: 11
+    苦:
+      code: 0xbd
+      length: 12
+    加:
+      code: 0xbe
+      length: 12
+    争:
+      code: 0xbf
+      length: 12
+    「:
+      code: 0xc0
+      length: 11
+    」:
+      code: 0xc1
+      length: 11
+    (:
+      code: 0xc2
+      length: 11
+    ):
+      code: 0xc3
+      length: 11
+    " ":
+      code: 0xc4
+      length: 10
+    "!":
+      code: 0xc5
+      length: 8
+    攻:
+      code: 0xc6
+      length: 13
+    撃:
+      code: 0xc7
+      length: 13
+    力:
+      code: 0xc8
+      length: 11
+    守:
+      code: 0xc9
+      length: 13
+    備:
+      code: 0xca
+      length: 13
+    魔:
+      code: 0xcb
+      length: 13
+    竜:
+      code: 0xcc
+      length: 13
+    石:
+      code: 0xcd
+      length: 12
+    団:
+      code: 0xce
+      length: 13
+    閾:
+      code: 0xcf
+      length: 13
+    技:
+      code: 0xd0
+      length: 13
+    場:
+      code: 0xd1
+      length: 13
+    店:
+      code: 0xd2
+      length: 12
+    必:
+      code: 0xd3
+      length: 13
+    殺:
+      code: 0xd4
+      length: 13
+    一:
+      code: 0xd5
+      length: 12
+    道:
+      code: 0xd6
+      length: 13
+    書:
+      code: 0xd7
+      length: 12
+    杖:
+      code: 0xd8
+      length: 13
+    系:
+      code: 0xd9
+      length: 13
+    M:
+      code: 0xda
+      length: 11
+    星:
+      code: 0xdb
+      length: 12
+    話:
+      code: 0xdc
+      length: 13
+    兵:
+      code: 0xdd
+      length: 12
+    士:
+      code: 0xde
+      length: 12
+    使:
+      code: 0xdf
+      length: 13
+    用:
+      code: 0xe0
+      length: 11
+    運:
+      code: 0xe1
+      length: 13
+    速:
+      code: 0xe2
+      length: 13
+    法:
+      code: 0xe3
+      length: 13
+    軍:
+      code: 0xe4
+      length: 11
+    白:
+      code: 0xe5
+      length: 11
+    火:
+      code: 0xe6
+      length: 12
+    飛:
+      code: 0xe7
+      length: 12
+    地:
+      code: 0xe8
+      length: 13
+    暗:
+      code: 0xe9
+      length: 13
+    黒:
+      code: 0xea
+      length: 11
+    進:
+      code: 0xeb
+      length: 13
+    城:
+      code: 0xec
+      length: 13
+    海:
+      code: 0xed
+      length: 13
+    人:
+      code: 0xee
+      length: 12
+    騎:
+      code: 0xef
+      length: 13
+    院:
+      code: 0xf0
+      length: 13
+    王:
+      code: 0xf1
+      length: 13
+    子:
+      code: 0xf2
+      length: 13
+    女:
+      code: 0xf3
+      length: 12
+    様:
+      code: 0xf4
+      length: 13
+    父:
+      code: 0xf5
+      length: 13
+    行:
+      code: 0xf6
+      length: 13
+    戦:
+      code: 0xf7
+      length: 13
+    来:
+      code: 0xf8
+      length: 12
+    .:
+      code: 0xf9
+      length: 9
+    母:
+      code: 0xfa
+      length: 12
+    山:
+      code: 0xfb
+      length: 12
+    集:
+      code: 0xfc
+      length: 13
+    ♥:
+      code: 0xfd
+      length: 13
+    剣:
+      code: 0xfe
+      length: 12
+    国:
+      code: 0xff
+      length: 12
+  Pages:
+    - 待:
+        code: 0x01
+        length: 13
+      祖:
+        code: 0x02
+        length: 13
+      老:
+        code: 0x03
+        length: 13
+      東:
+        code: 0x04
+        length: 12
+      方:
+        code: 0x05
+        length: 11
+      辺:
+        code: 0x06
+        length: 13
+      境:
+        code: 0x07
+        length: 13
+      小:
+        code: 0x08
+        length: 12
+      援:
+        code: 0x09
+        length: 13
+      助:
+        code: 0x0a
+        length: 13
+      丙:
+        code: 0x0b
+        length: 12
+      親:
+        code: 0x0c
+        length: 13
+      討:
+        code: 0x0d
+        length: 13
+      身:
+        code: 0x0e
+        length: 12
+      愛:
+        code: 0x0f
+        length: 13
+      姉:
+        code: 0x10
+        length: 12
+      姫:
+        code: 0x11
+        length: 13
+      才:
+        code: 0x12
+        length: 12
+      々:
+        code: 0x13
+        length: 10
+      二:
+        code: 0x14
+        length: 12
+      年:
+        code: 0x15
+        length: 11
+      日:
+        code: 0x16
+        length: 11
+      対:
+        code: 0x17
+        length: 13
+      岸:
+        code: 0x18
+        length: 12
+      街:
+        code: 0x19
+        length: 13
+      彼:
+        code: 0x1a
+        length: 12
+      解:
+        code: 0x1b
+        length: 13
+      放:
+        code: 0x1c
+        length: 13
+      島:
+        code: 0x1d
+        length: 11
+      南:
+        code: 0x1e
+        length: 12
+      北:
+        code: 0x1f
+        length: 12
+      近:
+        code: 0x20
+        length: 13
+      村:
+        code: 0x21
+        length: 12
+      旅:
+        code: 0x22
+        length: 13
+      悪:
+        code: 0x23
+        length: 12
+      行:
+        code: 0x24
+        length: 13
+      知:
+        code: 0x25
+        length: 12
+      陸:
+        code: 0x26
+        length: 12
+      草:
+        code: 0x27
+        length: 13
+      原:
+        code: 0x28
+        length: 12
+      建:
+        code: 0x29
+        length: 12
+      以:
+        code: 0x2a
+        length: 13
+      他:
+        code: 0x2b
+        length: 13
+      土:
+        code: 0x2c
+        length: 12
+      占:
+        code: 0x2d
+        length: 11
+      領:
+        code: 0x2e
+        length: 13
+      狼:
+        code: 0x2f
+        length: 13
+      名:
+        code: 0x30
+        length: 11
+      弟:
+        code: 0x31
+        length: 11
+      半:
+        code: 0x32
+        length: 12
+      公:
+        code: 0x33
+        length: 12
+      数:
+        code: 0x34
+        length: 13
+      月:
+        code: 0x35
+        length: 10
+      前:
+        code: 0x36
+        length: 13
+      主:
+        code: 0x37
+        length: 12
+      破:
+        code: 0x38
+        length: 13
+      同:
+        code: 0x39
+        length: 12
+      盟:
+        code: 0x3a
+        length: 12
+      内:
+        code: 0x3b
+        length: 12
+      財:
+        code: 0x3c
+        length: 12
+      宝:
+        code: 0x3d
+        length: 11
+      敵:
+        code: 0x3e
+        length: 13
+      箱:
+        code: 0x3f
+        length: 12
+      俺:
+        code: 0x40
+        length: 13
+      奴:
+        code: 0x41
+        length: 12
+      中:
+        code: 0x42
+        length: 11
+      央:
+        code: 0x43
+        length: 12
+      路:
+        code: 0x44
+        length: 13
+      下:
+        code: 0x45
+        length: 11
+      都:
+        code: 0x46
+        length: 12
+      谷:
+        code: 0x47
+        length: 13
+      築:
+        code: 0x48
+        length: 13
+      無:
+        code: 0x49
+        length: 12
+      砦:
+        code: 0x4a
+        length: 11
+      最:
+        code: 0x4b
+        length: 12
+      将:
+        code: 0x4c
+        length: 13
+      指:
+        code: 0x4d
+        length: 12
+      揮:
+        code: 0x4e
+        length: 12
+      唯:
+        code: 0x4f
+        length: 13
+      門:
+        code: 0x50
+        length: 12
+      始:
+        code: 0x51
+        length: 12
+      後:
+        code: 0x52
+        length: 13
+      退:
+        code: 0x53
+        length: 13
+      入:
+        code: 0x54
+        length: 12
+      休:
+        code: 0x55
+        length: 13
+      養:
+        code: 0x56
+        length: 12
+      税:
+        code: 0x57
+        length: 13
+      金:
+        code: 0x58
+        length: 12
+      自:
+        code: 0x59
+        length: 11
+      治:
+        code: 0x5a
+        length: 12
+      好:
+        code: 0x5b
+        length: 13
+      意:
+        code: 0x5c
+        length: 12
+      的:
+        code: 0x5d
+        length: 12
+      傭:
+        code: 0x5e
+        length: 12
+      欠:
+        code: 0x5f
+        length: 11
+      喜:
+        code: 0x60
+        length: 13
+      持:
+        code: 0x61
+        length: 13
+      願:
+        code: 0x62
+        length: 13
+      質:
+        code: 0x63
+        length: 12
+      捕:
+        code: 0x64
+        length: 12
+      要:
+        code: 0x65
+        length: 11
+      塞:
+        code: 0x66
+        length: 13
+      決:
+        code: 0x67
+        length: 13
+      罠:
+        code: 0x68
+        length: 11
+      言:
+        code: 0x69
+        length: 11
+      見:
+        code: 0x6a
+        length: 12
+      性:
+        code: 0x6b
+        length: 13
+      恐:
+        code: 0x6c
+        length: 12
+      思:
+        code: 0x6d
+        length: 12
+      上:
+        code: 0x6e
+        length: 11
+      悲:
+        code: 0x6f
+        length: 12
+      辛:
+        code: 0x70
+        length: 12
+      分:
+        code: 0x71
+        length: 12
+      代:
+        code: 0x72
+        length: 13
+      救:
+        code: 0x73
+        length: 13
+      率:
+        code: 0x74
+        length: 12
+      末:
+        code: 0x75
+        length: 12
+      千:
+        code: 0x76
+        length: 12
+      宮:
+        code: 0x77
+        length: 11
+      物:
+        code: 0x78
+        length: 12
+      多:
+        code: 0x79
+        length: 12
+      達:
+        code: 0x7a
+        length: 13
+      目:
+        code: 0x7b
+        length: 11
+      市:
+        code: 0x7c
+        length: 12
+      家:
+        code: 0x7d
+        length: 12
+      統:
+        code: 0x7e
+        length: 13
+      合:
+        code: 0x7f
+        length: 13
+      壺:
+        code: 0x80
+        length: 12
+      世:
+        code: 0x81
+        length: 13
+      三:
+        code: 0x82
+        length: 13
+      梗:
+        code: 0x83
+        length: 13
+      武:
+        code: 0x84
+        length: 13
+      器:
+        code: 0x85
+        length: 14
+      挑:
+        code: 0x86
+        length: 13
+      血:
+        code: 0x87
+        length: 13
+      筋:
+        code: 0x88
+        length: 12
+      貢:
+        code: 0x89
+        length: 12
+      六:
+        code: 0x8a
+        length: 12
+      独:
+        code: 0x8b
+        length: 13
+      立:
+        code: 0x8c
+        length: 12
+      偉:
+        code: 0x8d
+        length: 13
+      手:
+        code: 0x8e
+        length: 13
+      痛:
+        code: 0x8f
+        length: 13
+      敗:
+        code: 0x90
+        length: 13
+      向:
+        code: 0x91
+        length: 12
+      豊:
+        code: 0x92
+        length: 13
+      水:
+        code: 0x93
+        length: 13
+      緑:
+        code: 0x94
+        length: 12
+      美:
+        code: 0x95
+        length: 12
+      荒:
+        code: 0x96
+        length: 13
+      迎:
+        code: 0x97
+        length: 13
+      全:
+        code: 0x98
+        length: 12
+      部:
+        code: 0x99
+        length: 13
+      隊:
+        code: 0x9a
+        length: 13
+      取:
+        code: 0x9b
+        length: 13
+      罪:
+        code: 0x9c
+        length: 13
+      賢:
+        code: 0x9d
+        length: 11
+      光:
+        code: 0x9e
+        length: 12
+      殿:
+        code: 0x9f
+        length: 13
+      阻:
+        code: 0xa0
+        length: 13
+      止:
+        code: 0xa1
+        length: 12
+      英:
+        code: 0xa2
+        length: 12
+      雄:
+        code: 0xa3
+        length: 13
+      強:
+        code: 0xa4
+        length: 13
+      背:
+        code: 0xa5
+        length: 12
+      隣:
+        code: 0xa6
+        length: 13
+      未:
+        code: 0xa7
+        length: 12
+      開:
+        code: 0xa8
+        length: 12
+      族:
+        code: 0xa9
+        length: 13
+      切:
+        code: 0xaa
+        length: 12
+      従:
+        code: 0xab
+        length: 13
+      現:
+        code: 0xac
+        length: 13
+      弱:
+        code: 0xad
+        length: 12
+      復:
+        code: 0xae
+        length: 12
+      活:
+        code: 0xaf
+        length: 12
+      受:
+        code: 0xb0
+        length: 12
+      猛:
+        code: 0xb1
+        length: 13
+      誇:
+        code: 0xb2
+        length: 13
+      滅:
+        code: 0xb3
+        length: 13
+      亡:
+        code: 0xb4
+        length: 12
+      古:
+        code: 0xb5
+        length: 12
+      高:
+        code: 0xb6
+        length: 11
+      度:
+        code: 0xb7
+        length: 12
+      絶:
+        code: 0xb8
+        length: 13
+      動:
+        code: 0xb9
+        length: 12
+      塔:
+        code: 0xba
+        length: 12
+      司:
+        code: 0xbb
+        length: 11
+      祭:
+        code: 0xbc
+        length: 12
+      失:
+        code: 0xbd
+        length: 12
+      追:
+        code: 0xbe
+        length: 13
+      込:
+        code: 0xbf
+        length: 13
+      包:
+        code: 0xc0
+        length: 12
+      囲:
+        code: 0xc1
+        length: 13
+      所:
+        code: 0xc2
+        length: 13
+      突:
+        code: 0xc3
+        length: 11
+      散:
+        code: 0xc4
+        length: 13
+      残:
+        code: 0xc5
+        length: 12
+      選:
+        code: 0xc6
+        length: 13
+      命:
+        code: 0xc7
+        length: 13
+      巣:
+        code: 0xc8
+        length: 12
+      歩:
+        code: 0xc9
+        length: 13
+      盗:
+        code: 0xca
+        length: 12
+      港:
+        code: 0xcb
+        length: 13
+      〈:
+        code: 0xcc
+        length: 11
+      〉:
+        code: 0xcd
+        length: 11
+      心:
+        code: 0xce
+        length: 13
+      着:
+        code: 0xcf
+        length: 11
+      生:
+        code: 0xd0
+        length: 12
+      足:
+        code: 0xd1
+        length: 12
+      移:
+        code: 0xd2
+        length: 13
+      文:
+        code: 0xd3
+        length: 12
+      明:
+        code: 0xd4
+        length: 11
+      望:
+        code: 0xd5
+        length: 12
+      時:
+        code: 0xd6
+        length: 12
+      平:
+        code: 0xd7
+        length: 12
+      和:
+        code: 0xd8
+        length: 12
+      支:
+        code: 0xd9
+        length: 12
+      配:
+        code: 0xda
+        length: 13
+      激:
+        code: 0xdb
+        length: 13
+      界:
+        code: 0xdc
+        length: 12
+      秘:
+        code: 0xdd
+        length: 13
+      野:
+        code: 0xde
+        length: 12
+      乱:
+        code: 0xdf
+        length: 13
+      域:
+        code: 0xe0
+        length: 13
+      帯:
+        code: 0xe1
+        length: 12
+      難:
+        code: 0xe2
+        length: 12
+      関:
+        code: 0xe3
+        length: 12
+      打:
+        code: 0xe4
+        length: 13
+      倒:
+        code: 0xe5
+        length: 13
+      、:
+        code: 0xe6
+        length: 8
+      。:
+        code: 0xe7
+        length: 11
+      死:
+        code: 0xe8
+        length: 13
+      槍:
+        code: 0xe9
+        length: 13
+      弓:
+        code: 0xea
+        length: 11
+      斧:
+        code: 0xeb
+        length: 11
+      民:
+        code: 0xec
+        length: 12
+      位:
+        code: 0xed
+        length: 12
+      先:
+        code: 0xee
+        length: 13
+      利:
+        code: 0xef
+        length: 12
+      兄:
+        code: 0xf0
+        length: 13
+      氷:
+        code: 0xf1
+        length: 13
+      信:
+        code: 0xf2
+        length: 13
+      真:
+        code: 0xf3
+        length: 13
+      正:
+        code: 0xf4
+        length: 12
+      義:
+        code: 0xf5
+        length: 12
+      忠:
+        code: 0xf6
+        length: 12
+      誠:
+        code: 0xf7
+        length: 13
+      臣:
+        code: 0xf8
+        length: 12
+      婚:
+        code: 0xf9
+        length: 12
+      礼:
+        code: 0xfa
+        length: 13
+      廷:
+        code: 0xfb
+        length: 12
+      伯:
+        code: 0xfc
+        length: 12
+      伝:
+        code: 0xfd
+        length: 13
+      説:
+        code: 0xfe
+        length: 13
+      炎:
+        code: 0xff
+        length: 12
+    - 紋:
+        code: 0x01
+        length: 13
+      章:
+        code: 0x02
+        length: 12
+      景:
+        code: 0x03
+        length: 10
+      反:
+        code: 0x04
+        length: 12
+      斯:
+        code: 0x05
+        length: 13
+      記:
+        code: 0x06
+        length: 13
+      録:
+        code: 0x07
+        length: 13
+      初:
+        code: 0x08
+        length: 12
+      写:
+        code: 0x09
+        length: 13
+      消:
+        code: 0x0a
+        length: 12
+      第:
+        code: 0x0b
+        length: 12
+      町:
+        code: 0x0c
+        length: 12
+      隷:
+        code: 0x0d
+        length: 13
+      天:
+        code: 0x0e
+        length: 13
+      空:
+        code: 0x0f
+        length: 12
+      駆:
+        code: 0x10
+        length: 13
+      遠:
+        code: 0x11
+        length: 13
+      征:
+        code: 0x12
+        length: 13
+      連:
+        code: 0x13
+        length: 13
+      去:
+        code: 0x14
+        length: 12
+      嘆:
+        code: 0x15
+        length: 12
+      紅:
+        code: 0x16
+        length: 13
+      縛:
+        code: 0x17
+        length: 13
+      墓:
+        code: 0x18
+        length: 13
+      謎:
+        code: 0x19
+        length: 13
+      再:
+        code: 0x1a
+        length: 12
+      奪:
+        code: 0x1b
+        length: 13
+      回:
+        code: 0x1c
+        length: 12
+      落:
+        code: 0x1d
+        length: 12
+      帰:
+        code: 0x1e
+        length: 12
+      還:
+        code: 0x1f
+        length: 12
+      壇:
+        code: 0x20
+        length: 13
+      制:
+        code: 0x21
+        length: 12
+      圧:
+        code: 0x22
+        length: 13
+      病:
+        code: 0x23
+        length: 13
+      終:
+        code: 0x24
+        length: 13
+      編:
+        code: 0x25
+        length: 13
+      相:
+        code: 0x26
+        length: 12
+      商:
+        code: 0x27
+        length: 12
+      勝:
+        code: 0x28
+        length: 13
+      負:
+        code: 0x29
+        length: 11
+      続:
+        code: 0x2a
+        length: 13
+      表:
+        code: 0x2b
+        length: 12
+      示:
+        code: 0x2c
+        length: 12
+      B:
+        code: 0x2d
+        length: 9
+      賞:
+        code: 0x2e
+        length: 12
+      怖:
+        code: 0x2f
+        length: 13
+      然:
+        code: 0x30
+        length: 13
+      異:
+        code: 0x31
+        length: 12
+      壊:
+        code: 0x32
+        length: 12
+      護:
+        code: 0x33
+        length: 13
+      熱:
+        code: 0x34
+        length: 13
+      譏:
+        code: 0x35
+        length: 13
+      各:
+        code: 0x36
+        length: 13
+      装:
+        code: 0x37
+        length: 12
+      西:
+        code: 0x38
+        length: 12
+      妹:
+        code: 0x39
+        length: 13
+      安:
+        code: 0x3a
+        length: 13
+      貨:
+        code: 0x3b
+        length: 12
+      侵:
+        code: 0x3c
+        length: 13
+      玉:
+        code: 0x3d
+        length: 12
+      座:
+        code: 0x3e
+        length: 13
+      準:
+        code: 0x3f
+        length: 13
+      鉄:
+        code: 0x40
+        length: 13
+      銀:
+        code: 0x41
+        length: 13
+      屋:
+        code: 0x42
+        length: 13
+      百:
+        code: 0x43
+        length: 11
+      封:
+        code: 0x44
+        length: 12
+      印:
+        code: 0x45
+        length: 11
+      盾:
+        code: 0x46
+        length: 13
+      電:
+        code: 0x47
+        length: 12
+      間:
+        code: 0x48
+        length: 12
+      橋:
+        code: 0x49
+        length: 13
+      併:
+        code: 0x4a
+        length: 13
+      脱:
+        code: 0x4b
+        length: 13
+      防:
+        code: 0x4c
+        length: 13
+      壮:
+        code: 0x4d
+        length: 13
+      冷:
+        code: 0x4e
+        length: 13
+      昔:
+        code: 0x4f
+        length: 13
+      途:
+        code: 0x50
+        length: 13
+      官:
+        code: 0x51
+        length: 11
+      黄:
+        code: 0x52
+        length: 12
+      狂:
+        code: 0x53
+        length: 13
+      志:
+        code: 0x54
+        length: 12
+      希:
+        code: 0x55
+        length: 13
+      重:
+        code: 0x56
+        length: 12
+      栄:
+        code: 0x57
+        length: 12
+      発:
+        code: 0x58
+        length: 12
+      歴:
+        code: 0x59
+        length: 13
+      語:
+        code: 0x5a
+        length: 13
+      味:
+        code: 0x5b
+        length: 12
+      体:
+        code: 0x5c
+        length: 13
+      令:
+        code: 0x5d
+        length: 13
+      精:
+        code: 0x5e
+        length: 13
+      鋭:
+        code: 0x5f
+        length: 12
+      邪:
+        code: 0x60
+        length: 13
+      協:
+        code: 0x61
+        length: 13
+      接:
+        code: 0x62
+        length: 12
+      完:
+        code: 0x63
+        length: 13
+      政:
+        code: 0x64
+        length: 13
+      緒:
+        code: 0x65
+        length: 13
+      節:
+        code: 0x66
+        length: 12
+      砂:
+        code: 0x67
+        length: 13
+      漠:
+        code: 0x68
+        length: 12
+      灼:
+        code: 0x69
+        length: 12
+      太:
+        code: 0x6a
+        length: 12
+      腸:
+        code: 0x6b
+        length: 13
+      当:
+        code: 0x6c
+        length: 10
+      党:
+        code: 0x6d
+        length: 13
+      本:
+        code: 0x6e
+        length: 12
+      能:
+        code: 0x6f
+        length: 13
+      少:
+        code: 0x70
+        length: 13
+      作:
+        code: 0x71
+        length: 13
+      幸:
+        code: 0x72
+        length: 12
+      理:
+        code: 0x73
+        length: 13
+      新:
+        code: 0x74
+        length: 13
+      夫:
+        code: 0x75
+        length: 12
+      逃:
+        code: 0x76
+        length: 13
+      略:
+        code: 0x77
+        length: 13
+      不:
+        code: 0x78
+        length: 12
+      永:
+        code: 0x79
+        length: 13
+      参:
+        code: 0x7a
+        length: 12
+      惨:
+        code: 0x7b
+        length: 13
+      七:
+        code: 0x7c
+        length: 11
+      減:
+        code: 0x7d
+        length: 13
+      成:
+        code: 0x7e
+        length: 13
+      共:
+        code: 0x7f
+        length: 12
+      訪:
+        code: 0x80
+        length: 13
+      誘:
+        code: 0x81
+        length: 13
+      惑:
+        code: 0x82
+        length: 12
+      与:
+        code: 0x83
+        length: 13
+      挟:
+        code: 0x84
+        length: 13
+      長:
+        code: 0x85
+        length: 12
+      具:
+        code: 0x86
+        length: 13
+      坦:
+        code: 0x87
+        length: 12
+      急:
+        code: 0x88
+        length: 12
+      由:
+        code: 0x89
+        length: 11
+      耳:
+        code: 0x8a
+        length: 11
+      産:
+        code: 0x8b
+        length: 12
+      拐:
+        code: 0x8c
+        length: 12
+      視:
+        code: 0x8d
+        length: 13
+      超:
+        code: 0x8e
+        length: 13
+      仲:
+        code: 0x8f
+        length: 12
+      変:
+        code: 0x90
+        length: 11
+      務:
+        code: 0x91
+        length: 13
+      償:
+        code: 0x92
+        length: 13
+      売:
+        code: 0x93
+        length: 13
+      買:
+        code: 0x94
+        length: 10
+      声:
+        code: 0x95
+        length: 12
+      教:
+        code: 0x96
+        length: 13
+      恋:
+        code: 0x97
+        length: 12
+      員:
+        code: 0x98
+        length: 10
+      服:
+        code: 0x99
+        length: 13
+      修:
+        code: 0x9a
+        length: 12
+      屈:
+        code: 0x9b
+        length: 12
+      注:
+        code: 0x9c
+        length: 13
+      巨:
+        code: 0x9d
+        length: 12
+      情:
+        code: 0x9e
+        length: 13
+      馬:
+        code: 0x9f
+        length: 12
+      徒:
+        code: 0xa0
+        length: 13
+      森:
+        code: 0xa1
+        length: 12
+      得:
+        code: 0xa2
+        length: 13
+      機:
+        code: 0xa3
+        length: 13
+      軽:
+        code: 0xa4
+        length: 13
+      経:
+        code: 0xa5
+        length: 12
+      瞼:
+        code: 0xa6
+        length: 13
+      昇:
+        code: 0xa7
+        length: 12
+      格:
+        code: 0xa8
+        length: 13
+      扱:
+        code: 0xa9
+        length: 13
+      有:
+        code: 0xaa
+        length: 11
+      若:
+        code: 0xab
+        length: 13
+      涙:
+        code: 0xac
+        length: 13
+      効:
+        code: 0xad
+        length: 12
+      特:
+        code: 0xae
+        length: 13
+      殊:
+        code: 0xaf
+        length: 13
+      離:
+        code: 0xb0
+        length: 13
+      在:
+        code: 0xb1
+        length: 13
+      存:
+        code: 0xb2
+        length: 13
+      呪:
+        code: 0xb3
+        length: 13
+      文:
+        code: 0xb4
+        length: 13
+      仕:
+        code: 0xb5
+        length: 13
+      御:
+        code: 0xb6
+        length: 13
+      興:
+        code: 0xb7
+        length: 13
+      蛮:
+        code: 0xb8
+        length: 11
+      化:
+        code: 0xb9
+        length: 13
+      外:
+        code: 0xba
+        length: 12
+      抗:
+        code: 0xbb
+        length: 13
+      抵:
+        code: 0xbc
+        length: 13
+      処:
+        code: 0xbd
+        length: 13
+      刑:
+        code: 0xbe
+        length: 12
+      総:
+        code: 0xbf
+        length: 13
+      陛:
+        code: 0xc0
+        length: 12
+      獄:
+        code: 0xc1
+        length: 13
+      可:
+        code: 0xc2
+        length: 12
+      個:
+        code: 0xc3
+        length: 13
+      室:
+        code: 0xc4
+        length: 12
+      危:
+        code: 0xc5
+        length: 12
+      択:
+        code: 0xc6
+        length: 13
+      結:
+        code: 0xc7
+        length: 12
+      引:
+        code: 0xc8
+        length: 11
+      控:
+        code: 0xc9
+        length: 12
+      旗:
+        code: 0xca
+        length: 13
+      密:
+        code: 0xcb
+        length: 12
+      林:
+        code: 0xcc
+        length: 13
+      掘:
+        code: 0xcd
+        length: 13
+      設:
+        code: 0xce
+        length: 13
+      赤:
+        code: 0xcf
+        length: 12
+      短:
+        code: 0xd0
+        length: 13
+      乗:
+        code: 0xd1
+        length: 12
+      卑:
+        code: 0xd2
+        length: 13
+      劣:
+        code: 0xd3
+        length: 12
+      友:
+        code: 0xd4
+        length: 12
+      逆:
+        code: 0xd5
+        length: 13
+      派:
+        code: 0xd6
+        length: 13
+      遺:
+        code: 0xd7
+        length: 13
+      拠:
+        code: 0xd8
+        length: 13
+      踊:
+        code: 0xd9
+        length: 13
+      迷:
+        code: 0xda
+        length: 13
+      宿:
+        code: 0xdb
+        length: 12
+      学:
+        code: 0xdc
+        length: 12
+      勉:
+        code: 0xdd
+        length: 13
+      伐:
+        code: 0xde
+        length: 13
+      福:
+        code: 0xdf
+        length: 12
+      限:
+        code: 0xe0
+        length: 12
+      議:
+        code: 0xe1
+        length: 13
+      営:
+        code: 0xe2
+        length: 11
+      被:
+        code: 0xe3
+        length: 13
+      果:
+        code: 0xe4
+        length: 12
+      保:
+        code: 0xe5
+        length: 13
+      害:
+        code: 0xe6
+        length: 12
+      期:
+        code: 0xe7
+        length: 13
+      埋:
+        code: 0xe8
+        length: 13
+      溶:
+        code: 0xe9
+        length: 13
+      岩:
+        code: 0xea
+        length: 13
+      別:
+        code: 0xeb
+        length: 12
+      想:
+        code: 0xec
+        length: 13
+      像:
+        code: 0xed
+        length: 13
+      雲:
+        code: 0xee
+        length: 12
+      眼:
+        code: 0xef
+        length: 13
+      凍:
+        code: 0xf0
+        length: 13
+      肌:
+        code: 0xf1
+        length: 13
+      転:
+        code: 0xf2
+        length: 13
+      陣:
+        code: 0xf3
+        length: 13
+      崩:
+        code: 0xf4
+        length: 11
+      衛:
+        code: 0xf5
+        length: 13
+      息:
+        code: 0xf6
+        length: 13
+      類:
+        code: 0xf7
+        length: 12
+      脈:
+        code: 0xf8
+        length: 13
+      実:
+        code: 0xf9
+        length: 12
+      憶:
+        code: 0xfa
+        length: 13
+      非:
+        code: 0xfb
+        length: 12
+      術:
+        code: 0xfc
+        length: 13
+      郊:
+        code: 0xfd
+        length: 12
+      鋼:
+        code: 0xfe
+        length: 13
+      継:
+        code: 0xff
+        length: 13
+    - 承:
+        code: 0x01
+        length: 14
+      相:
+        code: 0x02
+        length: 12
+      談:
+        code: 0x03
+        length: 12
+      増:
+        code: 0x04
+        length: 13
+      磨:
+        code: 0x05
+        length: 13
+      活:
+        code: 0x06
+        length: 12
+      孤:
+        code: 0x07
+        length: 13
+      児:
+        code: 0x08
+        length: 13
+      風:
+        code: 0x09
+        length: 13
+      尽:
+        code: 0x0a
+        length: 13
+      諸:
+        code: 0x0b
+        length: 13
+      浪:
+        code: 0x0c
+        length: 13
+      榎:
+        code: 0x0d
+        length: 13
+      否:
+        code: 0x0e
+        length: 12
+      定:
+        code: 0x0f
+        length: 12
+      留:
+        code: 0x10
+        length: 12
+      戻:
+        code: 0x11
+        length: 12
+      請:
+        code: 0x12
+        length: 13
+      流:
+        code: 0x13
+        length: 13
+      側:
+        code: 0x14
+        length: 13
+      任:
+        code: 0x15
+        length: 13
+      念:
+        code: 0x16
+        length: 12
+      忘:
+        code: 0x17
+        length: 12
+      涯:
+        code: 0x18
+        length: 14
+      災:
+        code: 0x19
+        length: 12
+      頼:
+        code: 0x1a
+        length: 13
+      姿:
+        code: 0x1b
+        length: 12
+      甲:
+        code: 0x1c
+        length: 11
+      遊:
+        code: 0x1d
+        length: 13
+      委:
+        code: 0x1e
+        length: 12
+      貯:
+        code: 0x1f
+        length: 13
+      良:
+        code: 0x20
+        length: 12
+      弔:
+        code: 0x21
+        length: 11
+      猟:
+        code: 0x22
+        length: 13
+      師:
+        code: 0x23
+        length: 11
+      捨:
+        code: 0x24
+        length: 13
+      雑:
+        code: 0x25
+        length: 13
+      託:
+        code: 0x26
+        length: 13
+      娘:
+        code: 0x27
+        length: 13
+      告:
+        code: 0x28
+        length: 11
+      赴:
+        code: 0x29
+        length: 13
+      予:
+        code: 0x2a
+        length: 12
+      裂:
+        code: 0x2b
+        length: 12
+      努:
+        code: 0x2c
+        length: 11
+      焼:
+        code: 0x2d
+        length: 13
+      役:
+        code: 0x2e
+        length: 13
+      仮:
+        code: 0x2f
+        length: 13
+      面:
+        code: 0x30
+        length: 12
+      暮:
+        code: 0x31
+        length: 13
+      我:
+        code: 0x32
+        length: 13
+      萱:
+        code: 0x33
+        length: 11
+      腕:
+        code: 0x34
+        length: 13
+      輩:
+        code: 0x35
+        length: 12
+      導:
+        code: 0x36
+        length: 13
+      業:
+        code: 0x37
+        length: 12
+      五:
+        code: 0x38
+        length: 13
+      創:
+        code: 0x39
+        length: 12
+      史:
+        code: 0x3a
+        length: 11
+      績:
+        code: 0x3b
+        length: 12
+      敬:
+        code: 0x3c
+        length: 13
+      表:
+        code: 0x3d
+        length: 12
+      応:
+        code: 0x3e
+        length: 13
+      E:
+        code: 0x3f
+        length: 10
+      X:
+        code: 0x40
+        length: 11
+      P:
+        code: 0x41
+        length: 9
+      計:
+        code: 0x42
+        length: 13
+      了:
+        code: 0x43
+        length: 12
+      暖:
+        code: 0x44
+        length: 13
+      規:
+        code: 0x45
+        length: 13
+      模:
+        code: 0x46
+        length: 12
+      報:
+        code: 0x47
+        length: 13
+      皆:
+        code: 0x48
+        length: 12
+      払:
+        code: 0x49
+        length: 12
+      混:
+        code: 0x4a
+        length: 13
+      双:
+        code: 0x4b
+        length: 13
+      口:
+        code: 0x4c
+        length: 11
+      降:
+        code: 0x4d
+        length: 13
+      伏:
+        code: 0x4e
+        length: 12
+      改:
+        code: 0x4f
+        length: 13
+      革:
+        code: 0x50
+        length: 12
+      幅:
+        code: 0x51
+        length: 12
+      悔:
+        code: 0x52
+        length: 13
+      毎:
+        code: 0x53
+        length: 13
+      牢:
+        code: 0x54
+        length: 12
+      肉:
+        code: 0x55
+        length: 12
+      到:
+        code: 0x56
+        length: 12
+      却:
+        code: 0x57
+        length: 13
+      妃:
+        code: 0x58
+        length: 12
+      倍:
+        code: 0x59
+        length: 13
+      迫:
+        code: 0x5a
+        length: 13
+      求:
+        code: 0x5b
+        length: 12
+      職:
+        code: 0x5c
+        length: 13
+      魂:
+        code: 0x5d
+        length: 13
+      紙:
+        code: 0x5e
+        length: 13
+      標:
+        code: 0x5f
+        length: 12
+      通:
+        code: 0x60
+        length: 13
+      供:
+        code: 0x61
+        length: 13
+      許:
+        code: 0x62
+        length: 13
+      局:
+        code: 0x63
+        length: 12
+      送:
+        code: 0x64
+        length: 13
+      絡:
+        code: 0x65
+        length: 13
+      孫:
+        code: 0x66
+        length: 12
+      扉:
+        code: 0x67
+        length: 12
+      約:
+        code: 0x68
+        length: 12
+      束:
+        code: 0x69
+        length: 12
+      掃:
+        code: 0x6a
+        length: 13
+      万:
+        code: 0x6b
+        length: 11
+      ヲ:
+        code: 0x6c
+        length: 10
+      左:
+        code: 0x6d
+        length: 13
+      右:
+        code: 0x6e
+        length: 13
+      峠:
+        code: 0x6f
+        length: 12
+      聞:
+        code: 0x70
+        length: 12
+      稼:
+        code: 0x71
+        length: 13
+      走:
+        code: 0x72
+        length: 12
+      台:
+        code: 0x73
+        length: 12
+      握:
+        code: 0x74
+        length: 13
+      宣:
+        code: 0x75
+        length: 13
+      覇:
+        code: 0x76
+        length: 12
+      唱:
+        code: 0x77
+        length: 12
+      怒:
+        code: 0x78
+        length: 12
+      威:
+        code: 0x79
+        length: 13
+      付:
+        code: 0x7a
+        length: 13
+      頃:
+        code: 0x7b
+        length: 12
+      盛:
+        code: 0x7c
+        length: 12
+      衰:
+        code: 0x7d
+        length: 11
+      徴:
+        code: 0x7e
+        length: 13
+      候:
+        code: 0x7f
+        length: 13
+      低:
+        code: 0x80
+        length: 13
+      牙:
+        code: 0x81
+        length: 12
+      没:
+        code: 0x82
+        length: 13
+      純:
+        code: 0x83
+        length: 13
+      細:
+        code: 0x84
+        length: 12
+      拓:
+        code: 0x85
+        length: 12
+      勃:
+        code: 0x86
+        length: 12
+      川:
+        code: 0x87
+        length: 12
+      募:
+        code: 0x88
+        length: 13
+      陥:
+        code: 0x89
+        length: 12
+      呼:
+        code: 0x8a
+        length: 13
+      起:
+        code: 0x8b
+        length: 13
+      誕:
+        code: 0x8c
+        length: 13
+      権:
+        code: 0x8d
+        length: 13
+      泣:
+        code: 0x8e
+        length: 13
+      欲:
+        code: 0x8f
+        length: 13
+      河:
+        code: 0x90
+        length: 13
+      音:
+        code: 0x91
+        length: 13
+      返:
+        code: 0x92
+        length: 13
+      段:
+        code: 0x93
+        length: 13
+      階:
+        code: 0x94
+        length: 12
+      功:
+        code: 0x95
+        length: 12
+      況:
+        code: 0x96
+        length: 13
+      頭:
+        code: 0x97
+        length: 13
+      歯:
+        code: 0x98
+        length: 13
+      車:
+        code: 0x99
+        length: 12
+      式:
+        code: 0x9a
+        length: 12
+      撒:
+        code: 0x9b
+        length: 13
+      寸:
+        code: 0x9c
+        length: 12
+      " ":
+        code: 0x9d
+        length: 13

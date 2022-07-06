@@ -18,7 +18,9 @@ files:
   romDir: roms
 config:
   directory: config
-  inMapping: in.yml
+  inMapping: 
+    - in.yml
+    - jp.yml
   defaultMode: nodigraph
   outputSize: 4m
 roms:

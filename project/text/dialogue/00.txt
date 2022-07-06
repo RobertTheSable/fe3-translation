@@ -1,26 +1,25 @@
-@address $8e982e
-@width 160
+@address 8e982e
+@type japanese
 @label dialogue_00
 [_88][00][PlaySong][0b][80][SwitchFrame][01]
-[ShowPortrait][02][07][6f][79][5d][f1][f2]
-[60][78][5d][ec]Fm[5c][b9][88][f4]u
-[f8]mpeLP[WaitForA][CloseFrame][03]
+[ShowPortrait][02][07]マルス王子
+タリス城からシーダ様が
+来られました[WaitForA][CloseFrame][03]
 [SwitchFrame][00]
-[ShowPortrait][00][04]0CLPt.[Exclaim2][5c][b9][88]
-[ec]"[ab]F[Space2]A[4e]PYF[WaitForA][SwitchFrame][01]
-[ShowPortrait][01][07][6f][79][5d][f4][Space2][ac]DSlF[4e]P[WaitForA]
-[7e][79][88]Y[ed][ad]u
-[_12][CloseParen2][_13]v[_11][Space2]EO[4e]SGPY[WaitForA]
-E[ec]i[_12]st[_11]KpS
-[ae])BY[ee]u[d4]KpPr
-EXuB[Exclaim2]E[f5][f4]s[_12]J[_11]IS[WaitForA][SwitchFrame][00]
+[ShowPortrait][00][04]どうしたんだ!シーダ
+城で何か あったのか[WaitForA][SwitchFrame][01]
+[ShowPortrait][01][07]マルス様 会えてよかった[WaitForA]
+ガルダの海賊が
+[UsePage1]突[UsePage2]然[UsePage0] おそってきたの[WaitForA]
+お城も[UsePage1]占領[UsePage0]されて
+大ぜいの人が殺されたわ
+おねがい!お父様を[UsePage1]助[UsePage0]けて[WaitForA][SwitchFrame][00]
 [ClearFrame]
-.Bz[50]C3.l[Space2][5c][b9][88]
-JY[_12]la[_11]VZ[Space2]:[78][63][98]:Y
-[ba]FtU[ef][de][_12][7a][_11]uBo[WaitForA]
-[ed][ad]UtFV[_13]o[_11]IoJTZ
-UBK[WaitForA]
-KA[Space2]5HT[d5][_13][65][_11]V
-[60][78][5d]Y[ec]c[f6]JC[WaitForA][CloseFrame][02]
+だいじょうぶだよ シーダ
+この[UsePage1]砦[UsePage0]には アリティアの
+勇かんな騎士[UsePage1]達[UsePage0]がいる[WaitForA]
+海賊なんかに[UsePage2]負[UsePage0]けることは
+ないさ[WaitForA]
+さあ ぼくと一[UsePage2]緒[UsePage0]に
+タリスの城へ行こう[WaitForA][CloseFrame][02]
 [CloseFrame][03]
-# length: 287
