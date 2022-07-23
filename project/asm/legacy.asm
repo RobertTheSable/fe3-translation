@@ -514,12 +514,6 @@ ORG !loadClassDescriptionBank
 code_134:
      LDA.W #shiftedBank(classDescription_00)     ; a90067
 
-ORG !hook86_1
-code_136:
-     JSL handleBattleText ; 220086ee
-     LDX $1018      ; ae1810
-     RTS            ; 60
-
 ORG !hook86_2
 code_137:
      JSL code_185   ; 22008aee

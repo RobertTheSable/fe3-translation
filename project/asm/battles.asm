@@ -1,5 +1,39 @@
 includeonce
 
+; ORG $869476 / $8694B4
+ORG !loadBattleTextFont
+    lda $1003
+    bit #$0001
+    bne +
+    lda #$1400
+    sta $15 
+    ldy $15 
+    ldx #$0000
+-:
+    lda.l menuFontTiles,X
+    sta.l $7E40FE,X
+    inx
+    dey
+    inx
+    dey
+    bne -
+    lda #$0400
+    sta $15 
+    ldy $15 
+    ldx #$0000
+-:
+    lda.l $94a000,X
+    sta.l $7E54FE,X
+    inx
+    dey
+    inx
+    dey
+    bne -
+    
+    skip 16
++:
+    
+
 ORG !loadBattleText1 ;$86b09b
 code_125:
      LDA.W #shiftedBank(battleText_00) ; a90070
@@ -64,3 +98,10 @@ skip 16
 ;ORG $86b1ae
 code_133:
      RTL            ; 6b
+     
+ORG !hook86_1
+code_136:
+     JSL handleBattleText ; 220086ee
+     LDX $1018      ; ae1810
+     RTS            ; 60
+     

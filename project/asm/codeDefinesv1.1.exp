@@ -1,3 +1,4 @@
+!loadBattleTextFont = $8694B4
 !loadChar1 = $869782
 !loadBattleText1 = $86B0F7
 !algorithm86_1 = $86B201

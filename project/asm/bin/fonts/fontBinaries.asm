@@ -121,6 +121,7 @@ ORG !fixedFontWidth+$FF
 
 ; menu font - includes menu borders as well.
 ORG $948000
+menuFontTiles:
 incbin menuFont.bin
 
 ; font used in the credits and a few other places.
