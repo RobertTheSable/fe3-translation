@@ -21,6 +21,7 @@ config:
   inMapping: 
     - in.yml
     - jp.yml
+    - menu.yml
   defaultMode: nodigraph
   outputSize: 4m
 roms:
