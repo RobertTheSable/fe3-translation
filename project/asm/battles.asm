@@ -32,9 +32,98 @@ ORG !loadBattleTextFont
     
     skip 16
 +:
-    
 
-ORG !loadBattleText1 ;$86b09b
+ORG !transformTextScript
+; "metamorphasis"/transformation script.
+    lda #$FE
+    jsr StoreBattleScript
+    lda #$FE
+    jsr StoreBattleScript
+    skip 3
+    ;jsr $A198 ; 86:9C8A
+    lda #$36 ; < script type
+    jsr StoreBattleScript
+    lda $21 ; < character name
+    jsr StoreBattleScript ; 86:9C94
+    lda #$05
+    jsr StoreBattleScript
+    lda $22 ; < class
+    jsr StoreBattleScript
+    lda #$2D ; < 's 
+    jsr StoreBattleScript ; 86:9C9E
+    jsr BattleScriptSR1 ; 86:9CA6
+    lda #$02 ; < script type
+    jsr StoreBattleScript
+    lda #$2E ; < "metamorphasis"
+    jsr StoreBattleScript
+    jsr BattleScriptSR1
+    skip 6
+    ;jsr $A236 ; 86:9CB6
+    ;jsr $F813 ; 86:9CB9
+    rts ; 86:9CBC
+    
+ORG !classChangeTextScript
+    lda #$02 ; 86:9CD8
+    sta $05 ; 86:9CDA
+    skip 6
+    ;jsr $AEC3 ; 86:9CDC
+    ;jmp $A1DB ; 86:9CDF
+    lda #$35 ; 86:9CE2
+    jsr StoreBattleScript ; 86:9CE4
+    lda #$FE ; 86:9CE7
+    jsr StoreBattleScript ; 86:9CE9
+    lda #$37 ; 86:9CEC
+    jsr StoreBattleScript ; 86:9CEE
+    lda #$16 ; 86:9CF1
+    jsr StoreBattleScript ; 86:9CF3
+    lda #$01 ; 86:9CF6
+    jsr StoreBattleScript ; 86:9CF8
+    lda #$FE ; 86:9CFB
+    jsr StoreBattleScript ; 86:9CFD
+    lda #$FE ; 86:9D00
+    jsr StoreBattleScript ; 86:9D02
+    skip 3
+;     jsr $A198 ; 86:9D05
+    lda #$36 ; 86:9D08
+    jsr StoreBattleScript ; 86:9D0A
+    lda $0763 ; 86:9D0D
+    jsr StoreBattleScript ; 86:9D10
+    lda #$05 ; 86:9D13
+    jsr StoreBattleScript ; 86:9D15
+    lda $075E ; 86:9D18
+    jsr StoreBattleScript ; 86:9D1B
+    lda #$2D ; 86:9D1E
+    jsr StoreBattleScript ; 86:9D20
+    jsr BattleScriptSR1 ; 86:9D23
+    lda #$02 ; 86:9D26
+    jsr StoreBattleScript ; 86:9D28
+    lda $078F ; 86:9D2B
+    bit #$20 ; 86:9D2E
+    beq + ; 86:9D30
+    ; loads metamorphasis text (probably for xane)
+    lda #$2E ; 86:9D32
+    jsr StoreBattleScript ; 86:9D34
+    bra .exit ; 86:9D37
++:
+    lda #$2F ; 86:9D39
+    jsr StoreBattleScript ; 86:9D3B
+.exit:
+    jsr BattleScriptSR1 ; 86:9D3E
+    skip 3
+;     jsr $F813 ; 86:9D41
+    rts ; 86:9D44
+    
+; BattleScriptSR1 stores a timer ($A0) and then $FE
+    
+; ORG !loadClassChangeText
+;     jsr $B0BA ; load class name
+;     jsr $B08D ; load newline
+;     jsr $AFF1 ; text then newline
+;     jsr $B0FF ; 86:B045
+; ;     jsr $B09B ; 86:B048
+;     jmp $AFF1 ; 86:B04B
+
+ORG !loadBattleText1 ;$86b09b / $86B0F7
 code_125:
      LDA.W #shiftedBank(battleText_00) ; a90070
      STA $01        ; 8501

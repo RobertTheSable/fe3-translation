@@ -15,3 +15,8 @@
 !hook87_2 = $87BA09
 !loadStorageText = $87D528
 !ldyOW1 = $87AE44
+!transformTextScript = $869C80
+!classChangeTextScript = $869CD8
+StoreBattleScript = $86F7E5
+BattleScriptSR1 = $86A940
+!loadClassChangeText = $86B09B

@@ -1055,7 +1055,7 @@ handleBattleText:
      BEQ .money     ; f012
                     ; "took X gold"
      CMP #$2d       ; c92d
-     BEQ .possesive ; f00a
+     BEQ .possessive ; f00a
      BRA .default   ; 801f
 .exp:
      LDA #$40       ; a940
@@ -1063,9 +1063,10 @@ handleBattleText:
 .used:
      LDA #$41       ; a941
      BRA .storeAndExit ; 800e
-.possesive:
-     ; i.e. "Marth's" instead of "Marth"
-     LDA #$43       ; a943
+.possessive:
+     ; adds a 's
+     ; used for transformations and class changes
+     LDA #$43       ; table entry 67 = empty
      BRA .storeAndExit ; 800a
 .money:
      LDA #$42       ; a942
@@ -1084,7 +1085,7 @@ handleBattleText:
      RTL            ; 6b
 .default:
      PLA            ; 68
-     LDA #$43       ; a943
+     LDA #$43       ; table entry 67 = empty
      DEX            ; ca
      DEX            ; ca
      REP #$20       ; c220
@@ -1099,10 +1100,10 @@ code_182:
 .loop:
      LDA [$00],Y    ; b700
      CMP #$fffd     ; c9fdff
-     BNE .newline   ; d006
-     JSL code_183   ; 220088ee
+     BNE .notNewline   ; d006
+     JSL handleNewLine   ; 220088ee
      BRA .loop      ; 80f3
-.newline:
+.notNewline:
      CMP #$ffff     ; c9ffff
      BEQ .exit      ; f006
      JSL !algorithm86_1    ; 22a5b186
@@ -1117,7 +1118,7 @@ code_182:
      RTL            ; 6b
 
 ORG $ee8800
-code_183:
+handleNewLine:
      PHA            ; 48
      LDA $03        ; a503
      CLC            ; 18
@@ -1127,6 +1128,8 @@ code_183:
      ADC #$000c     ; 690c00
      STA $03        ; 8503
      PLA            ; 68
+     ; bug: $1018 is not upated
+     ; so subsequent text will not be on the new line
      INY            ; c8
      INY            ; c8
      RTL            ; 6b
@@ -1173,6 +1176,7 @@ code_184:
 
 ORG $ee8a00
 code_185:
+     ; different prepending algorithm
      PHX            ; da
      INC $1039      ; ee3910
      LDX $1039      ; ae3910
