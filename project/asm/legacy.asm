@@ -886,9 +886,9 @@ loadMenuText:
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9af8,X  ; bff89a8b
+     LDA menuFontTableKR,X  ; bff89a8b
      STA [$03]      ; 8703
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA menuFontTableKR+$2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
@@ -933,7 +933,7 @@ loadMenuText:
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA menuFontTableKR+$2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BNE .fullHeight ; d00a
      LDA $17        ; a517
@@ -992,12 +992,12 @@ code_179:
      ASL            ; a0
      TAX            ; aa
      LDY #$0000     ; a00000
-     LDA $8b9af8,X  ; bff89a8b
+     LDA menuFontTableKR,X  ; bff89a8b
      AND #$c3ff     ; 29ffc3
      ORA $06        ; 5006
      STA [$03],Y    ; 9703
      LDY #$0040     ; a04000
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA menuFontTableKR+$2,X  ; bffa9a8b
      AND #$c3ff     ; 29ffc3
      ORA $06        ; 5006
      STA [$03],Y    ; 9703
@@ -1255,9 +1255,9 @@ code_186_weirdBranchAddress = $ee8b33
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9af8,X  ; bff89a8b
+     LDA menuFontTableKR,X  ; bff89a8b
      STA [$03]      ; 8703
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA menuFontTableKR+$2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
@@ -1302,7 +1302,7 @@ code_186_weirdBranchAddress = $ee8b33
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA menuFontTableKR+$2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BNE .fullHeight ; d00a
      LDA $17        ; a517
