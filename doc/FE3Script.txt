@@ -48,16 +48,29 @@
 
 //POINTER #0 @ $5AF32 - STRING #0 @ $5AF52
 #W16($5AF32)
-[L2][V2]  [EX1][EX2][NewLine][H2][P2]   /[End]
+[L2][V2]  [EX1][EX2][NewLine]
+[H2][P2]   /[End]
 //POINTER #1 @ $5AF34 - STRING #1 @ $5AF6E
 #W16($5AF34)
-攻撃:[NewLine]命中:[NewLine]回ひ:[NewLine]必殺:[NewLine]攻速:[NewLine]特効:[End]
+攻撃:[NewLine]
+命中:[NewLine]
+回ひ:[NewLine]
+必殺:[NewLine]
+攻速:[NewLine]
+特効:[End]
 //POINTER #2 @ $5AF36 - STRING #2 @ $5AF9E
 #W16($5AF36)
-ちから:[NewLine] わざ:[NewLine] 速さ:[NewLine] 幸運:[NewLine] 武器:[NewLine] 守備:[NewLine] 魔防:[End]
+ちから:[NewLine]
+ わざ:[NewLine]
+ 速さ:[NewLine]
+ 幸運:[NewLine]
+ 武器:[NewLine]
+ 守備:[NewLine]
+ 魔防:[End]
 //POINTER #3 @ $5AF38 - STRING #3 @ $5AFE4
 #W16($5AF38)
-さいだい[H2][P2]:[NewLine]いどうりょく:[End]
+さいだい[H2][P2]:[NewLine]
+いどうりょく:[End]
 //POINTER #4 @ $5AF3A - STRING #4 @ $5B004
 #W16($5AF3A)
 ア-マ-系[End]
@@ -99,184 +112,424 @@
 
 //POINTER #0 @ $5E924 - STRING #0 @ $5EA26
 #W16($5E924)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #1 @ $5E926 - STRING #1 @ $5EA26
 #W16($5E926)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #2 @ $5E928 - STRING #2 @ $5EA26
 #W16($5E928)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #3 @ $5E92A - STRING #3 @ $5EA26
 #W16($5E92A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #4 @ $5E92C - STRING #4 @ $5EA26
 #W16($5E92C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #5 @ $5E92E - STRING #5 @ $5EA26
 #W16($5E92E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #6 @ $5E930 - STRING #6 @ $5EA26
 #W16($5E930)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #7 @ $5E932 - STRING #7 @ $5EA26
 #W16($5E932)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #8 @ $5E934 - STRING #8 @ $5EA26
 #W16($5E934)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #9 @ $5E936 - STRING #9 @ $5EA26
 #W16($5E936)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #10 @ $5E938 - STRING #10 @ $5EA26
 #W16($5E938)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #11 @ $5E93A - STRING #11 @ $5EA26
 #W16($5E93A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #12 @ $5E93C - STRING #12 @ $5EA26
 #W16($5E93C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #13 @ $5E93E - STRING #13 @ $5EA26
 #W16($5E93E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #14 @ $5E940 - STRING #14 @ $5EA26
 #W16($5E940)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #15 @ $5E942 - STRING #15 @ $5EA26
 #W16($5E942)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #16 @ $5E944 - STRING #16 @ $5EA26
 #W16($5E944)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #17 @ $5E946 - STRING #17 @ $5EA26
 #W16($5E946)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #18 @ $5E948 - STRING #18 @ $5EA26
 #W16($5E948)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #19 @ $5E94A - STRING #19 @ $5EA26
 #W16($5E94A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #20 @ $5E94C - STRING #20 @ $5EA26
 #W16($5E94C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #21 @ $5E94E - STRING #21 @ $5EA26
 #W16($5E94E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #22 @ $5E950 - STRING #22 @ $5EA26
 #W16($5E950)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #23 @ $5E952 - STRING #23 @ $5EA26
 #W16($5E952)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #24 @ $5E954 - STRING #24 @ $5EA26
 #W16($5E954)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #25 @ $5E956 - STRING #25 @ $5EA26
 #W16($5E956)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #26 @ $5E958 - STRING #26 @ $5EA26
 #W16($5E958)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #27 @ $5E95A - STRING #27 @ $5EA26
 #W16($5E95A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #28 @ $5E95C - STRING #28 @ $5EA26
 #W16($5E95C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #29 @ $5E95E - STRING #29 @ $5EA26
 #W16($5E95E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #30 @ $5E960 - STRING #30 @ $5EA26
 #W16($5E960)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #31 @ $5E962 - STRING #31 @ $5EA26
 #W16($5E962)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #32 @ $5E964 - STRING #32 @ $5EA26
 #W16($5E964)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #33 @ $5E966 - STRING #33 @ $5EA26
 #W16($5E966)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #34 @ $5E968 - STRING #34 @ $5EA26
 #W16($5E968)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #35 @ $5E96A - STRING #35 @ $5EA26
 #W16($5E96A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #36 @ $5E96C - STRING #36 @ $5EA26
 #W16($5E96C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #37 @ $5E96E - STRING #37 @ $5EA26
 #W16($5E96E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #38 @ $5E970 - STRING #38 @ $5EA26
 #W16($5E970)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #39 @ $5E972 - STRING #39 @ $5EA26
 #W16($5E972)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #40 @ $5E974 - STRING #40 @ $5EA26
 #W16($5E974)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #41 @ $5E976 - STRING #41 @ $5EA26
 #W16($5E976)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #42 @ $5E978 - STRING #42 @ $5EA26
 #W16($5E978)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #43 @ $5E97A - STRING #43 @ $5EA26
 #W16($5E97A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #44 @ $5E97C - STRING #44 @ $5EA26
 #W16($5E97C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #45 @ $5E97E - STRING #45 @ $5EA26
 #W16($5E97E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #46 @ $5E980 - STRING #46 @ $5EA26
 #W16($5E980)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #47 @ $5E982 - STRING #47 @ $5EA26
 #W16($5E982)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #48 @ $5E984 - STRING #48 @ $5EA26
 #W16($5E984)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #49 @ $5E986 - STRING #49 @ $5EA26
 #W16($5E986)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #50 @ $5E988 - STRING #50 @ $5EA26
 #W16($5E988)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #51 @ $5E98A - STRING #51 @ $5EA26
 #W16($5E98A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #52 @ $5E98C - STRING #52 @ $5EA26
 #W16($5E98C)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #53 @ $5E98E - STRING #53 @ $5EA26
 #W16($5E98E)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #54 @ $5E990 - STRING #54 @ $5EA26
 #W16($5E990)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #55 @ $5E992 - STRING #55 @ $5EA26
 #W16($5E992)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #56 @ $5E994 - STRING #56 @ $5EA26
 #W16($5E994)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #57 @ $5E996 - STRING #57 @ $5EA26
 #W16($5E996)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #58 @ $5E998 - STRING #58 @ $5EA26
 #W16($5E998)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #59 @ $5E99A - STRING #59 @ $5EA26
 #W16($5E99A)
-いりょく :[NewLine]命中   :[NewLine]重さ   :[NewLine]必殺   :[NewLine]武器[L2][V2] :[End]
+いりょく :[NewLine]
+命中   :[NewLine]
+重さ   :[NewLine]
+必殺   :[NewLine]
+武器[L2][V2] :[End]
 //POINTER #60 @ $5E99C - STRING #60 @ $5F594
 #W16($5E99C)
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
@@ -288,79 +541,156 @@
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
 //POINTER #63 @ $5E9A2 - STRING #63 @ $5EA6C
 #W16($5E9A2)
-アカネイアのはしゃの[NewLine]あかし[End]
+アカネイアのはしゃの[NewLine]
+あかし[End]
 //POINTER #64 @ $5E9A4 - STRING #64 @ $5EA8A
 #W16($5E9A4)
-武器[L2][V2]   1[NewLine][EX1][EX2]    14[NewLine][H2][P2]をちから+10[NewLine]回復する[NewLine]ちりょうの杖[End]
+武器[L2][V2]   1[NewLine]
+[EX1][EX2]    14[NewLine]
+[H2][P2]をちから+10[NewLine]
+回復する[NewLine]
+ちりょうの杖[End]
 //POINTER #65 @ $5E9A6 - STRING #65 @ $5EADA
 #W16($5E9A6)
-武器[L2][V2]   3[NewLine][EX1][EX2]    30[NewLine][H2][P2]をすべて[NewLine]回復する[NewLine]ちりょうの杖[End]
+武器[L2][V2]   3[NewLine]
+[EX1][EX2]    30[NewLine]
+[H2][P2]をすべて[NewLine]
+回復する[NewLine]
+ちりょうの杖[End]
 //POINTER #66 @ $5E9A8 - STRING #66 @ $5EB24
 #W16($5E9A8)
-武器[L2][V2]   7[NewLine][EX1][EX2]    30[NewLine]とおくにいるみかたの[NewLine][H2][P2]をちから+10[NewLine]回復する ちりょうの杖[End]
+武器[L2][V2]   7[NewLine]
+[EX1][EX2]    30[NewLine]
+とおくにいるみかたの[NewLine]
+[H2][P2]をちから+10[NewLine]
+回復する ちりょうの杖[End]
 //POINTER #67 @ $5E9AA - STRING #67 @ $5EB8A
 #W16($5E9AA)
-武器[L2][V2]   2[NewLine][EX1][EX2]    20[NewLine][H2][P2]をちから+20[NewLine]回復する[NewLine]ちりょうの杖[End]
+武器[L2][V2]   2[NewLine]
+[EX1][EX2]    20[NewLine]
+[H2][P2]をちから+20[NewLine]
+回復する[NewLine]
+ちりょうの杖[End]
 //POINTER #68 @ $5E9AC - STRING #68 @ $5EBDA
 #W16($5E9AC)
-武器[L2][V2]   5[NewLine][EX1][EX2]    42[NewLine]みかたをとおくに[NewLine]とばすことができる[NewLine]ちょうやくの杖[End]
+武器[L2][V2]   5[NewLine]
+[EX1][EX2]    42[NewLine]
+みかたをとおくに[NewLine]
+とばすことができる[NewLine]
+ちょうやくの杖[End]
 //POINTER #69 @ $5E9AE - STRING #69 @ $5EC34
 #W16($5E9AE)
-武器[L2][V2]   8[NewLine][EX1][EX2]    30[NewLine]まほうぼうぎょを7[NewLine]あげることができる[NewLine]まほうぼうぎょの杖[End]
+武器[L2][V2]   8[NewLine]
+[EX1][EX2]    30[NewLine]
+まほうぼうぎょを7[NewLine]
+あげることができる[NewLine]
+まほうぼうぎょの杖[End]
 //POINTER #70 @ $5E9B0 - STRING #70 @ $5EC94
 #W16($5E9B0)
-武器[L2][V2]  --[NewLine][EX1][EX2]    58[NewLine]武器をもとにもどす[NewLine]しゅうりの杖[NewLine]レナ マリ-シアよう[End]
+武器[L2][V2]  --[NewLine]
+[EX1][EX2]    58[NewLine]
+武器をもとにもどす[NewLine]
+しゅうりの杖[NewLine]
+レナ マリ-シアよう[End]
 //POINTER #71 @ $5E9B2 - STRING #71 @ $5ECF0
 #W16($5E9B2)
-武器[L2][V2]   8[NewLine][EX1][EX2]    30[NewLine]すべてのみかたの[H2][P2]を[NewLine]ちから+10回復する[NewLine]ちりょうの杖[End]
+武器[L2][V2]   8[NewLine]
+[EX1][EX2]    30[NewLine]
+すべてのみかたの[H2][P2]を[NewLine]
+ちから+10回復する[NewLine]
+ちりょうの杖[End]
 //POINTER #72 @ $5E9B4 - STRING #72 @ $5ED50
 #W16($5E9B4)
-武器[L2][V2]  10[NewLine][EX1][EX2]    58[NewLine]つぎのタ-ンまで[NewLine]てきもみかたも[NewLine]まほうがつかえない[End]
+武器[L2][V2]  10[NewLine]
+[EX1][EX2]    58[NewLine]
+つぎのタ-ンまで[NewLine]
+てきもみかたも[NewLine]
+まほうがつかえない[End]
 //POINTER #73 @ $5E9B6 - STRING #73 @ $5EDAA
 #W16($5E9B6)
-武器[L2][V2]  --[NewLine][EX1][EX2]    58[NewLine]とおくのみかたを[NewLine]ちかくによびよせる[NewLine]ユミナせんよう[End]
+武器[L2][V2]  --[NewLine]
+[EX1][EX2]    58[NewLine]
+とおくのみかたを[NewLine]
+ちかくによびよせる[NewLine]
+ユミナせんよう[End]
 //POINTER #74 @ $5E9B8 - STRING #74 @ $5EE04
 #W16($5E9B8)
-武器[L2][V2]  --[NewLine][EX1][EX2]    58[NewLine]さいだんのまえでしよう[NewLine]いきかえりの杖[NewLine]エリスせんよう[End]
+武器[L2][V2]  --[NewLine]
+[EX1][EX2]    58[NewLine]
+さいだんのまえでしよう[NewLine]
+いきかえりの杖[NewLine]
+エリスせんよう[End]
 //POINTER #75 @ $5E9BA - STRING #75 @ $5EECC
 #W16($5E9BA)
-武器[L2][V2]   8[NewLine][EX1][EX2]    58[NewLine]とびらをあける[NewLine]かいじょうの杖[End]
+武器[L2][V2]   8[NewLine]
+[EX1][EX2]    58[NewLine]
+とびらをあける[NewLine]
+かいじょうの杖[End]
 //POINTER #76 @ $5E9BC - STRING #76 @ $5EF10
 #W16($5E9BC)
-武器[L2][V2]  --[NewLine][EX1][EX2]    56[NewLine]とおくの宝箱の[NewLine]なかみをとる杖[NewLine]マリ-シアせんよう[End]
+武器[L2][V2]  --[NewLine]
+[EX1][EX2]    56[NewLine]
+とおくの宝箱の[NewLine]
+なかみをとる杖[NewLine]
+マリ-シアせんよう[End]
 //POINTER #77 @ $5E9BE - STRING #77 @ $5EF68
 #W16($5E9BE)
-武器[L2][V2]  11[NewLine][EX1][EX2]    56[NewLine]やねでなかがみえない[NewLine]しろのないぶをみる[NewLine]とうしの杖[End]
+武器[L2][V2]  11[NewLine]
+[EX1][EX2]    56[NewLine]
+やねでなかがみえない[NewLine]
+しろのないぶをみる[NewLine]
+とうしの杖[End]
 //POINTER #78 @ $5E9C0 - STRING #78 @ $5EFC2
 #W16($5E9C0)
-武器[L2][V2]  20[NewLine][EX1][EX2]    56[NewLine]いどうずみのユニットを[NewLine]もとにもどす[NewLine]いどうかいじょの杖[End]
+武器[L2][V2]  20[NewLine]
+[EX1][EX2]    56[NewLine]
+いどうずみのユニットを[NewLine]
+もとにもどす[NewLine]
+いどうかいじょの杖[End]
 //POINTER #79 @ $5E9C2 - STRING #79 @ $5F020
 #W16($5E9C2)
-マムク-トがつかうと[NewLine]かりゅうにへんしんする[End]
+マムク-トがつかうと[NewLine]
+かりゅうにへんしんする[End]
 //POINTER #80 @ $5E9C4 - STRING #80 @ $5EE60
 #W16($5E9C4)
-武器[L2][V2]  --[NewLine][EX1][EX2]    58[NewLine]さいだんのちゅうおうで[NewLine]しよう いきかえりの杖[NewLine]エリス ユミナせんよう[End]
+武器[L2][V2]  --[NewLine]
+[EX1][EX2]    58[NewLine]
+さいだんのちゅうおうで[NewLine]
+しよう いきかえりの杖[NewLine]
+エリス ユミナせんよう[End]
 //POINTER #81 @ $5E9C6 - STRING #81 @ $5F04E
 #W16($5E9C6)
-マムク-トがつかうと[NewLine]ひょうりゅうにへんしん[NewLine]する[End]
+マムク-トがつかうと[NewLine]
+ひょうりゅうにへんしん[NewLine]
+する[End]
 //POINTER #82 @ $5E9C8 - STRING #82 @ $5F082
 #W16($5E9C8)
-マムク-トがつかうと[NewLine]ひりゅうにへんしんする[End]
+マムク-トがつかうと[NewLine]
+ひりゅうにへんしんする[End]
 //POINTER #83 @ $5E9CA - STRING #83 @ $5F0B0
 #W16($5E9CA)
-マムク-トがつかうと[NewLine]ちりゅうにへんしんする[End]
+マムク-トがつかうと[NewLine]
+ちりゅうにへんしんする[End]
 //POINTER #84 @ $5E9CC - STRING #84 @ $5F0DE
 #W16($5E9CC)
-マムク-トがつかうと[NewLine]あんこくりゅうに[NewLine]へんしんする[End]
+マムク-トがつかうと[NewLine]
+あんこくりゅうに[NewLine]
+へんしんする[End]
 //POINTER #85 @ $5E9CE - STRING #85 @ $5F114
 #W16($5E9CE)
-マムク-トがつかうと[NewLine]しんりゅうにへんしん[NewLine]する[NewLine]チキせんよう[End]
+マムク-トがつかうと[NewLine]
+しんりゅうにへんしん[NewLine]
+する[NewLine]
+チキせんよう[End]
 //POINTER #86 @ $5E9D0 - STRING #86 @ $5F154
 #W16($5E9D0)
-マムク-トがつかうと[NewLine]まりゅうにへんしん[NewLine]する[End]
+マムク-トがつかうと[NewLine]
+まりゅうにへんしん[NewLine]
+する[End]
 //POINTER #87 @ $5E9D2 - STRING #87 @ $5F184
 #W16($5E9D2)
-1回につき[H2][P2]を10[NewLine]回復する[End]
+1回につき[H2][P2]を10[NewLine]
+回復する[End]
 //POINTER #88 @ $5E9D4 - STRING #88 @ $5F1A4
 #W16($5E9D4)
 とびらをあける[End]
@@ -369,55 +699,87 @@
 ぎんのとびらをあける[End]
 //POINTER #90 @ $5E9D8 - STRING #90 @ $5F1CA
 #W16($5E9D8)
-はねばしをあげるために[NewLine]しようする[End]
+はねばしをあげるために[NewLine]
+しようする[End]
 //POINTER #91 @ $5E9DA - STRING #91 @ $5F1EE
 #W16($5E9DA)
-宝箱をあけて[NewLine]なかみがうばえる[End]
+宝箱をあけて[NewLine]
+なかみがうばえる[End]
 //POINTER #92 @ $5E9DC - STRING #92 @ $5F20E
 #W16($5E9DC)
-しようするとちからが[NewLine]4あがる[End]
+しようするとちからが[NewLine]
+4あがる[End]
 //POINTER #93 @ $5E9DE - STRING #93 @ $5F22E
 #W16($5E9DE)
-しようするとしゅびが[NewLine]3あがる[End]
+しようするとしゅびが[NewLine]
+3あがる[End]
 //POINTER #94 @ $5E9E0 - STRING #94 @ $5F24E
 #W16($5E9E0)
-しようするとわざが[NewLine]5あがる[End]
+しようするとわざが[NewLine]
+5あがる[End]
 //POINTER #95 @ $5E9E2 - STRING #95 @ $5F26C
 #W16($5E9E2)
-しようするとはやさが[NewLine]5あがる[End]
+しようするとはやさが[NewLine]
+5あがる[End]
 //POINTER #96 @ $5E9E4 - STRING #96 @ $5F28C
 #W16($5E9E4)
-しようすると[NewLine]まほうぼうぎょが[NewLine]3あがる[End]
+しようすると[NewLine]
+まほうぼうぎょが[NewLine]
+3あがる[End]
 //POINTER #97 @ $5E9E6 - STRING #97 @ $5F2B6
 #W16($5E9E6)
-しようすると[NewLine]さいだい[H2][P2]が7あがる[End]
+しようすると[NewLine]
+さいだい[H2][P2]が7あがる[End]
 //POINTER #98 @ $5E9E8 - STRING #98 @ $5F2DC
 #W16($5E9E8)
-しようすると[NewLine]うんのよさが5あがる[End]
+しようすると[NewLine]
+うんのよさが5あがる[End]
 //POINTER #99 @ $5E9EA - STRING #99 @ $5F300
 #W16($5E9EA)
-しようすると[NewLine]武器[L2][V2]が5あがる[End]
+しようすると[NewLine]
+武器[L2][V2]が5あがる[End]
 //POINTER #100 @ $5E9EC - STRING #100 @ $5F322
 #W16($5E9EC)
-しようすると[NewLine]いどうりょくが4あがる[NewLine]さいだい12まであがる[End]
+しようすると[NewLine]
+いどうりょくが4あがる[NewLine]
+さいだい12まであがる[End]
 //POINTER #101 @ $5E9EE - STRING #101 @ $5F360
 #W16($5E9EE)
-しようすると[NewLine]まほうぼうぎょが[NewLine]7あがる[End]
+しようすると[NewLine]
+まほうぼうぎょが[NewLine]
+7あがる[End]
 //POINTER #102 @ $5E9F0 - STRING #102 @ $5F38A
 #W16($5E9F0)
-ナイト系が[L2][V2]10で[NewLine]じょうきゅうしょくに[NewLine]クラスチェンジできる[NewLine]てんしょくアイテム[End]
+ナイト系が[L2][V2]10で[NewLine]
+じょうきゅうしょくに[NewLine]
+クラスチェンジできる[NewLine]
+てんしょくアイテム[End]
 //POINTER #103 @ $5E9F2 - STRING #103 @ $5F3E0
 #W16($5E9F2)
-ようへいが[L2][V2]10で[NewLine]ゆうしゃに[NewLine]クラスチェンジできる[NewLine]てんしょくアイテム[End]
+ようへいが[L2][V2]10で[NewLine]
+ゆうしゃに[NewLine]
+クラスチェンジできる[NewLine]
+てんしょくアイテム[End]
 //POINTER #104 @ $5E9F4 - STRING #104 @ $5F42C
 #W16($5E9F4)
-まどうしやシスタ-が[NewLine][L2][V2]10で[NewLine]じょうきゅうしょくに[NewLine]クラスチェンジできる[NewLine]てんしょくアイテム[End]
+まどうしやシスタ-が[NewLine]
+[L2][V2]10で[NewLine]
+じょうきゅうしょくに[NewLine]
+クラスチェンジできる[NewLine]
+てんしょくアイテム[End]
 //POINTER #105 @ $5E9F6 - STRING #105 @ $5F48E
 #W16($5E9F6)
-ペガサスナイトが[NewLine][L2][V2]10で[NewLine]ドラゴンナイトに[NewLine]クラスチェンジできる[NewLine]てんしょくアイテム[End]
+ペガサスナイトが[NewLine]
+[L2][V2]10で[NewLine]
+ドラゴンナイトに[NewLine]
+クラスチェンジできる[NewLine]
+てんしょくアイテム[End]
 //POINTER #106 @ $5E9F8 - STRING #106 @ $5F4E8
 #W16($5E9F8)
-ゆみ系が[L2][V2]10で[NewLine]じょうきゅうしょくに[NewLine]クラスチェンジできる[NewLine]てんしょくアイテム[End]
+ゆみ系が[L2][V2]10で[NewLine]
+じょうきゅうしょくに[NewLine]
+クラスチェンジできる[NewLine]
+てんしょくアイテム[End]
 //POINTER #107 @ $5E9FA - STRING #107 @ $5F594
 #W16($5E9FA)
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
@@ -426,7 +788,11 @@
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
 //POINTER #109 @ $5E9FE - STRING #109 @ $5F53C
 #W16($5E9FE)
-とくしゅこうかを[NewLine]むこうにするたて[NewLine]これをもっていると[NewLine]武器によるとっこうが[NewLine]なくなる[End]
+とくしゅこうかを[NewLine]
+むこうにするたて[NewLine]
+これをもっていると[NewLine]
+武器によるとっこうが[NewLine]
+なくなる[End]
 //POINTER #110 @ $5EA00 - STRING #110 @ $5F5A0
 #W16($5EA00)
 星のオ-ブのカケラ[End]
@@ -465,13 +831,21 @@
 星のオ-ブのカケラ[End]
 //POINTER #122 @ $5EA18 - STRING #122 @ $5F5B4
 #W16($5EA18)
-せんじょうより りだつ[NewLine]する[NewLine]これをもっていると[NewLine]1どだけ しなない[End]
+せんじょうより りだつ[NewLine]
+する[NewLine]
+これをもっていると[NewLine]
+1どだけ しなない[End]
 //POINTER #123 @ $5EA1A - STRING #123 @ $5F5FA
 #W16($5EA1A)
-これをもっていると[NewLine]みせのしなものの[NewLine]ねだんが[NewLine]はんがくになる[End]
+これをもっていると[NewLine]
+みせのしなものの[NewLine]
+ねだんが[NewLine]
+はんがくになる[End]
 //POINTER #124 @ $5EA1C - STRING #124 @ $5F63A
 #W16($5EA1C)
-このせかいのどこかに[NewLine]ある ひみつのみせに[NewLine]はいれる[End]
+このせかいのどこかに[NewLine]
+ある ひみつのみせに[NewLine]
+はいれる[End]
 //POINTER #125 @ $5EA1E - STRING #125 @ $5F594
 #W16($5EA1E)
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
@@ -483,252 +857,357 @@
 [x00FC][x00FC][x00FC][x00FC][x00FC][End]
 //POINTER #128 @ $5EA24 - STRING #128 @ $5F670
 #W16($5EA24)
-アカネイアのはしゃの[NewLine]あかし[End]
+アカネイアのはしゃの[NewLine]
+あかし[End]
 //BLOCK #009 NAME:		Terrain Descriptions
 
 //POINTER #0 @ $5F68E - STRING #0 @ $5F7D2
 #W16($5F68E)
-へいげん[NewLine]回ひ : 5[End]
+へいげん[NewLine]
+回ひ : 5[End]
 //POINTER #1 @ $5F690 - STRING #1 @ $5F7EC
 #W16($5F690)
-みち[NewLine]回ひ : 0[End]
+みち[NewLine]
+回ひ : 0[End]
 //POINTER #2 @ $5F692 - STRING #2 @ $5F802
 #W16($5F692)
-かわ[NewLine]回ひ : 0[End]
+かわ[NewLine]
+回ひ : 0[End]
 //POINTER #3 @ $5F694 - STRING #3 @ $5F818
 #W16($5F694)
-もり[NewLine]回ひ :15[End]
+もり[NewLine]
+回ひ :15[End]
 //POINTER #4 @ $5F696 - STRING #4 @ $5F82E
 #W16($5F696)
-はし[NewLine]回ひ : 0[End]
+はし[NewLine]
+回ひ : 0[End]
 //POINTER #5 @ $5F698 - STRING #5 @ $5F844
 #W16($5F698)
-たかいやま[NewLine]いどうできない[End]
+たかいやま[NewLine]
+いどうできない[End]
 //POINTER #6 @ $5F69A - STRING #6 @ $5F860
 #W16($5F69A)
-たき[NewLine]回ひ : 0[End]
+たき[NewLine]
+回ひ : 0[End]
 //POINTER #7 @ $5F69C - STRING #7 @ $5F876
 #W16($5F69C)
-やま[NewLine]回ひ :25[End]
+やま[NewLine]
+回ひ :25[End]
 //POINTER #8 @ $5F69E - STRING #8 @ $5F88C
 #W16($5F69E)
-むら門[NewLine]回ひ : 0[End]
+むら門[NewLine]
+回ひ : 0[End]
 //POINTER #9 @ $5F6A0 - STRING #9 @ $5F8A4
 #W16($5F6A0)
-みんか[NewLine]回ひ : 0[End]
+みんか[NewLine]
+回ひ : 0[End]
 //POINTER #10 @ $5F6A2 - STRING #10 @ $5F8BC
 #W16($5F6A2)
-うみ[NewLine]回ひ :30[End]
+うみ[NewLine]
+回ひ :30[End]
 //POINTER #11 @ $5F6A4 - STRING #11 @ $5F8D2
 #W16($5F6A4)
-さばく[NewLine]回ひ : 0[End]
+さばく[NewLine]
+回ひ : 0[End]
 //POINTER #12 @ $5F6A6 - STRING #12 @ $5F7D2
 #W16($5F6A6)
-へいげん[NewLine]回ひ : 5[End]
+へいげん[NewLine]
+回ひ : 5[End]
 //POINTER #13 @ $5F6A8 - STRING #13 @ $5F7EC
 #W16($5F6A8)
-みち[NewLine]回ひ : 0[End]
+みち[NewLine]
+回ひ : 0[End]
 //POINTER #14 @ $5F6AA - STRING #14 @ $5F802
 #W16($5F6AA)
-かわ[NewLine]回ひ : 0[End]
+かわ[NewLine]
+回ひ : 0[End]
 //POINTER #15 @ $5F6AC - STRING #15 @ $5F818
 #W16($5F6AC)
-もり[NewLine]回ひ :15[End]
+もり[NewLine]
+回ひ :15[End]
 //POINTER #16 @ $5F6AE - STRING #16 @ $5F82E
 #W16($5F6AE)
-はし[NewLine]回ひ : 0[End]
+はし[NewLine]
+回ひ : 0[End]
 //POINTER #17 @ $5F6B0 - STRING #17 @ $5F844
 #W16($5F6B0)
-たかいやま[NewLine]いどうできない[End]
+たかいやま[NewLine]
+いどうできない[End]
 //POINTER #18 @ $5F6B2 - STRING #18 @ $5F860
 #W16($5F6B2)
-たき[NewLine]回ひ : 0[End]
+たき[NewLine]
+回ひ : 0[End]
 //POINTER #19 @ $5F6B4 - STRING #19 @ $5F876
 #W16($5F6B4)
-やま[NewLine]回ひ :25[End]
+やま[NewLine]
+回ひ :25[End]
 //POINTER #20 @ $5F6B6 - STRING #20 @ $5F844
 #W16($5F6B6)
-たかいやま[NewLine]いどうできない[End]
+たかいやま[NewLine]
+いどうできない[End]
 //POINTER #21 @ $5F6B8 - STRING #21 @ $5F8EA
 #W16($5F6B8)
-マグマ[NewLine]いどうできない[End]
+マグマ[NewLine]
+いどうできない[End]
 //POINTER #22 @ $5F6BA - STRING #22 @ $5F8EA
 #W16($5F6BA)
-マグマ[NewLine]いどうできない[End]
+マグマ[NewLine]
+いどうできない[End]
 //POINTER #23 @ $5F6BC - STRING #23 @ $5F82E
 #W16($5F6BC)
-はし[NewLine]回ひ : 0[End]
+はし[NewLine]
+回ひ : 0[End]
 //POINTER #24 @ $5F6BE - STRING #24 @ $5F902
 #W16($5F6BE)
-とりで[NewLine]回ひ :20[NewLine]回復できる[End]
+とりで[NewLine]
+回ひ :20[NewLine]
+回復できる[End]
 //POINTER #25 @ $5F6C0 - STRING #25 @ $5F926
 #W16($5F6C0)
-城[NewLine]回ひ : 0[End]
+城[NewLine]
+回ひ : 0[End]
 //POINTER #26 @ $5F6C2 - STRING #26 @ $5F93A
 #W16($5F6C2)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #27 @ $5F6C4 - STRING #27 @ $5F93A
 #W16($5F6C4)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #28 @ $5F6C6 - STRING #28 @ $5F93A
 #W16($5F6C6)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #29 @ $5F6C8 - STRING #29 @ $5F93A
 #W16($5F6C8)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #30 @ $5F6CA - STRING #30 @ $5F93A
 #W16($5F6CA)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #31 @ $5F6CC - STRING #31 @ $5F95C
 #W16($5F6CC)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #32 @ $5F6CE - STRING #32 @ $5F93A
 #W16($5F6CE)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #33 @ $5F6D0 - STRING #33 @ $5F93A
 #W16($5F6D0)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #34 @ $5F6D2 - STRING #34 @ $5F95C
 #W16($5F6D2)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #35 @ $5F6D4 - STRING #35 @ $5F95C
 #W16($5F6D4)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #36 @ $5F6D6 - STRING #36 @ $5F95C
 #W16($5F6D6)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #37 @ $5F6D8 - STRING #37 @ $5F99A
 #W16($5F6D8)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #38 @ $5F6DA - STRING #38 @ $5F9B2
 #W16($5F6DA)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #39 @ $5F6DC - STRING #39 @ $5F95C
 #W16($5F6DC)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #40 @ $5F6DE - STRING #40 @ $5F99A
 #W16($5F6DE)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #41 @ $5F6E0 - STRING #41 @ $5F9B2
 #W16($5F6E0)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #42 @ $5F6E2 - STRING #42 @ $5F95C
 #W16($5F6E2)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #43 @ $5F6E4 - STRING #43 @ $5F99A
 #W16($5F6E4)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #44 @ $5F6E6 - STRING #44 @ $5F9B2
 #W16($5F6E6)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #45 @ $5F6E8 - STRING #45 @ $5F95C
 #W16($5F6E8)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #46 @ $5F6EA - STRING #46 @ $5F926
 #W16($5F6EA)
-城[NewLine]回ひ : 0[End]
+城[NewLine]
+回ひ : 0[End]
 //POINTER #47 @ $5F6EC - STRING #47 @ $5F902
 #W16($5F6EC)
-とりで[NewLine]回ひ :20[NewLine]回復できる[End]
+とりで[NewLine]
+回ひ :20[NewLine]
+回復できる[End]
 //POINTER #48 @ $5F6EE - STRING #48 @ $5F95C
 #W16($5F6EE)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #49 @ $5F6F0 - STRING #49 @ $5F99A
 #W16($5F6F0)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #50 @ $5F6F2 - STRING #50 @ $5F9B2
 #W16($5F6F2)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #51 @ $5F6F4 - STRING #51 @ $5F95C
 #W16($5F6F4)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #52 @ $5F6F6 - STRING #52 @ $5F99A
 #W16($5F6F6)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #53 @ $5F6F8 - STRING #53 @ $5F9B2
 #W16($5F6F8)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #54 @ $5F6FA - STRING #54 @ $5F95C
 #W16($5F6FA)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #55 @ $5F6FC - STRING #55 @ $5F99A
 #W16($5F6FC)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #56 @ $5F6FE - STRING #56 @ $5F9B2
 #W16($5F6FE)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #57 @ $5F700 - STRING #57 @ $5F95C
 #W16($5F700)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #58 @ $5F702 - STRING #58 @ $5F99A
 #W16($5F702)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #59 @ $5F704 - STRING #59 @ $5F9B2
 #W16($5F704)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #60 @ $5F706 - STRING #60 @ $5F95C
 #W16($5F706)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #61 @ $5F708 - STRING #61 @ $5F99A
 #W16($5F708)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #62 @ $5F70A - STRING #62 @ $5F9B2
 #W16($5F70A)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #63 @ $5F70C - STRING #63 @ $5F95C
 #W16($5F70C)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #64 @ $5F70E - STRING #64 @ $5F99A
 #W16($5F70E)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #65 @ $5F710 - STRING #65 @ $5F9B2
 #W16($5F710)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #66 @ $5F712 - STRING #66 @ $5F95C
 #W16($5F712)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #67 @ $5F714 - STRING #67 @ $5F99A
 #W16($5F714)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #68 @ $5F716 - STRING #68 @ $5F9B2
 #W16($5F716)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #69 @ $5F718 - STRING #69 @ $5F95C
 #W16($5F718)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #70 @ $5F71A - STRING #70 @ $5F99A
 #W16($5F71A)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #71 @ $5F71C - STRING #71 @ $5F9B2
 #W16($5F71C)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #72 @ $5F71E - STRING #72 @ $5F95C
 #W16($5F71E)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #73 @ $5F720 - STRING #73 @ $5F99A
 #W16($5F720)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #74 @ $5F722 - STRING #74 @ $5F9B2
 #W16($5F722)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #75 @ $5F724 - STRING #75 @ $5F95C
 #W16($5F724)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #76 @ $5F726 - STRING #76 @ $5F99A
 #W16($5F726)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #77 @ $5F728 - STRING #77 @ $5F9B2
 #W16($5F728)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #78 @ $5F72A - STRING #78 @ $5F95C
 #W16($5F72A)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #79 @ $5F72C - STRING #79 @ $5F99A
 #W16($5F72C)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #80 @ $5F72E - STRING #80 @ $5F9B2
 #W16($5F72E)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #81 @ $5F730 - STRING #81 @ $5F9D8
 #W16($5F730)
 いどうふか[End]
@@ -737,25 +1216,33 @@
 いどうふか[End]
 //POINTER #83 @ $5F734 - STRING #83 @ $5F9E4
 #W16($5F734)
-がれき[NewLine]回ひ : 0[End]
+がれき[NewLine]
+回ひ : 0[End]
 //POINTER #84 @ $5F736 - STRING #84 @ $5FA22
 #W16($5F736)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #85 @ $5F738 - STRING #85 @ $5F9FC
 #W16($5F738)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #86 @ $5F73A - STRING #86 @ $5F9E4
 #W16($5F73A)
-がれき[NewLine]回ひ : 0[End]
+がれき[NewLine]
+回ひ : 0[End]
 //POINTER #87 @ $5F73C - STRING #87 @ $5FA3E
 #W16($5F73C)
-とびら[NewLine]いどうできない[End]
+とびら[NewLine]
+いどうできない[End]
 //POINTER #88 @ $5F73E - STRING #88 @ $5F95C
 #W16($5F73E)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #89 @ $5F740 - STRING #89 @ $5FA56
 #W16($5F740)
-はねばし[NewLine]いどうできない[End]
+はねばし[NewLine]
+いどうできない[End]
 //POINTER #90 @ $5F742 - STRING #90 @ $5F9D8
 #W16($5F742)
 いどうふか[End]
@@ -764,118 +1251,170 @@
 いどうふか[End]
 //POINTER #92 @ $5F746 - STRING #92 @ $5FA70
 #W16($5F746)
-いずみ[NewLine]回ひ : 0[End]
+いずみ[NewLine]
+回ひ : 0[End]
 //POINTER #93 @ $5F748 - STRING #93 @ $5FA70
 #W16($5F748)
-いずみ[NewLine]回ひ : 0[End]
+いずみ[NewLine]
+回ひ : 0[End]
 //POINTER #94 @ $5F74A - STRING #94 @ $5FA88
 #W16($5F74A)
-どうくつ[NewLine]回ひ :25[End]
+どうくつ[NewLine]
+回ひ :25[End]
 //POINTER #95 @ $5F74C - STRING #95 @ $5F88C
 #W16($5F74C)
-むら門[NewLine]回ひ : 0[End]
+むら門[NewLine]
+回ひ : 0[End]
 //POINTER #96 @ $5F74E - STRING #96 @ $5F8A4
 #W16($5F74E)
-みんか[NewLine]回ひ : 0[End]
+みんか[NewLine]
+回ひ : 0[End]
 //POINTER #97 @ $5F750 - STRING #97 @ $5F902
 #W16($5F750)
-とりで[NewLine]回ひ :20[NewLine]回復できる[End]
+とりで[NewLine]
+回ひ :20[NewLine]
+回復できる[End]
 //POINTER #98 @ $5F752 - STRING #98 @ $5FAA2
 #W16($5F752)
-さいだん[NewLine]いどうできない[End]
+さいだん[NewLine]
+いどうできない[End]
 //POINTER #99 @ $5F754 - STRING #99 @ $5F9E4
 #W16($5F754)
-がれき[NewLine]回ひ : 0[End]
+がれき[NewLine]
+回ひ : 0[End]
 //POINTER #100 @ $5F756 - STRING #100 @ $5F926
 #W16($5F756)
-城[NewLine]回ひ : 0[End]
+城[NewLine]
+回ひ : 0[End]
 //POINTER #101 @ $5F758 - STRING #101 @ $5FA22
 #W16($5F758)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #102 @ $5F75A - STRING #102 @ $5FA88
 #W16($5F75A)
-どうくつ[NewLine]回ひ :25[End]
+どうくつ[NewLine]
+回ひ :25[End]
 //POINTER #103 @ $5F75C - STRING #103 @ $5FA22
 #W16($5F75C)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #104 @ $5F75E - STRING #104 @ $5F9FC
 #W16($5F75E)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #105 @ $5F760 - STRING #105 @ $5FA22
 #W16($5F760)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #106 @ $5F762 - STRING #106 @ $5F9FC
 #W16($5F762)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #107 @ $5F764 - STRING #107 @ $5FA22
 #W16($5F764)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #108 @ $5F766 - STRING #108 @ $5F9FC
 #W16($5F766)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #109 @ $5F768 - STRING #109 @ $5FA22
 #W16($5F768)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #110 @ $5F76A - STRING #110 @ $5F9FC
 #W16($5F76A)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #111 @ $5F76C - STRING #111 @ $5FA22
 #W16($5F76C)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #112 @ $5F76E - STRING #112 @ $5F9FC
 #W16($5F76E)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #113 @ $5F770 - STRING #113 @ $5FA22
 #W16($5F770)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #114 @ $5F772 - STRING #114 @ $5F9FC
 #W16($5F772)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #115 @ $5F774 - STRING #115 @ $5FA22
 #W16($5F774)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #116 @ $5F776 - STRING #116 @ $5F9FC
 #W16($5F776)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #117 @ $5F778 - STRING #117 @ $5FA22
 #W16($5F778)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #118 @ $5F77A - STRING #118 @ $5F9FC
 #W16($5F77A)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #119 @ $5F77C - STRING #119 @ $5FA22
 #W16($5F77C)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #120 @ $5F77E - STRING #120 @ $5F9FC
 #W16($5F77E)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #121 @ $5F780 - STRING #121 @ $5FA22
 #W16($5F780)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #122 @ $5F782 - STRING #122 @ $5F9FC
 #W16($5F782)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #123 @ $5F784 - STRING #123 @ $5FA22
 #W16($5F784)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #124 @ $5F786 - STRING #124 @ $5F9FC
 #W16($5F786)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #125 @ $5F788 - STRING #125 @ $5FA22
 #W16($5F788)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #126 @ $5F78A - STRING #126 @ $5F9FC
 #W16($5F78A)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #127 @ $5F78C - STRING #127 @ $5FA22
 #W16($5F78C)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #128 @ $5F78E - STRING #128 @ $5F9FC
 #W16($5F78E)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #129 @ $5F790 - STRING #129 @ $5FA22
 #W16($5F790)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #130 @ $5F792 - STRING #130 @ $5F9D8
 #W16($5F792)
 いどうふか[End]
@@ -920,25 +1459,36 @@
 いどうふか[End]
 //POINTER #144 @ $5F7AE - STRING #144 @ $5F9FC
 #W16($5F7AE)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #145 @ $5F7B0 - STRING #145 @ $5F93A
 #W16($5F7B0)
-城門[NewLine]回ひ :30[NewLine]回復できる[End]
+城門[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #146 @ $5F7B2 - STRING #146 @ $5F95C
 #W16($5F7B2)
-ゆか[NewLine]回ひ : 0[End]
+ゆか[NewLine]
+回ひ : 0[End]
 //POINTER #147 @ $5F7B4 - STRING #147 @ $5F99A
 #W16($5F7B4)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #148 @ $5F7B6 - STRING #148 @ $5F9B2
 #W16($5F7B6)
-ぎょくざ[NewLine]回ひ :30[NewLine]回復できる[End]
+ぎょくざ[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #149 @ $5F7B8 - STRING #149 @ $5FA22
 #W16($5F7B8)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #150 @ $5F7BA - STRING #150 @ $5F9FC
 #W16($5F7BA)
-回復ゆか[NewLine]回ひ :30[NewLine]回復できる[End]
+回復ゆか[NewLine]
+回ひ :30[NewLine]
+回復できる[End]
 //POINTER #151 @ $5F7BC - STRING #151 @ $5F9D8
 #W16($5F7BC)
 いどうふか[End]
@@ -947,31 +1497,43 @@
 いどうふか[End]
 //POINTER #153 @ $5F7C0 - STRING #153 @ $5FABC
 #W16($5F7C0)
-店[NewLine]回ひ : 0[NewLine]かいものできる[End]
+店[NewLine]
+回ひ : 0[NewLine]
+かいものできる[End]
 //POINTER #154 @ $5F7C2 - STRING #154 @ $5FAE0
 #W16($5F7C2)
-闘技場[NewLine]回ひ : 0[NewLine]おかねもうけ[End]
+闘技場[NewLine]
+回ひ : 0[NewLine]
+おかねもうけ[End]
 //POINTER #155 @ $5F7C4 - STRING #155 @ $5FAA2
 #W16($5F7C4)
-さいだん[NewLine]いどうできない[End]
+さいだん[NewLine]
+いどうできない[End]
 //POINTER #156 @ $5F7C6 - STRING #156 @ $5FB1C
 #W16($5F7C6)
-さいだん[NewLine]回ひ : 0[End]
+さいだん[NewLine]
+回ひ : 0[End]
 //POINTER #157 @ $5F7C8 - STRING #157 @ $5F99A
 #W16($5F7C8)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #158 @ $5F7CA - STRING #158 @ $5FA22
 #W16($5F7CA)
-たからばこ[NewLine]回ひ : 0[End]
+たからばこ[NewLine]
+回ひ : 0[End]
 //POINTER #159 @ $5F7CC - STRING #159 @ $5F972
 #W16($5F7CC)
-回ろう[NewLine]回ひ : 0[NewLine]おりずにいどう[End]
+回ろう[NewLine]
+回ひ : 0[NewLine]
+おりずにいどう[End]
 //POINTER #160 @ $5F7CE - STRING #160 @ $5F99A
 #W16($5F7CE)
-はしら[NewLine]回ひ :20[End]
+はしら[NewLine]
+回ひ :20[End]
 //POINTER #161 @ $5F7D0 - STRING #161 @ $5FB06
 #W16($5F7D0)
-がけ[NewLine]回ひ :25[End]
+がけ[NewLine]
+回ひ :25[End]
 //BLOCK #010 NAME:		Unit Screen
 
 //POINTER #0 @ $5B66A - STRING #0 @ $5B674
@@ -993,52 +1555,109 @@
 
 //POINTER #0 @ $5B722 - STRING #0 @ $5B754
 #W16($5B722)
-┌────────────────┐[HalfNewLine]│                ┆[NewLine]│██       をてにいれた!┆[NewLine]│                ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────────┐[HalfNewLine]
+│                ┆[NewLine]
+│██       をてにいれた!┆[NewLine]
+│                ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #1 @ $5B724 - STRING #1 @ $5B812
 #W16($5B724)
-┌──────────────────┐[HalfNewLine]│   もちものがいっぱいです    ┆[NewLine]│ どれかひとつを輸送隊におくります ┆[NewLine]│    えらんでください      ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌──────────────────┐[HalfNewLine]
+│   もちものがいっぱいです    ┆[NewLine]
+│ どれかひとつを輸送隊におくります ┆[NewLine]
+│    えらんでください      ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #2 @ $5B726 - STRING #2 @ $5B8E4
 #W16($5B726)
-┌──────────┐[HalfNewLine]│ きろくしますか[x00FC] ┆[NewLine]│  はい   いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┘[End]
+┌──────────┐[HalfNewLine]
+│ きろくしますか[x00FC] ┆[NewLine]
+│  はい   いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #3 @ $5B728 - STRING #3 @ $5BE7C
 #W16($5B728)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #4 @ $5B72A - STRING #4 @ $5BE7C
 #W16($5B72A)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #5 @ $5B72C - STRING #5 @ $5BE7C
 #W16($5B72C)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #6 @ $5B72E - STRING #6 @ $5BE7C
 #W16($5B72E)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #7 @ $5B730 - STRING #7 @ $5BE7C
 #W16($5B730)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #8 @ $5B732 - STRING #8 @ $5B94C
 #W16($5B732)
-└┄┄┄┄┄┄┄┘[HalfNewLine]█████████[NewLine]█████████[End]
+└┄┄┄┄┄┄┄┘[HalfNewLine]
+█████████[NewLine]
+█████████[End]
 //POINTER #9 @ $5B734 - STRING #9 @ $5B988
 #W16($5B734)
-┌───────┐[HalfNewLine]│       ┆[NewLine]│       ┆[NewLine]│       ┆[NewLine]│ [H2][P2]:   ┆[NewLine]│ [L2][V2]:   ┆[NewLine]│ 攻撃:   ┆[NewLine]│ 命中:   ┆[NewLine]│ 回ひ:   ┆[NewLine]│ 必殺:   ┆[NewLine]│ 攻速:   ┆[NewLine]│ 守備:   ┆[NewLine]│ 魔防:   ┆[NewLine]└┄┄┄┄┄┄┄┘[End]
+┌───────┐[HalfNewLine]
+│       ┆[NewLine]
+│       ┆[NewLine]
+│       ┆[NewLine]
+│ [H2][P2]:   ┆[NewLine]
+│ [L2][V2]:   ┆[NewLine]
+│ 攻撃:   ┆[NewLine]
+│ 命中:   ┆[NewLine]
+│ 回ひ:   ┆[NewLine]
+│ 必殺:   ┆[NewLine]
+│ 攻速:   ┆[NewLine]
+│ 守備:   ┆[NewLine]
+│ 魔防:   ┆[NewLine]
+└┄┄┄┄┄┄┄┘[End]
 //POINTER #10 @ $5B736 - STRING #10 @ $5BAA0
 #W16($5B736)
-─┐[HalfNewLine] ┆[NewLine] ┆[NewLine] ┆[NewLine] ┆[NewLine] ┆[NewLine] ┆[NewLine] ┆[NewLine]┄┘[End]
+─┐[HalfNewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+ ┆[NewLine]
+┄┘[End]
 //POINTER #11 @ $5B738 - STRING #11 @ $5BE7C
 #W16($5B738)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #12 @ $5B73A - STRING #12 @ $5BE7C
 #W16($5B73A)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #13 @ $5B73C - STRING #13 @ $5BE7C
 #W16($5B73C)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #14 @ $5B73E - STRING #14 @ $5BE7C
 #W16($5B73E)
-これがひょうじされているときは[NewLine]バグなのでクリヤマまで[NewLine]れんらくしてください[End]
+これがひょうじされているときは[NewLine]
+バグなのでクリヤマまで[NewLine]
+れんらくしてください[End]
 //POINTER #15 @ $5B740 - STRING #15 @ $5BAD6
 #W16($5B740)
-┏━━━━━━━━━━━━━┓[HalfNewLine]┃             ┇[NewLine]┃             ┇[NewLine]┃             ┇[NewLine]┃             ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━┓[HalfNewLine]
+┃             ┇[NewLine]
+┃             ┇[NewLine]
+┃             ┇[NewLine]
+┃             ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #16 @ $5B742 - STRING #16 @ $5BB96
 #W16($5B742)
 は なかまになった![End]
@@ -1047,25 +1666,42 @@
 が あらわれた![End]
 //POINTER #18 @ $5B746 - STRING #18 @ $5BBBE
 #W16($5B746)
-┌────────────┐[HalfNewLine]│オ-プニングをみますか[x00FC]┆[NewLine]│  はい     いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────┐[HalfNewLine]
+│オ-プニングをみますか[x00FC]┆[NewLine]
+│  はい     いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #19 @ $5B748 - STRING #19 @ $5BC36
 #W16($5B748)
 じゅうようアイテム にゅうしゅリスト[End]
 //POINTER #20 @ $5B74A - STRING #20 @ $5BC5C
 #W16($5B74A)
-┌─────────────────┐[HalfNewLine]│                 ┆[NewLine]│██       はかんせいした!┆[NewLine]│                 ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌─────────────────┐[HalfNewLine]
+│                 ┆[NewLine]
+│██       はかんせいした!┆[NewLine]
+│                 ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #21 @ $5B74C - STRING #21 @ $5BD24
 #W16($5B74C)
 ┗┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #22 @ $5B74E - STRING #22 @ $5BD40
 #W16($5B74E)
-┌─────────────┐[HalfNewLine]│ [N2][E2][X2]T [S2]TO[R2][Y2]! ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌─────────────┐[HalfNewLine]
+│ [N2][E2][X2]T [S2]TO[R2][Y2]! ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #23 @ $5B750 - STRING #23 @ $5BDA0
 #W16($5B750)
-┌────────────────┐[HalfNewLine]│                ┆[NewLine]│    0ゴ-ルドをてにいれた!┆[NewLine]│                ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────────┐[HalfNewLine]
+│                ┆[NewLine]
+│    0ゴ-ルドをてにいれた!┆[NewLine]
+│                ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #24 @ $5B752 - STRING #24 @ $5BE5E
 #W16($5B752)
-█┌[HalfNewLine]█│[NewLine]█│[NewLine]█│[NewLine]█└[End]
+█┌[HalfNewLine]
+█│[NewLine]
+█│[NewLine]
+█│[NewLine]
+█└[End]
 //BLOCK #012 NAME:		Chapter Names
 
 //POINTER #0 @ $5CB4E - STRING #0 @ $5CBA8
@@ -1339,51 +1975,127 @@
 ぎょくざのせいあつ[End]
 //POINTER #44 @ $5D28E - STRING #44 @ $5D2D0
 #W16($5D28E)
-メディウスをたおして[NewLine]ぎょくざのせいあつ[End]
+メディウスをたおして[NewLine]
+ぎょくざのせいあつ[End]
 //BLOCK #014 NAME:		Map Menu and Submenus
 
 //POINTER #0 @ $5A1EA - STRING #0 @ $5A206
 #W16($5A1EA)
-┌─────┐[HalfNewLine]│ ユニット┆[NewLine]│ 輸送隊 ┆[NewLine]│ 状況  ┆[NewLine]│ 中断  ┆[NewLine]│ せってい┆[NewLine]│ タ-ン終┆[NewLine]└┄┄┄┄┄┘[End]
+┌─────┐[HalfNewLine]
+│ ユニット┆[NewLine]
+│ 輸送隊 ┆[NewLine]
+│ 状況  ┆[NewLine]
+│ 中断  ┆[NewLine]
+│ せってい┆[NewLine]
+│ タ-ン終┆[NewLine]
+└┄┄┄┄┄┘[End]
 //POINTER #1 @ $5A1EC - STRING #1 @ $5A286
 #W16($5A1EC)
-██┌──────┐[HalfNewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██└┄┄┄┄┄┄┘[HalfNewLine]┌──────────┐[HalfNewLine]│   中断します  ┆[NewLine]│ よろしいですか[x00FC] ┆[NewLine]│  はい   いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┘[End]
+██┌──────┐[HalfNewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██└┄┄┄┄┄┄┘[HalfNewLine]
+┌──────────┐[HalfNewLine]
+│   中断します  ┆[NewLine]
+│ よろしいですか[x00FC] ┆[NewLine]
+│  はい   いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #2 @ $5A1EE - STRING #2 @ $5A38C
 #W16($5A1EE)
-┌─────────┐[HalfNewLine]│ セ-ブしました ┆[NewLine]└┄┄┄┄┄┄┄┄┄┘[End]
+┌─────────┐[HalfNewLine]
+│ セ-ブしました ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #3 @ $5A1F0 - STRING #3 @ $5A3D4
 #W16($5A1F0)
- [NewLine] [NewLine] しょじきん:     0[NewLine] タ-ン:[NewLine] [NewLine]ユニットのかず[NewLine] [P2][L2][A2][Y2][E2][R2]:   [E2][N2][E2][M2][Y2]:[NewLine] [NewLine]もくひょう[End]
+ [NewLine]
+ [NewLine]
+ しょじきん:     0[NewLine]
+ タ-ン:[NewLine]
+ [NewLine]
+ユニットのかず[NewLine]
+ [P2][L2][A2][Y2][E2][R2]:   [E2][N2][E2][M2][Y2]:[NewLine]
+ [NewLine]
+もくひょう[End]
 //POINTER #4 @ $5A1F2 - STRING #4 @ $5A44C
 #W16($5A1F2)
 まえ  つぎ             (     )[End]
 //POINTER #5 @ $5A1F4 - STRING #5 @ $5A482
 #W16($5A1F4)
-  輸送隊には なにもありません[NewLine]  Bボタンをおしてください[End]
+  輸送隊には なにもありません[NewLine]
+  Bボタンをおしてください[End]
 //POINTER #6 @ $5A1F6 - STRING #6 @ $5A4C2
 #W16($5A1F6)
-┌────────────────────────────┐[HalfNewLine]│しょじきん:     0 アイテム:       ペ-ジ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────────────────────┐[HalfNewLine]
+│しょじきん:     0 アイテム:       ペ-ジ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #7 @ $5A1F8 - STRING #7 @ $5A57C
 #W16($5A1F8)
-┌─────────────┐█████┌────────┐[HalfNewLine]│             ┆█████│ 1/4 ペ-ジ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┘█████└┄┄┄┄┄┄┄┄┘[End]
+┌─────────────┐█████┌────────┐[HalfNewLine]
+│             ┆█████│ 1/4 ペ-ジ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┘█████└┄┄┄┄┄┄┄┄┘[End]
 //POINTER #8 @ $5A1FA - STRING #8 @ $5A636
 #W16($5A1FA)
-┏━━━━━━━━━━━━━━━━━━━━┓[HalfNewLine]┃     輸送隊がいっぱいです     ┇[NewLine]┃ あまったアイテムか 輸送隊のなかから ┇[NewLine]┃   捨てるものをえらんでください   ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃     輸送隊がいっぱいです     ┇[NewLine]
+┃ あまったアイテムか 輸送隊のなかから ┇[NewLine]
+┃   捨てるものをえらんでください   ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #9 @ $5A1FC - STRING #9 @ $5A71C
 #W16($5A1FC)
-┌──────────┐[HalfNewLine]│  きろくすると  ┆[NewLine]│中断からのさいかいは┆[NewLine]│ できなくなりますが┆[NewLine]│ よろしいですか[x00FC] ┆[NewLine]│  はい   いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┘[End]
+┌──────────┐[HalfNewLine]
+│  きろくすると  ┆[NewLine]
+│中断からのさいかいは┆[NewLine]
+│ できなくなりますが┆[NewLine]
+│ よろしいですか[x00FC] ┆[NewLine]
+│  はい   いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #10 @ $5A1FE - STRING #10 @ $5A7D2
 #W16($5A1FE)
-┌───────────┐[HalfNewLine]│ おつかれさまでした ┆[NewLine]│ さいかいするときは ┆[NewLine]│「中断からはじめる」を┆[NewLine]│ えらんでください  ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌───────────┐[HalfNewLine]
+│ おつかれさまでした ┆[NewLine]
+│ さいかいするときは ┆[NewLine]
+│「中断からはじめる」を┆[NewLine]
+│ えらんでください  ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #11 @ $5A200 - STRING #11 @ $5A87A
 #W16($5A200)
-██┌──────┐[HalfNewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██└┄┄┄┄┄┄┘[HalfNewLine]┌──────────┐[HalfNewLine]│ きろくしますか[x00FC] ┆[NewLine]│  はい   いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┘[End]
+██┌──────┐[HalfNewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██└┄┄┄┄┄┄┘[HalfNewLine]
+┌──────────┐[HalfNewLine]
+│ きろくしますか[x00FC] ┆[NewLine]
+│  はい   いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #12 @ $5A202 - STRING #12 @ $5A966
 #W16($5A202)
-██┌──────┐[HalfNewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██│██████┆[NewLine]██└┄┄┄┄┄┄┘[HalfNewLine]┌──────────┐[HalfNewLine]│ きろくした所から ┆[NewLine]│ はじめますか[x00FC]  ┆[NewLine]│  はい   いいえ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┘[End]
+██┌──────┐[HalfNewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██│██████┆[NewLine]
+██└┄┄┄┄┄┄┘[HalfNewLine]
+┌──────────┐[HalfNewLine]
+│ きろくした所から ┆[NewLine]
+│ はじめますか[x00FC]  ┆[NewLine]
+│  はい   いいえ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #13 @ $5A204 - STRING #13 @ $5AA6C
 #W16($5A204)
-█████┌──────┐[HalfNewLine]█████│██████┆[NewLine]█████│██████┆[NewLine]█████│██████┆[NewLine]█████│██████┆[NewLine]█████└┄┄┄┄┄┄┘[HalfNewLine]┌──────────────────┐[HalfNewLine]│    きろくが ありません    ┆[NewLine]│ はじめから やりなおしてください ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+█████┌──────┐[HalfNewLine]
+█████│██████┆[NewLine]
+█████│██████┆[NewLine]
+█████│██████┆[NewLine]
+█████│██████┆[NewLine]
+█████└┄┄┄┄┄┄┘[HalfNewLine]
+┌──────────────────┐[HalfNewLine]
+│    きろくが ありません    ┆[NewLine]
+│ はじめから やりなおしてください ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //BLOCK #015 NAME:		Supply Error Messages
 
 //POINTER #0 @ $5B094 - STRING #0 @ $5B0AE
@@ -1400,83 +2112,134 @@
 │             ┆[End]
 //POINTER #4 @ $5B09C - STRING #4 @ $5B112
 #W16($5B09C)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃   輸送隊がいっぱいです   ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃   輸送隊がいっぱいです   ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #5 @ $5B09E - STRING #5 @ $5B1AA
 #W16($5B09E)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃ そのアイテムは捨てられません ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃ そのアイテムは捨てられません ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #6 @ $5B0A0 - STRING #6 @ $5B242
 #W16($5B0A0)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃  輸送隊にはなにもありません ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃  輸送隊にはなにもありません ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #7 @ $5B0A2 - STRING #7 @ $5B2DA
 #W16($5B0A2)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃ 預けるものがなにもありません ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃ 預けるものがなにもありません ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #8 @ $5B0A4 - STRING #8 @ $5B372
 #W16($5B0A4)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃   ぶきがいっぱいです    ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃   ぶきがいっぱいです    ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #9 @ $5B0A6 - STRING #9 @ $5B40A
 #W16($5B0A6)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃   どうぐがいっぱいです   ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃   どうぐがいっぱいです   ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #10 @ $5B0A8 - STRING #10 @ $5B4A2
 #W16($5B0A8)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃   もちものがいっぱいです  ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃   もちものがいっぱいです  ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #11 @ $5B0AA - STRING #11 @ $5B53A
 #W16($5B0AA)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃   もちものがありません   ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃   もちものがありません   ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #12 @ $5B0AC - STRING #12 @ $5B5D2
 #W16($5B0AC)
-┏━━━━━━━━━━━━━━━━┓[HalfNewLine]┃  そのアイテムはえらべません ┇[NewLine]┃  Bボタンをおしてください  ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━━━━━┓[HalfNewLine]
+┃  そのアイテムはえらべません ┇[NewLine]
+┃  Bボタンをおしてください  ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //BLOCK #016 NAME:		Stat Booster Usage Messages
 
 //POINTER #0 @ $5D33A - STRING #0 @ $5D358
 #W16($5D33A)
-┌───────────────┐[HalfNewLine]│██       をつかった!┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌───────────────┐[HalfNewLine]
+│██       をつかった!┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #1 @ $5D33C - STRING #1 @ $5D3C4
 #W16($5D33C)
-│██       は     ┆[NewLine]│なくなってしまった!     ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│██       は     ┆[NewLine]
+│なくなってしまった!     ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #2 @ $5D33E - STRING #2 @ $5D430
 #W16($5D33E)
-│しかしなにもおこらなかった・・┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│しかしなにもおこらなかった・・┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #3 @ $5D340 - STRING #3 @ $5D478
 #W16($5D340)
-│ちからが  あがった!    ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│ちからが  あがった!    ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #4 @ $5D342 - STRING #4 @ $5D4C0
 #W16($5D342)
-│しゅびりょくが  あがった! ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│しゅびりょくが  あがった! ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #5 @ $5D344 - STRING #5 @ $5D508
 #W16($5D344)
-│わざが  あがった!     ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│わざが  あがった!     ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #6 @ $5D346 - STRING #6 @ $5D550
 #W16($5D346)
-│すばやさが  あがった!   ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│すばやさが  あがった!   ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #7 @ $5D348 - STRING #7 @ $5D598
 #W16($5D348)
-│まほうぼうぎょが  あがった!┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│まほうぼうぎょが  あがった!┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #8 @ $5D34A - STRING #8 @ $5D5E0
 #W16($5D34A)
-│さいだい[H2][P2]が  あがった! ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│さいだい[H2][P2]が  あがった! ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #9 @ $5D34C - STRING #9 @ $5D628
 #W16($5D34C)
-│うんのよさが  あがった!  ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│うんのよさが  あがった!  ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #10 @ $5D34E - STRING #10 @ $5D670
 #W16($5D34E)
-│武器レベルが  あがった!  ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│武器レベルが  あがった!  ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #11 @ $5D350 - STRING #11 @ $5D6B8
 #W16($5D350)
-│いどうりょくが  あがった! ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│いどうりょくが  あがった! ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #12 @ $5D352 - STRING #12 @ $5D700
 #W16($5D352)
-│まほうぼうぎょが  あがった!┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+│まほうぼうぎょが  あがった!┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #13 @ $5D354 - STRING #13 @ $5D748
 #W16($5D354)
-┌────────────────────────┐[HalfNewLine]│██ふういんのたては ふしぎなひかりを はっした┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────────────────┐[HalfNewLine]
+│██ふういんのたては ふしぎなひかりを はっした┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #14 @ $5D356 - STRING #14 @ $5D7EA
 #W16($5D356)
-┌─────────────────┐[HalfNewLine]│かくれたざいほうを はっけんした!┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌─────────────────┐[HalfNewLine]
+│かくれたざいほうを はっけんした!┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //BLOCK #017 NAME:		Battle Prep Menu
 
 //POINTER #0 @ $5A164 - STRING #0 @ $5A166
 #W16($5A164)
-┌────────┐[HalfNewLine]│ マップをみる ┆[NewLine]│ アイテムせいり┆[NewLine]│ しんげきかいし┆[NewLine]│ きろくする  ┆[NewLine]└┄┄┄┄┄┄┄┄┘[End]
+┌────────┐[HalfNewLine]
+│ マップをみる ┆[NewLine]
+│ アイテムせいり┆[NewLine]
+│ しんげきかいし┆[NewLine]
+│ きろくする  ┆[NewLine]
+└┄┄┄┄┄┄┄┄┘[End]
 //BLOCK #018 NAME:		Battle Prep Menu
 
 //POINTER #0 @ $5C838 - STRING #0 @ $5C844
@@ -1484,39 +2247,79 @@
   にんでさいだいです[End]
 //POINTER #1 @ $5C83A - STRING #1 @ $5C85C
 #W16($5C83A)
-┌─────┐┌────────┐┌───────────┐[HalfNewLine]│ スタ-ト┆│ユニットセレクト┆│あと  にんえらべます┆[NewLine]└┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌─────┐┌────────┐┌───────────┐[HalfNewLine]
+│ スタ-ト┆│ユニットセレクト┆│あと  にんえらべます┆[NewLine]
+└┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #2 @ $5C83C - STRING #2 @ $5C916
 #W16($5C83C)
-┌───────┐┌───────────────────┐[HalfNewLine]│アイテムせいり┆│  ユニットを えらんでください   ┆[NewLine]└┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌───────┐┌───────────────────┐[HalfNewLine]
+│アイテムせいり┆│  ユニットを えらんでください   ┆[NewLine]
+└┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #3 @ $5C83E - STRING #3 @ $5C9D0
 #W16($5C83E)
-┌───────┐┌───────────────────┐[HalfNewLine]│アイテムせいり┆│ わたすあいてを えらんでください  ┆[NewLine]└┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌───────┐┌───────────────────┐[HalfNewLine]
+│アイテムせいり┆│ わたすあいてを えらんでください  ┆[NewLine]
+└┄┄┄┄┄┄┄┘└┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //POINTER #4 @ $5C840 - STRING #4 @ $5CA8A
 #W16($5C840)
-┌────────┐[HalfNewLine]│ アイテムもらう┆[NewLine]│ アイテムわたす┆[NewLine]│ 輸送隊に預ける┆[NewLine]│ アイテム捨てる┆[NewLine]└┄┄┄┄┄┄┄┄┘[End]
+┌────────┐[HalfNewLine]
+│ アイテムもらう┆[NewLine]
+│ アイテムわたす┆[NewLine]
+│ 輸送隊に預ける┆[NewLine]
+│ アイテム捨てる┆[NewLine]
+└┄┄┄┄┄┄┄┄┘[End]
 //POINTER #5 @ $5C842 - STRING #5 @ $5CB0E
 #W16($5C842)
-┏━━━━━┓[HalfNewLine]┃ ぶき系 ┇[NewLine]┃ どうぐ系┇[NewLine]┗┅┅┅┅┅┛[End]
+┏━━━━━┓[HalfNewLine]
+┃ ぶき系 ┇[NewLine]
+┃ どうぐ系┇[NewLine]
+┗┅┅┅┅┅┛[End]
 //BLOCK #019 NAME:		Options Menus
 
 //POINTER #0 @ $5BFD6 - STRING #0 @ $5BFE2
 #W16($5BFD6)
-┌────────┐[HalfNewLine]│ バトルアニメ ┆[NewLine]│ サウンド   ┆[NewLine]│ メッセ-ジ  ┆[NewLine]│ ちけいひょうじ┆[NewLine]│ カ-ソル   ┆[NewLine]└┄┄┄┄┄┄┄┄┘[End]
+┌────────┐[HalfNewLine]
+│ バトルアニメ ┆[NewLine]
+│ サウンド   ┆[NewLine]
+│ メッセ-ジ  ┆[NewLine]
+│ ちけいひょうじ┆[NewLine]
+│ カ-ソル   ┆[NewLine]
+└┄┄┄┄┄┄┄┄┘[End]
 //POINTER #1 @ $5BFD8 - STRING #1 @ $5C07C
 #W16($5BFD8)
-┌─────┐[HalfNewLine]│ オフ  ┆[NewLine]│ リアル ┆[NewLine]│ ノ-マル┆[NewLine]└┄┄┄┄┄┘[End]
+┌─────┐[HalfNewLine]
+│ オフ  ┆[NewLine]
+│ リアル ┆[NewLine]
+│ ノ-マル┆[NewLine]
+└┄┄┄┄┄┘[End]
 //POINTER #2 @ $5BFDA - STRING #2 @ $5C0CC
 #W16($5BFDA)
-┌─────┐[HalfNewLine]│ ステレオ┆[NewLine]│ モノラル┆[NewLine]│ オフ  ┆[NewLine]└┄┄┄┄┄┘[End]
+┌─────┐[HalfNewLine]
+│ ステレオ┆[NewLine]
+│ モノラル┆[NewLine]
+│ オフ  ┆[NewLine]
+└┄┄┄┄┄┘[End]
 //POINTER #3 @ $5BFDC - STRING #3 @ $5C11C
 #W16($5BFDC)
-┌───────┐[HalfNewLine]│ 1 はやい ┆[NewLine]│ 2     ┆[NewLine]│ 3     ┆[NewLine]│ 4     ┆[NewLine]│ 5 おそい ┆[NewLine]└┄┄┄┄┄┄┄┘[End]
+┌───────┐[HalfNewLine]
+│ 1 はやい ┆[NewLine]
+│ 2     ┆[NewLine]
+│ 3     ┆[NewLine]
+│ 4     ┆[NewLine]
+│ 5 おそい ┆[NewLine]
+└┄┄┄┄┄┄┄┘[End]
 //POINTER #4 @ $5BFDE - STRING #4 @ $5C1A8
 #W16($5BFDE)
-┌───┐[HalfNewLine]│ オン┆[NewLine]│ オフ┆[NewLine]└┄┄┄┘[End]
+┌───┐[HalfNewLine]
+│ オン┆[NewLine]
+│ オフ┆[NewLine]
+└┄┄┄┘[End]
 //POINTER #5 @ $5BFE0 - STRING #5 @ $5C1D8
 #W16($5BFE0)
-┌────┐[HalfNewLine]│ おそい┆[NewLine]│ はやい┆[NewLine]└┄┄┄┄┘[End]
+┌────┐[HalfNewLine]
+│ おそい┆[NewLine]
+│ はやい┆[NewLine]
+└┄┄┄┄┘[End]
 //BLOCK #020 NAME:		Weapon/Item Submenus
 
 //POINTER #0 @ $5AEC6 - STRING #0 @ $5AED2
@@ -1541,15 +2344,23 @@
 
 //POINTER #0 @ $5C6BC - STRING #0 @ $5C6BE
 #W16($5C6BC)
-うけとる   預ける[NewLine]捨てる[End]
+うけとる   預ける[NewLine]
+捨てる[End]
 //BLOCK #022 NAME:		Unused Debug Mode
 
 //POINTER #0 @ $5C6DC - STRING #0 @ $5C6E8
 #W16($5C6DC)
-デバッグモ-ドです Bボタンでぬけます[NewLine]げんざいのバ-ジョン 1993/  /[End]
+デバッグモ-ドです Bボタンでぬけます[NewLine]
+げんざいのバ-ジョン 1993/  /[End]
 //POINTER #1 @ $5C6DE - STRING #1 @ $5C738
 #W16($5C6DE)
-イベントフラグのせってい :[NewLine]たいせんモ-ドのせってい :[NewLine]じょじきんのせってい   :      0[NewLine]アイテムのせってい    :[NewLine]ユニットのかおをみる   :[NewLine]しょりオ-バ-フラグの[NewLine]せってい :[End]
+イベントフラグのせってい :[NewLine]
+たいせんモ-ドのせってい :[NewLine]
+じょじきんのせってい   :      0[NewLine]
+アイテムのせってい    :[NewLine]
+ユニットのかおをみる   :[NewLine]
+しょりオ-バ-フラグの[NewLine]
+せってい :[End]
 //POINTER #2 @ $5C6E0 - STRING #2 @ $5C802
 #W16($5C6E0)
 オフ[End]
@@ -1566,7 +2377,11 @@
 
 //POINTER #0 @ $5FB36 - STRING #0 @ $5FB38
 #W16($5FB36)
-┌────────────┐[HalfNewLine]│            ┆[NewLine]│ とびらが ひらいた! ┆[NewLine]│            ┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌────────────┐[HalfNewLine]
+│            ┆[NewLine]
+│ とびらが ひらいた! ┆[NewLine]
+│            ┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //BLOCK #024 NAME:		Discarding an Item
 
 //POINTER #0 @ $5ABBC - STRING #0 @ $5ABC8
@@ -1583,29 +2398,25 @@
 を捨てます[End]
 //POINTER #4 @ $5ABC4 - STRING #4 @ $5ABF0
 #W16($5ABC4)
-┏━━━━━━━━━━━━┓[HalfNewLine]┃            ┇[NewLine]┃  よろしいですか[x00FC]  ┇[NewLine]┃  はい     いいえ┇[NewLine]┗┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
+┏━━━━━━━━━━━━┓[HalfNewLine]
+┃            ┇[NewLine]
+┃  よろしいですか[x00FC]  ┇[NewLine]
+┃  はい     いいえ┇[NewLine]
+┗┅┅┅┅┅┅┅┅┅┅┅┅┛[End]
 //POINTER #5 @ $5ABC6 - STRING #5 @ $5AC86
 #W16($5ABC6)
-┌─────────────┐[HalfNewLine]│       を捨てました┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
+┌─────────────┐[HalfNewLine]
+│       を捨てました┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┄┄┘[End]
 //BLOCK #025 NAME:		Unit Animation Settings
 
 //POINTER #0 @ $5C210 - STRING #0 @ $5C214
 #W16($5C210)
-┌───────────┐[HalfNewLine]│バトルアニメのせってい┆[NewLine]└┄┄┄┄┄┄┄┄┄┄┄┘[HalfNewLine]┌─────┐[HalfNewLine]│ オフ  ┆[NewLine]│ リアル ┆[NewLine]│ ノ-マル┆[NewLine]└┄┄┄┄┄┘[End]
-//BLOCK #026 NAME:		Shop Menus
-
-//POINTER #0 @ $5BECA - STRING #0 @ $5BED4
-#W16($5BECA)
-しょじきん[NewLine]     0[End]
-//POINTER #1 @ $5BECC - STRING #1 @ $5BEEE
-#W16($5BECC)
-┌───┐[HalfNewLine]│ かう┆[NewLine]│ うる┆[NewLine]└┄┄┄┘[End]
-//POINTER #2 @ $5BECE - STRING #2 @ $5BF1E
-#W16($5BECE)
-┌────┐[HalfNewLine]│ はい ┆[NewLine]│ いいえ┆[NewLine]└┄┄┄┄┘[End]
-//POINTER #3 @ $5BED0 - STRING #3 @ $5BF56
-#W16($5BED0)
-┌──────┐[HalfNewLine]│ マルス  ┆[NewLine]│ ゆそうたい┆[NewLine]└┄┄┄┄┄┄┘[End]
-//POINTER #4 @ $5BED2 - STRING #4 @ $5BF9E
-#W16($5BED2)
-┌────┐[HalfNewLine]│ ぶき ┆[NewLine]│ どうぐ┆[NewLine]└┄┄┄┄┘[End]
+┌───────────┐[HalfNewLine]
+│バトルアニメのせってい┆[NewLine]
+└┄┄┄┄┄┄┄┄┄┄┄┘[HalfNewLine]
+┌─────┐[HalfNewLine]
+│ オフ  ┆[NewLine]
+│ リアル ┆[NewLine]
+│ ノ-マル┆[NewLine]
+└┄┄┄┄┄┘[End]

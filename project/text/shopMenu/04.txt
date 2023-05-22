@@ -1,7 +1,0 @@
-@address $f0cb86
-@type menu
-@label shopMenu_04
-┌───────┐[HalfNewLine]
-│ Weapon┆
-│ Item  ┆
-└┄┄┄┄┄┄┄┘

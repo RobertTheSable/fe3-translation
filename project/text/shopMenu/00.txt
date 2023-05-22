@@ -1,5 +1,26 @@
 @address $f0caa4
 @type menu
 @label shopMenu_00
-Funds
-     0
+しょじきん
+     0[End]
+@label shopMenu_01 
+┌───┐[HalfNewLine]
+│ かう┆
+│ うる┆
+└┄┄┄┘[End]
+@label shopMenu_02 
+┌────┐[HalfNewLine]
+│ はい ┆
+│ いいえ┆
+└┄┄┄┄┘[End]
+@label shopMenu_03 
+┌──────┐[HalfNewLine]
+│ マルス  ┆
+│ ゆそうたい┆
+└┄┄┄┄┄┄┘[End]
+@label shopMenu_04 
+┌────┐[HalfNewLine]
+│ ぶき ┆
+│ どうぐ┆
+└┄┄┄┄┘[End]
+

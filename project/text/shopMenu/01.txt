@@ -1,7 +1,0 @@
-@address $f0cabe
-@type menu
-@label shopMenu_01
-┌─────┐[HalfNewLine]
-│ Buy ┆
-│ Sell┆
-└┄┄┄┄┄┘

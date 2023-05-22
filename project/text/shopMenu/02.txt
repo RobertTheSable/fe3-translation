@@ -1,7 +1,0 @@
-@address $f0cafe
-@type menu
-@label shopMenu_02
-┌────┐[HalfNewLine]
-│ Yes┆
-│ No ┆
-└┄┄┄┄┘
