@@ -1,4 +1,0 @@
-@address $f0b6c2
-@type menu
-@label menuCommands_06
-│ Seize  ┆

@@ -1,4 +1,50 @@
-@address $f0b63e
+@address auto
 @type menu
-@label menuCommands_00
-│ Talk   ┆
+@label menuCommands_00 
+│ はなす  ┆[End]
+@label menuCommands_01 
+│ こうげき ┆[End]
+@label menuCommands_02 
+│ じょうほう┆[End]
+@label menuCommands_03 
+│ かいもの ┆[End]
+@label menuCommands_04 
+│ 闘技場  ┆[End]
+@label menuCommands_05 
+│ むら   ┆[End]
+@label menuCommands_06 
+│ せいあつ ┆[End]
+@label menuCommands_07 
+│ とびら  ┆[End]
+@label menuCommands_08 
+│ はねばし ┆[End]
+@label menuCommands_09 
+│ たからばこ┆[End]
+@label menuCommands_10 
+│ ひみつの店┆[End]
+@label menuCommands_11 
+│ たいき  ┆[End]
+@label menuCommands_12 
+│ つえ   ┆[End]
+@label menuCommands_13 
+│ りゅうせき┆[End]
+@label menuCommands_14 
+│ へんしん ┆[End]
+@label menuCommands_15 
+│ おうえん ┆[End]
+@label menuCommands_16 
+│ のる   ┆[End]
+@label menuCommands_17 
+│ おりる  ┆[End]
+@label menuCommands_18 
+│ ぶき   ┆[End]
+@label menuCommands_19 
+│ どうぐ  ┆[End]
+@label menuCommands_20 
+│ 輸送隊  ┆[End]
+@label menuCommands_21 
+│ せってい ┆[End]
+@label menuCommands_22 
+┌──────┐[End]
+@label menuCommands_23 
+└┄┄┄┄┄┄┘[End]

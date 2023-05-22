@@ -1,4 +1,0 @@
-@address $f0b788
-@type menu
-@label menuCommands_15
-│ Dance  ┆
