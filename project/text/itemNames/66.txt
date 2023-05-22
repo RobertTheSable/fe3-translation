@@ -1,4 +1,0 @@
-@address $f0910e
-@type menu
-@label itemNames_66
-IceStn

@@ -1,4 +1,0 @@
-@address $f09220
-@type menu
-@label itemNames_84
-Manual

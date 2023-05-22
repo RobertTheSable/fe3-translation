@@ -1,4 +1,0 @@
-@address $f0923a
-@type menu
-@label itemNames_86
-PureWtr

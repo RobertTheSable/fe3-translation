@@ -1,4 +1,0 @@
-@address $f0eaf4
-@type menu
-@label itemNames_24
-StHoist

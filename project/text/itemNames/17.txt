@@ -1,4 +1,0 @@
-@address $f08e80
-@type menu
-@label itemNames_17
-Killer

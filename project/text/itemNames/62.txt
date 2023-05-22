@@ -1,4 +1,0 @@
-@address $f090da
-@type menu
-@label itemNames_62
-Thief

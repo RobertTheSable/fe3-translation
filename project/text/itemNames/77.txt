@@ -1,4 +1,0 @@
-@address $f091b0
-@type menu
-@label itemNames_77
-PowerRn

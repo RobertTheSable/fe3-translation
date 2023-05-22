@@ -1,4 +1,0 @@
-@address $f091c0
-@type menu
-@label itemNames_78
-DrcoShd

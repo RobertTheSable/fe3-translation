@@ -1,4 +1,0 @@
-@address $f091e0
-@type menu
-@label itemNames_80
-SpeedRn

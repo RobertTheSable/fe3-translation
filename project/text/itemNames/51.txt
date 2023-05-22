@@ -1,4 +1,0 @@
-@address $f09040
-@type menu
-@label itemNames_51
-Recover

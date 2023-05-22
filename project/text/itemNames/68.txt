@@ -1,4 +1,0 @@
-@address $f0912a
-@type menu
-@label itemNames_68
-Earth

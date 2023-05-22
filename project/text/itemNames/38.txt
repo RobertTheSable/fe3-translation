@@ -1,4 +1,0 @@
-@address $f08f8e
-@type menu
-@label itemNames_38
-Xcalibr

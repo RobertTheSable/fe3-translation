@@ -1,4 +1,0 @@
-@address $f0929a
-@type menu
-@label itemNames_92
-LifeSph

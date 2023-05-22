@@ -1,4 +1,0 @@
-@address $f0eac2
-@type menu
-@label itemNames_19
-Gradivus

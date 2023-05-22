@@ -1,4 +1,0 @@
-@address $f0922e
-@type menu
-@label itemNames_85
-Boots

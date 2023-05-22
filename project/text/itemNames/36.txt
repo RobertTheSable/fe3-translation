@@ -1,4 +1,0 @@
-@address $f08f70
-@type menu
-@label itemNames_36
-Thoron

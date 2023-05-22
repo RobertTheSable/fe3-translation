@@ -1,4 +1,0 @@
-@address $f092ba
-@type menu
-@label itemNames_94
-Aquarus

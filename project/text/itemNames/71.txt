@@ -1,4 +1,0 @@
-@address $f09154
-@type menu
-@label itemNames_71
-MageS

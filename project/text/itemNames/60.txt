@@ -1,4 +1,0 @@
-@address $f090c4
-@type menu
-@label itemNames_60
-Aum

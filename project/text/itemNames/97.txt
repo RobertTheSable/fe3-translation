@@ -1,4 +1,0 @@
-@address $f092e4
-@type menu
-@label itemNames_97
-Taurus

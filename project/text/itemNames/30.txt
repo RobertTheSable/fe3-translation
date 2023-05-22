@@ -1,4 +1,0 @@
-@address $f08f2c
-@type menu
-@label itemNames_30
-MistBr

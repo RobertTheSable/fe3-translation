@@ -1,4 +1,0 @@
-@address $f0930e
-@type menu
-@label itemNames_100
-Leo

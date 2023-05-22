@@ -1,4 +1,0 @@
-@address $f0906c
-@type menu
-@label itemNames_54
-Warp

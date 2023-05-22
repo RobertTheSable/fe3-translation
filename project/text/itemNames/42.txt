@@ -1,4 +1,0 @@
-@address $f08fc2
-@type menu
-@label itemNames_42
-Doulam

@@ -1,4 +1,0 @@
-@address $f0ead4
-@type menu
-@label itemNames_23
-ArrowSp

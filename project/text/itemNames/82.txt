@@ -1,4 +1,0 @@
-@address $f09200
-@type menu
-@label itemNames_82
-AngelRb

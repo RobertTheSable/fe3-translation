@@ -1,4 +1,0 @@
-@address $f0925a
-@type menu
-@label itemNames_88
-HeroCrt

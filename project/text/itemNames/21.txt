@@ -1,4 +1,0 @@
-@address $f08eb6
-@type menu
-@label itemNames_21
-Hand

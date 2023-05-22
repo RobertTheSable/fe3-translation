@@ -1,4 +1,0 @@
-@address $f09322
-@type menu
-@label itemNames_102
-Libra

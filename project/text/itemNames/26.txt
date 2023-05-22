@@ -1,4 +1,0 @@
-@address $f08ef0
-@type menu
-@label itemNames_26
-Pachydr

@@ -1,4 +1,0 @@
-@address $f09180
-@type menu
-@label itemNames_74
-SilverK

@@ -1,4 +1,256 @@
-@address $f08d92
+@address auto
 @type menu
-@label itemNames_00
-Iron
+@label itemNames_00 
+てつのつるぎ[End]
+@label itemNames_01 
+はがねのつるぎ[End]
+@label itemNames_02 
+ぎんのつるぎ[End]
+@label itemNames_03 
+レイピア[End]
+@label itemNames_04 
+キルソ-ド[End]
+@label itemNames_05 
+デビルソ-ド[End]
+@label itemNames_06 
+こわれたつるぎ[End]
+@label itemNames_07 
+マスタ-ソ-ド[End]
+@label itemNames_08 
+レディソ-ド[End]
+@label itemNames_09 
+サンダ-ソ-ド[End]
+@label itemNames_10 
+メリクルソ-ド[End]
+@label itemNames_11 
+ファルシオン[End]
+@label itemNames_12 
+ア-マ-キラ-[End]
+@label itemNames_13 
+ドラゴンキラ-[End]
+@label itemNames_14 
+ソ-ドキラ-[End]
+@label itemNames_15 
+てつのやり[End]
+@label itemNames_16 
+はがねのやり[End]
+@label itemNames_17 
+ぎんのやり[End]
+@label itemNames_18 
+ナイトキラ-[End]
+@label itemNames_19 
+てやり[End]
+@label itemNames_20 
+こわれたやり[End]
+@label itemNames_21 
+キラ-ランス[End]
+@label itemNames_22 
+ほそみのやり[End]
+@label itemNames_23 
+グラディウス[End]
+@label itemNames_24 
+てつのゆみ[End]
+@label itemNames_25 
+こわれたゆみ[End]
+@label itemNames_26 
+はがねのゆみ[End]
+@label itemNames_27 
+ぎんのゆみ[End]
+@label itemNames_28 
+キラ-ボウ[End]
+@label itemNames_29 
+パルティア[End]
+@label itemNames_30 
+てつのおの[End]
+@label itemNames_31 
+はがねのおの[End]
+@label itemNames_32 
+ておの[End]
+@label itemNames_33 
+ぎんのおの[End]
+@label itemNames_34 
+デビルアクス[End]
+@label itemNames_35 
+こわれたおの[End]
+@label itemNames_36 
+サンダ-ボルト[End]
+@label itemNames_37 
+クインクレイン[End]
+@label itemNames_38 
+スト-ンヘッジ[End]
+@label itemNames_39 
+ファイア-ガン[End]
+@label itemNames_40 
+エレファント[End]
+@label itemNames_41 
+ひのブレス[End]
+@label itemNames_42 
+こおりのブレス[End]
+@label itemNames_43 
+やみのブレス[End]
+@label itemNames_44 
+きりのブレス[End]
+@label itemNames_45 
+ファイア-の書[End]
+@label itemNames_46 
+サンダ-の書[End]
+@label itemNames_47 
+ブリザ-の書[End]
+@label itemNames_48 
+シェイバ-の書[End]
+@label itemNames_49 
+エルファイア-[End]
+@label itemNames_50 
+トロンの書[End]
+@label itemNames_51 
+ボルガノンの書[End]
+@label itemNames_52 
+エクスカリバ-[End]
+@label itemNames_53 
+オ-ラの書[End]
+@label itemNames_54 
+スタ-ライト[End]
+@label itemNames_55 
+マフ-の書[End]
+@label itemNames_56 
+ドゥラ-ムの書[End]
+@label itemNames_57 
+リザイアの書[End]
+@label itemNames_58 
+メティオの書[End]
+@label itemNames_59 
+ウォ-ムの書[End]
+@label itemNames_60 
+だいちのオ-ブ[End]
+@label itemNames_61 
+ふういんのたて[End]
+@label itemNames_62 
+やみのオ-ブ[End]
+@label itemNames_63 
+エムブレム[End]
+@label itemNames_64 
+ライブの杖[End]
+@label itemNames_65 
+リカバ-の杖[End]
+@label itemNames_66 
+リブロ-の杖[End]
+@label itemNames_67 
+リライブの杖[End]
+@label itemNames_68 
+ワ-プの杖[End]
+@label itemNames_69 
+[M2]シ-ルドの杖[End]
+@label itemNames_70 
+ハマ-ンの杖[End]
+@label itemNames_71 
+リザ-ブの杖[End]
+@label itemNames_72 
+サイレスの杖[End]
+@label itemNames_73 
+レスキュ-の杖[End]
+@label itemNames_74 
+オ-ムの杖[End]
+@label itemNames_75 
+アンロックの杖[End]
+@label itemNames_76 
+シ-フの杖[End]
+@label itemNames_77 
+ウォッチの杖[End]
+@label itemNames_78 
+アゲインの杖[End]
+@label itemNames_79 
+かりゅう石[End]
+@label itemNames_80 
+オ-ムの杖[End]
+@label itemNames_81 
+ひょうりゅう石[End]
+@label itemNames_82 
+ひりゅう石[End]
+@label itemNames_83 
+ちりゅう石[End]
+@label itemNames_84 
+あんこく竜石[End]
+@label itemNames_85 
+しんりゅう石[End]
+@label itemNames_86 
+まりゅう石[End]
+@label itemNames_87 
+きずぐすり[End]
+@label itemNames_88 
+とびらのかぎ[End]
+@label itemNames_89 
+ぎんのかぎ[End]
+@label itemNames_90 
+はねばしのかぎ[End]
+@label itemNames_91 
+たからのかぎ[End]
+@label itemNames_92 
+パワ-リング[End]
+@label itemNames_93 
+りゅうのたて[End]
+@label itemNames_94 
+ひでんのしょ[End]
+@label itemNames_95 
+スピ-ドリング[End]
+@label itemNames_96 
+まよけ[End]
+@label itemNames_97 
+てんしのころも[End]
+@label itemNames_98 
+めがみぞう[End]
+@label itemNames_99 
+マニュアル[End]
+@label itemNames_100 
+ブ-ツ[End]
+@label itemNames_101 
+せいすい[End]
+@label itemNames_102 
+きしくんしょう[End]
+@label itemNames_103 
+ゆうしゃあかし[End]
+@label itemNames_104 
+しさいのゆびわ[End]
+@label itemNames_105 
+ひりゅうのむち[End]
+@label itemNames_106 
+オリオンのや[End]
+@label itemNames_107 
+だいちのオ-ブ[End]
+@label itemNames_108 
+いのちのオ-ブ[End]
+@label itemNames_109 
+アイオテのたて[End]
+@label itemNames_110 
+星のアクエリア[End]
+@label itemNames_111 
+星のピスケス[End]
+@label itemNames_112 
+星のアリエス[End]
+@label itemNames_113 
+星のタウルス[End]
+@label itemNames_114 
+星のジェミニ[End]
+@label itemNames_115 
+星のキャンサ-[End]
+@label itemNames_116 
+星のレオ[End]
+@label itemNames_117 
+星のバルゴ[End]
+@label itemNames_118 
+星のリブラ[End]
+@label itemNames_119 
+星のスコ-ピオ[End]
+@label itemNames_120 
+星のサジタリス[End]
+@label itemNames_121 
+星のカプコ-ン[End]
+@label itemNames_122 
+オ-ムのかけら[End]
+@label itemNames_123 
+シルバ-カ-ド[End]
+@label itemNames_124 
+メンバ-カ-ド[End]
+@label itemNames_125 
+ひかりのオ-ブ[End]
+@label itemNames_126 
+ほしのオ-ブ[End]
