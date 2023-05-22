@@ -98,7 +98,6 @@ entry charnames_92
 entry charnames_93
 entry charnames_94
 entry charnames_95
-entry charnames_78
 entry charnames_96
 entry charnames_97
 entry charnames_98
@@ -137,10 +136,11 @@ entry charnames_130
 entry charnames_131
 entry charnames_132
 entry charnames_133
-entry charnames_85
 entry charnames_134
 entry charnames_135
 entry charnames_136
 entry charnames_137
 entry charnames_138
 entry charnames_139
+entry charnames_140
+entry charnames_141
