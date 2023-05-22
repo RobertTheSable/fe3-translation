@@ -558,6 +558,8 @@ menu:
             code: 0x009F
         "1":
             code: 0x00A0
+        "一":
+            code: 0x00A0
         "2":
             code: 0x00A1
         "3":
@@ -592,8 +594,6 @@ menu:
             code: 0x00C2
         "-":
             code: 0x00C3
-        "!":
-            code: 0x00C4
         "兵":
             code: 0x00C5
         "書":

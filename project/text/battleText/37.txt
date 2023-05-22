@@ -1,4 +1,0 @@
-@address $f0e650
-@type menu
-@label battleText_37
-'s Resistence 

@@ -1,4 +1,0 @@
-@address $f0e592
-@type menu
-@label battleText_23
-Speed 

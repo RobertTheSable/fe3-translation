@@ -1,4 +1,0 @@
-@address $f0e624
-@type menu
-@label battleText_32
- lost 

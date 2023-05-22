@@ -1,4 +1,0 @@
-@address $f0e522
-@type menu
-@label battleText_17
- is defeated.

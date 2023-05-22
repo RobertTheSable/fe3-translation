@@ -1,4 +1,0 @@
-@address $f0e638
-@type menu
-@label battleText_34
-down

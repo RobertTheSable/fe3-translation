@@ -1,4 +1,0 @@
-@address $f0e786
-@type menu
-@label battleText_47
- dispelled the curse!

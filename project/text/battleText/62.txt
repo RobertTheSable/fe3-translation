@@ -1,4 +1,0 @@
-@address $f0e94e
-@type menu
-@label battleText_62
-allies move again.

@@ -1,4 +1,0 @@
-@address $f0e6ba
-@type menu
-@label battleText_40
- returned to sense.

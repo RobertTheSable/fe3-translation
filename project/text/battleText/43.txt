@@ -1,4 +1,0 @@
-@address $f0e712
-@type menu
-@label battleText_43
- Fight!

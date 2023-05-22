@@ -1,4 +1,0 @@
-@address $f0e722
-@type menu
-@label battleText_44
-Triangle Attack!

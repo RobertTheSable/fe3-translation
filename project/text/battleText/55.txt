@@ -1,4 +1,0 @@
-@address $f0e85a
-@type menu
-@label battleText_55
- teleported.

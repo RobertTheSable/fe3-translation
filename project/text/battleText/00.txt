@@ -1,4 +1,136 @@
-@address $f0e3d0
+@address auto
 @type menu
-@label battleText_00
-A critical hit!
+@label battleText_00 
+必殺の一撃!!! 
+@label battleText_01 
+の攻撃 
+@label battleText_02 
+のはん撃 
+@label battleText_03 
+のさい攻撃 
+@label battleText_04 
+は すばやくみをかわした! 
+@label battleText_05 
+は 
+@label battleText_06 
+の 
+@label battleText_07 
+のダメージを うけた 
+@label battleText_08 
+のダメージを あたえた 
+@label battleText_09 
+のけいけんちをえた 
+@label battleText_10 
+をつかった 
+@label battleText_11 
+を 唱えた 
+@label battleText_12 
+はHPが 
+@label battleText_13 
+回復した 
+@label battleText_14 
+は たおれた 
+@label battleText_15 
+は こわれてしまった 
+@label battleText_16 
+は 攻撃をうけとめた! 
+@label battleText_17 
+をたおした 
+@label battleText_18 
+回ヒット 
+@label battleText_19 
+をもっていた 
+@label battleText_20 
+をてにいれた 
+@label battleText_21 
+ちから    
+@label battleText_22 
+わざ     
+@label battleText_23 
+すばやさ   
+@label battleText_24 
+こううん   
+@label battleText_25 
+しゅびりょく 
+@label battleText_26 
+ぶきレベル  
+@label battleText_27 
+さいだいHP 
+@label battleText_28 
+まほうぼうぎょ 
+@label battleText_29 
+あがった! 
+@label battleText_30 
+はレベルが 
+@label battleText_31 
+になった 
+@label battleText_32 
+のけいけんちをうしなった 
+@label battleText_33 
+が 
+@label battleText_34 
+さがった 
+@label battleText_35 
+ 
+@label battleText_36 
+が回復した 
+@label battleText_37 
+は まほうぼうぎょが 
+@label battleText_38 
+あがった 
+@label battleText_39 
+オームのかけらが ひかりくだける 
+@label battleText_40 
+は いしきをとりもどした 
+@label battleText_41 
+なにもおこらなかった 
+@label battleText_42 
+ ラウンド 
+@label battleText_43 
+ ファイト!! 
+@label battleText_44 
+トライアングルアターック! 
+@label battleText_45 
+に 
+@label battleText_46 
+へんしんした 
+@label battleText_47 
+クラスチェンジした 
+@label battleText_48 
+は のろいをはなった!! 
+@label battleText_49 
+みかたぜんいんのHPが 
+@label battleText_50 
+は 攻撃をふうじられた 
+@label battleText_51 
+いどうりょく 
+@label battleText_52 
+のHPを うばった 
+@label battleText_53 
+ゴールドをもっていた 
+@label battleText_54 
+ゴールドをてにいれた 
+@label battleText_55 
+は げんきになった! 
+@label battleText_56 
+を いどうさせた 
+@label battleText_57 
+は てきのまほうをふうじた! 
+@label battleText_58 
+を よびよせた 
+@label battleText_59 
+は とびらをあけた 
+@label battleText_60 
+ふしぎなひかりが 
+@label battleText_61 
+とざされたくうかんを うつしだした! 
+@label battleText_62 
+は みかたぜんいんの 
+@label battleText_63 
+こうどうりょくを かいふくさせた 
+@label battleText_64
+@label battleText_65
+@label battleText_66
+@label battleText_67
+@label battleText_68
+Temp Message

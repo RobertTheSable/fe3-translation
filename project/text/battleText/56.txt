@@ -1,4 +1,0 @@
-@address $f0e874
-@type menu
-@label battleText_56
- blocked the magic!

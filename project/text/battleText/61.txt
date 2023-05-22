@@ -1,4 +1,0 @@
-@address $f0e932
-@type menu
-@label battleText_61
-'s magic lets

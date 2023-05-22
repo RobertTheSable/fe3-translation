@@ -1,4 +1,0 @@
-@address $f0e744
-@type menu
-@label battleText_45
-metamorphosis.

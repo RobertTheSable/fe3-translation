@@ -1,4 +1,0 @@
-@address $f0e6e2
-@type menu
-@label battleText_41
-Nothing happened.

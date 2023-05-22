@@ -1,4 +1,0 @@
-@address $f0e5be
-@type menu
-@label battleText_26
-Weapon lvl 

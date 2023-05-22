@@ -1,4 +1,0 @@
-@address $f0e53e
-@type menu
-@label battleText_18
- test1 

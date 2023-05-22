@@ -1,4 +1,0 @@
-@address $f0e644
-@type menu
-@label battleText_36
- rep.

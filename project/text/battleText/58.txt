@@ -1,4 +1,0 @@
-@address $f0e8ba
-@type menu
-@label battleText_58
- opened the door.
