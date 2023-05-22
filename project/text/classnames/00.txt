@@ -1,4 +1,92 @@
-@address $f088f6
+@address auto
 @type menu
-@label classnames_00
-Lord
+@label classnames_00 
+ロ-ド[End]
+@label classnames_01 
+せんし[End]
+@label classnames_02 
+ソルジャ-[End]
+@label classnames_03 
+ソシアルナイト[End]
+@label classnames_04 
+パラディン[End]
+@label classnames_05 
+ナイト[End]
+@label classnames_06 
+ナイト[End]
+@label classnames_07 
+ア-マ-ナイト[End]
+@label classnames_08 
+ジェネラル[End]
+@label classnames_09 
+ペガサスナイト[End]
+@label classnames_10 
+ドラゴンナイト[End]
+@label classnames_11 
+ハンタ-[End]
+@label classnames_12 
+スナイパ-[End]
+@label classnames_13 
+ア-チャ-[End]
+@label classnames_14 
+ホ-スメン[End]
+@label classnames_15 
+マムク-ト[End]
+@label classnames_16 
+かりゅう[End]
+@label classnames_17 
+ようへい[End]
+@label classnames_18 
+ゆうしゃ[End]
+@label classnames_19 
+とうぞく[End]
+@label classnames_20 
+コマンド[End]
+@label classnames_21 
+おどりこ[End]
+@label classnames_22 
+シスタ-[End]
+@label classnames_23 
+まどうし[End]
+@label classnames_24 
+しさい[End]
+@label classnames_25 
+まどうし[End]
+@label classnames_26 
+しさい[End]
+@label classnames_27 
+しさい[End]
+@label classnames_28 
+マムク-ト[End]
+@label classnames_29 
+さんぞく[End]
+@label classnames_30 
+かいぞく[End]
+@label classnames_31 
+ばんぞく[End]
+@label classnames_32 
+バ-サ-カ-[End]
+@label classnames_33 
+ダ-クナイト[End]
+@label classnames_34 
+ダ-クマ-ジ[End]
+@label classnames_35 
+シュ-タ-[End]
+@label classnames_36 
+こうてい[End]
+@label classnames_37 
+ガ-ディアン[End]
+@label classnames_38 
+ひょうりゅう[End]
+@label classnames_39 
+かいりゅう[End]
+@label classnames_40 
+ひりゅう[End]
+@label classnames_41 
+ちりゅう[End]
+@label classnames_42 
+あんこくりゅう[End]
+@label classnames_43 
+しんりゅう[End]
+@label classnames_44 
+まりゅう[End]
