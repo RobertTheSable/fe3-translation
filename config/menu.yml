@@ -234,6 +234,494 @@ menu:
             code: 0x0119
         "┛":
             code: 0x011a
+            
+            
+        "あ":
+            code: 0x0000
+        "い":
+            code: 0x0001
+        "う":
+            code: 0x0002
+        "え":
+            code: 0x0003
+        "お":
+            code: 0x0004
+        "か":
+            code: 0x0005
+        "き":
+            code: 0x0006
+        "く":
+            code: 0x0007
+        "け":
+            code: 0x0008
+        "こ":
+            code: 0x0009
+        "さ":
+            code: 0x000A
+        "し":
+            code: 0x000B
+        "す":
+            code: 0x000C
+        "せ":
+            code: 0x000D
+        "そ":
+            code: 0x000E
+        "た":
+            code: 0x000F
+        "ち":
+            code: 0x0010
+        "つ":
+            code: 0x0011
+        "て":
+            code: 0x0012
+        "と":
+            code: 0x0013
+        "な":
+            code: 0x0014
+        "に":
+            code: 0x0015
+        "ぬ":
+            code: 0x0016
+        "ね":
+            code: 0x0017
+        "の":
+            code: 0x0018
+        "は":
+            code: 0x0019
+        "ひ":
+            code: 0x001A
+        "ふ":
+            code: 0x001B
+        "へ":
+            code: 0x001C
+        "ほ":
+            code: 0x001D
+        "ま":
+            code: 0x001E
+        "み":
+            code: 0x001F
+        "む":
+            code: 0x0020
+        "め":
+            code: 0x0021
+        "も":
+            code: 0x0022
+        "や":
+            code: 0x0023
+        "ゆ":
+            code: 0x0024
+        "よ":
+            code: 0x0025
+        "ら":
+            code: 0x0026
+        "り":
+            code: 0x0027
+        "る":
+            code: 0x0028
+        "れ":
+            code: 0x0029
+        "ろ":
+            code: 0x002A
+        "わ":
+            code: 0x002B
+        "を":
+            code: 0x002C
+        "ん":
+            code: 0x002D
+        "が":
+            code: 0x002E
+        "ぎ":
+            code: 0x002F
+        "ぐ":
+            code: 0x0030
+        "げ":
+            code: 0x0031
+        "ご":
+            code: 0x0032
+        "ざ":
+            code: 0x0033
+        "じ":
+            code: 0x0034
+        "ず":
+            code: 0x0035
+        "ぜ":
+            code: 0x0036
+        "ぞ":
+            code: 0x0037
+        "だ":
+            code: 0x0038
+        "ぢ":
+            code: 0x0039
+        "づ":
+            code: 0x003A
+        "で":
+            code: 0x003B
+        "ど":
+            code: 0x003C
+        "ば":
+            code: 0x003D
+        "び":
+            code: 0x003E
+        "ぶ":
+            code: 0x003F
+        "べ":
+            code: 0x0040
+        "ぼ":
+            code: 0x0041
+        "ぱ":
+            code: 0x0042
+        "ぴ":
+            code: 0x0043
+        "ぷ":
+            code: 0x0044
+        "ぺ":
+            code: 0x0045
+        "ぽ":
+            code: 0x0046
+        " ":
+            code: 0x0047
+        "ゃ":
+            code: 0x0048
+        " ":
+            code: 0x0049
+        " ":
+            code: 0x004A
+        " ":
+            code: 0x004B
+        "ゃ":
+            code: 0x004C
+        "っ":
+            code: 0x004D
+        "ゅ":
+            code: 0x004E
+        "ょ":
+            code: 0x004F
+        "ア":
+            code: 0x0050
+        "イ":
+            code: 0x0051
+        "ウ":
+            code: 0x0052
+        "エ":
+            code: 0x0053
+        "オ":
+            code: 0x0054
+        "カ":
+            code: 0x0055
+        "キ":
+            code: 0x0056
+        "ク":
+            code: 0x0057
+        "ケ":
+            code: 0x0058
+        "コ":
+            code: 0x0059
+        "サ":
+            code: 0x005A
+        "シ":
+            code: 0x005B
+        "ス":
+            code: 0x005C
+        "セ":
+            code: 0x005D
+        "ソ":
+            code: 0x005E
+        "タ":
+            code: 0x005F
+        "チ":
+            code: 0x0060
+        "ツ":
+            code: 0x0061
+        "テ":
+            code: 0x0062
+        "ト":
+            code: 0x0063
+        "ナ":
+            code: 0x0064
+        "ニ":
+            code: 0x0065
+        "ヌ":
+            code: 0x0066
+        "ネ":
+            code: 0x0067
+        "ノ":
+            code: 0x0068
+        "ハ":
+            code: 0x0069
+        "ヒ":
+            code: 0x006A
+        "フ":
+            code: 0x006B
+        "ヘ":
+            code: 0x006C
+        "ホ":
+            code: 0x006D
+        "マ":
+            code: 0x006E
+        "ミ":
+            code: 0x006F
+        "ム":
+            code: 0x0070
+        "メ":
+            code: 0x0071
+        "モ":
+            code: 0x0072
+        "ヤ":
+            code: 0x0073
+        "ユ":
+            code: 0x0074
+        "ヨ":
+            code: 0x0075
+        "ラ":
+            code: 0x0076
+        "リ":
+            code: 0x0077
+        "ル":
+            code: 0x0078
+        "レ":
+            code: 0x0079
+        "ロ":
+            code: 0x007A
+        "ワ":
+            code: 0x007B
+        "ン":
+            code: 0x007C
+        "ガ":
+            code: 0x007D
+        "ギ":
+            code: 0x007E
+        "グ":
+            code: 0x007F
+        "ゲ":
+            code: 0x0080
+        "ゴ":
+            code: 0x0081
+        "ザ":
+            code: 0x0082
+        "ジ":
+            code: 0x0083
+        "ズ":
+            code: 0x0084
+        "ゼ":
+            code: 0x0085
+        "ゾ":
+            code: 0x0086
+        "ダ":
+            code: 0x0087
+        "ヂ":
+            code: 0x0088
+        "ヅ":
+            code: 0x0089
+        "デ":
+            code: 0x008A
+        "ド":
+            code: 0x008B
+        "バ":
+            code: 0x008C
+        "ビ":
+            code: 0x008D
+        "ブ":
+            code: 0x008E
+        "ベ":
+            code: 0x008F
+        "ボ":
+            code: 0x0090
+        "パ":
+            code: 0x0091
+        "ピ":
+            code: 0x0092
+        "プ":
+            code: 0x0093
+        "ペ":
+            code: 0x0094
+        "ポ":
+            code: 0x0095
+        "ァ":
+            code: 0x0096
+        "ィ":
+            code: 0x0097
+        "ゥ":
+            code: 0x0098
+        "ェ":
+            code: 0x0099
+        "ォ":
+            code: 0x009A
+        "ャ":
+            code: 0x009B
+        "ッ":
+            code: 0x009C
+        "ュ":
+            code: 0x009D
+        "ョ":
+            code: 0x009E
+        "0":
+            code: 0x009F
+        "1":
+            code: 0x00A0
+        "2":
+            code: 0x00A1
+        "3":
+            code: 0x00A2
+        "4":
+            code: 0x00A3
+        "5":
+            code: 0x00A4
+        "6":
+            code: 0x00A5
+        "7":
+            code: 0x00A6
+        "8":
+            code: 0x00A7
+        "9":
+            code: 0x00A8
+        "店":
+            code: 0x00B3
+        "「":
+            code: 0x00BC
+        "」":
+            code: 0x00BD
+        "_":
+            code: 0x00BE
+        "・":
+            code: 0x00BF
+        "(":
+            code: 0x00C0
+        ")":
+            code: 0x00C1
+        " ":
+            code: 0x00C2
+        "-":
+            code: 0x00C3
+        "!":
+            code: 0x00C4
+        "兵":
+            code: 0x00C5
+        "書":
+            code: 0x00C6
+        "石":
+            code: 0x00C7
+        "竜":
+            code: 0x00C8
+        "杖":
+            code: 0x00C9
+        "星":
+            code: 0x00CA
+        "特":
+            code: 0x00CB
+        "輸":
+            code: 0x00CC
+        "送":
+            code: 0x00CD
+        "隊":
+            code: 0x00CE
+        "状":
+            code: 0x00CF
+        "況":
+            code: 0x00D0
+        "終":
+            code: 0x00D1
+        "断":
+            code: 0x00D2
+        "[x00D3]":
+            code: 0x00D3
+        "門":
+            code: 0x00D4
+        "道":
+            code: 0x00D5
+        "魔":
+            code: 0x00D6
+        "運":
+            code: 0x00D7
+        "所":
+            code: 0x00D8
+        "持":
+            code: 0x00D9
+        "品":
+            code: 0x00DA
+        "捨":
+            code: 0x00DB
+        "交":
+            code: 0x00DC
+        "換":
+            code: 0x00DD
+        "預":
+            code: 0x00DE
+        "闘":
+            code: 0x00DF
+        "技":
+            code: 0x00E0
+        "場":
+            code: 0x00E1
+        "防":
+            code: 0x00E2
+        "城":
+            code: 0x00E3
+        "装":
+            code: 0x00E4
+        "使":
+            code: 0x00E5
+        "用":
+            code: 0x00E6
+        "攻":
+            code: 0x00E7
+        "撃":
+            code: 0x00E8
+        "速":
+            code: 0x00E9
+        "守":
+            code: 0x00EA
+        "備":
+            code: 0x00EB
+        "効":
+            code: 0x00EC
+        "幸":
+            code: 0x00ED
+        "第":
+            code: 0x00EE
+        "章":
+            code: 0x00EF
+        "T":
+            code: 0x00F0
+        "O":
+            code: 0x00F1
+        "部":
+            code: 0x00F2
+        "騎":
+            code: 0x00F3
+        "+":
+            code: 0x00F4
+        "宝":
+            code: 0x00F5
+        "箱":
+            code: 0x00F6
+        "B":
+            code: 0x00F7
+        "器":
+            code: 0x00F8
+        "回":
+            code: 0x00F9
+        "復":
+            code: 0x00FA
+        "系":
+            code: 0x00FB
+        "[x00FC]":
+            code: 0x00FC
+        "士":
+            code: 0x00FD
+        ":":
+            code: 0x00FE
+        "命":
+            code: 0x00FF
+        "中":
+            code: 0x0100
+        "重":
+            code: 0x0101
+        "必":
+            code: 0x0102
+        "殺":
+            code: 0x0103
+        "武":
+            code: 0x0104
     Commands:
         "NewLine": 
             code: 0xfffd
