@@ -1,4 +1,0 @@
-@address $f08fd0
-@type menu
-@label unused_unusedText10
-Nosfrt

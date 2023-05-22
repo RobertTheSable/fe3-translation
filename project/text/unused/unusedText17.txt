@@ -1,3 +1,0 @@
-@address $f0c2d0
-@type menu
-@label unused_unusedText17

@@ -1,4 +1,0 @@
-@address $f08eca
-@type menu
-@label unused_unusedText07
-Rain

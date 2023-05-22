@@ -1,4 +1,0 @@
-@address $f0897a
-@type menu
-@label unused_unusedText01
-Dragon

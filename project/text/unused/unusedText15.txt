@@ -1,3 +1,0 @@
-@address $f09068
-@type menu
-@label unused_unusedText15

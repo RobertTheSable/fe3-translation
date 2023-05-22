@@ -1,4 +1,0 @@
-@address $f08dc4
-@type menu
-@label unused_unusedText03
-Kill
