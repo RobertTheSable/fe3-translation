@@ -446,7 +446,7 @@ code_88:
      LDA #$0002         ; a90200
      JSL loadMenuText   ; 2200806e
 
-incsrc names.asm     
+incsrc battlenames.asm
 incsrc battles.asm
 
 ORG !loadClassDescriptionBank
