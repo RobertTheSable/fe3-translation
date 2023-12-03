@@ -7,12 +7,12 @@ code_114:
     lda $0764 ; 86:9787
     ldx #$0044 ; 86:978A
     LDY.w #table_charnames ; 86:978D
-    jsr parseMenuTextBank86 ; 86:9790
+    jsr parseMenuTextWithPaletteBank86 ; 86:9790
     lda $075E ; 86:9793
     jsr checkBattleName ; 86:9796
     ldx #$0054 ; 86:9799
 ; vanilla code:
-;     jsr parseMenuTextBank86 ; 86:975E / 86:979C
+;     jsr parseMenuTextWithPaletteBank86 ; 86:975E / 86:979C
 ;     lda #$8B00 ; 86:979F
 ; translation patch edit:
 ; code_116:
@@ -26,7 +26,7 @@ code_114:
     beq + ; 86:97AD
     ldx #$00C4 ; 86:97AF
     LDY.W #table_itemNames
-    jsr parseMenuTextBank86 ; 86:97B5
+    jsr parseMenuTextWithPaletteBank86 ; 86:97B5
 +:
     ; enemy stats
     lda $0768 ; 86:97B8
@@ -50,12 +50,12 @@ code_114:
     lda $0763 ; 86:97EA
     ldx #$0062 ; 86:97ED
     LDY.W #table_charnames ; 86:97B2 / 86:97F0
-    jsr parseMenuTextBank86 ; 86:97F3
+    jsr parseMenuTextWithPaletteBank86 ; 86:97F3
     lda $075D ; 86:97F6
     jsr checkBattleName ; 86:97F9
     ldx #$0072 ; 86:97FC
 ; vanilla code:
-;     jsr parseMenuTextBank86 ; 8697c1 / 86:97FF
+;     jsr parseMenuTextWithPaletteBank86 ; 8697c1 / 86:97FF
 ;     lda #$8B00 ; 86:9802
 ; translation edit:
     JSL code_135   ; 2067ff
@@ -68,7 +68,7 @@ code_114:
     beq + ; 86:9810
     ldx #$00E2 ; 86:9812
     LDY.w #table_itemNames ; 86:9815
-    jsr parseMenuTextBank86 ; 86:9818
+    jsr parseMenuTextWithPaletteBank86 ; 86:9818
 +:
     ; player stats
     lda $0767 ; 86:981B

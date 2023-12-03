@@ -3,9 +3,6 @@ includeonce
 QueueDMATransfer = $808EAD
 DMATransferBuffer = $7E40FE
 
-; extra tiles for the class roll (compressed)
-ClassRollFontAddress = $CA9EC0
-
 ; this is jumped to from two locations
 ; $86CB5E - batle scenes
 ; $86CB95 - not sure what it's for, but it uses the alternate lnger transfer
@@ -46,7 +43,6 @@ loadBattleTextFont:
     sta $00 ; 86:94F4
     jsl QueueDMATransfer ; 86:94F6
     bra .exit ; 86:94FA
-    print pc
 .classRoll:
     lda #$1600 ; 86:94FC - length of tiles to copy
     sta $15 ; 86:94FF
@@ -79,7 +75,6 @@ loadBattleTextFont:
     ; this area holds two blocks for palette DMA transfers
      skip 14
 .battleFontDMATransfer:
-    print pc
     db $02                  ; Transfer type
     dl DMATransferBuffer    ; DMA source address
     dw $1800                ; DMA Transfer Length
@@ -181,7 +176,7 @@ ORG !classChangeTextScript
 ;     jsr $B08D ; load newline
 ;     jsr $AFF1 ; text then newline
 ;     jsr $B0FF ; 86:B045
-; ;     jsr $B09B ; 86:B048
+;     jsr $B09B ; 86:B048
 ;     jmp $AFF1 ; 86:B04B
 
 ORG !loadBattleText1 ;$86b09b / $86B0F7
@@ -222,24 +217,24 @@ code_131:
      STA $01        ; 8501
      LDA.W #table_battleText     ; a946e3
 skip 44
-    phx
+    phx ; 86:B1D1
     phy
     asl
     asl
     tax 
-    ldy.w #$0000
-    lda.l $8B9AF8,x
-    and #$C3FF ; 86:2
-    ora $06 ; 86:2
-    sta [$03],Y ; 86:2
+    ldy.w #$0000 ; 86:B1D6
+    lda.l MenuTextTileset,x ; 86:B1D9 - menu text tileset
+    and #$C3FF ; 86:B1DD
+    ora $06 ; 86:B1E0
+    sta [$03],Y ; 86:B1E2
     ldy #$0040
-    lda.l $8B9AFA,x
-    and #$C3FF ; 86:2
-    ora $06 ; 86:2
-    sta [$03],Y ; 86:2
+    lda.l MenuTextTileset+2,x ; 86:B1E7
+    and #$C3FF ; 86:B1EB
+    ora $06 ; 86:B1EE
+    sta [$03],Y ; 86:B1F0
     ply
     plx
-    rts
+    rts ; 86:B1F4
 ;ORG $86b199/ 86b1F5
 code_132:
      JSL code_182   ; 220087ee

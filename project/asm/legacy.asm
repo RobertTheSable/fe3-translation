@@ -2,6 +2,8 @@ includeonce
 
 function shiftedBank(label) = bank(label)<<8
 
+MenuTextTileset = $8b9af8
+
 macro loadAddress1(addr)
     LDA #shiftedBank(<addr>)
     STA $01
@@ -448,6 +450,7 @@ code_88:
 
 incsrc battlenames.asm
 incsrc battles.asm
+incsrc classroll.asm
 
 ORG !loadClassDescriptionBank
 code_134:
@@ -825,9 +828,9 @@ loadMenuText:
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9af8,X  ; bff89a8b
+     LDA.L MenuTextTileset,X  ; bff89a8b
      STA [$03]      ; 8703
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA.L MenuTextTileset+2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
@@ -931,12 +934,12 @@ code_179:
      ASL            ; a0
      TAX            ; aa
      LDY #$0000     ; a00000
-     LDA $8b9af8,X  ; bff89a8b
+     LDA.L MenuTextTileset,X  ; bff89a8b
      AND #$c3ff     ; 29ffc3
      ORA $06        ; 5006
      STA [$03],Y    ; 9703
      LDY #$0040     ; a04000
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA.L MenuTextTileset+2,X  ; bffa9a8b
      AND #$c3ff     ; 29ffc3
      ORA $06        ; 5006
      STA [$03],Y    ; 9703
@@ -1194,9 +1197,9 @@ code_186_weirdBranchAddress = $ee8b33
      ASL            ; a0
      ASL            ; a0
      TAX            ; aa
-     LDA $8b9af8,X  ; bff89a8b
+     LDA.L MenuTextTileset,X  ; bff89a8b
      STA [$03]      ; 8703
-     LDA $8b9afa,X  ; bffa9a8b
+     LDA.L MenuTextTileset+2,X  ; bffa9a8b
      CMP #$ffff     ; c9ffff
      BEQ .halfHeight ; f005
      LDY #$0040     ; a04000
