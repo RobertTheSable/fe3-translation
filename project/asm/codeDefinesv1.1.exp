@@ -1,7 +1,6 @@
 !loadBattleTextFont = $8694B4
 !loadChar1 = $869782
 !loadBattleText1 = $86B0F7
-!algorithm86_1 = $86B201
 !loadClassDescriptionBank = $86C878
 !hook86_1 = $86FFE7
 !hook86_2 = $86FFEF

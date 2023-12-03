@@ -1048,7 +1048,7 @@ code_182:
 .notNewline:
      CMP #$ffff     ; c9ffff
      BEQ .exit      ; f006
-     JSL !algorithm86_1    ; 22a5b186
+     JSL baseRenderMenuTextReturnHook   ; 22a5b186
      BRA .loop      ; 80e8
 .exit:
      TYA            ; 98

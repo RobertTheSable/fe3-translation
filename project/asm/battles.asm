@@ -217,6 +217,7 @@ code_131:
      STA $01        ; 8501
      LDA.W #table_battleText     ; a946e3
 skip 44
+baseLoadFromMenuTileset:
     phx ; 86:B1D1
     phy
     asl
@@ -236,12 +237,18 @@ skip 44
     plx
     rts ; 86:B1F4
 ;ORG $86b199/ 86b1F5
-code_132:
+baseRenderMenuText:
      JSL code_182   ; 220087ee
      RTS            ; 60
-skip 16
+skip 7
+baseRenderMenuTextReturnHook:
+    jsr baseLoadFromMenuTileset ; 86:B201
+    inc $03 ; 86:B204
+    inc $03 ; 86:B206
+    iny ; 86:B208
+    iny ; 86:B209
 ;ORG $86b1ae
-code_133:
+; code_133:
      RTL            ; 6b
      
 ORG !hook86_1
