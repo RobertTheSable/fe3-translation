@@ -445,69 +445,8 @@ code_88:
      LDY #table_menuEtc1         ; a05cd0
      LDA #$0002         ; a90200
      JSL loadMenuText   ; 2200806e
-     
-ORG !loadChar1
-;loading character names
-code_114:
-     LDA #shiftedBank(charnames_00)     ; a900f0
-skip 8
-code_115:
-     LDY #table_charnames     ; a00080
-skip 12
-;ORG $86975e
-code_116:
-     JSL code_135   ; 2067ff
-     NOP     ; a900f0
-     NOP
-skip 16
-;ORG $869774
-code_117:
-     LDY.W #table_itemNames     ; a0948c
-skip 48
-;ORG $8697a7
-code_118:
-     LDA.W #shiftedBank(charnames_00)     ; a900f0
-skip 8
-;ORG $8697b2
-code_119:
-     LDY.W #table_charnames     ; a00080
-skip 12
-;ORG $8697c1
-code_120:
-     JSL code_135   ; 2067ff
-     NOP     ; a900f0
-     NOP
-skip 16
-;ORG $8697d7
-code_121:
-     LDY #table_itemNames     ; a0948c
-skip 70
-;ORG $869820 / $86985E
-code_122:
-     LDA.B #bank(classnames2_00) ; a9f0
-     STA $02        ; 8502
-     LDY.W #table_classnames2     ; a05e8b
-     REP #$20       ; c220
-     TXA            ; 8a
-     RTS            ; 60
-     LDA.B #bank(classnames_00) ; a9f0
-     STA $02        ; 8502
-     LDA $15        ; a515
-     LDY.W #table_classnames      ; a09c88
-skip 28
-; ORG $869850
-code_123:
-     LDA.B #bank(classnames3_00)  ; a9f0
-     STA $02        ; 8502
-     LDY.W #table_classnames3     ; a01c8c
-skip 6
-; ORG $86985d
-code_124:
-     LDA.B #bank(classnames_00)  ; a9f0
-     STA $02        ; 8502
-     LDA $15        ; a515
-     LDY.W #table_classnames     ; a09c88
-     
+
+incsrc names.asm     
 incsrc battles.asm
 
 ORG !loadClassDescriptionBank

@@ -20,3 +20,5 @@
 StoreBattleScript = $86F789
 BattleScriptSR1 = $86a8e4
 !loadClassChangeText = $86b03f
+!checkForAltBattleName = $86980A
+parseMenuTextBank86 = $86B1BB
