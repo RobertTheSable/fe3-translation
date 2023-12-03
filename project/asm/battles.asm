@@ -1,39 +1,100 @@
 includeonce
 
+QueueDMATransfer = $808EAD
+DMATransferBuffer = $7E40FE
+
+; extra tiles for the class roll (compressed)
+ClassRollFontAddress = $CA9EC0
+
+; this is jumped to from two locations
+; $86CB5E - batle scenes
+; $86CB95 - not sure what it's for, but it uses the alternate lnger transfer
+
 ; ORG $869476 / $8694B4
 ORG !loadBattleTextFont
-    lda $1003
-    bit #$0001
-    bne +
-    lda #$1400
-    sta $15 
-    ldy $15 
-    ldx #$0000
+loadBattleTextFont:
+    lda $1003 ; 86:94B4
+    bit #$0001 ; 86:94B7
+    bne .classRoll ; 86:94BA
+    lda #$1400 ; 86:94BC - length of tiles to copy
+    sta $15 ; 86:94BF
+    ldy $15 ; 86:94C1
+    ldx #$0000 ; 86:94C3
 -:
-    lda.l menuFontTiles,X
-    sta.l $7E40FE,X
-    inx
-    dey
-    inx
-    dey
-    bne -
-    lda #$0400
-    sta $15 
-    ldy $15 
-    ldx #$0000
+    lda.l menuFontTiles,X ; 86:94C6
+    sta.l DMATransferBuffer,X ; 86:94CA
+    inx ; 86:94CE
+    dey ; 86:94CF
+    inx ; 86:94D0
+    dey ; 86:94D1
+    bne - ; 86:94D2
+    lda #$0400 ; 86:94D4 - length of tiles to copy
+    sta $15 ; 86:94D7
+    ldy $15 ; 86:94D9
+    ldx #$0000 ; 86:94DB
 -:
-    lda.l $94a000,X
-    sta.l $7E54FE,X
-    inx
-    dey
-    inx
-    dey
-    bne -
-    
-    skip 16
-+:
+    lda.l menuFontTiles+$2000,X ; 86:94DE
+    sta.l DMATransferBuffer+$1400,X ; 86:94E2
+    inx ; 86:94E6
+    dey ; 86:94E7
+    inx ; 86:94E8
+    dey ; 86:94E9
+    bne - ; 86:94EA
+    lda.w #shiftedBank(.battleFontDMATransfer) ; 86:94EC
+    sta $01 ; 86:94EF
+    lda.w #.battleFontDMATransfer ; 86:94F1 - $9509 / $9547
+    sta $00 ; 86:94F4
+    jsl QueueDMATransfer ; 86:94F6
+    bra .exit ; 86:94FA
+    print pc
+.classRoll:
+    lda #$1600 ; 86:94FC - length of tiles to copy
+    sta $15 ; 86:94FF
+    ldy $15 ; 86:9501
+    ldx #$0000 ; 86:9503
+-:
+    lda.l menuFontTiles,X ; 86:9506
+    sta.l DMATransferBuffer,X ; 86:950A
+    inx ; 86:950E
+    dey ; 86:950F
+    inx ; 86:9510
+    dey ; 86:9511
+    bne - ; 86:9512
+    sep #$20 ; 86:9514
+    lda.b #bank(ClassRollFontAddress) ; 86:9516
+    sta $73 ; 86:9518
+    rep #$20 ; 86:951A
+    lda.w #ClassRollFontAddress ; 86:951C
+    sta $71 ; 86:951F
+    lda #$1800 ; 86:9521 - VRAM Destination Address
+    sta $76 ; 86:9524
+    jsl $808F18 ; 86:9526 - Decompression function
+    lda.w  #shiftedBank(.classRollFontDMATransfer) ; 86:952A
+    sta $01 ; 86:952D
+    lda.w #.classRollFontDMATransfer ; 86:952F - $9512 / $9550
+    sta $00 ; 86:9532
+    jsl QueueDMATransfer ; 86:9534
+.exit
+    rts ; 86:9538
+    ; this area holds two blocks for palette DMA transfers
+     skip 14
+.battleFontDMATransfer:
+    print pc
+    db $02                  ; Transfer type
+    dl DMATransferBuffer    ; DMA source address
+    dw $1800                ; DMA Transfer Length
+    db $80                  ; DMA Transfer Address Increment Mode
+    dw $1000                ; DMA Destination Address
+.classRollFontDMATransfer:
+    db $02
+    dl DMATransferBuffer
+    dw $1e00
+    db $80
+    dw $4000
+
 
 ORG !transformTextScript
+transformTextScript:
 ; "metamorphasis"/transformation script.
     lda #$FE
     jsr StoreBattleScript
