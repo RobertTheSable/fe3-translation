@@ -71,7 +71,7 @@ setTradeMenuDescriptionLocation:
     ldx #$0E02 ; 81:E136 - bottom window
     bra .storePosition ; 81:E139
 .option2:
-    ldx #$0102 ; 81:E13B - no idea
+    ldx #$0102 ; 81:E13B - used when swapping items with the supply
 .storePosition:
     stx $0B30 ; 81:E13E
      
