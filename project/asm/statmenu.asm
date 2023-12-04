@@ -710,6 +710,8 @@ setupMenu:
     plp  ; 81D5A6
     rtl  ; 81D5A7
 getMenuBufferPos:
+    ; $0C1C = Y Offset
+    ; $0C1B = X offset
     ; calculates position in the output buffer to write data to
     ; usually the formula is (X position * 2) + (Y position * #$40)
     ; unless the Y position is not already calculated, 

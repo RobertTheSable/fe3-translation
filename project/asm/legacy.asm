@@ -234,11 +234,12 @@ code_42:
      LDY #table_supply         ; a05ad8
      LDA #$0001         ; a90100
      JSL loadMenuText   ; 2200806e
-
-ORG $81c1e7
-code_44:
-     LDY #table_itemDescription         ; a0ae93
-     JSL loadMenuText   ; 2200806e
+     lda $0C1B
+     clc
+     adc #$0100 ; 81:bf66 - this determines the positon of
+                ; the item/staff description window.
+                ; by default it's one tile lower that the items window.
+     sta $0BA7 ; 81:bf63
 
 ORG $81c2f5
 code_45:
@@ -374,18 +375,6 @@ ORG $81e43b
 code_74:
      JSL loadMenuText   ; 2200806e
 
-ORG $81e74c
-code_75:
-     LDY #table_itemDescription         ; a0ae93
-     LDA $0b2f          ; ad2f0b
-     JSL loadMenuText   ; 2200806e
-
-ORG $81e791
-code_76:
-     LDY #table_itemDescription         ; a0ae93
-     LDA #$0000         ; a90000
-     JSL loadMenuText   ; 2200806e
-
 ORG $81e97e
 code_77:
      LDY #table_suspend         ; a0acb9
@@ -451,6 +440,7 @@ code_88:
 incsrc battlenames.asm
 incsrc battles.asm
 incsrc classroll.asm
+incsrc itemdescriptions.asm
 
 ORG !loadClassDescriptionBank
 code_134:
